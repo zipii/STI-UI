@@ -1,0 +1,17 @@
+{
+  "name": "STI-UI",
+  "version": "1.0.0",
+  "description": "Generates mostly static user interface templates for the savetheinternet.eu web application",
+  "private": true,
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "build:watch": "webpack --config webpack.config.js --watch"
+  },
+  "author": "Oskar M. Grande",
+  "dependencies": {
+    "node-sass": "^3.4.2",
+    "sass-loader": "^3.1.2",
+    "susy": "^2.2.12",
+    "webpack": "^1.12.14"
+  }
+}
