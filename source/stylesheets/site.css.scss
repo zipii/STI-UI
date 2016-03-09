@@ -1,0 +1,31 @@
+@charset "utf-8";
+@import "normalize";
+@import "susy";
+
+$susy: (
+  columns: 12,
+  container: 1140px,
+  debug: (image: show), global-box-sizing: border-box
+);
+
+$sti-white:  #ffffff;
+$sti-orange: #f48134;
+$sti-blue:   #92c2ed;
+
+@mixin cf {
+  &:after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+}
+
+body {
+  background-color: $sti-orange;
+}
+
+.container {
+  @include container();
+}
+
+@import "questionnaire";
