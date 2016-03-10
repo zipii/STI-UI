@@ -8,7 +8,8 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     <title>Save The Internet - Questionnaire</title>
 
-    <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Montserrat:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <link href="/stylesheets/site.css" rel="stylesheet" />
     <script src="/javascripts/all.js"></script>
@@ -18,50 +19,52 @@
     <div class="container">
       <form action="/questions" method="POST" class="questions-form">
   <header class="questions-form__header">
-    <div class="questions-form__header__country">
-      <label for="questions-form__header__locality__country">Choose country:</label>
-      <select name="questions-form__header__locality__country">
-        <option value="AT">Austria</option>
-        <option value="DE">Germany</option>
-      </select>
-    </div>
-    <div class="questions-form__header__language">
-      <label for="questions-form__header__locality__language">Choose language:</label>
-      <select name="questions-form__header__locality__language">
-        <option value="EN">English</option>
-        <option value="DE">German</option>
-      </select>
+    <div class="questions-form__header__locality">
+      <div class="questions-form__header__locality__country">
+        <label for="questions-form__header__locality__country__label">Choose country:</label>
+        <select name="questions-form__header__locality__country__select">
+          <option value="AT">Austria</option>
+          <option value="DE">Germany</option>
+        </select>
+      </div>
+      <div class="questions-form__header__locality__language">
+        <label for="questions-form__header__locality__language__label">Choose language:</label>
+        <select name="questions-form__header__locality__language__select">
+          <option value="EN">English</option>
+          <option value="DE">German</option>
+        </select>
+      </div>
     </div>
     <nav class="questions-form__header__navigation">
       <ul class="questions-form__header__navigation__steps">
         <li class="questions-form__header__navigation__step">
           <a class="questions-form__header__navigation__step__content" href="#">
             <span class="highlighted-number"><span class="step-number">1</span></span>
-            <i class="icon-github"></i>
-            <i class="fa fa-github"></i>
-            <i class="fa fa-check-square"></i>
-            <h2>Multiple Choice</h2>
+            <div class="step-label">
+              <i class="fa fa-check-square"></i>
+              <h3>Multiple Choice</h3>
+            </div>
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
           <a class="questions-form__header__navigation__step__content" href="#">
             <span class="highlighted-number"><span class="step-number">2</span></span>
-            <i class="fa fa-check-square"></i>
-            <h2>Option Questions #1</h2>
+            <i class="fa fa-pencil-square-o"></i>
+            <h3>Option Questions #1</h3>
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
           <a class="questions-form__header__navigation__step__content" href="#">
             <span class="highlighted-number"><span class="step-number">3</span></span>
-            <i class="fa fa-check-square"></i>
-            <h2>Open Questions #2</h2>
+            <i class="fa fa-pencil-square-o"></i>
+            <h3>Open Questions #2</h3>
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
           <a class="questions-form__header__navigation__step__content" href="#">
             <span class="highlighted-number"><span class="step-number">4</span></span>
-            <i class="fa fa-check-square"></i>
-            <h2>Send</h2>
+            <i class="fa fa-envelope"></i>
+            <h3>Send</h3>
           </a>
         </li>
       </ul>

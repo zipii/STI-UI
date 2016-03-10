@@ -1,7 +1,8 @@
 @charset "utf-8";
 @import "normalize";
+@import "compass";
 @import "susy";
-@import "font-awesome";
+@import "photoshop-gradient-overlay";
 
 $susy: (
   columns: 12,
@@ -9,9 +10,17 @@ $susy: (
   debug: (image: show), global-box-sizing: border-box
 );
 
-$sti-white:  #ffffff;
-$sti-orange: #fd6f1d;
-$sti-blue:   #92c2ed;
+$sti-blue:           #92c2ed;
+$sti-blue-dark:      #004E84;
+$sti-blue-light:     #0076CE;
+$sti-black-dark:     #010101;
+$sti-black-light:    #303030;
+$sti-blue-sky-dark:  #43AFDC;
+$sti-blue-sky-light: #89D3F6;
+$sti-gray-dark:      #A1A6A8;
+$sti-gray-light:     #C2C6C8;
+$sti-orange:         #fd6f1d;
+$sti-white:          #ffffff;
 
 @mixin cf {
   &:after {
@@ -21,8 +30,13 @@ $sti-blue:   #92c2ed;
   }
 }
 
+@mixin sti-gradient-background($color-from, $color-to) {
+  @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
+}
+
 body {
   background-color: $sti-orange;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .container {

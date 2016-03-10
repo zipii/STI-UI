@@ -18,7 +18,7 @@ page '/*.txt', layout: false
 
 # General configuration
 
-set :fonts_dir, "fonts-folder"
+# set :fonts_dir, "fonts-folder"
 
 activate :directory_indexes
 
