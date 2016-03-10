@@ -18,6 +18,10 @@ page '/*.txt', layout: false
 
 # General configuration
 
+set :fonts_dir, "fonts-folder"
+
+activate :directory_indexes
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload

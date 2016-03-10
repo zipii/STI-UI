@@ -1,6 +1,7 @@
 @charset "utf-8";
 @import "normalize";
 @import "susy";
+@import "font-awesome";
 
 $susy: (
   columns: 12,
@@ -9,7 +10,7 @@ $susy: (
 );
 
 $sti-white:  #ffffff;
-$sti-orange: #f48134;
+$sti-orange: #fd6f1d;
 $sti-blue:   #92c2ed;
 
 @mixin cf {
@@ -28,4 +29,4 @@ body {
   @include container();
 }
 
-@import "questionnaire";
+@import "modules/questions";
