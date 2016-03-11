@@ -3,65 +3,89 @@ title: Save The Internet - Questionnaire
 ---
 
 <form action="/questions" method="POST" class="questions-form">
-  <header class="questions-form__header">
-    <div class="questions-form__header__locality">
-      <div class="questions-form__header__locality__country">
-        <label for="questions-form__header__locality__country__label">Choose country:</label>
-        <select name="questions-form__header__locality__country__select">
-          <option value="AT">Austria</option>
-          <option value="DE">Germany</option>
-        </select>
+  <div class="top-container-fixed">
+    <header class="questions-form__header">
+      <div class="questions-form__header__locality">
+        <div class="questions-form__header__locality__country">
+          <label for="questions-form__header__locality__country__label">Choose country:</label>
+          <select name="questions-form__header__locality__country__select">
+            <option value="AT">Austria</option>
+            <option value="DE">Germany</option>
+          </select>
+        </div>
+        <div class="questions-form__header__locality__language">
+          <label for="questions-form__header__locality__language__label">Choose language:</label>
+          <select name="questions-form__header__locality__language__select">
+            <option value="EN">English</option>
+            <option value="DE">German</option>
+          </select>
+        </div>
       </div>
-      <div class="questions-form__header__locality__language">
-        <label for="questions-form__header__locality__language__label">Choose language:</label>
-        <select name="questions-form__header__locality__language__select">
-          <option value="EN">English</option>
-          <option value="DE">German</option>
-        </select>
+      <nav class="questions-form__header__navigation">
+        <ul class="questions-form__header__navigation__steps">
+          <li class="questions-form__header__navigation__step">
+            <a class="questions-form__header__navigation__step__content" href="#">
+              <div class="step-number">
+                <span class="encircled"><span class="number">1</span></span>
+              </div>
+              <div class="step-label">
+                <i class="fa fa-check-square"></i>
+                <h3>Multiple Choice</h3>
+              </div>
+            </a>
+          </li>
+          <li class="questions-form__header__navigation__step">
+            <a class="questions-form__header__navigation__step__content" href="#">
+              <div class="step-number">
+                <span class="encircled"><span class="number">2</span></span>
+              </div>
+              <div class="step-label">
+                <i class="fa fa-pencil-square-o"></i>
+                <h3>Open Questions #1</h3>
+              </div>
+            </a>
+          </li>
+          <li class="questions-form__header__navigation__step">
+            <a class="questions-form__header__navigation__step__content" href="#">
+              <div class="step-number">
+                <span class="encircled"><span class="number">3</span></span>
+              </div>
+              <div class="step-label">
+                <i class="fa fa-pencil-square-o"></i>
+                <h3>Open Questions #2</h3>
+              </div>
+            </a>
+          </li>
+          <li class="questions-form__header__navigation__step">
+            <a class="questions-form__header__navigation__step__content" href="#">
+              <div class="step-number">
+                <span class="encircled"><span class="number">4</span></span>
+              </div>
+              <div class="step-label">
+                <i class="fa fa-envelope"></i>
+                <h3>Send</h3>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+  </div>
+  <div class="bottom-container">
+    <section class="questions-form__body">
+      <div class="questions-form__body__content">
+        <header class="questions-form__body__content__header">
+          <h1>Which of the following statements do you agree with?</h1>
+        </header>
+        <section class="questions-form__body__content_section">
+          <input name="q1" type="checkbox" />
+          <label for="q1">net neutrality ensures innovation and competition online</label>
+          <input name="q2" type="checkbox" />
+          <label for="q2">existing online services should not be able to buy fast-lanes on the internet (specialised services)</label>
+          <button type="submit" name="goto" value="8">More</button>
+          <button type="submit" name="action" value="done">Finish</button>
+        </section>
       </div>
-    </div>
-    <nav class="questions-form__header__navigation">
-      <ul class="questions-form__header__navigation__steps">
-        <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="#">
-            <span class="highlighted-number"><span class="step-number">1</span></span>
-            <div class="step-label">
-              <i class="fa fa-check-square"></i>
-              <h3>Multiple Choice</h3>
-            </div>
-          </a>
-        </li>
-        <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="#">
-            <span class="highlighted-number"><span class="step-number">2</span></span>
-            <i class="fa fa-pencil-square-o"></i>
-            <h3>Option Questions #1</h3>
-          </a>
-        </li>
-        <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="#">
-            <span class="highlighted-number"><span class="step-number">3</span></span>
-            <i class="fa fa-pencil-square-o"></i>
-            <h3>Open Questions #2</h3>
-          </a>
-        </li>
-        <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="#">
-            <span class="highlighted-number"><span class="step-number">4</span></span>
-            <i class="fa fa-envelope"></i>
-            <h3>Send</h3>
-          </a>
-        </li>
-      </ul>
-    </nav>
-  </header>
-  <section class="questions-form__body">
-    <h1>Which of the following statements do you agree with?</h1>
-    <input name="q1" type="checkbox" />
-    <label for="q1">net neutrality ensures innovation and competition online</label>
-    <input name="q2" type="checkbox" />
-    <label for="q2">existing online services should not be able to buy fast-lanes on the internet (specialised services)</label>
-    <button type="submit" name="goto" value="8">More</button>
-    <button type="submit" name="action" value="done">Finish</button>
-  </section>
+    </section>
+  </div>
 </form>

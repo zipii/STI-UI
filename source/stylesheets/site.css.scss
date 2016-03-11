@@ -5,9 +5,10 @@
 @import "photoshop-gradient-overlay";
 
 $susy: (
-  columns: 12,
-  container: 1140px,
-  debug: (image: show), global-box-sizing: border-box
+  columns: 24,
+  container: 1024px,
+  global-box-sizing: border-box,
+  debug: (image: show)
 );
 
 $sti-blue:           #92c2ed;
@@ -30,6 +31,24 @@ $sti-white:          #ffffff;
   }
 }
 
+@mixin center($axis: "both") {
+  position: absolute;
+
+  @if $axis == "y"{
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  @if $axis == "x"{
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  @if $axis == "both"{
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
 @mixin sti-gradient-background($color-from, $color-to) {
   @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
 }
@@ -39,8 +58,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.container {
-  @include container();
+@mixin content {
+  width: span(18 last);
+  margin-left:  auto;
+  margin-right: auto;
 }
 
 @import "modules/questions";
