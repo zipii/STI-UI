@@ -47,6 +47,43 @@ input[type="checkbox"]:checked + label:before {
   padding: 0.5rem;
 }
 
+.form-group {
+
+}
+
+.text-muted {
+
+}
+
+.form-control {
+  max-width: 100%;
+
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1.5em;
+  border: 1px solid $sti-gray-lighter;
+  // margin: 0 0 $form-spacing;
+  border-radius: 5px;
+  background-color: $sti-gray-lightest;
+
+  // @if has-value($input-transition) {
+  //   transition: $input-transition;
+  // }
+
+  // Focus state
+  &:focus {
+    // border: $input-border-focus;
+    // background-color: $input-background-focus;
+    // outline: none;
+    // box-shadow: $input-shadow-focus;
+
+    // @if has-value($input-transition) {
+      // transition: $input-transition;
+    // }
+  }
+}
+
 /*
 HTML Markup should look like this:
 <div class="checkbox">
