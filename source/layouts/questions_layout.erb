@@ -11,11 +11,17 @@
     <link href='//fonts.googleapis.com/css?family=Montserrat:300,400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-    <%= stylesheet_link_tag :site %>
-    <%= javascript_include_tag :all %>
+    <%= stylesheet_link_tag "vendor/hint.min" %>
+    <%= stylesheet_link_tag :global %>
   </head>
 
   <body class="<%= page_classes %>">
     <%= yield %>
+    <%= javascript_include_tag "vendor/iframeResizer.contentWindow.min" %>
+    <%= javascript_include_tag "vendor/fastclick.min" %>
+    <!-- <%= javascript_include_tag "vendor/tether.min" %>
+    <%= javascript_include_tag "vendor/drop.min" %>
+    <%= javascript_include_tag "vendor/tooltip.min" %> -->
+    <%= javascript_include_tag "questions" %>
   </body>
 </html>

@@ -1,14 +1,18 @@
+.bottom-container {
+  position: relative;
+  z-index:  1;
+  top:      -0.2em;
+}
+
 @mixin form-content {
   box-sizing:   border-box;
-  border-left:  solid $sti-orange 10px;
-  border-right: solid $sti-orange 10px;
+  border-left:  solid $sti-orange 3px;
+  border-right: solid $sti-orange 6px;
   background-color: $sti-white;
   padding-left: 1.5em;
   padding-right: 1.5em;
-}
-
-.bottom-container {
-  position: relative;
+  padding-top: 1.7em;
+  padding-bottom: 1.5em;
 }
 
 .questions-form__body {
@@ -22,26 +26,24 @@
 .questions-form__body__content__header {
   @include span(24);
   @include form-content;
-  padding-top: 239px;
+
+  h1 {
+    @include fontsize(16);
+    font-weight: bold;
+  }
 }
 
-.questions-form__body__content__section {
+.questions-form__body__content__body {
+  @include span(24);
+  @include form-content;
+}
+
+.questions-form__body__content__actions {
   @include span(24);
   @include form-content;
 
-  // input[type=checkbox] { display:none; } /* to hide the checkbox itself */
-  // input[type=checkbox] + label:before {
-  //   font-family: FontAwesome;
-  //   display: inline-block;
-  // }
-  //
-  // input[type=checkbox] + label:before { content: "\f096"; } /* unchecked icon */
-  // input[type=checkbox] + label:before { letter-spacing: 10px; } /* space between checkbox and label */
-  //
-  // input[type=checkbox]:checked + label:before { content: "\f046"; } /* checked icon */
-  // input[type=checkbox]:checked + label:before { letter-spacing: 5px; } /* allow space for check mark */
-  //
-  // button {
-  //
-  // }
+  .action-button {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

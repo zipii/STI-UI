@@ -1,9 +1,9 @@
 .top-container-fixed {
-  position: fixed;
-  top:      0;
-  left:     0;
-  z-index:  9999;
-  width:    100%;
+  // position: fixed;
+  // left:     0;
+  position: relative;
+  z-index:  99999999;
+  // width:    100%;
 }
 
 .questions-form__header {
@@ -37,14 +37,13 @@
   padding: 0;
 }
 
-.active {
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 25% 25% 0 25%;
-  border-color: #007bff transparent transparent transparent;
-  z-index: 9999999999;
-}
+// .active {
+//   width: 0;
+//   height: 0;
+//   border-style: solid;
+//   border-width: 25% 25% 0 25%;
+//   border-color: #007bff transparent transparent transparent;
+// }
 
 .questions-form__header__navigation__step {
   position: relative;
@@ -114,7 +113,7 @@
     }
 
     h3 {
-      @include fontsize(24);
+      @include fontsize(16);
       position: relative;
       text-align: center;
       padding: 0;

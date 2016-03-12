@@ -11,6 +11,8 @@ page '/*.txt', layout: false
 
 # With alternative layout
 # page "/path/to/file.html", layout: :otherlayout
+page '/questions/*', layout: "questions_layout"
+page '/site/*', layout: "site_layout"
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
@@ -21,11 +23,6 @@ page '/*.txt', layout: false
 # set :fonts_dir, "fonts-folder"
 
 activate :directory_indexes
-
-activate :autoprefixer do |config|
-  config.browsers = ['last 2 versions', 'Explorer >= 9']
-  config.ignore   = ['/stylesheets/hacks.css']
-end
 
 # Reload the browser automatically whenever files change
 configure :development do
@@ -45,6 +42,11 @@ end
 
 # Build-specific configuration
 configure :build do
+
+  activate :autoprefixer do |config|
+    config.browsers = ['last 2 versions', 'Explorer >= 9']
+    config.ignore   = ['/stylesheets/hacks.css']
+  end
 
   # Minify CSS on build
   activate :minify_css

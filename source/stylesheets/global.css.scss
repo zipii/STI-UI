@@ -3,7 +3,7 @@
 @import "compass";
 @import "susy";
 @import "photoshop-gradient-overlay";
-@import "sassline-base";
+@import "vendor/sassline-base";
 
 $susy: (
   columns: 24,
@@ -58,11 +58,15 @@ body {
 }
 
 @mixin content {
-  width: span(18 last);
+  width: span(24 last);
+  @include breakpoint(break-2) {
+    width: span(18 last);
+  }
   margin-left:  auto;
   margin-right: auto;
 }
 
+@import "form_elements";
 @import "modules/home";
 @import "modules/questions";
 @import "modules/questions_header";

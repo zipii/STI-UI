@@ -1,23 +1,7 @@
-<!doctype html>
-<html>
-  <head>
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta charset="utf-8">
-    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
-
-    <!-- Use title if it's in the page YAML frontmatter -->
-    <title>Save The Internet - Questionnaire</title>
-
-    <link href='//fonts.googleapis.com/css?family=Montserrat:300,400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-    <link href="/stylesheets/vendor/hint.min.css" rel="stylesheet" />
-    <link href="/stylesheets/global.css" rel="stylesheet" />
-  </head>
-
-  <body class="questions questions_step-2 questions_step-2_index">
-    <form action="/questions" method="POST" class="questions-form">
-  <div class="top-container-fixed">
+<%
+  step_numbers = Array.new(4).map.with_index { |href, index| step_number == index + 1 ? "#" : "step-#{ index + 1 }" }
+%>
+<div class="top-container-fixed">
   <header class="questions-form__header">
     <div class="questions-form__header__locality">
       <div class="questions-form__header__locality__country">
@@ -38,7 +22,7 @@
     <nav class="questions-form__header__navigation">
       <ul class="questions-form__header__navigation__steps">
         <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="step-1">
+          <a class="questions-form__header__navigation__step__content" href="<%= step_numbers[0] %>">
             <div class="step-number">
               <span class="encircled"><span class="number">1</span></span>
             </div>
@@ -49,7 +33,7 @@
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="#">
+          <a class="questions-form__header__navigation__step__content" href="<%= step_numbers[1] %>">
             <div class="step-number">
               <span class="encircled"><span class="number">2</span></span>
             </div>
@@ -60,7 +44,7 @@
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="step-3">
+          <a class="questions-form__header__navigation__step__content" href="<%= step_numbers[2] %>">
             <div class="step-number">
               <span class="encircled"><span class="number">3</span></span>
             </div>
@@ -71,7 +55,7 @@
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="step-4">
+          <a class="questions-form__header__navigation__step__content" href="<%= step_numbers[3] %>">
             <div class="step-number">
               <span class="encircled"><span class="number">4</span></span>
             </div>
@@ -85,25 +69,3 @@
     </nav>
   </header>
 </div>
-
-  <div class="bottom-container">
-    <section class="questions-form__body">
-      <div class="questions-form__body__content">
-        <header class="questions-form__body__content__header">
-          <h1>STEP 2</h1>
-        </header>
-        <section class="questions-form__body__content__section">
-        </section>
-      </div>
-    </section>
-  </div>
-</form>
-
-    <script src="/javascripts/vendor/iframeResizer.contentWindow.min.js"></script>
-    <script src="/javascripts/vendor/fastclick.min.js"></script>
-    <!-- <script src="/javascripts/vendor/tether.min.js"></script>
-    <script src="/javascripts/vendor/drop.min.js"></script>
-    <script src="/javascripts/vendor/tooltip.min.js"></script> -->
-    <script src="/javascripts/questions.js"></script>
-  </body>
-</html>

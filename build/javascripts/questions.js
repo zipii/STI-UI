@@ -1,0 +1,1 @@
+function handleStepClick(e){return!0}window.addEventListener("load",function(){for(var e=document.getElementsByClassName("questions-form__header__navigation__step__content"),t=0;t<e.length;t++){var n=e[t];FastClick.attach(n),n.addEventListener("touchend",handleStepClick,!1),n.addEventListener("click",handleStepClick,!1)}},!1);
