@@ -22,6 +22,11 @@ page '/*.txt', layout: false
 
 activate :directory_indexes
 
+activate :autoprefixer do |config|
+  config.browsers = ['last 2 versions', 'Explorer >= 9']
+  config.ignore   = ['/stylesheets/hacks.css']
+end
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
@@ -40,11 +45,6 @@ end
 
 # Build-specific configuration
 configure :build do
-
-  activate :autoprefixer do |config|
-    config.browsers = ['last 2 versions', 'Explorer >= 9']
-    config.ignore   = ['/stylesheets/hacks.css']
-  end
 
   # Minify CSS on build
   activate :minify_css

@@ -3,12 +3,12 @@
 @import "compass";
 @import "susy";
 @import "photoshop-gradient-overlay";
+@import "sassline-base";
 
 $susy: (
   columns: 24,
   container: 1024px,
-  global-box-sizing: border-box,
-  debug: (image: show)
+  global-box-sizing: border-box
 );
 
 $sti-blue:           #92c2ed;
@@ -54,7 +54,6 @@ $sti-white:          #ffffff;
 }
 
 body {
-  background-color: $sti-orange;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -64,4 +63,7 @@ body {
   margin-right: auto;
 }
 
+@import "modules/home";
 @import "modules/questions";
+@import "modules/questions_header";
+@import "modules/questions_body";

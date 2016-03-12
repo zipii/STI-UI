@@ -1,0 +1,124 @@
+.top-container-fixed {
+  position: fixed;
+  top:      0;
+  left:     0;
+  z-index:  9999;
+  width:    100%;
+}
+
+.questions-form__header {
+  @include container;
+}
+
+.questions-form__header__locality {
+  @include content;
+  color: $sti-white;
+  background-color: $sti-orange;
+  text-align: center;
+  padding-bottom: 3em;
+}
+
+.questions-form__header__locality__country {
+  @include span(12);
+}
+
+.questions-form__header__locality__language {
+  @include span(12 last);
+}
+
+.questions-form__header__navigation {
+  @include content;
+}
+
+.questions-form__header__navigation__steps {
+  @include span(24);
+  list-style-type: none;
+  margin:  0;
+  padding: 0;
+}
+
+.active {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 25% 25% 0 25%;
+  border-color: #007bff transparent transparent transparent;
+  z-index: 9999999999;
+}
+
+.questions-form__header__navigation__step {
+  position: relative;
+  float: left;
+  width: 25%;
+  padding-bottom: 25%;
+  background-color: #084176;
+  display: table;
+  border-radius: 5px;
+
+  &:nth-child(1) {
+    @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
+  }
+
+  &:nth-child(2) {
+    @include sti-gradient-background($sti-black-dark, $sti-black-light);
+  }
+
+  &:nth-child(3) {
+    @include sti-gradient-background($sti-blue-sky-dark, $sti-blue-sky-light);
+  }
+
+  &:nth-child(4) {
+    @include sti-gradient-background($sti-gray-dark, $sti-gray-light);
+  }
+}
+
+.questions-form__header__navigation__step__content {
+  text-decoration: none;
+  color: $sti-white;
+
+  .step-number {
+    @include fontsize(5em);
+
+    .encircled {
+      position: absolute;
+      margin: 0.5em;
+      display: inline-block;
+      line-height: 0px;
+
+      border-radius: 50%;
+      border:        3px solid;
+    }
+
+    .number {
+      display: inline-block;
+
+      padding-top:    50%;
+      padding-bottom: 50%;
+
+      margin-left:  0.5em;
+      margin-right: 0.5em;
+    }
+  }
+
+  .step-label {
+    position: absolute;
+    top:  25%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-align: center;
+
+    i {
+      @include fontsize(34);
+      display: inline-block;
+      text-align: center;
+    }
+
+    h3 {
+      @include fontsize(24);
+      position: relative;
+      text-align: center;
+      padding: 0;
+      margin: 0;
+    }
+  }
+}
