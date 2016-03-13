@@ -1,0 +1,1 @@
+function addClickHandlersForClassName(e,a){for(var t=document.getElementsByClassName(a),n=0;n<t.length;n++){var d=t[n];FastClick.attach(d),d.addEventListener("touchend",e,!1),d.addEventListener("click",e,!1)}}

@@ -16,6 +16,7 @@
 			<script type="text/javascript" src="/javascripts/vendor/ie8.polyfils.min.js"></script>
 		<![endif]-->
 
+    <link href="/stylesheets/vendor/animate.min.css" rel="stylesheet" />
     <link href="/stylesheets/vendor/hint.min.css" rel="stylesheet" />
     <link href="/stylesheets/global.css" rel="stylesheet" />
   </head>
@@ -95,9 +96,20 @@
     <section class="questions-form__body">
       <div class="questions-form__body__content">
         <header class="questions-form__body__content__header">
-          <h1>STEP 2</h1>
+          <h1>Express your opinion by answering the questions below. Further explanation to assist you with composing can be
+found by clicking the drop down icon.</h1>
         </header>
-        <section class="questions-form__body__content__section">
+        <section class="questions-form__body__content__body">
+          <fieldset class="form-group">
+            <label for="q10">What could be the positive and negative impacts of specialised services on future innovation and openness of the Internet? <a href="#" class="expand-arrow"><i class="fa fa-caret-down"></i></a></label>
+            <div class="text-muted">
+              <p>While the delivery of specialised services is allowed under the Regulation, they cannot be offered as a replacement for Internet access services. Otherwise, ISPs would be conducting price discrimination practices. In its <a href="http://berec.europa.eu/files/news/bor_12_32_guidelines.pdf" target="_blank">2012 guidelines</a>, BEREC stated that price discrimination practices offering access to a limited part of the Internet would have a negative effect on consumers' rights.</p>
+            </div>
+            <textarea class="form-control" id="q10" name="q10" rows="3"></textarea>
+          </fieldset>
+        </section>
+        <section class="questions-form__body__content__actions">
+          <button class="action-button" type="submit" name="action" value="next">Next <i class="fa fa-chevron-right"></i></button>
         </section>
       </div>
     </section>
@@ -106,9 +118,10 @@
 
     <script src="/javascripts/vendor/iframeResizer.contentWindow.min.js"></script>
     <script src="/javascripts/vendor/fastclick.min.js"></script>
-    <!-- <script src="/javascripts/vendor/tether.min.js"></script>
-    <script src="/javascripts/vendor/drop.min.js"></script>
-    <script src="/javascripts/vendor/tooltip.min.js"></script> -->
+    <script src="/javascripts/vendor/zepto.min.js"></script>
+    <script src="/javascripts/vendor/fx.js"></script>
+    <script src="/javascripts/vendor/fx_methods.js"></script>
+    <script src="/javascripts/global.js"></script>
     <script src="/javascripts/questions.js"></script>
   </body>
 </html>

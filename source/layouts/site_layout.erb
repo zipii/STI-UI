@@ -17,10 +17,14 @@
 		<![endif]-->
 
     <%= stylesheet_link_tag :global %>
-    <%= javascript_include_tag "vendor/iframeResizer.min" %>
   </head>
 
   <body class="<%= page_classes %>">
     <%= yield %>
+    <%= javascript_include_tag "vendor/iframeResizer.min" %>
+    <%= javascript_include_tag "vendor/fastclick.min" %>
+    <%= javascript_include_tag "vendor/zepto.min" %>
+    <%= javascript_include_tag :global %>
+    <%= javascript_include_tag :home %>
   </body>
 </html>

@@ -16,6 +16,7 @@
 			<script type="text/javascript" src="/javascripts/vendor/ie8.polyfils.min.js"></script>
 		<![endif]-->
 
+    <%= stylesheet_link_tag "vendor/animate.min.css" %>
     <%= stylesheet_link_tag "vendor/hint.min" %>
     <%= stylesheet_link_tag :global %>
   </head>
@@ -24,9 +25,10 @@
     <%= yield %>
     <%= javascript_include_tag "vendor/iframeResizer.contentWindow.min" %>
     <%= javascript_include_tag "vendor/fastclick.min" %>
-    <!-- <%= javascript_include_tag "vendor/tether.min" %>
-    <%= javascript_include_tag "vendor/drop.min" %>
-    <%= javascript_include_tag "vendor/tooltip.min" %> -->
-    <%= javascript_include_tag "questions" %>
+    <%= javascript_include_tag "vendor/zepto.min" %>
+    <%= javascript_include_tag "vendor/fx" %>
+    <%= javascript_include_tag "vendor/fx_methods" %>
+    <%= javascript_include_tag :global %>
+    <%= javascript_include_tag :questions %>
   </body>
 </html>

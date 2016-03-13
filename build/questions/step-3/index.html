@@ -21,8 +21,8 @@
     <link href="/stylesheets/global.css" rel="stylesheet" />
   </head>
 
-  <body class="questions questions_step-1 questions_step-1_index">
-    <form action="/questions/step-2" method="POST" class="questions-form">
+  <body class="questions questions_step-3 questions_step-3_index">
+    <form action="/questions" method="POST" class="questions-form">
   <div class="top-container-fixed">
   <header class="questions-form__header">
     <div class="questions-form__header__locality">
@@ -44,7 +44,7 @@
     <nav class="questions-form__header__navigation">
       <ul class="questions-form__header__navigation__steps">
         <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="#">
+          <a class="questions-form__header__navigation__step__content" href="step-1">
             <div class="step-number">
               <span class="encircled"><span class="number">1</span></span>
             </div>
@@ -55,7 +55,7 @@
           </a>
         </li>
         <li class="questions-form__header__navigation__step">
-          <a class="questions-form__header__navigation__step__content" href="step-2">
+          <a class="questions-form__header__navigation__step__content" href="#">
             <div class="step-number">
               <span class="encircled"><span class="number">2</span></span>
             </div>
@@ -96,17 +96,17 @@
     <section class="questions-form__body">
       <div class="questions-form__body__content">
         <header class="questions-form__body__content__header">
-          <h1>Which of the following statements do you agree with?</h1>
+          <h1>Express your opinion by answering the questions below. Further explanation to assist you with composing can be
+found by clicking the drop down icon.</h1>
         </header>
         <section class="questions-form__body__content__body">
-          <div class="checkbox">
-            <input id="q1" name="q1" type="checkbox" />
-            <label for="q1"><a href="#" class="hint-bottom hint--small" data-hint="Net neutrality (also network neutrality, Internet neutrality, or net equality) is the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.">net neutrality</a> ensures innovation and competition online</label>
-          </div>
-          <div class="checkbox">
-            <input id="q2" name="q2" type="checkbox" />
-            <label for="q2">existing online services should not be able to buy fast-lanes on the internet (specialised services)</label>
-          </div>
+          <fieldset class="form-group">
+            <label for="q10">What could be the positive and negative impacts of specialised services on future innovation and openness of the Internet? <a href="#" class="expand-arrow"><i class="fa fa-caret-down"></i></a></label>
+            <div class="text-muted">
+              <p>While the delivery of specialised services is allowed under the Regulation, they cannot be offered as a replacement for Internet access services. Otherwise, ISPs would be conducting price discrimination practices. In its <a href="http://berec.europa.eu/files/news/bor_12_32_guidelines.pdf" target="_blank">2012 guidelines</a>, BEREC stated that price discrimination practices offering access to a limited part of the Internet would have a negative effect on consumers' rights.</p>
+            </div>
+            <textarea class="form-control" id="q10" name="q10" rows="3"></textarea>
+          </fieldset>
         </section>
         <section class="questions-form__body__content__actions">
           <button class="action-button" type="submit" name="action" value="next">Next <i class="fa fa-chevron-right"></i></button>

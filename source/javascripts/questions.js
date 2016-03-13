@@ -1,15 +1,21 @@
 function handleStepClick(event) {
-  // alert('TODO: prepare warning modal');
+  // alert('TODO: prepare warning modal, submit in background?!');
+  console.log(event);
   return true;
 }
 
-window.addEventListener('load', function() {
-  var steps = document.getElementsByClassName('questions-form__header__navigation__step__content')
-  for (var i = 0; i < steps.length; i++) {
-    var step = steps[i];
-	  // Android 2.2 needs FastClick to be instantiated before the other listeners so that the stopImmediatePropagation hack can work.
-	  FastClick.attach(step);
-		step.addEventListener('touchend', handleStepClick, false);
-		step.addEventListener('click', handleStepClick, false);
-  }
-}, false);
+addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
+
+function handleExpandArrowClick(event) {
+  console.log(event);
+  var $clickedElement = $(event.target);
+  $clickedElement.parent().parent()
+    .siblings('div.text-muted').first()
+    .fadeToggle(1000, function() {
+      $clickedElement.toggleClass('fa-caret-down');
+      $clickedElement.toggleClass('fa-caret-up');
+    });
+  return true;
+}
+
+addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');
