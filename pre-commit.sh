@@ -3,6 +3,7 @@
 if [ which bundle -a which middleman ]; then
   echo "Building templates pre-commit."
   bundle exec middleman build
+  git add ./build
 elif
   echo "Not able to build templates pre-commit but committing anyway."
 fi
