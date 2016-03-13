@@ -11,7 +11,7 @@ function handleExpandArrowClick(event) {
   var $clickedElement = $(event.target);
   $clickedElement.parent().parent()
     .siblings('div.text-muted').first()
-    .fadeToggle(1000, function() {
+    .slideToggle(function() {
       $clickedElement.toggleClass('fa-caret-down');
       $clickedElement.toggleClass('fa-caret-up');
     });
