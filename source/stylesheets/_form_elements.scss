@@ -39,7 +39,7 @@ input[type="checkbox"]:checked + label:before {
 }
 
 .action-button {
-  display: block;
+  display: inline-block;
   color: $sti-white;
   @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
   border: 0px;
