@@ -42,8 +42,5 @@
   @include span(24);
   @include form-content;
 
-  .action-button {
-    margin-left: auto;
-    margin-right: auto;
-  }
+  text-align: center;
 }
