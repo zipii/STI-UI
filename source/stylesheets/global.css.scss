@@ -1,5 +1,10 @@
 @charset "utf-8";
 @import "normalize";
+@import "vendor/bootstrap";
+// @import "vendor/bootstrap/variables";
+// @import "vendor/bootstrap/mixins";
+// @import "vendor/bootstrap/forms";
+// @import "vendor/bootstrap/buttons";
 @import "compass";
 @import "susy";
 @import "photoshop-gradient-overlay";
@@ -68,6 +73,7 @@ body {
   margin-right: auto;
 }
 
+@import "flags";
 @import "form_elements";
 @import "modules/home";
 @import "modules/questions";

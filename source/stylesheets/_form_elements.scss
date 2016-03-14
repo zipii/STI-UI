@@ -84,6 +84,17 @@ input[type="checkbox"]:checked + label:before {
   }
 }
 
+.sti-select-box {
+  @extend .form-control;
+  display: inline;
+  width: auto;
+}
+
+.bootstrap-select {
+  display: inline;
+  width:   auto;
+}
+
 /*
 HTML Markup should look like this:
 <div class="checkbox">

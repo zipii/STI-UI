@@ -10,6 +10,7 @@
 
     <link href='//fonts.googleapis.com/css?family=Montserrat:300,400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
 
     <!-- MDN PolyFils for IE8 (This is not normally needed if you use the jQuery version) -->
 		<!--[if lte IE 8]>
@@ -17,7 +18,6 @@
 		<![endif]-->
 
     <%= stylesheet_link_tag "vendor/hint.min" %>
-    <%= stylesheet_link_tag "vendor/countrySelect.min" %>
     <%= stylesheet_link_tag :global %>
   </head>
 
@@ -25,7 +25,9 @@
     <%= yield %>
     <%= javascript_include_tag "vendor/iframeResizer.contentWindow.min" %>
     <%= javascript_include_tag "vendor/fastclick.min" %>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <%= javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" %>
+    <%= javascript_include_tag "vendor/bootstrap.min" %>
+    <%= javascript_include_tag "//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js" %>
     <%= javascript_include_tag :global %>
     <%= javascript_include_tag :questions %>
   </body>
