@@ -101,6 +101,7 @@
     position: relative;
     top:  25%;
     left: 50%;
+    width: 100%;
     transform: translate(-50%, 0%);
     text-align: center;
 
@@ -112,8 +113,6 @@
 
     h3 {
       @include fontsize(20);
-    overflow: auto;
-    zoom: 1;
       position: relative;
       max-width: 100%;
       max-height: 100%;

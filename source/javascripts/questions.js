@@ -31,6 +31,12 @@ if (typeof handleCountrySelect != 'undefined') {
 }
 
 $(document).ready(function() {
+
+  // fit step label text to container
+  $('.step-label').find('h3').each(function() {
+    $(this).fitText();
+  })
+
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');
   addClickHandlersForClassName(handleLanguageSelect, 'select-picker');
