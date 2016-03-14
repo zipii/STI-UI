@@ -1,1 +1,1 @@
-function addClickHandlersForClassName(e,a){for(var t=document.getElementsByClassName(a),n=0;n<t.length;n++){var d=t[n];FastClick.attach(d),d.addEventListener("touchend",e,!1),d.addEventListener("click",e,!1)}}
+function addClickHandlersForClassName(e,t){for(var a=document.getElementsByClassName(t),n=0;n<a.length;n++){var d=a[n];FastClick.attach(d),d.addEventListener("touchend",e,!1),d.addEventListener("click",e,!1)}}function addClickHandlerForId(e,t){var a=document.getElementById(t);FastClick.attach(a),a.addEventListener("touchend",e,!1),a.addEventListener("click",e,!1)}

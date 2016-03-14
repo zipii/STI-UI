@@ -91,8 +91,8 @@ input[type="checkbox"]:checked + label:before {
 }
 
 .bootstrap-select {
-  display: inline;
-  width:   auto;
+  display: inline-block;
+  width: auto !important;
 }
 
 /*

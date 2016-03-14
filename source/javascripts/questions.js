@@ -17,37 +17,10 @@ function handleExpandArrowClick(event) {
 }
 
 $(document).ready(function() {
-
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');
-
-  $('.selectpicker').selectpicker({
-    size: 10
-  });
-
-
-  // $('#questions-form__header__locality__country_select option').each(function() {
-  //   var $option       = $(this);
-  //   var twoLetterCode = $option.val();
-  //   var $flagIcon = $('<i/>').addClass('flag flag-' + twoLetterCode.toLowerCase());
-  //   $option.data('content', $flagIcon.outerHtml);
-  //   console.log($option.data('content'))
-  // });
-
+  addClickHandlersForClassName(handleLanguageSelect, 'select-picker');
+  // the passed handler functions must be prepended globally
+  $('#questions-form__header__locality__language__select').on('changed.bs.select', handleLanguageSelect);
+  $('#questions-form__header__locality__country__select').on('changed.bs.select', handleCountrySelect);
 });
-
-// $('#questions-form__header__locality__country__select').flagStrap({
-//     buttonSize: 'btn-lg',
-//     buttonType: 'btn-primary',
-//     labelMargin: '20px',
-//     scrollable: true,
-//     scrollableHeight: '350px',
-//     onSelect: function (value, element) {
-//         alert(value);
-//         console.log(element);
-//     },
-//     placeholder: {
-//       value: "",
-//       text: "Please select a country"
-//     }
-// });
