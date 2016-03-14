@@ -40,49 +40,44 @@
 .questions-form__header__locality__country__select {
 }
 
-// .active {
-//   width: 0;
-//   height: 0;
-//   border-style: solid;
-//   border-width: 25% 25% 0 25%;
-//   border-color: #007bff transparent transparent transparent;
-// }
-
 .questions-form__header__navigation__step {
   position: relative;
   float: left;
   width: 25%;
   padding-bottom: 25%;
-  background-color: #084176;
-  display: table;
-  border-radius: 5px;
+}
 
-  &:nth-child(1) {
-    @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
-  }
+#questions-form__header__navigation__step-1 {
+  @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
+}
 
-  &:nth-child(2) {
-    @include sti-gradient-background($sti-black-dark, $sti-black-light);
-  }
+#questions-form__header__navigation__step-2 {
+  @include sti-gradient-background($sti-black-dark, $sti-black-light);
+}
 
-  &:nth-child(3) {
-    @include sti-gradient-background($sti-blue-sky-dark, $sti-blue-sky-light);
-  }
+#questions-form__header__navigation__step-3 {
+  @include sti-gradient-background($sti-blue-sky-dark, $sti-blue-sky-light);
+}
 
-  &:nth-child(4) {
-    @include sti-gradient-background($sti-gray-dark, $sti-gray-light);
-  }
+#questions-form__header__navigation__step-4 {
+  @include sti-gradient-background($sti-gray-dark, $sti-gray-light);
 }
 
 .questions-form__header__navigation__step__content {
+  position: absolute;
+  display: inline-block;
   text-decoration: none;
   color: $sti-white;
+  height: 100%;
+  width: 100%;
 
   .step-number {
     @include fontsize(5em);
 
     .encircled {
       position: absolute;
+      top: 0.5em;
+      left: 0.5em;
       margin: 0.5em;
       display: inline-block;
       line-height: 0px;
@@ -103,7 +98,7 @@
   }
 
   .step-label {
-    position: absolute;
+    position: relative;
     top:  25%;
     left: 50%;
     transform: translate(-50%, 0%);
@@ -116,8 +111,13 @@
     }
 
     h3 {
-      @include fontsize(16);
+      @include fontsize(20);
+    overflow: auto;
+    zoom: 1;
       position: relative;
+      max-width: 100%;
+      max-height: 100%;
+      font-weight: bold;
       text-align: center;
       padding: 0;
       margin: 0;

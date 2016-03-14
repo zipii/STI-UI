@@ -16,6 +16,20 @@ function handleExpandArrowClick(event) {
   return true;
 }
 
+if (typeof handleLanguageSelect != 'undefined') {
+  function handleLanguageSelect(event) {
+    console.log('LANGUAGE SELECT');
+    return true;
+  }
+}
+
+if (typeof handleCountrySelect != 'undefined') {
+  function handleCountrySelect(event) {
+    console.log('COUNTRY SELECT');
+    return true;
+  }
+}
+
 $(document).ready(function() {
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');
