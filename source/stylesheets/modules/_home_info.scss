@@ -1,0 +1,20 @@
+// info
+
+.home__info {
+  background-color: $sti-blue-sky-light;
+}
+
+.home__info__container {
+  @include container;
+  background-color: $sti-blue-sky-light;
+}
+
+.home__info__container__content {
+  @include content;
+}
+
+.home__info__container__content__header {
+  @include span(24);
+  background-color: $sti-white;
+  padding: 1.5em;
+}
