@@ -17,19 +17,19 @@
 			<script type="text/javascript" src="/javascripts/vendor/ie8.polyfils.min.js"></script>
 		<![endif]-->
 
-    <%= stylesheet_link_tag "vendor/hint.min" %>
-    <%= stylesheet_link_tag :questions %>
+    <link href="/stylesheets/vendor/hint.min.css" rel="stylesheet" />
+    <link href="/stylesheets/questions.css" rel="stylesheet" />
   </head>
 
   <body class="<%= page_classes %>">
     <%= yield %>
-    <%= javascript_include_tag "vendor/iframeResizer.contentWindow.min" %>
-    <%= javascript_include_tag "vendor/fastclick.min" %>
-    <%= javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" %>
-    <%= javascript_include_tag "vendor/jquery.fittext" %>
-    <%= javascript_include_tag "vendor/bootstrap.min" %>
-    <%= javascript_include_tag "//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js" %>
-    <%= javascript_include_tag :shared %>
-    <%= javascript_include_tag :questions %>
+    <script src="javascripts/vendor/iframeResizer.min.js"></script>
+    <script src="javascripts/vendor/fastclick.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="javascripts/vendor/jquery.fittext.js"></script>
+    <script src="javascripts/vendor/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+    <script src="javascripts/shared.js"></script>
+    <script src="javascripts/questions.js"></script>
   </body>
 </html>

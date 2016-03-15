@@ -17,16 +17,16 @@
 			<script type="text/javascript" src="/javascripts/vendor/ie8.polyfils.min.js"></script>
 		<![endif]-->
 
-    <%= stylesheet_link_tag :site %>
+    <link href="stylesheets/site.css" rel="stylesheet" />
   </head>
 
   <body class="<%= page_classes %>">
     <%= partial "nav_bar" %>
     <%= yield %>
-    <%= javascript_include_tag "vendor/iframeResizer.min" %>
-    <%= javascript_include_tag "vendor/fastclick.min" %>
-    <%= javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" %>
-    <%= javascript_include_tag :shared %>
-    <%= javascript_include_tag :home %>
+    <script src="javascripts/vendor/iframeResizer.min.js"></script>
+    <script src="javascripts/vendor/fastclick.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="javascripts/shared.js"></script>
+    <script src="javascripts/home.js"></script>
   </body>
 </html>
