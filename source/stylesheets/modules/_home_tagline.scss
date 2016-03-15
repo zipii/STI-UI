@@ -1,0 +1,21 @@
+// tagline
+
+.home__tagline {
+  background-color: $sti-black-dark;
+  color: $sti-white;
+}
+
+.home__tagline__container {
+  @include container;
+}
+
+.home__tagline__container__content {
+  @include content;
+}
+
+.home__tagline__container__content__tagline {
+  @include span(18);
+}
+
+.home__tagline__container__content__counter {
+}

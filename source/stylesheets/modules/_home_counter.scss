@@ -1,0 +1,48 @@
+// counter
+
+.home__counter {
+  width: 100%;
+  height: 50vh;
+  background-image:    url(../../images/hero.png);
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+.home__counter__container{
+  @include container;
+}
+
+.home__counter__container__content {
+  @include content;
+}
+
+.home__counter__container__content__counter {
+  @include span(6 last);
+
+  .counter {
+    top: -200px;
+    background-color: $sti-orange;
+
+    h1 {
+      font-family: 'Montserrat Black', sans-serif;
+      @include fontsize(45);
+      font-weight: bolder;
+      font-style: italic;
+      color: $sti-white;
+    }
+
+    h2 {
+      font-family: 'Montserrat', sans-serif;
+      @include fontsize(42);
+      color: $sti-white;
+    }
+
+    p {
+      font-family: 'Montserrat', sans-serif;
+      @include fontsize(16);
+      font-weight: normal;
+    }
+  }
+
+}

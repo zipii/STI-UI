@@ -1,0 +1,26 @@
+// intro
+
+.home__intro {
+  background-color: $sti-blue-sky-light;
+}
+
+.home__intro__container {
+  @include container;
+}
+
+.home__intro__container__content {
+  @include content;
+}
+
+.home__intro__container__content__header {
+  @include span(24);
+}
+
+.home__intro__container__content__header__logo {
+  width: 100%; 
+  height: 116px;
+  background-image:    url(../../images/save_the_internet_logo_headline.png);
+  background-image:    url(../../images/save_the_internet_logo_headline.svg);
+  background-size:     contain;
+  background-repeat:   no-repeat;
+}
