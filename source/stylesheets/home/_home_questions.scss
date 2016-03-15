@@ -16,8 +16,7 @@
 }
 
 .home__questions__container__content__header {
-  @include span(24);
-  padding: 1.5em;
+  @include content-inside;
 }
 
 .home__questions__container__content__body {

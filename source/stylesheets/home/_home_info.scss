@@ -1,6 +1,7 @@
 // info
 
 .home__info {
+  // background-color: $sti-blue-sky-light;
   background-color: $sti-blue-sky-light;
 }
 
@@ -11,10 +12,40 @@
 
 .home__info__container__content {
   @include content;
+  background-color: $sti-white;
 }
 
-.home__info__container__content__header {
-  @include span(24);
+.home__info__container__content__berec-decision-1 {
+  @include content-inside;
   background-color: $sti-white;
-  padding: 1.5em;
+}
+
+.home__info__container__content__berec-decision-2 {
+  @include content-inside;
+  background-color: $sti-white;
+}
+
+.home__info__container__content__berec-decision-3 {
+  @include content-inside;
+  background-color: $sti-white;
+}
+
+.home__info__container__content__berec-decision-4 {
+  @include content-inside;
+  background-color: $sti-white;
+}
+
+.home__info__container__content__berec-decision-5 {
+  @include content-inside;
+  background-color: $sti-white;
+}
+
+.home__info__container__content__net-neutrality-roadmap {
+  @include span(24);
+
+  // height: 358px;
+  background-image:    url(../../images/net_neutrality_roadmap.png);
+  background-image:    url(../../images/net_neutrality_roadmap.svg);
+  background-size:     contain;
+  background-repeat:   no-repeat;
 }

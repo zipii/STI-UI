@@ -15,6 +15,7 @@ $susy: (
   container: 1024px,
   global-box-sizing: border-box
 );
+
 // debug: (image: show)
 
 $sti-blue:           #92c2ed;
@@ -61,37 +62,32 @@ $sti-white:          #ffffff;
   @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
 }
 
-body {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
 h1 {
-  font-family: 'Montserrat', sans-serif;
-  @include fontsize(100);
+  @include sassline($fontsize: 50, $font: $headingtype, $lineheight: 1, $below: 1, $breakpoint: all);
   font-weight: bold;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
-  @include fontsize(30);
-  font-weight: bold;
+  @include sassline($fontsize: 50, $font: $headingtype, $lineheight: 1, $below: 1, $breakpoint: all);
+  font-weight: 700;
+  padding-top: 30px;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
-  @include fontsize(25);
+  @include sassline($fontsize: 25, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   font-weight: bold;
 }
 
 h4 {
-  font-family: 'Montserrat', sans-serif;
-  @include fontsize(30);
+  @include sassline($fontsize: 13, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   font-weight: light;
+  font-style: italic;
 }
 
 p {
-  @include fontsize(20);
-  font-weight: normal;
+  @include sassline($fontsize: 20, $font: $bodytype, $lineheight: 3, $below: 1, $breakpoint: all);
+  padding-bottom: 30px;
+  padding-topb: 30px;
 }
 
 @mixin content {
@@ -101,4 +97,10 @@ p {
   }
   margin-left:  auto;
   margin-right: auto;
+}
+
+@mixin content-inside {
+  @include span(24);
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }

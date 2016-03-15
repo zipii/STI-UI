@@ -14,8 +14,6 @@
 }
 
 .home__tagline__container__content__tagline {
+  // set to align with following counter section/container
   @include span(18);
-}
-
-.home__tagline__container__content__counter {
 }
