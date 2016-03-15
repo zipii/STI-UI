@@ -1,1 +1,1 @@
-console.log("loaded home..");var iframes=iFrameResize({log:!0,resizedCallback:function(o){console.log(o)},messageCallback:function(o){console.log(o)},closedCallback:function(o){console.log(o)},heightCalculationMethod:"max"});
+console.log("loaded home..");var iframes=iFrameResize({heightCalculationMethod:"max"});
