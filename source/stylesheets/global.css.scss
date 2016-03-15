@@ -1,6 +1,6 @@
 @charset "utf-8";
 @import "normalize";
-@import "vendor/bootstrap";
+// @import "vendor/bootstrap";
 // @import "vendor/bootstrap/variables";
 // @import "vendor/bootstrap/mixins";
 // @import "vendor/bootstrap/forms";
@@ -62,7 +62,36 @@ $sti-white:          #ffffff;
 }
 
 body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
   font-family: 'Montserrat', sans-serif;
+  @include fontsize(100);
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  @include fontsize(30);
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  @include fontsize(25);
+  font-weight: bold;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  @include fontsize(30);
+  font-weight: light;
+}
+
+p {
+  @include fontsize(20);
+  font-weight: normal;
 }
 
 @mixin content {
@@ -78,6 +107,11 @@ body {
 @import "form_elements";
 @import "modules/site_nav_bar";
 @import "modules/home";
+@import "modules/home_counter";
+@import "modules/home_intro";
+@import "modules/home_info";
+@import "modules/home_tagline";
+@import "modules/home_questions";
 @import "modules/questions";
 @import "modules/questions_header";
 @import "modules/questions_body";
