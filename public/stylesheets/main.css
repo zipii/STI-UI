@@ -688,7 +688,8 @@ a {
 
 .home__questions__container__content__body__form {
   width: 100%;
-  background-color: #fd6f1d; }
+  background-color: #fd6f1d;
+  border: none; }
 
 .home__spread-the-word {
   background-color: #89D3F6; }
