@@ -1,5 +1,5 @@
 baseurl = "https://savetheinternet.eu/"
-title = "Acme Inc."
+title = "SAVE THE INTERNET"
 contentdir = "content/en"
 publishdir = "public/en"
 theme = "hugo-skeleton"
