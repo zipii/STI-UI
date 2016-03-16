@@ -1,0 +1,8 @@
+baseurl = "https://savetheinternet.eu/"
+title = "Acme Inc."
+contentdir = "content/en"
+publishdir = "public/en"
+theme = "hugo-skeleton"
+
+[params]
+  locale = "en-UK"
