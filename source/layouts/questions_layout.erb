@@ -17,8 +17,14 @@
 			<script type="text/javascript" src="/javascripts/vendor/ie8.polyfils.min.js"></script>
 		<![endif]-->
 
-    <link href="/stylesheets/vendor/hint.min.css" rel="stylesheet" />
-    <link href="/stylesheets/questions.css" rel="stylesheet" />
+    <link href="stylesheets/vendor/hint.min.css" rel="stylesheet" />
+    <link href="stylesheets/questions.css" rel="stylesheet" />
+    <script>
+      // important: set parent html origin here!
+      window.iFrameResizer = {
+        targetOrigin: 'https://savetheinternet.eu'
+      }
+    </script>
   </head>
 
   <body class="<%= page_classes %>">
