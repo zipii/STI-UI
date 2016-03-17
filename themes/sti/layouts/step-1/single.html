@@ -1,0 +1,28 @@
+{{ $.Scratch.Add "stepNumber" 1 }}
+{{ partial "questions-header" . }}
+<form action="/step-2" method="POST" class="questions-form">
+  {{ partial "questions-form-header" . }}
+  <div class="bottom-container">
+    <section class="questions-form__body">
+      <div class="questions-form__body__content">
+        <header class="questions-form__body__content__header">
+          <h1>Which of the following statements do you agree with?</h1>
+        </header>
+        <section class="questions-form__body__content__body">
+          <div class="checkbox">
+            <input id="q1" name="q1" type="checkbox" />
+            <label for="q1"><a href="#" class="hint-bottom hint--small" data-hint="Net neutrality (also network neutrality, Internet neutrality, or net equality) is the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.">net neutrality</a> ensures innovation and competition online</label>
+          </div>
+          <div class="checkbox">
+            <input id="q2" name="q2" type="checkbox" />
+            <label for="q2">existing online services should not be able to buy fast-lanes on the internet (specialised services)</label>
+          </div>
+        </section>
+        <section class="questions-form__body__content__actions">
+          <button class="action-button-next" type="submit" name="action" value="2">Next <i class="fa fa-chevron-right"></i></button>
+        </section>
+      </div>
+    </section>
+  </div>
+</form>
+{{ partial "questions-footer.html" . }}

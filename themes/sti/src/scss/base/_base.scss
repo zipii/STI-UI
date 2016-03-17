@@ -52,9 +52,9 @@ $sti-white:          #ffffff;
   }
 }
 
-// @mixin sti-gradient-background($color-from, $color-to) {
-//   @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
-// }
+@mixin sti-gradient-background($color-from, $color-to) {
+  @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
+}
 
 
 @mixin content {

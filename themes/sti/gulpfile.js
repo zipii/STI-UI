@@ -7,8 +7,12 @@ const gulp = require('gulp'),
     rename = require('gulp-rename')
 
 const PATH = {
-  CSS : {
-    src : 'src/scss/main.scss',
+  SITECSS : {
+    src : 'src/scss/site.scss',
+    dest: 'static/stylesheets'
+  },
+  QUESTIONSCSS : {
+    src : 'src/scss/questions.scss',
     dest: 'static/stylesheets'
   },
   JS: {
@@ -17,14 +21,24 @@ const PATH = {
   }
 };
 
-gulp.task('css', function () {
-    return gulp.src(PATH.CSS.src)
+gulp.task('siteCss', function () {
+    return gulp.src(PATH.SITECSS.src)
     .pipe(sass({errLogToConsole: true}))
     .pipe(autoprefixer('last 4 version'))
-    .pipe(gulp.dest(PATH.CSS.dest))
+    .pipe(gulp.dest(PATH.SITECSS.dest))
     .pipe(cssnano())
     .pipe(rename({ suffix: '.min' }))
-    .pipe(gulp.dest(PATH.CSS.dest))
+    .pipe(gulp.dest(PATH.SITECSS.dest))
+});
+
+gulp.task('questionsCss', function () {
+    return gulp.src(PATH.QUESTIONSCSS.src)
+    .pipe(sass({errLogToConsole: true}))
+    .pipe(autoprefixer('last 4 version'))
+    .pipe(gulp.dest(PATH.QUESTIONSCSS.dest))
+    .pipe(cssnano())
+    .pipe(rename({ suffix: '.min' }))
+    .pipe(gulp.dest(PATH.QUESTIONSCSS.dest))
 });
 
 gulp.task('js',function(){
@@ -37,7 +51,7 @@ gulp.task('js',function(){
     .pipe(gulp.dest(PATH.JS.dest))
 });
 
-gulp.task('default', ['css', 'js' ], function () {
+gulp.task('default', ['siteCss', 'questionsCss', 'js' ], function () {
     gulp.watch("src/scss/**/*.scss", ['css']);
     gulp.watch("src/js/*.js", ['js']);
 });

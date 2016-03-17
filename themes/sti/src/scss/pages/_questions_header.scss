@@ -48,19 +48,19 @@
 }
 
 #questions-form__header__navigation__step-1 {
-  // @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
+  @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
 }
 
 #questions-form__header__navigation__step-2 {
-  // @include sti-gradient-background($sti-black-dark, $sti-black-light);
+  @include sti-gradient-background($sti-black-dark, $sti-black-light);
 }
 
 #questions-form__header__navigation__step-3 {
-  // @include sti-gradient-background($sti-blue-sky-dark, $sti-blue-sky-light);
+  @include sti-gradient-background($sti-blue-sky-dark, $sti-blue-sky-light);
 }
 
 #questions-form__header__navigation__step-4 {
-  // @include sti-gradient-background($sti-gray-dark, $sti-gray-light);
+  @include sti-gradient-background($sti-gray-dark, $sti-gray-light);
 }
 
 .questions-form__header__navigation__step__content {
