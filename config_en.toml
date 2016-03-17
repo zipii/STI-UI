@@ -2,7 +2,7 @@ baseurl = "https://savetheinternet.eu/"
 title = "SAVE THE INTERNET"
 contentdir = "content/en"
 publishdir = "public/en"
-theme = "hugo-skeleton"
+theme = "sti"
 
 [params]
   locale = "en-UK"
