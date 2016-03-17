@@ -32,6 +32,8 @@ if (typeof handleCountrySelect === 'undefined') {
 
 $(document).ready(function() {
 
+  console.log('loaded questions..');
+
   // fit step label text to container
   $('.step-label').find('h3').each(function() {
     $(this).fitText();
@@ -40,6 +42,7 @@ $(document).ready(function() {
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');
   addClickHandlersForClassName(handleLanguageSelect, 'select-picker');
+
   // the passed handler functions must be prepended globally
   $('#questions-form__header__locality__language__select').on('changed.bs.select', handleLanguageSelect);
   $('#questions-form__header__locality__country__select').on('changed.bs.select', handleCountrySelect);

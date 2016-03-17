@@ -2115,8 +2115,7 @@ a {
 .home__questions__container__content__body__form {
   width: 100%;
   background-color: #fd6f1d;
-  border: none;
-  height: 600px; }
+  border: none; }
 
 .encircled {
   top: 10px;
@@ -2158,6 +2157,7 @@ a {
   width: 74.78992%;
   margin-left: auto;
   margin-right: auto;
+  background-color: #010101;
   background-image: url(../images/triangle_orange.svg);
   background-size: 140px;
   background-repeat: no-repeat;
