@@ -1,0 +1,46 @@
+.bottom-container {
+  position: relative;
+  z-index:  1;
+  top:      -0.2em;
+}
+
+@mixin form-content {
+  box-sizing:   border-box;
+  border-left:  solid $sti-orange 3px;
+  border-right: solid $sti-orange 6px;
+  background-color: $sti-white;
+  padding-left:   1.5em;
+  padding-right:  1.5em;
+  padding-top:    1.7em;
+  padding-bottom: 1.5em;
+}
+
+.questions-form__body {
+  @include container;
+}
+
+.questions-form__body__content {
+  @include content;
+}
+
+.questions-form__body__content__header {
+  @include span(24);
+  @include form-content;
+
+  h1 {
+    // @include fontsize(16);
+    font-weight: bold;
+  }
+}
+
+.questions-form__body__content__body {
+  @include span(24);
+  @include form-content;
+}
+
+.questions-form__body__content__actions {
+  @include span(24);
+  @include form-content;
+
+  text-align: center;
+}

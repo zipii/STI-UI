@@ -1,0 +1,27 @@
+// tagline
+
+.home__tagline {
+  background-color: $sti-black-dark;
+}
+
+.home__tagline__container {
+  @include container;
+}
+
+.home__tagline__container__content {
+  @include content;
+}
+
+.home__tagline__container__content__tagline {
+  // set to align with following counter section/container
+  @include span(18);
+
+  h4 {
+    color: $sti-white;
+    padding-right: 1rem;
+    text-align: right;
+    font-weight: 300;
+    font-style: italic;
+    @include setFontToBaseline(15px, 0, 0);
+  }
+}

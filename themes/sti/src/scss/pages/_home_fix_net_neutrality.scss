@@ -1,0 +1,73 @@
+// fix-net-neutrality
+
+.home__fix-net-neutrality {
+  // background-color: $sti-blue-sky-light;
+  background-color: $sti-blue-sky-light;
+
+  p {
+    font-family: $montserrat;
+    font-weight: 400;
+    @include setFontToBaseline(20px, 1, 1);
+  }
+
+  a {
+    font-style: italic;
+    @include setFontToBaseline(15px, 1, 1);
+  }
+}
+
+.home__fix-net-neutrality__container {
+  @include container;
+  background-color: $sti-blue-sky-light;
+}
+
+.home__fix-net-neutrality__container__content {
+  @include content;
+  background-color: $sti-white;
+  @include triangle-top(black);
+}
+
+@mixin net-neutrality-icon {
+  img {
+    float: left;
+    width: 100px;
+    margin-right: 1rem;
+    padding-left: span(2);
+  }
+
+  a {
+    display: inline-block;
+    text-decoration: underline;
+    float: right;
+    margin-top: 0px;
+    padding-right: span(2);
+    &:hover {
+      color: $sti-gray-dark;
+    }
+  }
+}
+
+.home__fix-net-neutrality__container__content__header {
+  @include content-inside;
+  background-color: $sti-white;
+  padding-bottom: span(2);
+}
+
+.home__fix-net-neutrality__container__content__specialised-services {
+  @include content-inside;
+  @include net-neutrality-icon;
+  background-color: $sti-white;
+}
+
+.home__fix-net-neutrality__container__content__traffic-management {
+  @include content-inside;
+  @include net-neutrality-icon;
+  background-color: $sti-white;
+}
+
+.home__fix-net-neutrality__container__content__zero-rating {
+  @include content-inside;
+  @include net-neutrality-icon;
+  background-color: $sti-white;
+  padding-bottom: span(2);
+}

@@ -1,0 +1,49 @@
+// questions
+
+.home__questions {
+  background-color: $sti-orange;
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    font-family: $montserrat;
+    font-weight: 400;
+    @include setFontToBaseline(20px, 1, 1);
+  }
+}
+
+.home__questions__container {
+  @include container;
+  background-color: $sti-orange;
+}
+
+.home__questions__container__content {
+  @include content;
+  background-color: $sti-orange;
+  color: $sti-white;
+}
+
+.home__questions__container__content__header {
+  @include content-inside;
+  @include triangle-top(white);
+  background-color: $sti-orange;
+  padding-bottom: span(1);
+}
+
+.home__questions__container__content__body {
+  @include span(24);
+  background-color: $sti-orange;
+}
+
+.home__questions__container__content__body__form {
+  width: 100%;
+  background-color: $sti-orange;
+  border: none;
+  height: 600px;
+  // overflow: hidden;
+  // width: 100%;
+  // height: 100%;
+  // border: none;
+}

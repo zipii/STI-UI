@@ -1,0 +1,35 @@
+// videos
+
+.home__videos {
+  background-color: $sti-blue-sky-light;
+}
+
+.home__videos__container {
+  @include container;
+  background-color: $sti-blue-sky-light;
+}
+
+.home__videos__container__content {
+  @include content;
+  background-color: $sti-black-dark;
+}
+
+.home__videos__container__content__videos {
+  @include span(24);
+}
+
+#video-carousel {
+  background-color: $sti-black-dark;
+  padding-top: span(2);
+  padding-bottom: span(2);
+}
+
+.home-video {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center;
+}
+
+.fa-chevron-right {
+  vertical-align: middle !important;
+}
