@@ -1,4 +1,4 @@
 baseurl = "http://sti.produktion.io/"
 languageCode = "en-us"
 title = "SAVE THE INTERNET"
-theme = "hugo-skeleton"
+theme = "sti"
