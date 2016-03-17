@@ -52,6 +52,6 @@ gulp.task('js',function(){
 });
 
 gulp.task('default', ['siteCss', 'questionsCss', 'js' ], function () {
-    gulp.watch("src/scss/**/*.scss", ['css']);
+    gulp.watch("src/scss/**/*.scss", ['siteCss', 'questionsCss']);
     gulp.watch("src/js/*.js", ['js']);
 });
