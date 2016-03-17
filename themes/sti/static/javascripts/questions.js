@@ -16,14 +16,14 @@ function handleExpandArrowClick(event) {
   return true;
 }
 
-if (typeof handleLanguageSelect != 'undefined') {
+if (typeof handleLanguageSelect === 'undefined') {
   function handleLanguageSelect(event) {
     console.log('LANGUAGE SELECT');
     return true;
   }
 }
 
-if (typeof handleCountrySelect != 'undefined') {
+if (typeof handleCountrySelect === 'undefined') {
   function handleCountrySelect(event) {
     console.log('COUNTRY SELECT');
     return true;
