@@ -10,4 +10,20 @@
     <loc>http://sti.produktion.io/</loc>
   </url>
   
+  <url>
+    <loc>http://sti.produktion.io/step-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sti.produktion.io/step-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sti.produktion.io/step-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sti.produktion.io/step-4/</loc>
+  </url>
+  
 </urlset>

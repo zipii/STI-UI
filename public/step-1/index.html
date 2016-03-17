@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+	  <title>  &middot; SAVE THE INTERNET </title>
+	  
+    <link href="http://sti.produktion.io//stylesheets/questions.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://sti.produktion.io//apple-touch-icon-144-precomposed.png">
+	  <link rel="shortcut icon" href="http://sti.produktion.io//favicon.ico">
+  </head>
+  <body>
+
+<form action="/step-2" method="POST" class="questions-form">
+  
+<div class="top-container-fixed">
+  <header class="questions-form__header">
+    <div class="questions-form__header__locality">
+      <div class="questions-form__header__locality__country">
+        <label for="questions-form__header__locality__country__select">Choose country:</label>
+        <select title="––––––" class="selectpicker" id="questions-form__header__locality__country__select" name="questions-form__header__locality__country__select">
+          <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
+          <option data-content="<i class='flag flag-retina flag-de'></i><span class='flag-label'>Germany</span>" value="DE">Germany</option>
+        </select>
+      </div>
+      <div class="questions-form__header__locality__language">
+        <label for="questions-form__header__locality__language__select">Choose language:</label>
+        <select title="––––––" class="selectpicker" id="questions-form__header__locality__language__select" name="questions-form__header__locality__language__select">
+          <option value="EN">English</option>
+          <option value="DE">German</option>
+        </select>
+      </div>
+    </div>
+    <nav class="questions-form__header__navigation">
+      <ul class="questions-form__header__navigation__steps">
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-1" class="btn questions-form__header__navigation__step__content" href="#">
+            <div class="step-number">
+              <span class="encircled"><span class="number">1</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-check-square"></i>
+              <h3>Multiple Choice</h3>
+            </div>
+          </button>
+        </li>
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-2" class="btn questions-form__header__navigation__step__content" href="step-2">
+            <div class="step-number">
+              <span class="encircled"><span class="number">2</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-pencil-square-o"></i>
+              <h3>Open Questions #1</h3>
+            </div>
+          </a>
+        </li>
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-3" class="btn questions-form__header__navigation__step__content" href="step-3">
+            <div class="step-number">
+              <span class="encircled"><span class="number">3</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-pencil-square-o"></i>
+              <h3>Open Questions #2</h3>
+            </div>
+          </a>
+        </li>
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-4" class="btn questions-form__header__navigation__step__content" href="step-4">
+            <div class="step-number">
+              <span class="encircled"><span class="number">4</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-envelope"></i>
+              <h3>Send</h3>
+            </div>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</div>
+
+  <div class="bottom-container">
+    <section class="questions-form__body">
+      <div class="questions-form__body__content">
+        <header class="questions-form__body__content__header">
+          <h1>Which of the following statements do you agree with?</h1>
+        </header>
+        <section class="questions-form__body__content__body">
+          <div class="checkbox">
+            <input id="q1" name="q1" type="checkbox" />
+            <label for="q1"><a href="#" class="hint-bottom hint--small" data-hint="Net neutrality (also network neutrality, Internet neutrality, or net equality) is the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.">net neutrality</a> ensures innovation and competition online</label>
+          </div>
+          <div class="checkbox">
+            <input id="q2" name="q2" type="checkbox" />
+            <label for="q2">existing online services should not be able to buy fast-lanes on the internet (specialised services)</label>
+          </div>
+        </section>
+        <section class="questions-form__body__content__actions">
+          <button class="action-button-next" type="submit" name="action" value="2">Next <i class="fa fa-chevron-right"></i></button>
+        </section>
+      </div>
+    </section>
+  </div>
+</form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/javascripts/vendor/iframeResizer.min.js"></script>
+    <script src="/javascripts/vendor/fastclick.min.js"></script>
+    <script src="/javascripts/vendor/bootstrap/carousel.js"></script>
+    <script src="/javascripts/shared.js"></script>
+    <script src="/javascripts/questions.js"></script>
+  </body>
+</html>
+
