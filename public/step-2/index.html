@@ -8,7 +8,6 @@
 	  <title>  &middot; SAVE THE INTERNET </title>
 	  
     <link href="http://sti.produktion.io//stylesheets/questions.css" rel="stylesheet" />
-    <link href="stylesheets/vendor/hint.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic' rel='stylesheet' type='text/css'>
@@ -50,48 +49,54 @@
     <nav class="questions-form__header__navigation">
       <ul class="questions-form__header__navigation__steps">
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-1" class="btn questions-form__header__navigation__step__content" href="step-1">
+          <button type="button" id="questions-form__header__navigation__step-1" class="btn questions-form__header__navigation__step__content " href="step-1">
             <div class="step-number">
               <span class="encircled"><span class="number">1</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-check-square"></i>
-              <h3>Multiple Choice</h3>
+              <i class="fa fa-check-square fa-3x"></i>
+              <h3>Multiple <br>Choice</h3>
             </div>
           </button>
+          <div class="triangle-step "></div>
         </li>
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-2" class="btn questions-form__header__navigation__step__content" href="#">
+          <button type="button" id="questions-form__header__navigation__step-2" class="btn questions-form__header__navigation__step__content active" href="#">
             <div class="step-number">
               <span class="encircled"><span class="number">2</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-pencil-square-o"></i>
-              <h3>Open Questions #1</h3>
+              <i class="fa fa-pencil-square fa-3x"></i>
+              <h3>Open <br>Questions #1</h3>
+              <p>(Optional)</p>
             </div>
-          </a>
+          </button>
+          <div class="triangle-step triangle-black"></div>
         </li>
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-3" class="btn questions-form__header__navigation__step__content" href="step-3">
+          <button type="button" id="questions-form__header__navigation__step-3" class="btn questions-form__header__navigation__step__content " href="step-3">
             <div class="step-number">
               <span class="encircled"><span class="number">3</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-pencil-square-o"></i>
-              <h3>Open Questions #2</h3>
+              <i class="fa fa-pencil-square fa-3x"></i>
+              <h3>Open <br>Questions #2</h3>
+              <p>(Optional)</p>
             </div>
-          </a>
+          </button>
+          <div class="triangle-step "></div>
         </li>
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-4" class="btn questions-form__header__navigation__step__content" href="step-4">
+          <button type="button" id="questions-form__header__navigation__step-4" class="btn questions-form__header__navigation__step__content " href="step-4">
             <div class="step-number">
               <span class="encircled"><span class="number">4</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-envelope"></i>
-              <h3>Send</h3>
+              <i class="fa fa-envelope fa-3x"></i>
+              <h3>Send<br>Message</h3>
             </div>
-          </a>
+            <div class="triangle-step "></div>
+          </button>
         </li>
       </ul>
     </nav>
@@ -102,13 +107,20 @@
     <section class="questions-form__body">
       <div class="questions-form__body__content">
         <header class="questions-form__body__content__header">
-          <h1>Express your opinion by answering the questions below. Further explanation to assist you with composing can be
-found by clicking the drop down icon.</h1>
+          <p>Express your opinion by answering the questions below. Further explanation to assist you with composing can be
+found by clicking the drop down icon. This step is optional, though recommended.</p>
         </header>
         <section class="questions-form__body__content__body">
           <fieldset class="form-group">
             <label for="q10">What could be the positive and negative impacts of specialised services on future innovation and openness of the Internet? <a href="#" class="expand-arrow"><i class="fa fa-caret-down"></i></a></label>
-            <div class="text-muted">
+            <div class="question-explanation">
+              <p>While the delivery of specialised services is allowed under the Regulation, they cannot be offered as a replacement for Internet access services. Otherwise, ISPs would be conducting price discrimination practices. In its <a href="http://berec.europa.eu/files/news/bor_12_32_guidelines.pdf" target="_blank">2012 guidelines</a>, BEREC stated that price discrimination practices offering access to a limited part of the Internet would have a negative effect on consumers' rights.</p>
+            </div>
+            <textarea class="form-control" id="q10" name="q10" rows="3"></textarea>
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="q10">What could be the positive and negative impacts of specialised services on future innovation and openness of the Internet? <a href="#" class="expand-arrow"><i class="fa fa-caret-down"></i></a></label>
+            <div class="question-explanation">
               <p>While the delivery of specialised services is allowed under the Regulation, they cannot be offered as a replacement for Internet access services. Otherwise, ISPs would be conducting price discrimination practices. In its <a href="http://berec.europa.eu/files/news/bor_12_32_guidelines.pdf" target="_blank">2012 guidelines</a>, BEREC stated that price discrimination practices offering access to a limited part of the Internet would have a negative effect on consumers' rights.</p>
             </div>
             <textarea class="form-control" id="q10" name="q10" rows="3"></textarea>
@@ -122,3 +134,14 @@ found by clicking the drop down icon.</h1>
     </section>
   </div>
 </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/javascripts/vendor/iframeResizer.contentWindow.min.js"></script>
+    <script src="/javascripts/vendor/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+    <script src="/javascripts/vendor/jquery.fittext.js"></script>
+    <script src="/javascripts/vendor/fastclick.min.js"></script>
+    <script src="/javascripts/shared.js"></script>
+    <script src="/javascripts/questions.js"></script>
+  </body>
+</html>
+

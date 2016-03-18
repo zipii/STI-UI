@@ -8,7 +8,6 @@
 	  <title>  &middot; SAVE THE INTERNET </title>
 	  
     <link href="http://sti.produktion.io//stylesheets/questions.css" rel="stylesheet" />
-    <link href="stylesheets/vendor/hint.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic' rel='stylesheet' type='text/css'>
@@ -50,48 +49,54 @@
     <nav class="questions-form__header__navigation">
       <ul class="questions-form__header__navigation__steps">
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-1" class="btn questions-form__header__navigation__step__content" href="#">
+          <button type="button" id="questions-form__header__navigation__step-1" class="btn questions-form__header__navigation__step__content active" href="#">
             <div class="step-number">
               <span class="encircled"><span class="number">1</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-check-square"></i>
-              <h3>Multiple Choice</h3>
+              <i class="fa fa-check-square fa-3x"></i>
+              <h3>Multiple <br>Choice</h3>
             </div>
           </button>
+          <div class="triangle-step triangle-blue"></div>
         </li>
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-2" class="btn questions-form__header__navigation__step__content" href="step-2">
+          <button type="button" id="questions-form__header__navigation__step-2" class="btn questions-form__header__navigation__step__content " href="step-2">
             <div class="step-number">
               <span class="encircled"><span class="number">2</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-pencil-square-o"></i>
-              <h3>Open Questions #1</h3>
+              <i class="fa fa-pencil-square fa-3x"></i>
+              <h3>Open <br>Questions #1</h3>
+              <p>(Optional)</p>
             </div>
-          </a>
+          </button>
+          <div class="triangle-step "></div>
         </li>
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-3" class="btn questions-form__header__navigation__step__content" href="step-3">
+          <button type="button" id="questions-form__header__navigation__step-3" class="btn questions-form__header__navigation__step__content " href="step-3">
             <div class="step-number">
               <span class="encircled"><span class="number">3</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-pencil-square-o"></i>
-              <h3>Open Questions #2</h3>
+              <i class="fa fa-pencil-square fa-3x"></i>
+              <h3>Open <br>Questions #2</h3>
+              <p>(Optional)</p>
             </div>
-          </a>
+          </button>
+          <div class="triangle-step "></div>
         </li>
         <li class="questions-form__header__navigation__step">
-          <button type="button" id="questions-form__header__navigation__step-4" class="btn questions-form__header__navigation__step__content" href="step-4">
+          <button type="button" id="questions-form__header__navigation__step-4" class="btn questions-form__header__navigation__step__content " href="step-4">
             <div class="step-number">
               <span class="encircled"><span class="number">4</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-envelope"></i>
-              <h3>Send</h3>
+              <i class="fa fa-envelope fa-3x"></i>
+              <h3>Send<br>Message</h3>
             </div>
-          </a>
+            <div class="triangle-step "></div>
+          </button>
         </li>
       </ul>
     </nav>
@@ -102,16 +107,17 @@
     <section class="questions-form__body">
       <div class="questions-form__body__content">
         <header class="questions-form__body__content__header">
-          <h1>Which of the following statements do you agree with?</h1>
+          <p>Please select your answers by ticking off the checkboxes below.</p>
+          <h3>With which of the following statements do you agree with?</h3>
         </header>
         <section class="questions-form__body__content__body">
           <div class="checkbox">
             <input id="q1" name="q1" type="checkbox" />
-            <label for="q1"><a href="#" class="hint-bottom hint--small" data-hint="Net neutrality (also network neutrality, Internet neutrality, or net equality) is the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.">net neutrality</a> ensures innovation and competition online</label>
+            <label for="q1"><a href="#" class="hint--question" data-hint="Net neutrality (also network neutrality, Internet neutrality, or net equality) is the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.">net neutrality</a> ensures innovation and competition online</label>
           </div>
           <div class="checkbox">
             <input id="q2" name="q2" type="checkbox" />
-            <label for="q2">existing online services should not be able to buy fast-lanes on the internet (specialised services)</label>
+            <label for="q2">existing online services should not be able to buy fast-lanes on the internet</label>
           </div>
         </section>
         <section class="questions-form__body__content__actions">
