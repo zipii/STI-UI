@@ -26,6 +26,14 @@ $sti-gray-lightest:  #F0F2F4;
 $sti-orange:         #fd6f1d;
 $sti-white:          #ffffff;
 
+// breakpoints
+
+$mobile:        0;
+$tablet-small:  640;
+$tablet:        800;
+$desktop:       1024;
+$desktop-large: 1600;
+
 @mixin cf {
   &:after {
     content: " ";
@@ -58,8 +66,11 @@ $sti-white:          #ffffff;
 
 
 @mixin content {
-  // width: span(24 last);
-  width: span(18 last);
+  width: span(24 last);
+  // width: span(18 last);
+  @include susy-breakpoint($tablet) {
+    width: span(18 last);
+  }
   // @include breakpoint(break-2) {
   //   width: span(18 last);
   // }
