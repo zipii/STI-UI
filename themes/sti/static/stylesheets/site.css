@@ -1511,7 +1511,7 @@ h1 {
   padding-left: 7.56303% !important;
   padding-right: 7.56303% !important; }
 
-h2 {
+h2, .home__info__container__content__berec-decision-5 h2 a {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -1878,7 +1878,7 @@ a {
   padding-top: +73px;
   background-color: #010101;
   color: #ffffff; }
-  .home__info__container__content__berec-decision-2 h2 {
+  .home__info__container__content__berec-decision-2 h2, .home__info__container__content__berec-decision-2 .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__info__container__content__berec-decision-2 a {
     line-height: 2rem; }
 
 .home__info__container__content__berec-decision-3 {
@@ -1906,6 +1906,13 @@ a {
   margin-left: 0;
   margin-right: 0;
   background-color: #ffffff; }
+  .home__info__container__content__berec-decision-5 h3 {
+    padding-top: 3.36134%; }
+  .home__info__container__content__berec-decision-5 h2 a {
+    color: #fd6f1d;
+    text-decoration: underline;
+    padding-left: 0px !important;
+    padding-right: 0px !important; }
 
 .home__info__container__content__net-neutrality-roadmap {
   width: 100%;
@@ -1919,7 +1926,7 @@ a {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right bottom; }
-  .home__info__container__content__net-neutrality-roadmap h2 {
+  .home__info__container__content__net-neutrality-roadmap h2, .home__info__container__content__net-neutrality-roadmap .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__info__container__content__net-neutrality-roadmap a {
     margin-top: 1rem; }
 
 .home__videos {
@@ -2142,18 +2149,9 @@ a {
   border: none;
   padding-bottom: 7.56303%; }
 
-.encircled {
-  top: 10px;
-  left: 10px;
-  margin: 10px;
-  line-height: 0px;
-  border-radius: 50%;
-  border: 3px solid;
-  background-color: #ffffff; }
-
 .home__spread-the-word {
   background-color: #010101; }
-  .home__spread-the-word h2 {
+  .home__spread-the-word h2, .home__spread-the-word .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__spread-the-word a {
     text-align: center;
     color: #ffffff; }
   .home__spread-the-word ul {
@@ -2165,8 +2163,9 @@ a {
       display: inline; }
       .home__spread-the-word ul li .fa {
         display: inline-block;
-        padding: 10px;
+        padding: 2rem;
         margin: 0px;
+        text-align: center;
         color: #fd6f1d !important; }
 
 .home__spread-the-word__container {
@@ -2209,6 +2208,65 @@ a {
   width: 100%; }
   .footer-logos img {
     width: 320px !important; }
+
+.faq {
+  background-color: #89D3F6; }
+  .faq ul li {
+    list-style-type: none; }
+  .faq h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding-top: 3.36134%;
+    padding-bottom: 3.36134%;
+    padding-left: 7.56303% !important;
+    padding-right: 7.56303% !important; }
+    .faq h3 a {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 400;
+      text-decoration: none;
+      font-size: 30px;
+      line-height: 30px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      font-size: 1.5rem;
+      line-height: 1.5rem;
+      margin-top: 1.5rem;
+      margin-bottom: 1.5rem; }
+
+.faq__container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #89D3F6; }
+  .faq__container:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.faq__container__content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff; }
+  @media (min-width: 800) {
+    .faq__container__content {
+      width: 74.78992%; } }
+
+.faq__container__content__main {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #ffffff;
+  padding-top: 7.56303%; }
 
 /*Custom Radio Buttons and Checkboxes using Font Awesome*/
 input[type=radio],
