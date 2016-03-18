@@ -2116,7 +2116,7 @@ a {
   width: 100%;
   background-color: #fd6f1d;
   border: none;
-  height: 600px; }
+  padding-bottom: 7.56303%; }
 
 .encircled {
   top: 10px;
@@ -2158,6 +2158,7 @@ a {
   width: 74.78992%;
   margin-left: auto;
   margin-right: auto;
+  background-color: #010101;
   background-image: url(../images/triangle_orange.svg);
   background-size: 140px;
   background-repeat: no-repeat;
@@ -2227,17 +2228,30 @@ input[type="checkbox"]:checked + label:before {
 .action-button, .action-button-next, .action-button-back {
   display: inline-block;
   color: #ffffff;
+  background-image: linear-gradient(0deg, #004e84 0%, #0076ce 100%);
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
   border: 0px;
   border-radius: 5px;
-  padding: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
   text-align: center; }
+
+.action-button-next:hover {
+  background-image: linear-gradient(0deg, #a1a6a8 0%, #c2c6c8 100%); }
 
 .action-button-back {
   color: #004E84;
   background: none; }
-
-.text-muted {
-  display: none; }
 
 .form-control, .sti-select-box {
   max-width: 100%;

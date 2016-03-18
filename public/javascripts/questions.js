@@ -7,6 +7,7 @@ function handleStepClick(event) {
 function handleExpandArrowClick(event) {
   console.log(event);
   var $clickedElement = $(event.target);
+  console.log($clickedElement);
   $clickedElement.parent().parent()
     .siblings('div.text-muted').first()
     .slideToggle(function() {
@@ -35,9 +36,9 @@ $(document).ready(function() {
   console.log('loaded questions..');
 
   // fit step label text to container
-  $('.step-label').find('h3').each(function() {
-    $(this).fitText();
-  })
+  // $('.step-label').find('h3').each(function() {
+  //   $(this).fitText();
+  // })
 
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');

@@ -27,15 +27,51 @@
   @include span(24);
   @include form-content;
 
+  p {
+    font-style: italic;
+    @include setFontToBaseline(20px, 1, 1);
+    line-height: 1.3rem;
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  }
+
   h1 {
-    // @include fontsize(16);
-    font-weight: bold;
+    font-family: $montserrat;
+    font-weight: 700;
+    @include setFontToBaseline(30px, 1, 1);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  }
+
+  h3 {
+    font-family: $montserrat;
+    font-weight: 700;
+    @include setFontToBaseline(20px, 0, 0);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
   }
 }
 
 .questions-form__body__content__body {
   @include span(24);
   @include form-content;
+
+  padding-top: 0px;
+  .checkbox {
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+
+    label {
+      font-family: $sourcesans;
+      @include setFontToBaseline(20px, 0, 0);
+      letter-spacing: 0.025;
+      margin-bottom: span(1);
+
+      a {
+        color: $sti-blue-dark;
+      }
+    }
+  }
 }
 
 .questions-form__body__content__actions {
@@ -43,4 +79,64 @@
   @include form-content;
 
   text-align: center;
+}
+
+.hint--question {
+  @extend .hint--bottom;
+  @extend .hint--large;
+  @extend .hint--rounded;
+  @include hint-type($sti-blue-light);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.question-explanation {
+  display: none;
+  p {
+    font-family: $sourcesans;
+    @include setFontToBaseline(20px, 0, 0);
+    letter-spacing: 0.025;
+    margin-bottom: span(1);
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-top: 0px !important;
+  }
+}
+
+.form-group {
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  label {
+    font-family: $montserrat;
+    font-weight: 700;
+    @include setFontToBaseline(20px, 0, 0);
+    padding-top: 0px;
+    margin-bottom: span(1);
+  }
+  textarea {
+    color: $sti-black-dark !important;
+    font-family: $sourcesans;
+    font-weight: 400;
+    @include setFontToBaseline(18px, 0, 0);
+    margin-bottom: span(1);
+  }
+  margin-bottom: span(2);
+}
+
+.email-step {
+  font-family: $sourcesans;
+  font-weight: 400;
+  @include setFontToBaseline(20px, 0, 1);
+  line-height: 2.5rem !important;
+  text-align: center;
+}
+
+.email-step-number {
+  font-family: $montserrat;
+  font-weight: 700;
+  @include setFontToBaseline(20px, 0, 0);
+}
+
+#copy-button {
+  background-color: none !important;
 }

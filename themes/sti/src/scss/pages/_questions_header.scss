@@ -15,7 +15,7 @@
   color: $sti-white;
   background-color: $sti-orange;
   text-align: center;
-  padding-bottom: 3em;
+  padding-bottom: span(2);
 }
 
 .questions-form__header__locality__country {
@@ -35,6 +35,36 @@
   list-style-type: none;
   margin:  0;
   padding: 0;
+
+  &:hover {
+    color: $sti-white !important;
+  }
+}
+
+.triangle-step {
+  position: absolute;
+  top: 99%;
+  left: span(10);
+  width: 0; height: 0;
+  border: 20px solid transparent;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.triangle-blue {
+  border-top-color: $sti-blue-dark;
+}
+
+.triangle-black {
+  border-top-color: $sti-black-dark;
+}
+
+.triangle-blue-sky {
+  border-top-color: $sti-blue-sky-dark;
+}
+
+.triangle-gray {
+  border-top-color: $sti-gray-dark;
 }
 
 .questions-form__header__locality__country__select {
@@ -72,7 +102,6 @@
   width: 100%;
 
   .step-number {
-    // @include fontsize(5em);
 
     .encircled {
       position: absolute;
@@ -98,26 +127,48 @@
   }
 
   .step-label {
-    position: relative;
-    top:  25%;
-    left: 50%;
-    width: 100%;
-    transform: translate(-50%, 0%);
-    text-align: center;
+    // position: relative;
+    // top:  40%;
+    // left: 50%;
+    // width: 100%;
+    // transform: translate(-50%, 0%);
+    // text-align: center;
+    // background-color: red;
+
 
     i {
-      // @include fontsize(34);
-      display: inline-block;
-      text-align: center;
+      // display:    inline-block;
+      // text-align: center;
+      margin-bottom: span(1);
+      // background-color: $sti-white;
+      // color: $sti-blue-dark;
+      padding-bottom: 0px;
     }
 
     h3 {
-      // @include fontsize(20);
-      position: relative;
-      max-width: 100%;
-      max-height: 100%;
-      font-weight: bold;
-      text-align: center;
+      font-family: $montserrat;
+      font-weight: 700;
+      @include setFontToBaseline(18px, 1, 1.5);
+      line-height: 1.1rem;
+      // letter-spacing: 0.025;
+      // line-height: 2rem;
+      // padding-left: span(2) !important;
+      // padding-right: span(2) !important;
+
+      // position: relative;
+      // max-width: 100%;
+      // max-height: 100%;
+      // text-align: center;
+      // padding: 0;
+      margin: 0;
+    }
+
+    p {
+      font-family: $sourcesans;
+      font-weight: 400;
+      font-style: italic;
+      @include setFontToBaseline(12px, 1, 1.5);
+      line-height: 1rem;
       padding: 0;
       margin: 0;
     }

@@ -47,7 +47,7 @@
 
 .home__spread-the-word__container__content {
   @include content;
-  // background-color: $sti-black-dark;
+  background-color: $sti-black-dark;
   @include triangle-top(orange);
 }
 

@@ -41,15 +41,24 @@ input[type="checkbox"]:checked + label:before {
 .action-button {
   display: inline-block;
   color: $sti-white;
-  // @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
+  @include sti-gradient-background($sti-blue-dark, $sti-blue-light);
+  font-family: $montserrat;
+  @include setFontToBaseline(18px, 0, 0);
+
   border: 0px;
   border-radius: 5px;
-  padding: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
   text-align: center;
 }
 
 .action-button-next {
   @extend .action-button;
+  &:hover {
+    @include sti-gradient-background($sti-gray-dark, $sti-gray-light);
+  }
 }
 
 .action-button-back {
@@ -60,10 +69,6 @@ input[type="checkbox"]:checked + label:before {
 
 .form-group {
 
-}
-
-.text-muted {
-  display: none;
 }
 
 .form-control {

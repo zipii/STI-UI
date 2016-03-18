@@ -6,9 +6,10 @@ function handleStepClick(event) {
 
 function handleExpandArrowClick(event) {
   console.log(event);
+  event.preventDefault();
   var $clickedElement = $(event.target);
   $clickedElement.parent().parent()
-    .siblings('div.text-muted').first()
+    .siblings('div.question-explanation').first()
     .slideToggle(function() {
       $clickedElement.toggleClass('fa-caret-down');
       $clickedElement.toggleClass('fa-caret-up');
@@ -30,16 +31,43 @@ if (typeof handleCountrySelect === 'undefined') {
   }
 }
 
+function registerStepHoverEvent(id, addClassName, removeClassName) {
+  $(id).hover(function() {
+    console.log('hover');
+    $(this).find('i').addClass(addClassName);
+    $(this).find('i').removeClass(removeClassName);
+    $(this).find('i').addClass('fa-5x');
+    $(this).find('i').removeClass('fa-3x');
+    // $(this).find('i')toggleClass('active');
+  }, function() {
+    console.log('unhover');
+    $(this).find('i').addClass(removeClassName);
+    $(this).find('i').removeClass(addClassName);
+    $(this).find('i').addClass('fa-3x');
+    $(this).find('i').removeClass('fa-5x');
+    // $(this).toggleClass('active');
+  });
+}
+
+
 $(document).ready(function() {
 
+  registerStepHoverEvent('#questions-form__header__navigation__step-1', 'fa-check-square-o', 'fa-check-square');
+  registerStepHoverEvent('#questions-form__header__navigation__step-2', 'fa-pencil-square-o', 'fa-pencil-square');
+  registerStepHoverEvent('#questions-form__header__navigation__step-3', 'fa-pencil-square-o', 'fa-pencil-square');
+  registerStepHoverEvent('#questions-form__header__navigation__step-4', 'fa-envelope-o', 'fa-envelope');
+
+  console.log('loaded questions..');
+
   // fit step label text to container
-  $('.step-label').find('h3').each(function() {
-    $(this).fitText();
-  })
+  // $('.step-label').find('h3').each(function() {
+  //   $(this).fitText();
+  // })
 
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');
   addClickHandlersForClassName(handleLanguageSelect, 'select-picker');
+
   // the passed handler functions must be prepended globally
   $('#questions-form__header__locality__language__select').on('changed.bs.select', handleLanguageSelect);
   $('#questions-form__header__locality__country__select').on('changed.bs.select', handleCountrySelect);
