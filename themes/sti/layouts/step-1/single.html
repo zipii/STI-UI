@@ -1,5 +1,6 @@
 {{ $.Scratch.Add "stepNumber" 1 }}
 {{ partial "questions-header" . }}
+
 <form action="/step-2" method="POST" class="questions-form">
   {{ partial "questions-form-header" . }}
   <div class="bottom-container">
@@ -26,4 +27,5 @@
     </section>
   </div>
 </form>
+
 {{ partial "questions-footer.html" . }}

@@ -1,5 +1,6 @@
 {{ $.Scratch.Add "stepNumber" 3 }}
 {{ partial "questions-header" . }}
+
 <form action="/step-4" method="POST" class="questions-form">
   {{ partial "questions-form-header" . }}
   <div class="bottom-container">
@@ -26,4 +27,5 @@ found by clicking the drop down icon. This step is optional, though recommended.
     </section>
   </div>
 </form>
+
 {{ partial "questions-footer.html" . }}

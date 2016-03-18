@@ -4,3 +4,9 @@
 body {
   background-color: $sti-orange;
 }
+
+
+.bootstrap-select.btn-group .dropdown-menu li a {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}

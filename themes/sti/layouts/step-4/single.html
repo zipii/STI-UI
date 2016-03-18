@@ -1,5 +1,6 @@
 {{ $.Scratch.Add "stepNumber" 4 }}
 {{ partial "questions-header" . }}
+
 <form action="/step-3" method="POST" class="questions-form">
   {{ partial "questions-form-header" . }}
   <div class="bottom-container">
@@ -44,7 +45,7 @@ A concerned citizen
             Compose an email <a href="mailto:oskar.grande@gmail.com?bcc=oskar@daruma.io" class="action-button">from your device</a>
             <br>
             or via
-            <button class="action-button">gmail</button> <button class="action-button">yahoo</button> <button class="action-button">hotmail</button>
+            <a class="action-button" role="button">gmail</a> <a class="action-button" role="button">yahoo</a> <a class="action-button" role="button">hotmail</a>
           </p>
           <p class="email-step">
             <span class="email-step-number">Step 3:</span> Paste the text by Right-click -> Paste (Ctrl+V) in the body and send.
@@ -54,3 +55,5 @@ A concerned citizen
     </section>
   </div>
 </form>
+
+{{ partial "questions-footer" . }}

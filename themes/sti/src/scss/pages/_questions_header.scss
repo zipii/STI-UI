@@ -12,10 +12,10 @@
 
 .questions-form__header__locality {
   @include content;
-  color: $sti-white;
-  background-color: $sti-orange;
-  text-align: center;
-  padding-bottom: span(2);
+  // color: $sti-white;
+  // background-color: $sti-orange;
+  // text-align: center;
+  // padding-bottom: span(2);
 }
 
 .questions-form__header__locality__country {
@@ -36,9 +36,6 @@
   margin:  0;
   padding: 0;
 
-  &:hover {
-    color: $sti-white !important;
-  }
 }
 
 .triangle-step {
@@ -100,6 +97,10 @@
   color: $sti-white;
   height: 100%;
   width: 100%;
+
+  &:hover {
+    color: $sti-white !important;
+  }
 
   .step-number {
 

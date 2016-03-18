@@ -6,18 +6,17 @@
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 	  <title>  &middot; SAVE THE INTERNET </title>
-	  
-    <link href="http://sti.produktion.io//stylesheets/questions.css" rel="stylesheet" />
+    <link href="https://beta.savetheinternet.eu/stylesheets/questions.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://sti.produktion.io//apple-touch-icon-144-precomposed.png">
-	  <link rel="shortcut icon" href="http://sti.produktion.io//favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://beta.savetheinternet.eu/apple-touch-icon-144-precomposed.png">
+	  <link rel="shortcut icon" href="https://beta.savetheinternet.eu/favicon.ico">
     <script>
       
+      var targetOrigin = 'http://localhost:1313';
       
-      var targetOrigin = 'http://beta.savetheinternet.eu';
       window.iFrameResizer = {
         targetOrigin: targetOrigin
       }
@@ -26,8 +25,10 @@
   </head>
   <body>
 
+
 <form action="/step-3" method="POST" class="questions-form">
   
+
 <div class="top-container-fixed">
   <header class="questions-form__header">
     <div class="questions-form__header__locality">
@@ -92,7 +93,7 @@
               <span class="encircled"><span class="number">4</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-envelope fa-3x"></i>
+              <i class="fa fa-envelope-o fa-5x"></i>
               <h3>Send<br>Message</h3>
             </div>
             <div class="triangle-step triangle-gray"></div>
@@ -145,7 +146,7 @@ A concerned citizen
             Compose an email <a href="mailto:oskar.grande@gmail.com?bcc=oskar@daruma.io" class="action-button">from your device</a>
             <br>
             or via
-            <button class="action-button">gmail</button> <button class="action-button">yahoo</button> <button class="action-button">hotmail</button>
+            <a class="action-button" role="button">gmail</a> <a class="action-button" role="button">yahoo</a> <a class="action-button" role="button">hotmail</a>
           </p>
           <p class="email-step">
             <span class="email-step-number">Step 3:</span> Paste the text by Right-click -> Paste (Ctrl+V) in the body and send.
@@ -155,3 +156,15 @@ A concerned citizen
     </section>
   </div>
 </form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/javascripts/vendor/iframeResizer.contentWindow.min.js"></script>
+    <script src="/javascripts/vendor/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+    <script src="/javascripts/vendor/jquery.fittext.js"></script>
+    <script src="/javascripts/vendor/fastclick.min.js"></script>
+    <script src="/javascripts/shared.js"></script>
+    <script src="/javascripts/questions.js"></script>
+  </body>
+</html>
+

@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 	  <title> {{ .Title }} &middot; {{ .Site.Title }} </title>
-	  <!-- Stylesheets -->
     <link href="{{ .Site.BaseURL }}/stylesheets/questions.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -15,8 +14,8 @@
 	  <link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico">
     <script>
       // important: set parent html origin here!
-      // var targetOrigin = 'http://localhost:1313';
-      var targetOrigin = 'http://beta.savetheinternet.eu';
+      var targetOrigin = 'http://localhost:1313';
+      // var targetOrigin = 'http://beta.savetheinternet.eu';
       window.iFrameResizer = {
         targetOrigin: targetOrigin
       }

@@ -34,18 +34,20 @@ if (typeof handleCountrySelect === 'undefined') {
 function registerStepHoverEvent(id, addClassName, removeClassName) {
   $(id).hover(function() {
     console.log('hover');
-    $(this).find('i').addClass(addClassName);
-    $(this).find('i').removeClass(removeClassName);
-    $(this).find('i').addClass('fa-5x');
-    $(this).find('i').removeClass('fa-3x');
-    // $(this).find('i')toggleClass('active');
+    if (!$(this).hasClass('active')) {
+      $(this).find('i').addClass(addClassName);
+      $(this).find('i').removeClass(removeClassName);
+      $(this).find('i').addClass('fa-5x');
+      $(this).find('i').removeClass('fa-3x');
+    }
   }, function() {
-    console.log('unhover');
-    $(this).find('i').addClass(removeClassName);
-    $(this).find('i').removeClass(addClassName);
-    $(this).find('i').addClass('fa-3x');
-    $(this).find('i').removeClass('fa-5x');
-    // $(this).toggleClass('active');
+    if (!$(this).hasClass('active')) {
+      console.log('unhover');
+      $(this).find('i').addClass(removeClassName);
+      $(this).find('i').removeClass(addClassName);
+      $(this).find('i').addClass('fa-3x');
+      $(this).find('i').removeClass('fa-5x');
+    }
   });
 }
 

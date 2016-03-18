@@ -1,4 +1,5 @@
 {{ $stepNumber := $.Scratch.Get "stepNumber" }}
+
 <div class="top-container-fixed">
   <header class="questions-form__header">
     <div class="questions-form__header__locality">
@@ -25,7 +26,7 @@
               <span class="encircled"><span class="number">1</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-check-square fa-3x"></i>
+              <i class="fa fa-check-square{{ if eq $stepNumber 1 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
               <h3>Multiple <br>Choice</h3>
             </div>
           </button>
@@ -37,7 +38,7 @@
               <span class="encircled"><span class="number">2</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-pencil-square fa-3x"></i>
+              <i class="fa fa-pencil-square{{ if eq $stepNumber 2 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
               <h3>Open <br>Questions #1</h3>
               <p>(Optional)</p>
             </div>
@@ -50,7 +51,7 @@
               <span class="encircled"><span class="number">3</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-pencil-square fa-3x"></i>
+              <i class="fa fa-pencil-square{{ if eq $stepNumber 3 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
               <h3>Open <br>Questions #2</h3>
               <p>(Optional)</p>
             </div>
@@ -63,7 +64,7 @@
               <span class="encircled"><span class="number">4</span></span>
             </div>
             <div class="step-label">
-              <i class="fa fa-envelope fa-3x"></i>
+              <i class="fa fa-envelope{{ if eq $stepNumber 4 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
               <h3>Send<br>Message</h3>
             </div>
             <div class="triangle-step {{ if eq $stepNumber 4 }}triangle-gray{{ end }}"></div>

@@ -6975,8 +6975,6 @@ a {
   list-style-type: none;
   margin: 0;
   padding: 0; }
-  .questions-form__header__navigation__steps:hover {
-    color: #ffffff !important; }
 
 .triangle-step {
   position: absolute;
@@ -7025,6 +7023,8 @@ a {
   color: #ffffff;
   height: 100%;
   width: 100%; }
+  .questions-form__header__navigation__step__content:hover {
+    color: #ffffff !important; }
   .questions-form__header__navigation__step__content .step-number .encircled {
     position: absolute;
     top: 0.5em;
