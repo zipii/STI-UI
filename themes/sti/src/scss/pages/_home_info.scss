@@ -45,6 +45,18 @@
 .home__info__container__content__berec-decision-5 {
   @include content-inside;
   background-color: $sti-white;
+  h3 {
+    padding-top: span(1);
+  }
+  h2 {
+    a {
+      @extend h2;
+      color: $sti-orange;
+      text-decoration: underline;
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+    }
+  }
 }
 
 .home__info__container__content__net-neutrality-roadmap {
