@@ -14,7 +14,7 @@
   <div class="home__tagline__container">
     <div class="home__tagline__container__content">
       <div class="home__tagline__container__content__tagline">
-        <h4>Join us and take action – contact your regulator:</h4>
+        <h4>Join us and take action! Send a message to your regulator:</h4>
       </div>
     </div>
   </div>
@@ -23,22 +23,23 @@
   <div class="home__counter__container">
     <div class="home__counter__container__content">
       <div class="home__counter__container__content__counter">
-        <div class="btn counter-button">
+        <a class="btn counter-button" role="button" href="#send-a-message">
           <span class="counter-message">16.384</span>
           <span class="counter-message-description">people have <br>sent a message</span>
           <span class="counter-days-left">120</span>
           <span class="counter-days-left-description">days left</span>
-        </div>
+        </a>
       </div>
     </div>
   </div>
 </section>
+<a name="info"></a>
 <section class="home__info">
   <div class="home__info__container">
     <div class="home__info__container__content">
       <header class="home__info__container__content__berec-decision-1">
         <h2>In 2015, the European Union adopted legislation on net neutrality …</h2>
-        <p>The EU Regulation contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.</p>
+        <p><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120">The EU Regulation</a> contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.</p>
       </header>
       <section class="home__info__container__content__berec-decision-2">
         <h2>The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not.</h2>
@@ -52,8 +53,8 @@
       <section class="home__info__container__content__berec-decision-5">
         <h3>This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.</h3>
         <p>Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.</p>
-        <p>Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders (see here and here) in those meetings into plain English and added few others when we felt this was necessary.</p>
-        <h2>BEREC needs your input before they decide on the future of net neutrality in Europe.</h2>
+        <p>Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders (<a href="https://edri.org/edris-first-input-on-net-neutrality-guidelines/">see here</a> and <a href="https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/">here</a>) in those meetings into plain English and added few others when we felt this was necessary.</p>
+        <h2>BEREC <a href="#send-a-message">needs your input</a> before they decide on the future of net neutrality in Europe.</h2>
       </section>
     </div>
   </div>
@@ -112,23 +113,24 @@
         <img src="/images/specialised_services.svg" />
         <h2>Specialised Services</h2>
         <p>Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.</p>
-        <a href="#">read more in FAQ</a>
+        <a href="/faq/#specialised-services" target="_blank">read more in FAQ</a>
       </section>
       <section class="home__fix-net-neutrality__container__content__traffic-management">
         <img src="/images/traffic_management.svg" />
         <h2>Traffic Management</h2>
         <p>Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.</p>
-        <a href="#">read more in FAQ</a>
+        <a href="/faq/#traffic-management" target="_blank">read more in FAQ</a>
       </section>
       <section class="home__fix-net-neutrality__container__content__zero-rating">
         <img src="/images/zero_rating.svg" />
         <h2>Zero Rating</h2>
         <p>It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.</p>
-        <a href="#">read more in FAQ</a>
+        <a href="/faq/#zero-rating" target="_blank">read more in FAQ</a>
       </section>
     </div>
   </div>
 </section>
+<a name="send-a-message"></a>
 <section class="home__questions">
   <div class="home__questions__container">
     <div class="home__questions__container__content">
@@ -156,27 +158,30 @@
             <i class="fa fa-twitter fa-2x"></i>
           </li>
           <li>
-            <div class="encircled">
-              <i class="fa fa-google-plus fa-2x"></i>
-            </div>
+            <i class="fa fa-google-plus fa-2x"></i>
           </li>
         </ul>
       </section>
       <section class="home__spread-the-word__container__content__newsletter">
         <h2>Stay informed!</h2>
+        <form class="form-inline">
           <div class="form-group">
-            <label for="newsletter-email">Your email</label>
-            <input type="email" class="form-control" id="newsletter-email" placeholder="Your email">
+            <label class="sr-only" for="exampleInputEmail3">Your Email</label>
+            <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
           </div>
-          <div class="dropdown">
-            <button class="btn btn-default dropdown-toggle" type="button" id="newsletter-country" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-               Country
-              <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu" aria-labelledby="newsletter-country">
-              <li>austria</li>
-            </ul>
+          <div class="form-group">
+          <label for="">Choose country:</label>
+            <select title="––––––" class="selectpicker" id="" name="">
+              <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
+            </select>
           </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox"> Remember me
+            </label>
+          </div>
+          <button type="submit" class="btn btn-default">Sign up</button>
+        </form>
       </section>
       <section class="home__spread-the-word__container__content__sponsors">
         <p style="text-align:center;">We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.</p>
