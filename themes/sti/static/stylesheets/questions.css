@@ -6882,7 +6882,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .nav-bar-content {
       width: 74.78992%; } }
 
@@ -6945,7 +6945,7 @@ a {
   background-color: #fd6f1d;
   text-align: center;
   padding-bottom: 7.56303%; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .questions-form__header__locality {
       width: 74.78992%; } }
 
@@ -6963,7 +6963,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .questions-form__header__navigation {
       width: 74.78992%; } }
 
@@ -7090,7 +7090,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .questions-form__body__content {
       width: 74.78992%; } }
 

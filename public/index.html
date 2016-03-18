@@ -7,10 +7,10 @@
 	  <title> SAVE THE INTERNET &middot; SAVE THE INTERNET </title>
 	  
     <link href="http://sti.produktion.io//stylesheets/site.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://sti.produktion.io//apple-touch-icon-144-precomposed.png">
 	  <link rel="shortcut icon" href="http://sti.produktion.io//favicon.ico">
   </head>
@@ -174,8 +174,8 @@
         <p>Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering the multiple choice and open questions an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.</p>
       </header>
       <section class="home__questions__container__content__body">
+        <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="http://savetheinternet.azurewebsites.net/en/" scrolling="no"></iframe>
         
-        <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="step-1" scrolling="no"></iframe>
       </section>
     </div>
   </div>
@@ -197,29 +197,37 @@
           </li>
         </ul>
       </section>
-      <section class="home__spread-the-word__container__content__newsletter">
+    </div>
+  </div>
+</section>
+<section class="home__stay-informed">
+  <div class="home__stay-informed__container">
+    <div class="home__stay-informed__container__content">
+      <section class="home__stay-informed__container__content__newsletter">
         <h2>Stay informed!</h2>
         <form class="form-inline">
           <div class="form-group">
-            <label class="sr-only" for="exampleInputEmail3">Your Email</label>
-            <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
+            <label class="sr-only" for="">Your Email:</label>
+            <input type="email" class="form-control" id="" placeholder="Email">
           </div>
           <div class="form-group">
-          <label for="">Choose country:</label>
-            <select title="––––––" class="selectpicker" id="" name="">
+          <label for="newsletter-country">Choose country:</label>
+            <select title="––––––" class="selectpicker" id="newsletter-country" name="">
+              <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
               <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
             </select>
-          </div>
-          <div class="checkbox">
-            <label>
-              <input type="checkbox"> Remember me
-            </label>
           </div>
           <button type="submit" class="btn btn-default">Sign up</button>
         </form>
       </section>
-      <section class="home__spread-the-word__container__content__sponsors">
-        <p style="text-align:center;">We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.</p>
+    </div>
+  </div>
+</section>
+<section class="home__sponsors">
+  <div class="home__sponsors__container">
+    <div class="home__sponsors__container__content">
+      <section class="home__sponsors__container__content__sponsors">
+        <p>We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.</p>
         <ul class="footerlogos">
       		<li>
       			<a href="https://netzfreiheit.org/">
@@ -293,7 +301,27 @@
       				Startups for Net Neutrality (international)
       			</a>
       		</li>
-      		</ul>
+    		</ul>
+      </section>
+    </div>
+  </div>
+</section>
+<section class="home__aykit-produktion">
+  <div class="home__aykit-produktion__container">
+    <div class="home__aykit-produktion__container__content">
+      <section class="home__aykit-produktion__container__content__support">
+        <p>With friendly support from</p>
+        <ul class="footerlogos">
+          <li>
+            <a href="http://produktion.io/">
+              <img src="images/produktion_io.svg" alt="produktion.io"><br>
+            </a>
+          </li>
+          <li>
+            <a href="https://aykit.eu">
+              <img src="images/aykit.png" alt="AYKIT">
+            </a>
+          </li>
       </section>
     </div>
   </div>
@@ -302,7 +330,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="/javascripts/vendor/iframeResizer.min.js"></script>
     <script src="/javascripts/vendor/fastclick.min.js"></script>
-    <script src="/javascripts/vendor/bootstrap/carousel.js"></script>
+    <script src="/javascripts/vendor/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
     <script src="/javascripts/shared.js"></script>
     <script src="/javascripts/home.js"></script>
   </body>

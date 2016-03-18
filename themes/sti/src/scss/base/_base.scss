@@ -68,7 +68,7 @@ $desktop-large: 1600;
 @mixin content {
   width: span(24 last);
   // width: span(18 last);
-  @include susy-breakpoint($tablet) {
+  @include susy-breakpoint($tablet-small) {
     width: span(18 last);
   }
   // @include breakpoint(break-2) {

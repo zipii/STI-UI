@@ -1609,7 +1609,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .nav-bar-content {
       width: 74.78992%; } }
 
@@ -1668,7 +1668,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__intro__container__content {
       width: 74.78992%; } }
 
@@ -1703,7 +1703,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__tagline__container__content {
       width: 74.78992%; } }
 
@@ -1748,7 +1748,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__counter__container__content {
       width: 74.78992%; } }
 
@@ -1854,7 +1854,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   background-color: #ffffff; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__info__container__content {
       width: 74.78992%; } }
 
@@ -1947,7 +1947,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   background-color: #010101; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__videos__container__content {
       width: 74.78992%; } }
 
@@ -2014,7 +2014,7 @@ a {
   background-repeat: no-repeat;
   background-position: top center !important;
   padding-top: +73px; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__fix-net-neutrality__container__content {
       width: 74.78992%; } }
 
@@ -2119,7 +2119,7 @@ a {
   margin-right: auto;
   background-color: #fd6f1d;
   color: #ffffff; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__questions__container__content {
       width: 74.78992%; } }
 
@@ -2163,7 +2163,7 @@ a {
       display: inline; }
       .home__spread-the-word ul li .fa {
         display: inline-block;
-        padding: 2rem;
+        padding: 5.46218%;
         margin: 0px;
         text-align: center;
         color: #fd6f1d !important; }
@@ -2187,7 +2187,7 @@ a {
   background-repeat: no-repeat;
   background-position: top center !important;
   padding-top: +73px; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .home__spread-the-word__container__content {
       width: 74.78992%; } }
 
@@ -2195,19 +2195,144 @@ a {
   width: 100%;
   float: left;
   margin-left: 0;
-  margin-right: 0;
-  padding: 1.5em; }
+  margin-right: 0; }
 
-.home__spread-the-word__container__content__sponsors {
+.home__spread-the-word__container__content__social__icons {
   width: 100%;
   float: left;
   margin-left: 0;
-  margin-right: 0; }
+  margin-right: 0;
+  background-color: #010101; }
 
-.footer-logos {
-  width: 100%; }
-  .footer-logos img {
-    width: 320px !important; }
+.home__stay-informed {
+  background-color: #010101; }
+  .home__stay-informed h2, .home__stay-informed .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__stay-informed a {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0;
+    padding-top: 5.46218%; }
+
+.home__stay-informed__container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #010101; }
+  .home__stay-informed__container:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.home__stay-informed__container__content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #010101; }
+  @media (min-width: 640) {
+    .home__stay-informed__container__content {
+      width: 74.78992%; } }
+
+.home__stay-informed__container__content__newsletter {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  color: #fd6f1d;
+  background-color: #010101;
+  color: #ffffff;
+  padding-bottom: 5.46218%; }
+  .home__stay-informed__container__content__newsletter form {
+    padding-top: 5.46218%;
+    color: #fd6f1d !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center; }
+    .home__stay-informed__container__content__newsletter form .form-group {
+      padding-right: 3.36134%; }
+
+.home__sponsors {
+  background-color: #010101; }
+
+.home__sponsors__container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #010101; }
+  .home__sponsors__container:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.home__sponsors__container__content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #010101; }
+  @media (min-width: 640) {
+    .home__sponsors__container__content {
+      width: 74.78992%; } }
+
+.home__sponsors__container__content__sponsors {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #010101;
+  padding-bottom: 5.46218%; }
+  .home__sponsors__container__content__sponsors p {
+    color: #ffffff !important; }
+
+.footerlogos {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  margin: 0; }
+
+.footerlogos > li {
+  display: inline-block;
+  margin: 15px;
+  text-align: center; }
+
+.footerlogos a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: .9em; }
+  .footerlogos a img {
+    height: 70px; }
+
+.home__aykit-produktion {
+  background-color: #ffffff; }
+
+.home__aykit-produktion__container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff; }
+  .home__aykit-produktion__container:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.home__aykit-produktion__container__content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff; }
+  @media (min-width: 640) {
+    .home__aykit-produktion__container__content {
+      width: 74.78992%; } }
+
+.home__aykit-produktion__container__content__support {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #ffffff; }
+  .home__aykit-produktion__container__content__support p {
+    text-align: center;
+    margin-top: 1.2605%;
+    margin-bottom: 0.42017%; }
 
 .faq {
   background-color: #89D3F6; }
@@ -2256,7 +2381,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   background-color: #ffffff; }
-  @media (min-width: 800) {
+  @media (min-width: 640) {
     .faq__container__content {
       width: 74.78992%; } }
 
