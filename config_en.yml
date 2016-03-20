@@ -1,0 +1,17 @@
+baseurl:    "https://savetheinternet.eu/"
+title:      "SAVE THE INTERNET"
+contentdir: "content/en"
+publishdir: "public/en"
+theme:      "sti"
+
+params:
+  locale: "en-UK"
+  home:
+    tagline: "Join us and take action! Send a message to your regulator:"
+    info:
+      berec_decision_1:
+        headline: "In 2015, the European Union adopted legislation on net neutrality..."
+      berec_decision_2:
+        headline: "The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not."
+      berec_decision_3:
+        body: "In June 2016, BEREC plans to publish its draft guidelines and launch a public consultation. However, BEREC's procedural rules say that the public only has twenty working days to respond and the Regulation says that BEREC needs to publish its final guidelines on 30 August 2016. That means that citizens will only have one month to respond to the consultation and BEREC will only have a few weeks to process the (potentially thousands of) comments, draft updates to its guidelines and then go through the administrative processes to formally agree to any changes that it makes to the draft."

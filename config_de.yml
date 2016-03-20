@@ -1,0 +1,9 @@
+baseurl:    "https://savetheinternet.eu/"
+title:      "SAVE THE INTERNET"
+contentdir: "content/de"
+publishdir: "public/de"
+theme:      "sti"
+
+params:
+  locale: "de-DE"
+  tagline: "STERBI SODA"
