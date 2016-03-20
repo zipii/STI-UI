@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAVE THE INTERNET</title>
-    <link>http://sti.produktion.io/</link>
+    <link>https://beta.savetheinternet.eu/</link>
     <description>Recent content on SAVE THE INTERNET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://sti.produktion.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beta.savetheinternet.eu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://sti.produktion.io/faq/</link>
+      <link>https://beta.savetheinternet.eu/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sti.produktion.io/faq/</guid>
+      <guid>https://beta.savetheinternet.eu/faq/</guid>
       <description>
 
 &lt;h1 id=&#34;frequently-asked-questions:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;FREQUENTLY ASKED QUESTIONS&lt;/h1&gt;
@@ -222,50 +222,50 @@
     
     <item>
       <title></title>
-      <link>http://sti.produktion.io/</link>
+      <link>https://beta.savetheinternet.eu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sti.produktion.io/</guid>
+      <guid>https://beta.savetheinternet.eu/</guid>
       <description>&lt;p&gt;PLACEHOLDER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://sti.produktion.io/step-1/</link>
+      <link>https://beta.savetheinternet.eu/step-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sti.produktion.io/step-1/</guid>
+      <guid>https://beta.savetheinternet.eu/step-1/</guid>
       <description>&lt;p&gt;PLACEHOLDER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://sti.produktion.io/step-2/</link>
+      <link>https://beta.savetheinternet.eu/step-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sti.produktion.io/step-2/</guid>
+      <guid>https://beta.savetheinternet.eu/step-2/</guid>
       <description>&lt;p&gt;PLACEHOLDER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://sti.produktion.io/step-3/</link>
+      <link>https://beta.savetheinternet.eu/step-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sti.produktion.io/step-3/</guid>
+      <guid>https://beta.savetheinternet.eu/step-3/</guid>
       <description>&lt;p&gt;PLACEHOLDER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://sti.produktion.io/step-4/</link>
+      <link>https://beta.savetheinternet.eu/step-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sti.produktion.io/step-4/</guid>
+      <guid>https://beta.savetheinternet.eu/step-4/</guid>
       <description>&lt;p&gt;PLACEHOLDER&lt;/p&gt;
 </description>
     </item>

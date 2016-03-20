@@ -1,13 +1,13 @@
 @charset "UTF-8";
 @font-face {
   font-family: "Montserrat-Regular";
-  src: url("fonts/Montserrat/Montserrat-Regular.eot");
-  src: url("fonts/Montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Montserrat/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat/Montserrat-Regular.svg#Montserrat-Regular") format("svg"); }
+  src: url("../fonts/Montserrat/Montserrat-Regular.eot");
+  src: url("../fonts/Montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Montserrat/Montserrat-Regular.woff") format("woff"), url("../fonts/Montserrat/Montserrat-Regular.ttf") format("truetype"), url("../fonts/Montserrat/Montserrat-Regular.svg#Montserrat-Regular") format("svg"); }
 
 @font-face {
   font-family: "SourceSansPro-Regular";
-  src: url("fonts/Source_Sans_Pro/SourceSansPro-Regular.eot");
-  src: url("fonts/Source_Sans_Pro/SourceSansPro-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.woff") format("woff"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf") format("truetype"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.svg#SourceSansPro-Regular") format("svg"); }
+  src: url("../fonts/Source_Sans_Pro/SourceSansPro-Regular.eot");
+  src: url("../fonts/Source_Sans_Pro/SourceSansPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Source_Sans_Pro/SourceSansPro-Regular.woff") format("woff"), url("../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf") format("truetype"), url("../fonts/Source_Sans_Pro/SourceSansPro-Regular.svg#SourceSansPro-Regular") format("svg"); }
 
 /*! normalize.css v2.0.1 | MIT License | git.io/normalize */
 /* ==========================================================================

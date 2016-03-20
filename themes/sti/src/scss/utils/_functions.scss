@@ -1,6 +1,6 @@
 // Font-Face mixin, copyright by http://clubmate.fi/scss-font-face-mixin/
 @mixin font-face($style-name, $file, $family, $category:"") {
-    $filepath: "fonts/" + $family + "/" + $file;
+    $filepath: "../fonts/" + $family + "/" + $file;
     @font-face {
         font-family: "#{$style-name}";
         src: url($filepath + ".eot");
