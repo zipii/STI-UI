@@ -1,6 +1,6 @@
-## Overview
+## Save The Internet Theme
 
- Hugo Skeleton is a supersimple theme for rapid website development with [Hugo](https://github.com/spf13/hugo), [SASS](http://sass-lang.com/) and [gulp](https://github.com/gulpjs/gulp).
+ This theme is made with gulp and Hugo Skeleton, a supersimple theme for rapid website development with [Hugo](https://github.com/spf13/hugo), [SASS](http://sass-lang.com/) and [gulp](https://github.com/gulpjs/gulp).
 
  Look how easy it is to use:
 
@@ -15,26 +15,13 @@
 - Boilerplate for SASS code organization inspired by the [Sass Guidelines project](http://sass-guidelin.es/#architecture).
 - No over-engineering.
 
-## Who you should use it
- - You want to quickly create websites or prototypes.
- - You think Hugo is really good at generating static sites but lacks an asset pipeline.
- - You are comfortable with Gulp as a task runner but don't want to spend too much time configuring it.
- - You favor SASS over another transpiler to generate CSS. You also understand the importance of proper SCSS organization.
+## Workflow
+Please make sure that you have `npm` [installed](https://nodejs.org/en/download/), see README in root folder.
 
-## Installation
-Please make sure that you have `npm` [installed](https://nodejs.org/en/download/) and [updated](https://docs.npmjs.com/getting-started/installing-node).
-
-1. Use the [installation instructions in the Hugo documentation to install Hugo.](http://gohugo.io/overview/installing/)
-2. Clone this project into your `themes/` directory.
-3. `cd` into `themes/hugo-skeleton` and run `npm install`.
-4. Optional: Add `theme = "hugo-skeleton"` to your config.toml, so you don't have to pass the theme name as a command line argument.
 
 ## Running
-Instructions are based on a standard Hugo installation.
+See README in root folder
 
-1. Run `hugo server --verbose`. Verbose flag is highly recommended for debugging purposes.
-2. Run `gulp`.
-3. Enjoy.
 
 ## Project structure
 The project follows the structure when [creating a new Hugo theme](http://gohugo.io/tutorials/creating-a-new-theme/). You should be familiar with the files when you finished the (excellent) tutorial. Additionally there is a `src` folder which contains all the JS and SCSS source files and some configuration files.
@@ -49,7 +36,7 @@ The project follows the structure when [creating a new Hugo theme](http://gohugo
 └── ...
 ```
 
-## License
+## Hugo Skeleton License
 The MIT License (MIT)
 
 Copyright (c) 2016 Savio van Hoi
