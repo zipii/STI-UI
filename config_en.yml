@@ -8,6 +8,9 @@ params:
   locale: "en-UK"
   home:
     tagline: "Join us and take action! Send a message to your regulator:"
+    counter:
+      message_description: "people have sent a message"
+      days_left_description: "days left"
     info:
       berec_decision_1:
         headline: "In 2015, the European Union adopted legislation on net neutrality..."
