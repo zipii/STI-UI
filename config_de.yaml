@@ -5,5 +5,4 @@ publishdir: "public/de"
 theme:      "sti"
 
 params:
-  locale: "de-DE"
-  tagline: "STERBI SODA"
+  locale: "en-UK"
