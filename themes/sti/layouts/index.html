@@ -40,7 +40,7 @@
     <div class="home__info__container__content">
       <header class="home__info__container__content__berec-decision-1">
         <h2>{{ $t.info.berec_decision_1.headline }}</h2>
-        <p><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120">The EU Regulation</a> contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.</p>
+        <p>{{ $t.info.berec_decision_1.body }}</p>
       </header>
       <section class="home__info__container__content__berec-decision-2">
         <h2>{{ $t.info.berec_decision_2.headline }}</h2>
@@ -56,6 +56,13 @@
         <p>{{ $t.info.berec_decision_5.paragraph_1 }}</p>
         <p>{{ $t.info.berec_decision_5.paragraph_2 }}</p>
         <h2>BEREC <a href="#send-a-message">needs your input</a> before they decide on the future of net neutrality in Europe.</h2>
+        <h2>{{ $t.info.roadmap.title }}</h2>
+      </section>
+      <section class="home__info__container__content__berec-decision-5">
+        <h3>{{ $t.info.roadmap.headline }}</h3>
+        <p>{{ $t.info.roadmap.body01 }}</p>
+        <p>{{ $t.info.roadmap.body02 }}</p>
+        <h2>{{ $t.info.roadmap.cta }}</h2>
       </section>
     </div>
   </div>
@@ -108,25 +115,25 @@
   <div class="home__fix-net-neutrality__container">
     <div class="home__fix-net-neutrality__container__content">
       <header class="home__fix-net-neutrality__container__content__header">
-        <h1>What needs to be fixed</h1>
+        <h1>{{ $t.fixnetneutrality.title }}</h1>
       </header>
       <section class="home__fix-net-neutrality__container__content__specialised-services">
         <img src="/images/specialised_services.svg" />
-        <h2>Specialised Services</h2>
-        <p>Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.</p>
-        <a href="/faq/#specialised-services" target="_blank">read more in FAQ</a>
+        <h2>{{ $t.fixnetneutrality.fix01.headline }}</h2>
+        <p>{{ $t.fixnetneutrality.fix01.body }}</p>
+	<a href="/faq/#specialised-services" target="_blank">{{ $t.fixnetneutrality.fix01.readmore }}</a>
       </section>
       <section class="home__fix-net-neutrality__container__content__traffic-management">
         <img src="/images/traffic_management.svg" />
-        <h2>Traffic Management</h2>
-        <p>Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.</p>
-        <a href="/faq/#traffic-management" target="_blank">read more in FAQ</a>
+        <h2>{{ $t.fixnetneutrality.fix02.headline }}</h2>
+        <p>{{ $t.fixnetneutrality.fix02.body }}</p>
+        <a href="/faq/#traffic-management" target="_blank">{{ $t.fixnetneutrality.fix02.readmore }}</a>
       </section>
       <section class="home__fix-net-neutrality__container__content__zero-rating">
         <img src="/images/zero_rating.svg" />
-        <h2>Zero Rating</h2>
-        <p>It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.</p>
-        <a href="/faq/#zero-rating" target="_blank">read more in FAQ</a>
+        <h2>{{ $t.fixnetneutrality.fix03.headline }}</h2>
+        <p>{{ $t.fixnetneutrality.fix03.body }}</p>
+        <a href="/faq/#zero-rating" target="_blank">{{ $t.fixnetneutrality.fix03.readmore }}</a>
       </section>
     </div>
   </div>
@@ -136,8 +143,8 @@
   <div class="home__questions__container">
     <div class="home__questions__container__content">
       <header class="home__questions__container__content__header">
-        <h1>Tell your national regulators and BEREC to protect net neutrality</h1>
-        <p>Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering the multiple choice and open questions an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.</p>
+        <h1>{{ $t.questions.headline }}</h1>
+        <p>{{ $t.questions.body }}</p>
       </header>
       <section class="home__questions__container__content__body">
         <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="https://savetheinternet.azurewebsites.net/en/" scrolling="no"></iframe>
@@ -150,7 +157,7 @@
   <div class="home__spread-the-word__container">
     <div class="home__spread-the-word__container__content">
       <section class="home__spread-the-word__container__content__social">
-        <h2>Spread the word!</h2>
+        <h2>{{ $t.spreadtheword.title }}</h2>
         <ul class="home__spread-the-word__container__content__social__icons">
           <li>
             <i class="fa fa-facebook fa-2x"></i>
@@ -170,14 +177,14 @@
   <div class="home__stay-informed__container">
     <div class="home__stay-informed__container__content">
       <section class="home__stay-informed__container__content__newsletter">
-        <h2>Stay informed!</h2>
+        <h2>{{ $t.stayinformed.title }}</h2>
         <form class="form-inline">
           <div class="form-group">
-            <label class="sr-only" for="">Your Email:</label>
+            <label class="sr-only" for="">{{ $t.stayinformed.mail }}</label>
             <input type="email" class="form-control" id="" placeholder="Email">
           </div>
           <div class="form-group">
-          <label for="newsletter-country">Choose country:</label>
+          <label for="newsletter-country">{{ $t.stayinformed.country }}</label>
             <select title="––––––" class="selectpicker" id="newsletter-country" name="">
               <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
               <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
@@ -193,7 +200,7 @@
   <div class="home__sponsors__container">
     <div class="home__sponsors__container__content">
       <section class="home__sponsors__container__content__sponsors">
-        <p>We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.</p>
+        <p>{{ $t.sponsors.abstract }}</p>
         <ul class="footerlogos">
       		<li>
       			<a href="https://netzfreiheit.org/">
@@ -276,7 +283,7 @@
   <div class="home__aykit-produktion__container">
     <div class="home__aykit-produktion__container__content">
       <section class="home__aykit-produktion__container__content__support">
-        <p>With friendly support from</p>
+        <p>{{ $t.sponsors.support }}</p>
         <ul class="footerlogos">
           <li>
             <a href="http://produktion.io/">
