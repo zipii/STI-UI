@@ -6882,7 +6882,12 @@ a {
 .nav-bar-container {
   max-width: 1024px;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 4.20168%;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-position: left top; }
   .nav-bar-container:after {
     content: " ";
     display: block;
@@ -6892,7 +6897,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 640) {
+  @media (min-width: 640px) {
     .nav-bar-content {
       width: 74.78992%; } }
 
@@ -6941,7 +6946,12 @@ a {
 .questions-form__header {
   max-width: 1024px;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 4.20168%;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-position: left top; }
   .questions-form__header:after {
     content: " ";
     display: block;
@@ -6950,12 +6960,8 @@ a {
 .questions-form__header__locality {
   width: 100%;
   margin-left: auto;
-  margin-right: auto;
-  color: #ffffff;
-  background-color: #fd6f1d;
-  text-align: center;
-  padding-bottom: 7.56303%; }
-  @media (min-width: 640) {
+  margin-right: auto; }
+  @media (min-width: 640px) {
     .questions-form__header__locality {
       width: 74.78992%; } }
 
@@ -6973,7 +6979,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 640) {
+  @media (min-width: 640px) {
     .questions-form__header__navigation {
       width: 74.78992%; } }
 
@@ -7090,7 +7096,12 @@ a {
 .questions-form__body {
   max-width: 1024px;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 4.20168%;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-position: left top; }
   .questions-form__body:after {
     content: " ";
     display: block;
@@ -7100,7 +7111,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto; }
-  @media (min-width: 640) {
+  @media (min-width: 640px) {
     .questions-form__body__content {
       width: 74.78992%; } }
 
@@ -7307,6 +7318,10 @@ a {
 
 body {
   background-color: #fd6f1d; }
+
+.bootstrap-select.btn-group .dropdown-menu li a {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem; }
 
 /*Custom Radio Buttons and Checkboxes using Font Awesome*/
 input[type=radio],
