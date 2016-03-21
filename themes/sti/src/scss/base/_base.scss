@@ -7,7 +7,8 @@
 $susy: (
   columns: 24,
   container: 1024px,
-  global-box-sizing: border-box
+  global-box-sizing: border-box,
+  debug: (image: show)
 );
 
   // debug: (image: show)
@@ -28,11 +29,11 @@ $sti-white:          #ffffff;
 
 // breakpoints
 
-$mobile:        0;
-$tablet-small:  640;
-$tablet:        800;
-$desktop:       1024;
-$desktop-large: 1600;
+$mobile:        0px;
+$tablet-small:  640px;
+$tablet:        800px;
+$desktop:       1024px;
+$desktop-large: 1600px;
 
 @mixin cf {
   &:after {
