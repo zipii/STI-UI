@@ -15,7 +15,7 @@
     "jshint": "^2.9.1"
   },
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
     "build": "NODE_ENV=production gulp"
   }
 }
