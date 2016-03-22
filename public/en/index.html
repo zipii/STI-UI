@@ -5,27 +5,28 @@
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 	  <title> SAVE THE INTERNET &middot; SAVE THE INTERNET </title>
-    <link href="https://savetheinternet.eu//stylesheets/site.css" rel="stylesheet" />
+    <link href="https://beta.savetheinternet.eu/stylesheets/site.css" rel="stylesheet" />
     <link rel="stylesheet" href="/stylesheets/vendor/font-awesome.min.css">
     <link rel="stylesheet" href="/stylesheets/vendor/bootstrap-select.min.css">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://savetheinternet.eu//apple-touch-icon-144-precomposed.png">
-	  <link rel="shortcut icon" href="https://savetheinternet.eu//favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://beta.savetheinternet.eu/apple-touch-icon-144-precomposed.png">
+	  <link rel="shortcut icon" href="https://beta.savetheinternet.eu/favicon.ico">
   </head>
   <body>
+
 
 <div class="nav-bar">
   <div class="nav-bar-container">
     <div class="nav-bar-content">
       <nav class="nav-bar-content__nav">
         <ul class="nav-main">
-          <li><a href="/#info">Information</a></li>
-          <li><a href="/#send-a-message" class="send-a-message">Send a message!</a></li>
-          <li><a href="/faq">FAQ</a></li>
+          <li><a href="https://beta.savetheinternet.eu/en/#info">Information</a></li>
+          <li><a href="https://beta.savetheinternet.eu/en/#send-a-message" class="send-a-message">Send a message!</a></li>
+          <li><a href="https://beta.savetheinternet.eu/en/faq">FAQ</a></li>
         </ul>
         <ul class="nav-language">
-          <li><a href="#" class="active">EN</a></li>
-          <li><a href="#">FR</a></li>
-          <li><a href="#">DE</a></li>
+          <li><a  href="#" class="active" >EN</a></li>
+          <li><a  href="/de" >DE</a></li>
+          <li><a  href="/fr" >FR</a></li>
         </ul>
       </nav>
     </div>
@@ -169,6 +170,10 @@
 </section>
 
 <a name="send-a-message"></a>
+
+
+
+
 <section class="home__questions">
   <div class="home__questions__container">
     <div class="home__questions__container__content">
@@ -177,8 +182,8 @@
         <p>Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering the multiple choice and open questions an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.</p>
       </header>
       <section class="home__questions__container__content__body">
+        <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="https://consultation.savetheinternet.eu/en/" scrolling="no"></iframe>
         
-        <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="/step-1" scrolling="no"></iframe>
       </section>
     </div>
   </div>
@@ -191,13 +196,19 @@
         <h2>Spread the word!</h2>
         <ul class="home__spread-the-word__container__content__social__icons">
           <li>
-            <i class="fa fa-facebook fa-2x"></i>
+            <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=http://www.savetheinternet.eu/&amp;p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&amp;p%5Btitle%5D=Help%20Save%20the%20Internet&amp;p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.">
+              <i class="fa fa-facebook fa-2x"></i>
+            </a>
           </li>
           <li>
-            <i class="fa fa-twitter fa-2x"></i>
+            <a href="https://twitter.com/home?status=Help%20save%20the%20internet.%20Tell%20your%20politician%20to%20safeguard%20net%20neutrality.%20http://www.savetheinternet.eu/%20%23ConnectedContinent%20#SaveTheInternetEU">
+              <i class="fa fa-twitter fa-2x"></i>
+            </a>
           </li>
           <li>
-            <i class="fa fa-google-plus fa-2x"></i>
+            <a href="https://plus.google.com/share?url=http://www.savetheinternet.eu/">
+              <i class="fa fa-google-plus fa-2x"></i>
+            </a>
           </li>
         </ul>
       </section>
@@ -210,20 +221,16 @@
     <div class="home__stay-informed__container__content">
       <section class="home__stay-informed__container__content__newsletter">
         <h2>Stay informed!</h2>
-        <form class="form-inline">
-          <div class="form-group">
-            <label class="sr-only" for="">Your Email:</label>
-            <input type="email" class="form-control" id="" placeholder="Email">
-          </div>
-          <div class="form-group">
-          <label for="newsletter-country">Choose country:</label>
-            <select title="––––––" class="selectpicker" id="newsletter-country" name="">
-              <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
-              <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
-            </select>
-          </div>
-          <button type="submit" class="btn btn-default">Sign up</button>
-        </form>
+        <div class="form-inline">
+          <form action="https://mailman.edri.org/mailman/subscribe/savetheinternet/" method="post">
+            <div class="form-group">
+              <input name="email" type="email" class="form-control" id="newsletter-email" placeholder="Your Email">
+            </div>
+            <div class="form-group">
+              <input name="email-button" value="SIGN UP" type="Submit" id="newsletter-submit" class="btn btn-default btn-lg">
+            </div>
+          </form>
+        </div>
       </section>
     </div>
   </div>
