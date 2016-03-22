@@ -5,4 +5,4 @@ publishdir: "public/de"
 theme:      "sti"
 
 params:
-  locale: "en-UK"
+  locale: "de-DE"
