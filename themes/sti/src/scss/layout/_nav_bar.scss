@@ -9,8 +9,9 @@
   left: 0;
   z-index: 9999;
   width: 100%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  height: $header-height;
 }
 
 .nav-bar-container {
@@ -34,8 +35,22 @@
     display: inline-block;
 
     a {
-      margin-right: 1.5em;
+      margin-right: 1em;
       color: $sti-black-dark;
+    }
+
+    &:last-child {
+      a {
+        margin-right: 0;
+      }
+    }
+  }
+
+  @include susy-breakpoint($tablet-small) {
+    li {
+      a {
+        margin-right: 1.5em;
+      }
     }
   }
 }
@@ -43,6 +58,14 @@
 .nav-main {
   @include nav-ul;
   float: left;
+
+  @include susy-breakpoint($mobile $tablet-small) {
+    li {
+      &:first-child {
+        display: none;
+      }
+    }
+  }
 }
 
 .nav-language {
