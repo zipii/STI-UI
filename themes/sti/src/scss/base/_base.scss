@@ -26,9 +26,15 @@ $sti-gray-lightest:  #F0F2F4;
 $sti-orange:         #fd6f1d;
 $sti-white:          #ffffff;
 
+
+// fixed heights
+
+$header-height: 50px;
+
+
 // breakpoints
 
-$mobile:        0px;
+$mobile:        0;
 $tablet-small:  640px;
 $tablet:        800px;
 $desktop:       1024px;
@@ -68,9 +74,9 @@ $desktop-large: 1600px;
 @mixin content {
   width: span(24 last);
   // width: span(18 last);
-  @include susy-breakpoint($tablet-small) {
-    width: span(18 last);
-  }
+  //@include susy-breakpoint($tablet) {
+  //  width: span(18 last);
+  //}
   // @include breakpoint(break-2) {
   //   width: span(18 last);
   // }

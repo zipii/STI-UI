@@ -13,15 +13,21 @@
 }
 
 .home__tagline__container__content__tagline {
-  // set to align with following counter section/container
-  @include span(18);
 
   h4 {
     color: $sti-white;
-    padding-right: 1rem;
-    text-align: right;
+    padding-left: 0.7rem !important;
+    text-align: center;
     font-weight: 300;
     font-style: italic;
     @include setFontToBaseline(15px, 0, 0);
+  }
+
+  @include breakpoint($tablet-small) {
+    // set to align with following counter section/container
+    @include span(18);
+    h4 {
+      text-align: right;
+    }
   }
 }

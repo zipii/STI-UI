@@ -28,8 +28,43 @@
   margin-left: auto !important;
   margin-right: auto !important;
   text-align: center;
+
+  @extend .embed-responsive;
+
+  min-height: 320px;
+  max-width: 320px;
+
+  @include susy-breakpoint($tablet-small) {
+
+    min-height: 380px;
+    max-width: 640px;
+  }
+
 }
 
-.fa-chevron-right {
-  vertical-align: middle !important;
+// bootstrap overrides
+
+.carousel {
+
+  .right, .left {
+    top: auto;
+    bottom: -20px;
+  }
+
+  @include susy-breakpoint($tablet) {
+    .right, .left {
+      top: 50%;
+      margin-top: -1.5em;
+      bottom: auto;
+    }
+  }
 }
+
+.carousel-indicators {
+  bottom: 0;
+
+  li {
+    box-sizing: border-box;
+  }
+}
+
