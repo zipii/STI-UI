@@ -28,14 +28,25 @@ We have adapted the pragmatic [Hugo Skeleton theme](https://github.com/saviomuc/
 + Continously build and watch for development (builds to the STI theme's
   `static` directory; Hugo picks this up for now and will use it within `/public`)
 ```
-cd /STI-UI
+cd /STI-UI/themes/sti
 npm start
 ```
-+ Build for production (`/public`):
++ Build for production:
+```
+cd /STI-UI/themes/sti
+npm run build
+```
+
+### Deployment
+
+Run full build for production (updates `/public`):
+
 ```
 cd /STI-UI
 ./build.sh
 ```
+
+*This is an important last step before deploying as it includes a Hugo workaround for now (provides assets through root url path).*
 
 ### Internationalisation
 
