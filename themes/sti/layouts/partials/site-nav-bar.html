@@ -1,17 +1,17 @@
-{{ $locale := .Site.Params.locale }}
+{{ $language := .Site.Params.language }}
 <div class="nav-bar">
   <div class="nav-bar-container">
     <div class="nav-bar-content">
       <nav class="nav-bar-content__nav">
         <ul class="nav-main">
-          <li><a href="/#info">Information</a></li>
-          <li><a href="/#send-a-message" class="send-a-message">Send a message!</a></li>
-          <li><a href="/faq">FAQ</a></li>
+          <li><a href="{{ .Site.BaseURL }}/{{ $language }}/#info">Information</a></li>
+          <li><a href="{{ .Site.BaseURL }}/{{ $language }}/#send-a-message" class="send-a-message">Send a message!</a></li>
+          <li><a href="{{ .Site.BaseURL }}/{{ $language }}/faq">FAQ</a></li>
         </ul>
         <ul class="nav-language">
-          <li><a {{ if eq $locale "en-UK" }} href="#" class="active" {{ else }} href="/en" {{ end }}>EN</a></li>
-          <li><a {{ if eq $locale "de-DE" }} href="#" class="active" {{ else }} href="/de" {{ end }}>DE</a></li>
-          <li><a {{ if eq $locale "fr-FR" }} href="#" class="active" {{ else }} href="/fr" {{ end }}>FR</a></li>
+          <li><a {{ if eq $language "en" }} href="#" class="active" {{ else }} href="/en" {{ end }}>EN</a></li>
+          <li><a {{ if eq $language "de" }} href="#" class="active" {{ else }} href="/de" {{ end }}>DE</a></li>
+          <li><a {{ if eq $language "fr" }} href="#" class="active" {{ else }} href="/fr" {{ end }}>FR</a></li>
         </ul>
       </nav>
     </div>

@@ -1,4 +1,4 @@
-baseurl:    "https://savetheinternet.eu/"
+baseurl:    "https://beta.savetheinternet.eu"
 title:      "SAVE THE INTERNET"
 contentdir: "content/en"
 publishdir: "public/en"
@@ -6,3 +6,4 @@ theme:      "sti"
 
 params:
   locale: "en-UK"
+  language: "en"
