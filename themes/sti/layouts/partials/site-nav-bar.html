@@ -1,3 +1,4 @@
+{{ $locale := .Site.Params.locale }}
 <div class="nav-bar">
   <div class="nav-bar-container">
     <div class="nav-bar-content">
@@ -8,9 +9,9 @@
           <li><a href="/faq">FAQ</a></li>
         </ul>
         <ul class="nav-language">
-          <li><a href="#" class="active">EN</a></li>
-          <li><a href="#">FR</a></li>
-          <li><a href="#">DE</a></li>
+          <li><a {{ if eq $locale "en-UK" }} href="#" class="active" {{ else }} href="/en" {{ end }}>EN</a></li>
+          <li><a {{ if eq $locale "de-DE" }} href="#" class="active" {{ else }} href="/de" {{ end }}>DE</a></li>
+          <li><a {{ if eq $locale "fr-FR" }} href="#" class="active" {{ else }} href="/fr" {{ end }}>FR</a></li>
         </ul>
       </nav>
     </div>
