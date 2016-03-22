@@ -13,6 +13,6 @@ do
   hugo --config "$CONFIG"
 done
 
-# i18n hugo workaround: copy assets to root and delete from countries
+# i18n hugo workaround: copy assets to root of /public
 
-find themes/sti/static -type d -maxdepth 1 -exec cp -av {} public \;
+find themes/sti/static/* -type d -maxdepth 0 -exec cp -av {} public \;
