@@ -3,20 +3,16 @@
     <div class="home__stay-informed__container__content">
       <section class="home__stay-informed__container__content__newsletter">
         <h2>Stay informed!</h2>
-        <form class="form-inline">
-          <div class="form-group">
-            <label class="sr-only" for="">Your Email:</label>
-            <input type="email" class="form-control" id="" placeholder="Email">
-          </div>
-          <div class="form-group">
-          <label for="newsletter-country">Choose country:</label>
-            <select title="––––––" class="selectpicker" id="newsletter-country" name="">
-              <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
-              <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
-            </select>
-          </div>
-          <button type="submit" class="btn btn-default">Sign up</button>
-        </form>
+        <div class="form-inline">
+          <form action="https://mailman.edri.org/mailman/subscribe/savetheinternet/" method="post">
+            <div class="form-group">
+              <input name="email" type="email" class="form-control" id="newsletter-email" placeholder="Your Email">
+            </div>
+            <div class="form-group">
+              <input name="email-button" value="SIGN UP" type="Submit" id="newsletter-submit" class="btn btn-default">
+            </div>
+          </form>
+        </div>
       </section>
     </div>
   </div>
