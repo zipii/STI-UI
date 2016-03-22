@@ -2,9 +2,6 @@
 
 ## Build process
 
-Hugo shall be executed in root and builds everything to ./public
-Gulp shall be executed in themes/sti and build everything to themes/sti/static
-
 ### HTML
 
 + Download and install [hugo](https://github.com/spf13/hugo/releases)
@@ -13,9 +10,9 @@ Gulp shall be executed in themes/sti and build everything to themes/sti/static
 ```
 cd /STI-UI
 hugo server --config config_en.yaml --verbose
- 
+
 ```
-+ Build for production (builds to `/public`):
++ Build for production (builds to `/public/en`):
 ```
 cd /STI-UI
 hugo --config config_en.yaml
@@ -31,14 +28,16 @@ We have adapted the pragmatic [Hugo Skeleton theme](https://github.com/saviomuc/
 + Continously build and watch for development (builds to the STI theme's
   `static` directory; Hugo picks this up for now and will use it within `/public`)
 ```
+cd /STI-UI
 npm start
 ```
-+ Build for production:
++ Build for production (`/public`):
 ```
-npm run build
+cd /STI-UI
+./build.sh
 ```
 
-### Internationalisation 
+### Internationalisation
 
 Different languages have different root config files:
 ```
@@ -72,4 +71,3 @@ public
 ├── javascripts
 └── stylesheets
 ```
-

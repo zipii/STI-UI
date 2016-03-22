@@ -1,10 +1,10 @@
-const gulp = require('gulp'),
-    sass = require('gulp-sass'),
-    cssnano = require('gulp-cssnano'),
-    autoprefixer = require('gulp-autoprefixer'),
-    uglify = require('gulp-uglify'),
-    jshint = require('gulp-jshint'),
-    rename = require('gulp-rename')
+const gulp         = require('gulp'),
+      autoprefixer = require('gulp-autoprefixer'),
+      cssnano      = require('gulp-cssnano'),
+      jshint       = require('gulp-jshint'),
+      rename       = require('gulp-rename'),
+      sass         = require('gulp-sass'),
+      uglify       = require('gulp-uglify');
 
 const PATH = {
   SITECSS : {
@@ -51,7 +51,9 @@ gulp.task('js',function(){
     .pipe(gulp.dest(PATH.JS.dest))
 });
 
-gulp.task('default', ['siteCss', 'questionsCss', 'js' ], function () {
+gulp.task('default', ['siteCss', 'questionsCss', 'js'], function () {
     gulp.watch("src/scss/**/*.scss", ['siteCss', 'questionsCss']);
     gulp.watch("src/js/*.js", ['js']);
 });
+
+gulp.task('build', ['siteCss', 'questionsCss', 'js']);
