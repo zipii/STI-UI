@@ -24,7 +24,7 @@ We have adapted the pragmatic [Hugo Skeleton theme](https://github.com/saviomuc/
 + Change to STI Hugo theme `cd /themes/sti`.
 + Download and install [node.js v5.7.1](https://nodejs.org/download/release/v5.7.1/) via the official installer or via [nodenv](https://github.com/nodenv/nodenv) (we use 5.7.1 [locally](https://github.com/nodenv/nodenv#nodenv-local) in `themes/sti`).
 + Run `npm install`.
-+ Continously build and watch for development (builds to the STI theme's
++ Continuously build and watch for development (builds to the STI theme's
   `static` directory; Hugo picks this up for now and will use it within `/public`):
 ```
 cd /STI-UI/themes/sti
