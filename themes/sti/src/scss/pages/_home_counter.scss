@@ -31,13 +31,14 @@
 
 .counter-button {
   position: relative;
+  margin-top: 0px;
   max-width: 162px;
   // max-height: 280px;
   border: none;
   border-radius: 5px;
   background-color: rgb(255, 137, 19);
   // box-shadow: inset 0px 0px 10px 30px rgba(251, 72, 0,.71), inset 0 0 62px 19px rgba(231,230,231,.02);
-  box-shadow: inset 3px 5px 24px rgba(1,1,1,.11), inset 0 0 43px 4px rgba(251, 72, 0,.71);
+  box-shadow: -9px 5px 1px 0px rgba(0,0,0,0.2) ,inset 3px 5px 24px rgba(1,1,1,.11), inset 0 0 43px 4px rgba(251, 72, 0,.71);
   color: $sti-white;
 
   background-image:    url(../images/act_now.svg);
