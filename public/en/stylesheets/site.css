@@ -1811,11 +1811,12 @@ a {
 
 .counter-button {
   position: relative;
+  margin-top: 0px;
   max-width: 162px;
   border: none;
   border-radius: 5px;
   background-color: #ff8913;
-  box-shadow: inset 3px 5px 24px rgba(1, 1, 1, 0.11), inset 0 0 43px 4px rgba(251, 72, 0, 0.71);
+  box-shadow: -9px 5px 1px 0px rgba(0, 0, 0, 0.2), inset 3px 5px 24px rgba(1, 1, 1, 0.11), inset 0 0 43px 4px rgba(251, 72, 0, 0.71);
   color: #ffffff;
   background-image: url(../images/act_now.svg);
   background-size: contain;
