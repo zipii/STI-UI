@@ -23,6 +23,7 @@
 }
 
 .home__counter__container__content__counter {
+  display: none;
   text-align: center;
   @include susy-breakpoint($tablet-small) {
     @include span(7 last);
@@ -62,7 +63,7 @@
   display: block;
   font-family: $montserrat;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
   letter-spacing: 0.025rem;
   @include setFontToBaseline(40px, 1, 1);
   margin-top: 0px !important;
