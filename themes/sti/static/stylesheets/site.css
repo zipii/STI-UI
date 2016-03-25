@@ -2077,12 +2077,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #ffffff;
-  background-image: url(../images/triangle_black.svg);
-  background-size: 140px;
-  background-repeat: no-repeat;
-  background-position: top center !important;
-  padding-top: +73px; }
+  background-color: #ffffff; }
 
 .home__fix-net-neutrality__container__content__header {
   width: 100%;

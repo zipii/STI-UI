@@ -24,7 +24,6 @@
 .home__fix-net-neutrality__container__content {
   @include content;
   background-color: $sti-white;
-  @include triangle-top(black);
 }
 
 @mixin net-neutrality-icon {
