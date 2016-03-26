@@ -42,6 +42,10 @@
 
 }
 
+.videoplaceholder {
+    cursor: pointer;
+}
+
 // bootstrap overrides
 
 .carousel {
@@ -68,3 +72,6 @@
   }
 }
 
+#vidplaceholder-01, #vidplaceholder-01 > img {
+	display:block;
+}

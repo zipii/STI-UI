@@ -2042,6 +2042,9 @@ a {
       min-height: 380px;
       max-width: 640px; } }
 
+.videoplaceholder {
+  cursor: pointer; }
+
 .carousel .right, .carousel .left {
   top: auto;
   bottom: -20px; }
@@ -2056,6 +2059,9 @@ a {
   bottom: 0; }
   .carousel-indicators li {
     box-sizing: border-box; }
+
+#vidplaceholder-01, #vidplaceholder-01 > img {
+  display: block; }
 
 .home__fix-net-neutrality {
   background-color: #89D3F6; }
