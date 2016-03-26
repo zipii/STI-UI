@@ -1414,11 +1414,11 @@ input[type="button"].btn-block {
 .flag.flag-ch {
   background-position: -16px -16px; }
 
-.flag.flag-cz {
-  background-position: -32px -16px; }
-
 .flag.flag-cy {
   background-position: -80px -96px; }
+
+.flag.flag-cz {
+  background-position: -32px -16px; }
 
 .flag.flag-de {
   background-position: -48px -16px; }
