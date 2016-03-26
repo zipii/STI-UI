@@ -1802,6 +1802,7 @@ a {
   margin-right: auto; }
 
 .home__counter__container__content__counter {
+  display: none;
   text-align: center; }
   @media (min-width: 640px) {
     .home__counter__container__content__counter {
@@ -1816,14 +1817,29 @@ a {
   border: none;
   border-radius: 5px;
   background-color: #ff8913;
-  box-shadow: -9px 5px 1px 0px rgba(0, 0, 0, 0.2), inset 3px 5px 24px rgba(1, 1, 1, 0.11), inset 0 0 43px 4px rgba(251, 72, 0, 0.71);
+  box-shadow: -9px 5px 1px 0px rgba(0, 0, 0, 0.2), inset 3px 5px 24px rgba(1, 1, 1, 0.11);
   color: #ffffff;
   background-image: url(../images/act_now.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom center; }
   .counter-button:hover {
-    color: #010101 !important; }
+    color: #ffffff !important;
+    box-shadow: -5px 3px 1px 0px rgba(0, 0, 0, 0.2), inset 3px 5px 24px rgba(1, 1, 1, 0.11), inset 0 0 43px 4px rgba(251, 72, 0, 0.71);
+    margin-top: +3px;
+    margin-left: -2px; }
+    .counter-button:hover:after {
+      border: none;
+      border-radius: 5px;
+      content: " ";
+      z-index: 10;
+      display: block;
+      position: absolute;
+      height: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: rgba(255, 255, 255, 0.2); }
   @media (min-width: 640px) {
     .counter-button {
       top: -2rem; } }
@@ -1832,7 +1848,7 @@ a {
   display: block;
   font-family: "Montserrat-Regular", sans-serif;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
   letter-spacing: 0.025rem;
   font-size: 40px;
   line-height: 60px;
@@ -1853,7 +1869,7 @@ a {
   color: #010101;
   font-family: "Montserrat-Regular", sans-serif;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
   font-size: 16px;
   line-height: 30px;
   margin-top: 0px;
@@ -2077,12 +2093,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #ffffff;
-  background-image: url(../images/triangle_black.svg);
-  background-size: 140px;
-  background-repeat: no-repeat;
-  background-position: top center !important;
-  padding-top: +73px; }
+  background-color: #ffffff; }
 
 .home__fix-net-neutrality__container__content__header {
   width: 100%;

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/de/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/step-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/step-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/step-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/step-4/</loc>
+  </url>
+  
+</urlset>
