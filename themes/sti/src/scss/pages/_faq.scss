@@ -2,20 +2,6 @@
 
 .faq {
   background-color: $sti-blue-sky-light;
-  ul {
-    // padding-left: 0;
-    // margin-left: 0;
-    li {
-      list-style-type: none;
-      // &:before {
-      //   font-family: 'FontAwesome';
-      //   content: '\f0a9';
-      //   margin: 0;
-      //   padding: 0;
-      //   color: $sti-gray-light;
-      // }
-    }
-  }
 
   h3 {
     font-family: $montserrat;
@@ -31,6 +17,7 @@
       text-decoration: none;
       @include setFontToBaseline(30px, 1, 1);
     }
+
   }
 }
 
@@ -48,4 +35,29 @@
   @include content-inside;
   background-color: $sti-white;
   padding-top: span(2);
+
+  h1 {
+      margin-top: span(2);
+      margin-bottom: span(1);
+      padding-bottom: 0;
+  }
+
+  h2 {
+    padding-top: span(0.5);
+    padding-bottom: 0;
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+    margin: 0;
+  }
+
+  ul {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+
+    li {
+      padding-left: span(2) !important;
+      list-style-type: none;
+    }
+  }
 }

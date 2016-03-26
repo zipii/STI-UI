@@ -23,3 +23,11 @@ $(document).ready(function() {
   });
 
 });
+
+
+$(function clickToActivate() {
+    $(".videoplaceholder" ).click(function() {
+        var videourl = $( this ).attr( "videourl" );
+        $( this ).replaceWith( '<iframe src="' + videourl + '" frameborder="0"></iframe>' );
+    });
+});
