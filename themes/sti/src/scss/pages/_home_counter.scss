@@ -34,12 +34,10 @@
   position: relative;
   margin-top: 0px;
   max-width: 162px;
-  // max-height: 280px;
   border: none;
   border-radius: 5px;
   background-color: rgb(255, 137, 19);
-  // box-shadow: inset 0px 0px 10px 30px rgba(251, 72, 0,.71), inset 0 0 62px 19px rgba(231,230,231,.02);
-  box-shadow: -9px 5px 1px 0px rgba(0,0,0,0.2) ,inset 3px 5px 24px rgba(1,1,1,.11), inset 0 0 43px 4px rgba(251, 72, 0,.71);
+  box-shadow: -9px 5px 1px 0px rgba(0,0,0,0.2), inset 3px 5px 24px rgba(1,1,1,.11);
   color: $sti-white;
 
   background-image:    url(../images/act_now.svg);
@@ -48,10 +46,25 @@
   background-position: bottom center;
 
   &:hover {
-    // background-image: url(../images/act_now_active.svg);
-    // background-color: $sti-white;
-    color: $sti-black-dark !important;
+    color: $sti-white !important;
+    box-shadow: -5px 3px 1px 0px rgba(0,0,0,0.2), inset 3px 5px 24px rgba(1,1,1,.11), inset 0 0 43px 4px rgba(251, 72, 0,.71);
+    margin-top: +3px;
+    margin-left: -2px;
+    &:after {
+      border: none;
+      border-radius: 5px;
+      content: " ";
+      z-index: 10;
+      display: block;
+      position: absolute;
+      height: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: rgba(255, 255, 255, 0.2);
+    }
   }
+
 
   @include susy-breakpoint($tablet-small) {
     top: -2rem;
@@ -78,7 +91,7 @@
   color: $sti-black-dark;
   font-family: $montserrat;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
   @include setFontToBaseline(16px, 0, 0);
   margin-top: -0.4rem !important;
   margin-bottom: 0px !important;
