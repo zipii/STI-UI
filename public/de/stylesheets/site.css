@@ -2042,6 +2042,9 @@ a {
       min-height: 380px;
       max-width: 640px; } }
 
+.videoplaceholder {
+  cursor: pointer; }
+
 .carousel .right, .carousel .left {
   top: auto;
   bottom: -20px; }
@@ -2056,6 +2059,9 @@ a {
   bottom: 0; }
   .carousel-indicators li {
     box-sizing: border-box; }
+
+#vidplaceholder-01, #vidplaceholder-01 > img {
+  display: block; }
 
 .home__fix-net-neutrality {
   background-color: #89D3F6; }
@@ -2404,8 +2410,6 @@ a {
 
 .faq {
   background-color: #89D3F6; }
-  .faq ul li {
-    list-style-type: none; }
   .faq h3 {
     font-family: "Montserrat-Regular", sans-serif;
     font-weight: 400;
@@ -2457,6 +2461,23 @@ a {
   margin-right: 0;
   background-color: #ffffff;
   padding-top: 7.56303%; }
+  .faq__container__content__main h1 {
+    margin-top: 7.56303%;
+    margin-bottom: 0;
+    padding-bottom: 0; }
+  .faq__container__content__main h2, .faq__container__content__main .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .faq__container__content__main a {
+    padding-top: 1.2605%;
+    padding-bottom: 0;
+    padding-left: 7.56303% !important;
+    padding-right: 7.56303% !important;
+    margin: 0; }
+  .faq__container__content__main ul {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0; }
+    .faq__container__content__main ul li {
+      padding-left: 7.56303% !important;
+      list-style-type: none; }
 
 /*Custom Radio Buttons and Checkboxes using Font Awesome*/
 input[type=radio],
