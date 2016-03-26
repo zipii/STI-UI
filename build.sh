@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+set -e
+
 # build assets
 
 cd themes/sti || exit
