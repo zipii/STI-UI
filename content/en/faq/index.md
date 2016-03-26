@@ -54,13 +54,13 @@ Net neutrality guarantees your freedom online to access and distribute the infor
 
 Without net neutrality...
 
-1.        you would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
+1.        You would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
 
-2.        new cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
+2.        New cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
 
-3.        the economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
+3.        The economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
 
-4.        the Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
+4.        The Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
 
 [How data caps harm consumers and innovation](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -100,7 +100,7 @@ But the deciding factor in most net neutrality debates is the general public, **
 
 SaveTheInternet is the joint campaign of 12 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
 
-If you are part of an organisation and want to become a supporter or help spread the word, please contact us at &lt;info@savetheinternet.eu&gt;.
+If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
 
@@ -109,7 +109,7 @@ If you are part of an organisation and want to become a supporter or help spread
 <a name="what-are-specialised-services"></a>
 ## What are specialised services?
 
-A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) , any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
+A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
 
 Real specialised services have nothing to do with the Internet. They are services that may use the same technology and sometimes even the same physical architecture, but they are not part of the global Internet because they require a level of quality which could not be offered by the Internet. 
 
@@ -117,7 +117,7 @@ Real specialised services have nothing to do with the Internet. They are service
 <a name="what-are-examples-of-services-that-are-not-specialised-services"></a>
 ## What are examples of services that are not specialised services?
 
-Specialised services are not services which could be provided on the Internet. The problem to be avoided is allowing existing online services to be reclassified as specialised services. Under such a scenario, a company with enough money could buy priority for their services, which would give them an unfair advantage ahead everyone else - reducing competition, innovation and choice.. 
+Specialised services are not services which could be provided on the Internet. The problem to be avoided is allowing existing online services to be reclassified as specialised services. Under such a scenario, a company with enough money could buy priority for their services, which would give them an unfair advantage ahead everyone else &#8211; reducing competition, innovation and choice.. 
 
 
 <a name="what-safeguards-are-in-eu-law-to-deal-with-specialised-services"></a>
@@ -150,7 +150,7 @@ The optimisation of a specialised service has to be objectively necessary for th
 <a name="what-is-traffic-management"></a>
 ## What is traffic management?
 
-Traffic management allows ISPs to manage data traffic on their networks. To do so, ISP can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
+Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
 
 
 <a name="why-should-i-care-about-traffic-management"></a>
@@ -168,21 +168,21 @@ Traffic management should never interfere with your freedom as an end-user or on
 
 Of course internet providers should be allowed to manage their networks. However, this needs to be done in a way that makes no distinction on the basis of the content, application and services being used by you or other internet users. [This is feasible](https://tools.ietf.org/html/rfc6057) and supported by [detailed analysis](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
 
-The alternative is for the Internet provider to classify data packages based on criteria that it establishes, leading to some applications being slowed down and others speeded up. This can be on the basis of technical requiements of the service (time sensitivity, jitter sensitivity) or the functionality the service offers to the user (telephony, video-streaming, music-streaming, gaming, etc.). This second approach is called class-based traffic management. As encrypted data traffic cannot be classified, one of the risks of this approahc is that such data is automatically put in a "slow lane" (unless it come from a big provider, where the type of data can be guessed). Disincentivising encryption is clearly bad for privacy, while slowing down encrypted data from small providers is anti-competitive.
+The alternative is for the Internet provider to classify data packages based on criteria that it establishes, leading to some applications being slowed down and others speeded up. This can be on the basis of technical requiements of the service (time sensitivity, jitter sensitivity) or the functionality the service offers to the user (telephony, video-streaming, music-streaming, gaming, etc.). This second approach is called class-based traffic management. As encrypted data traffic cannot be classified, one of the risks of this approach is that such data is automatically put in a "slow lane" (unless it come from a big provider, where the type of data can be guessed). Disincentivising encryption is clearly bad for privacy, while slowing down encrypted data from small providers is anti-competitive.
 
 We can therefore say that class-based traffic management measures are: 
 
--        Less transparent then application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified
+-        Less transparent than application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified;
 
--        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior 
+-        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
 
--        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice
+-        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice;
 
 
 <a name="what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management"></a>
 ## What is the goal of SaveTheInternet.eu when it comes to traffic management?
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules (see Article 3(3) subparagraphs 1 to 3). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are premitted to resort to class-based measures.
+The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
 
 Traffic management is necessary to resolve congestion and ensure the integrity and security of the network. But, like surveillance, traffic management should only use the least intrusive measures available, only for a specific purpose and a for limited time when it is genuinely necessary to achieve a legitimate goal.
 
@@ -190,9 +190,9 @@ Traffic management is necessary to resolve congestion and ensure the integrity a
 <a name="when-can-a-provider-start-managing-its-network"></a>
 ## When can a provider start managing its network?
 
-According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) , Internet providers can either start to manage their network in an actual case of congestion or in cases where they are seeking to mitigate congestion that is about to materialise. This second option should be clarified by the regulators to avoid a slippery slope situation where the network is "managed" all the time, even when there is no actual need for it.
+According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), Internet providers can either start to manage their network in an actual case of congestion or in cases where they are seeking to mitigate congestion that is about to materialise. This second option should be clarified by the regulators to avoid a slippery slope situation where the network is "managed" all the time, even when there is no actual need for it.
 
-We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribesr connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
+We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
 
 
 
@@ -215,7 +215,7 @@ Zero rating is a major reason for low data caps (data caps are data upload or do
 <a name="am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme"></a>
 ## Am I really getting something for free when I use a zero rating programme?
 
-At first sight, it looks as if you’d get something for free. Contrary to appearances, your freedom of choice in the Internet is restricted and your Internet provider establishes itself as a gatekeeper. In the case of Facebook's Free Basics programe, for example, why should Facebook decide which services and apps you can use? What is the economic incentive for Facebook to offer this? Is this really for free? The answer is no. Nothing is for free. Zero rating has implications for your security, privacy and for a competitive market.
+At first sight, it looks as if you’d get something for free. Contrary to appearances, your freedom of choice in the Internet is restricted and your Internet provider establishes itself as a gatekeeper. In the case of Facebook's Free Basics programme, for example, why should Facebook decide which services and apps you can use? What is the economic incentive for Facebook to offer this? Is this really for free? The answer is no. Nothing is for free. Zero rating has implications for your security, privacy and for a competitive market.
 
 
 <a name="how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem"></a>
@@ -230,7 +230,7 @@ Instead of simply selling Internet access, Internet providers increasingly want 
 <a name="what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating"></a>
 ## What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?
 
-Zero rating is a clear violation of the net neutrality rules and therefore needs to be prohibited. This practice is anti-competitive and violates your freedom to use and access the applications, services and content you want and the freedom of content and application providers to make their offer in all networks without restriction (as required by Article 3(1) of the [EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). The EU Regulation also bans Internet and content providers from offering services that limit your rights as an end-user or as a content provider (cf. Article 3(2) of the Regulation). 
+Zero rating is a clear violation of the net neutrality rules and therefore needs to be prohibited. This practice is anti-competitive and violates your freedom to use and access the applications, services and content you want and the freedom of content and application providers to make their offer in all networks without restriction (as required by Article 3(1) of the [EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). The EU Regulation also bans Internet and content providers from offering services that limit your rights as an end-user or as a content provider [(cf. Article 3(2) of the Regulation)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
 If data caps are exceeded and certain zero rated services are still accessible while the rest of the Internet is blocked or throttled, this is a clear violation of other provisions of the Regulation delivering net neutrality. 
 
@@ -272,14 +272,14 @@ These are some examples:
 
 You can help SaveTheInternet.eu in many ways:
 
--        Spread the word! Tell your friends this campaign, about net neutrality and about why it is important to act now. Only when many individuals voices speak out,  will we be able to protect our online rights and freedoms.
+<i class="fa fa-long-arrow-right"></i>        Spread the word! Tell your friends this campaign, about net neutrality and about why it is important to act now. Only when many individuals voices speak out,  will we be able to protect our online rights and freedoms.
 
--        Translate the website into your language! You can do that via [Save The Internet on Github](https://github.com/netzfreiheit/savetheinternet) 
+<i class="fa fa-long-arrow-right"></i>        Translate the website into your language! You can do that via [Save The Internet on Github](https://github.com/netzfreiheit/savetheinternet) 
 
--        Join us! If you are part of an organisation and would like to join SaveTheInternet.eu, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+<i class="fa fa-long-arrow-right"></i>        Join us! If you are part of an organisation and would like to join SaveTheInternet.eu, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
--        Report violations of net neutrality through [Respect My Net](https://respectmynet.eu/)
+<i class="fa fa-long-arrow-right"></i>        Report violations of net neutrality through [Respect My Net](https://respectmynet.eu/)
 
--        Donate! If you want to donate to the organisations behind SaveTheInternet, please click [ here ] 
+<i class="fa fa-long-arrow-right"></i>        Donate! If you want to donate to the organisations behind SaveTheInternet, please click [ here ] 
 
 Do you have any other cool and creative ideas? Please, reach out to us via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
