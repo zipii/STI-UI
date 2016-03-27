@@ -67,6 +67,15 @@ input[type="checkbox"]:checked + label:before {
   background: none;
 }
 
+.action-button-go-to-submission {
+  @extend .action-button;
+  @include sti-gradient-background($sti-blue-sky-dark, $sti-blue-sky-light);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: span(1);
+}
+
 .form-control {
   max-width: 100%;
 
