@@ -1,5 +1,34 @@
 # STI-UI
 
+## Translations
+
++ Copy the English config and rename it correspondingly (i.e. `config_it.yaml` for Italian):
+```
+cp config_en.yaml config_[TWO_LETTER_CODE].yaml
+```
+
+### Layouts / Homepage
+
+The homepage itself is translatable in HTML form via layouts / layout partials only.
+
++ Change all locale/language related fields in the new config file.
++ Copy the English `layout` files as the base for your layout translation (layout files in the root `layouts` directory overrule any corresponding layout file from `themes/sti/layouts`):
+```
+mkdir layouts/[TWO_LETTER_CODE]
+cp themes/sti/layouts/* layouts/[TWO_LETTER_CODE]
+```
+
+### Content / Content Subpages
+
+We need a consistent `content` files structure in order for Hugo to generate the corresponding URL paths. *Most of the `content` files are stubs only* but an example for a pure content based page is [FAQ](https://github.com/Netzfreiheit/STI-UI/blob/master/content/en/faq/index.md).
+All files in `content` should be written in [Markdown](https://en.wikipedia.org/wiki/MarkdownContent).
+Files in the root `content` directory overrule any corresponding content file from `themes/sti/content`.
++ Copy the English `content` files as the base for your content translation:
+```
+mkdir content/[TWO_LETTER_CODE]
+cp content/en/* content/[TWO_LETTER_CODE]
+```
+
 ## Build process
 
 ### HTML
@@ -59,54 +88,30 @@ cd /STI-UI
 
 *! This is an important last step before deploying as it provides all assets through the root url path until Hugo provides a better solution natively !*
 
-## Translations
-
-+ Copy the English config and rename it correspondingly (i.e. `config_it.yaml` for Italian):
-```
-cp config_en.yaml config_[TWO_LETTER_CODE].yaml
-```
-
-### Layouts / Homepage
-
-The homepage itself is translatable in HTML form via layouts / layout partials only.
-
-+ Change all locale/language related fields in the new config file.
-+ Copy the English `layout` files as the base for your layout translation (layout files in the root `layouts` directory overrule any corresponding layout file from `themes/sti/layouts`):
-```
-mkdir layouts/[TWO_LETTER_CODE]
-cp themes/sti/layouts/* layouts/[TWO_LETTER_CODE]
-```
-
-### Content / Content Subpages
-
-We need a consistent `content` files structure in order for Hugo to generate the corresponding URL paths. *Most of the `content` files are stubs only* but an example for a pure content based page is [FAQ](https://github.com/Netzfreiheit/STI-UI/blob/master/content/en/faq/index.md).
-All files in `content` should be written in [Markdown](https://en.wikipedia.org/wiki/MarkdownContent).
-Files in the root `content` directory overrule any corresponding content file from `themes/sti/content`.
-+ Copy the English `content` files as the base for your content translation:
-```
-mkdir content/[TWO_LETTER_CODE]
-cp content/en/* content/[TWO_LETTER_CODE]
-```
-
 ## Questionnaire specifics
 
-All questionnaire templates needed for inclusion in the backend can be found here:
+All questionnaire templates needed for inclusion and adaptation on the backend can be found here:
 
 ```
 public
-├── step-1
-├── step-2
-├── step-3
-├── step-4
+   └── en
+       ├── step-1
+       │   └── index.html
+       ├── step-2
+       │   └── index.html
+       ├── step-3
+       │   └── index.html
+       └── step-4
+           └── index.html
 ```
 
-All additional assets should plainly be copied in the corresponding public path
-of the backend server:
+Asset directories should be copied to the public path of the backend server (without language namespace, e.g. fonts simply made reachable via "https://consultation.savetheinternet.eu/fonts"):
 
 ```
 public
-├── fonts
-├── images
-├── javascripts
-└── stylesheets
+   └── en
+       ├── fonts
+       ├── images
+       ├── javascripts
+       └── stylesheets
 ```
