@@ -16,10 +16,25 @@ $(document).ready(function() {
     interval: false
   });
 
+  $('#video-carousel').hammer().on('swipeleft', function(){
+      $(this).carousel('next');
+  });
+
+  $('#video-carousel').hammer().on('swiperight', function(){
+    $(this).carousel('prev');
+  });
+
   $.get('/counter/count.json', function(counter) {
     $('.home__counter__container__content__counter').show();
     $('.counter-message').first().html(counter.count);
     $('.counter-days-left').first().html(daysUntil(deadline));
   });
 
+});
+
+$(function clickToActivate() {
+    $(".videoplaceholder" ).click(function() {
+        var videourl = $( this ).attr( "videourl" );
+        $( this ).replaceWith( '<iframe src="' + videourl + '" frameborder="0"></iframe>' );
+    });
 });
