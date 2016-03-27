@@ -44,6 +44,11 @@
 
 .videoplaceholder {
     cursor: pointer;
+    opacity: 0.7;
+}
+
+.videoplaceholder:hover {
+    opacity: 1;
 }
 
 // bootstrap overrides
@@ -70,8 +75,4 @@
   li {
     box-sizing: border-box;
   }
-}
-
-#vidplaceholder-01, #vidplaceholder-01 > img {
-	display:block;
 }

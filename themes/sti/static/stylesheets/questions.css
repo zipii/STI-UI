@@ -6919,7 +6919,7 @@ a {
     .nav-main li a {
       margin-right: 1.5em; } }
   @media (min-width: 0) and (max-width: 640px) {
-    .nav-main li:first-child {
+    .nav-main li:nth-child(2) {
       display: none; } }
 
 .nav-language {

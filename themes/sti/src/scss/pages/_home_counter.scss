@@ -33,7 +33,7 @@
 .counter-button {
   position: relative;
   margin-top: 0px;
-  max-width: 162px;
+  width: 142px;
   border: none;
   border-radius: 5px;
   background-color: rgb(255, 137, 19);
@@ -65,9 +65,9 @@
     }
   }
 
-
   @include susy-breakpoint($tablet-small) {
     top: -2rem;
+    width: 142px;
   }
 }
 
@@ -81,9 +81,13 @@
   @include setFontToBaseline(40px, 1, 1);
   margin-top: 0px !important;
   margin-bottom: 0px !important;
-  padding-top: 0.8rem;
+  padding-top: 0;
   padding-left: 1rem !important;
   padding-right: 1rem !important;
+  top: -2rem;
+  @include susy-breakpoint($tablet-small) {
+    padding-top: 0.8rem;
+  }
 }
 
 .counter-message-description {
@@ -96,27 +100,45 @@
   margin-top: -0.4rem !important;
   margin-bottom: 0px !important;
   line-height: 1rem !important;
-  padding-left: 1rem;
+  padding-left: 0.2rem;
   padding-right: 0.2rem;
+  padding-bottom: 6rem;
+  @include susy-breakpoint($tablet-small) {
+    margin-top: -0.4rem !important;
+    margin-bottom: 0px !important;
+    line-height: 1rem !important;
+    padding-left: 1rem;
+    padding-right: 0.2rem;
+    padding-bottom: 0;
+  }
 }
 
 .counter-days-left {
-  display: block;
-  font-family: $montserrat;
-  font-weight: 400;
-  text-align: center;
-  @include setFontToBaseline(43px, 1, 1);
-  margin-top: 0px !important;
-  margin-bottom: 0px !important;
-  padding-top: 0.8rem;
-  padding-left: 0;
-  padding-right: 0;
+  display: none;
+  @include susy-breakpoint($tablet-small) {
+    display: block;
+    font-family: $montserrat;
+    font-weight: 400;
+    text-align: center;
+    @include setFontToBaseline(43px, 1, 1);
+      margin-top: 0px !important;
+      margin-bottom: 0px !important;
+      padding-top: 0.8rem;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 0;
+  }
 }
 
+
 .counter-days-left-description {
-  @extend .counter-message-description;
-  text-align: center;
-  padding-left: 0;
-  padding-right: 0;
-  padding-bottom: 142px;
+  display: none;
+  @include susy-breakpoint($tablet-small) {
+    display: block;
+    @extend .counter-message-description;
+      text-align: center;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 142px;
+  }
 }
