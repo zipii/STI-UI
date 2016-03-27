@@ -58,6 +58,18 @@ if (typeof handleCountrySelect === 'undefined') {
   }
 }
 
+window.iFrameResizer = {
+  readyCallback: function() {
+    parentIFrame.sendMessage('loaded');
+    if ('parentIFrame' in window) {
+      $('button').on('click', function() {
+        parentIFrame.scrollToOffset(0, -30);
+        parentIFrame.sendMessage('loading');
+      })
+    }
+  }
+}
+
 $(document).ready(function() {
 
   registerStepHoverEvent('#questions-form__header__navigation__step-1', 'fa-check-square-o', 'fa-check-square');

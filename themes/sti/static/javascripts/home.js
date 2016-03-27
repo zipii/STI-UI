@@ -10,11 +10,20 @@ $(document).ready(function() {
 
   var iframes = iFrameResize({
     heightCalculationMethod: 'max',
-    initCallback: function() {
-      $('#questionnaire-loading-spinner').toggle();
-    },
-    closeCallback: function() {
-      $('#questionnaire-loading-spinner').toggle();
+    messageCallback: function(context) {
+      if (context.message === 'loaded' ||
+          context.message === 'loading') {
+            $('#questionnaire-loading-spinner').toggle();
+      }
+      // if (context.message === 'loaded' ||
+      //     context.message === 'loading') {
+      //   $spinner = $('#questionnaire-loading-spinner');
+      //   if ($spinner.css('visibility') === 'hidden' ) {
+      //     $spinner.css('visibility', 'visible');
+      //   } else {
+      //     $spinner.css('visibility', 'hidden');
+      //   }
+      // }
     }
   }, document.getElementById('home__questions__container__content__body__iframe'));
 
