@@ -10,5 +10,14 @@
     <link rel="stylesheet" href="/stylesheets/vendor/font-awesome.min.css">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
 	  <link rel="shortcut icon" href="/favicon.ico">
+    <script>
+      window.iFrameResizer = {
+        readyCallback: function() {
+          if ('parentIFrame' in window) {
+            parentIFrame.scrollToOffset(0, 0);
+          }
+        }
+      }
+    </script>
   </head>
   <body>
