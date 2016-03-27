@@ -19,8 +19,8 @@
     <div class="nav-bar-content">
       <nav class="nav-bar-content__nav">
         <ul class="nav-main">
-          <li><a href="/en/#info">Information</a></li>
           <li><a href="/en/#send-a-message" class="send-a-message">Send a message!</a></li>
+          <li><a href="/en/#info">Information</a></li>
           <li><a href="/en/faq">FAQ</a></li>
         </ul>
         <ul class="nav-language">
@@ -68,6 +68,8 @@
   </div>
 </section>
 
+
+
 <section class="home__fix-net-neutrality">
   <div class="home__fix-net-neutrality__container">
     <div class="home__fix-net-neutrality__container__content">
@@ -78,19 +80,19 @@
         <img src="/images/specialised_services.svg" />
         <h2>Specialised Services</h2>
         <p>Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.</p>
-        <a href="/faq/#specialised-services" target="_blank">read more in FAQ</a>
+        <a href="/en/faq/#specialised-services" target="_blank">read more in FAQ</a>
       </section>
       <section class="home__fix-net-neutrality__container__content__traffic-management">
         <img src="/images/traffic_management.svg" />
         <h2>Traffic Management</h2>
         <p>Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.</p>
-        <a href="/faq/#traffic-management" target="_blank">read more in FAQ</a>
+        <a href="/en/faq/#traffic-management" target="_blank">read more in FAQ</a>
       </section>
       <section class="home__fix-net-neutrality__container__content__zero-rating">
         <img src="/images/zero_rating.svg" />
         <h2>Zero Rating</h2>
         <p>It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.</p>
-        <a href="/faq/#zero-rating" target="_blank">read more in FAQ</a>
+        <a href="/en/faq/#zero-rating" target="_blank">read more in FAQ</a>
       </section>
     </div>
   </div>
@@ -109,6 +111,7 @@
         <p>Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering the multiple choice and open questions an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.</p>
       </header>
       <section class="home__questions__container__content__body">
+        <div id="questionnaire-loading-spinner">Loading Questionnaire <i class="fa fa-circle-o-notch fa-spin"></i></div>
         <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="https://consultation.savetheinternet.eu/en/" scrolling="no"></iframe>
         
       </section>
@@ -177,7 +180,7 @@
           <div class="carousel-inner" role="listbox">
             <div class="item active">
               <div class="home-video">
-		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/fpbOEoRrHyU">
+		<div width="300px" height="200px" class="videoplaceholder" videourl="https://www.youtube.com/embed/fpbOEoRrHyU">
 		  <img src="/images/videos/video01.jpg" />
 		</div>
               </div>
@@ -371,6 +374,8 @@
     <script src="/javascripts/vendor/bootstrap/carousel.js"></script>
     <script src="/javascripts/vendor/bootstrap/button.js"></script>
     <script src="/javascripts/vendor/bootstrap/dropdown.js"></script>
+    <script src="/javascripts/vendor/hammer.min.js"></script>
+    <script src="/javascripts/vendor/jquery.hammer.js"></script>
     <script src="/javascripts/shared.js"></script>
     <script src="/javascripts/home.js"></script>
   </body>

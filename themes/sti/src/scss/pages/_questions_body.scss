@@ -5,14 +5,16 @@
 }
 
 @mixin form-content {
-  box-sizing:   border-box;
-  border-left:  solid $sti-orange 3px;
-  border-right: solid $sti-orange 6px;
   background-color: $sti-white;
-  padding-left:   1.5em;
-  padding-right:  1.5em;
-  padding-top:    1.7em;
-  padding-bottom: 1.5em;
+  @include susy-breakpoint($tablet) {
+    padding-left:   1.5em;
+    padding-right:  1.5em;
+    padding-top:    1.7em;
+    padding-bottom: 1.5em;
+    box-sizing:   border-box;
+    border-left:  solid $sti-orange 3px;
+    border-right: solid $sti-orange 6px;
+  }
 }
 
 .questions-form__body {
@@ -28,27 +30,44 @@
   @include form-content;
 
   p {
-    font-style: italic;
-    @include setFontToBaseline(20px, 1.5, 1.5);
-    line-height: 1.3rem;
-    padding-left: span(2) !important;
-    padding-right: span(2) !important;
+    // font-style: italic;
+    // @include setFontToBaseline(15px, 1.5, 1.5);
+    // line-height: 1.3rem;
+    // padding-left: span(2) !important;
+    // padding-right: span(2) !important;
+    //
+    // @include susy-breakpoint($tablet) {
+    //   @include setFontToBaseline(20px, 1.5, 1.5);
+    //   line-height: 1.3rem;
+    //   padding-left: span(2) !important;
+    //   padding-right: span(2) !important;
+    // }
   }
 
   h1 {
-    font-family: $montserrat;
-    font-weight: 700;
-    @include setFontToBaseline(30px, 1, 1);
-    padding-left: span(2) !important;
-    padding-right: span(2) !important;
+    // font-family: $montserrat;
+    // font-weight: 700;
+    // @include setFontToBaseline(25px, 1, 1);
+    // padding-left: span(2) !important;
+    // padding-right: span(2) !important;
+    // @include susy-breakpoint($tablet) {
+    //   @include setFontToBaseline(30px, 1, 1);
+    //   padding-left: span(2) !important;
+    //   padding-right: span(2) !important;
+    // }
   }
 
   h3 {
-    font-family: $montserrat;
-    font-weight: 700;
-    @include setFontToBaseline(20px, 0, 0);
-    padding-left: span(2) !important;
-    padding-right: span(2) !important;
+    // font-family: $montserrat;
+    // font-weight: 700;
+    // @include setFontToBaseline(15px, 0, 0);
+    // padding-left: span(2) !important;
+    // padding-right: span(2) !important;
+    // @include susy-breakpoint($tablet) {
+    //   @include setFontToBaseline(20px, 0, 0);
+    //   padding-left: span(2) !important;
+    //   padding-right: span(2) !important;
+    // }
   }
 }
 

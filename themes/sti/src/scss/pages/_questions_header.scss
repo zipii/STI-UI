@@ -13,8 +13,12 @@
 .questions-form__header__locality {
   @include content;
   color: $sti-white;
-  text-align: center;
-  padding-bottom: span(3);
+
+    // text-align: left;
+    //
+    // @include susy-breakpoint($table) {
+    text-align: center;
+  // }
 
   label {
     @include setFontToBaseline(20px, 1, 1);
@@ -23,15 +27,22 @@
 }
 
 .questions-form__header__locality__country {
-  @include span(12);
+  @include span(24);
+  @include susy-breakpoint($tablet) {
+    @include span(12);
+  }
 }
 
 .questions-form__header__locality__language {
-  @include span(12 last);
+  @include span(24);
+  @include susy-breakpoint($tablet) {
+    @include span(12 last);
+  }
 }
 
 .questions-form__header__navigation {
   @include content;
+  padding-top: span(3);
 }
 
 .questions-form__header__navigation__steps {
@@ -39,7 +50,6 @@
   list-style-type: none;
   margin:  0;
   padding: 0;
-
 }
 
 .triangle-step {

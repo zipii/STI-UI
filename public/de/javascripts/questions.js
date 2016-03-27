@@ -4,17 +4,44 @@ function handleStepClick(event) {
   return true;
 }
 
-function handleExpandArrowClick(event) {
-  console.log(event);
-  event.preventDefault();
-  var $clickedElement = $(event.target);
-  $clickedElement.parent().parent()
-    .siblings('div.question-explanation').first()
+function toggleExpandArrowForSiblingClass($clickedElement, $parentElement, siblingClass) {
+  $parentElement
+    .siblings(siblingClass).first()
     .slideToggle(function() {
       $clickedElement.toggleClass('fa-caret-down');
       $clickedElement.toggleClass('fa-caret-up');
     });
+}
+
+function handleExpandArrowClick(event) {
+  event.preventDefault();
+  var $clickedElement       = $(event.target);
+  var $questionInputElement = $clickedElement.parent().parent();
+  var $questionElement      = $questionInputElement.parent();
+  if ($questionElement.is('fieldset')) {
+    toggleExpandArrowForSiblingClass($clickedElement, $questionInputElement, 'div.question-explanation');
+  } else {
+    toggleExpandArrowForSiblingClass($clickedElement, $questionInputElement, 'div.predefined-message-preview');
+  }
   return true;
+}
+
+function registerStepHoverEvent(id, addClassName, removeClassName) {
+  $(id).hover(function() {
+    if (!$(this).hasClass('active')) {
+      $(this).find('i').addClass(addClassName);
+      $(this).find('i').removeClass(removeClassName);
+      $(this).find('i').addClass('fa-5x');
+      $(this).find('i').removeClass('fa-3x');
+    }
+  }, function() {
+    if (!$(this).hasClass('active')) {
+      $(this).find('i').addClass(removeClassName);
+      $(this).find('i').removeClass(addClassName);
+      $(this).find('i').addClass('fa-3x');
+      $(this).find('i').removeClass('fa-5x');
+    }
+  });
 }
 
 if (typeof handleLanguageSelect === 'undefined') {
@@ -31,26 +58,17 @@ if (typeof handleCountrySelect === 'undefined') {
   }
 }
 
-function registerStepHoverEvent(id, addClassName, removeClassName) {
-  $(id).hover(function() {
-    console.log('hover');
-    if (!$(this).hasClass('active')) {
-      $(this).find('i').addClass(addClassName);
-      $(this).find('i').removeClass(removeClassName);
-      $(this).find('i').addClass('fa-5x');
-      $(this).find('i').removeClass('fa-3x');
+window.iFrameResizer = {
+  readyCallback: function() {
+    parentIFrame.sendMessage('loaded');
+    if ('parentIFrame' in window) {
+      $('button').on('click', function() {
+        parentIFrame.scrollToOffset(0, -30);
+        parentIFrame.sendMessage('loading');
+      })
     }
-  }, function() {
-    if (!$(this).hasClass('active')) {
-      console.log('unhover');
-      $(this).find('i').addClass(removeClassName);
-      $(this).find('i').removeClass(addClassName);
-      $(this).find('i').addClass('fa-3x');
-      $(this).find('i').removeClass('fa-5x');
-    }
-  });
+  }
 }
-
 
 $(document).ready(function() {
 
@@ -58,13 +76,6 @@ $(document).ready(function() {
   registerStepHoverEvent('#questions-form__header__navigation__step-2', 'fa-pencil-square-o', 'fa-pencil-square');
   registerStepHoverEvent('#questions-form__header__navigation__step-3', 'fa-pencil-square-o', 'fa-pencil-square');
   registerStepHoverEvent('#questions-form__header__navigation__step-4', 'fa-envelope-o', 'fa-envelope');
-
-  console.log('loaded questions..');
-
-  // fit step label text to container
-  // $('.step-label').find('h3').each(function() {
-  //   $(this).fitText();
-  // })
 
   addClickHandlersForClassName(handleStepClick, 'questions-form__header__navigation__step__content');
   addClickHandlersForClassName(handleExpandArrowClick, 'expand-arrow');

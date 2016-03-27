@@ -7,7 +7,7 @@
   p {
     font-family: $montserrat;
     font-weight: 400;
-    @include setFontToBaseline(20px, 1, 1);
+    // @include setFontToBaseline(20px, 1, 1);
   }
 
   a {
@@ -50,6 +50,9 @@
   @include content-inside;
   background-color: $sti-white;
   padding-bottom: span(2);
+  h1 {
+    text-align: center;
+  }
 }
 
 .home__fix-net-neutrality__container__content__specialised-services {
