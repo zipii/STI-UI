@@ -2544,7 +2544,7 @@ input[type="checkbox"]:checked + label:before {
 .checkbox label {
   padding-left: 0; }
 
-.action-button, .action-button-next, .action-button-back {
+.action-button, .action-button-next, .action-button-back, .action-button-go-to-submission {
   display: inline-block;
   color: #ffffff;
   background-image: linear-gradient(0deg, #004e84 0%, #0076ce 100%);
@@ -2571,6 +2571,13 @@ input[type="checkbox"]:checked + label:before {
 .action-button-back {
   color: #004E84;
   background: none; }
+
+.action-button-go-to-submission {
+  background-image: linear-gradient(0deg, #43afdc 0%, #89d3f6 100%);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3.36134%; }
 
 .form-control, .sti-select-box {
   max-width: 100%;

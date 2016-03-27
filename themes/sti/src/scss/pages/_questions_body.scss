@@ -29,7 +29,7 @@
 
   p {
     font-style: italic;
-    @include setFontToBaseline(20px, 1, 1);
+    @include setFontToBaseline(20px, 1.5, 1.5);
     line-height: 1.3rem;
     padding-left: span(2) !important;
     padding-right: span(2) !important;
@@ -79,6 +79,7 @@
   @include form-content;
 
   text-align: center;
+  padding-bottom: span(1.5);
 }
 
 .hint--question {
@@ -94,6 +95,20 @@
   display: none;
   p {
     font-family: $sourcesans;
+    @include setFontToBaseline(20px, 0, 0);
+    letter-spacing: 0.025;
+    margin-bottom: span(1);
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-top: 0px !important;
+  }
+}
+
+.predefined-message-preview {
+  display: none;
+  p {
+    font-family: $sourcesans;
+    font-style: italic;
     @include setFontToBaseline(20px, 0, 0);
     letter-spacing: 0.025;
     margin-bottom: span(1);

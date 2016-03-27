@@ -6964,7 +6964,20 @@ a {
 .questions-form__header__locality {
   width: 100%;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 11.76471%; }
+  .questions-form__header__locality label {
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding-right: 3.36134%; }
 
 .questions-form__header__locality__country {
   width: 49.57983%;
@@ -6993,10 +7006,10 @@ a {
 .triangle-step {
   position: absolute;
   top: 99%;
-  left: 41.17647%;
+  left: 39.07563%;
   width: 0;
   height: 0;
-  border: 20px solid transparent;
+  border: 30px solid transparent;
   margin-left: auto;
   margin-right: auto; }
 
@@ -7122,12 +7135,12 @@ a {
     font-style: italic;
     font-size: 20px;
     line-height: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 45px;
+    margin-bottom: 45px;
     font-size: 1rem;
     line-height: 1.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
     line-height: 1.3rem;
     padding-left: 7.56303% !important;
     padding-right: 7.56303% !important; }
@@ -7203,7 +7216,8 @@ a {
   padding-right: 1.5em;
   padding-top: 1.7em;
   padding-bottom: 1.5em;
-  text-align: center; }
+  text-align: center;
+  padding-bottom: 5.46218%; }
 
 .hint--question {
   margin-top: 0;
@@ -7232,6 +7246,25 @@ a {
   display: none; }
   .question-explanation p {
     font-family: "SourceSansPro-Regular", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    letter-spacing: 0.025;
+    margin-bottom: 3.36134%;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-top: 0px !important; }
+
+.predefined-message-preview {
+  display: none; }
+  .predefined-message-preview p {
+    font-family: "SourceSansPro-Regular", sans-serif;
+    font-style: italic;
     font-size: 20px;
     line-height: 30px;
     margin-top: 0px;
@@ -7355,7 +7388,7 @@ input[type="checkbox"]:checked + label:before {
 .checkbox label {
   padding-left: 0; }
 
-.action-button, .action-button-next, .action-button-back {
+.action-button, .action-button-next, .action-button-back, .action-button-go-to-submission {
   display: inline-block;
   color: #ffffff;
   background-image: linear-gradient(0deg, #004e84 0%, #0076ce 100%);
@@ -7382,6 +7415,13 @@ input[type="checkbox"]:checked + label:before {
 .action-button-back {
   color: #004E84;
   background: none; }
+
+.action-button-go-to-submission {
+  background-image: linear-gradient(0deg, #43afdc 0%, #89d3f6 100%);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3.36134%; }
 
 .form-control, .sti-select-box {
   max-width: 100%;

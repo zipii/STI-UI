@@ -8,12 +8,24 @@ function handleExpandArrowClick(event) {
   console.log(event);
   event.preventDefault();
   var $clickedElement = $(event.target);
-  $clickedElement.parent().parent()
-    .siblings('div.question-explanation').first()
-    .slideToggle(function() {
-      $clickedElement.toggleClass('fa-caret-down');
-      $clickedElement.toggleClass('fa-caret-up');
-    });
+  console.log($clickedElement.parent().parent())
+  if ($clickedElement.parent().parent().is('fieldset')) {
+    console.log('fieldset')
+    $clickedElement.parent().parent()
+      .siblings('div.question-explanation').first()
+      .slideToggle(function() {
+        $clickedElement.toggleClass('fa-caret-down');
+        $clickedElement.toggleClass('fa-caret-up');
+      });
+  } else {
+    console.log('alt')
+    $clickedElement.parent()
+      .siblings('div.question-predefined-message-preview').first()
+      .slideToggle(function() {
+        $clickedElement.toggleClass('fa-caret-down');
+        $clickedElement.toggleClass('fa-caret-up');
+      });
+  }
   return true;
 }
 

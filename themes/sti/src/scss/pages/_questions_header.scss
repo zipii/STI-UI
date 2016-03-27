@@ -12,10 +12,14 @@
 
 .questions-form__header__locality {
   @include content;
-  // color: $sti-white;
-  // background-color: $sti-orange;
-  // text-align: center;
-  // padding-bottom: span(2);
+  color: $sti-white;
+  text-align: center;
+  padding-bottom: span(3);
+
+  label {
+    @include setFontToBaseline(20px, 1, 1);
+    padding-right: span(1);
+  }
 }
 
 .questions-form__header__locality__country {
@@ -41,9 +45,9 @@
 .triangle-step {
   position: absolute;
   top: 99%;
-  left: span(10);
+  left: span(9.5);
   width: 0; height: 0;
-  border: 20px solid transparent;
+  border: 30px solid transparent;
   margin-left: auto;
   margin-right: auto;
 }
