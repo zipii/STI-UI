@@ -1,5 +1,10 @@
 // questions
 
+#questionnaire-loading-spinner {
+  text-align: center;
+  @include setFontToBaseline(30px, 2, 0);
+}
+
 .home__questions {
   background-color: $sti-orange;
 

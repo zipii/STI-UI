@@ -9,7 +9,13 @@ $(document).ready(function() {
   var deadline = new Date('2016-03-29');
 
   var iframes = iFrameResize({
-    heightCalculationMethod: 'max'
+    heightCalculationMethod: 'max',
+    initCallback: function() {
+      $('#questionnaire-loading-spinner').toggle();
+    },
+    closeCallback: function() {
+      $('#questionnaire-loading-spinner').toggle();
+    }
   }, document.getElementById('home__questions__container__content__body__iframe'));
 
   $('.carousel').carousel({
@@ -33,8 +39,8 @@ $(document).ready(function() {
 });
 
 $(function clickToActivate() {
-    $(".videoplaceholder" ).click(function() {
-        var videourl = $( this ).attr( "videourl" );
-        $( this ).replaceWith( '<iframe src="' + videourl + '" frameborder="0"></iframe>' );
-    });
+  $(".videoplaceholder" ).click(function() {
+    var videourl = $( this ).attr( "videourl" );
+    $( this ).replaceWith( '<iframe src="' + videourl + '" frameborder="0"></iframe>' );
+  });
 });

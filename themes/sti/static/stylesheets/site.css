@@ -2195,6 +2195,17 @@ a {
     .home__fix-net-neutrality__container__content__zero-rating a:hover {
       color: #A1A6A8; }
 
+#questionnaire-loading-spinner {
+  text-align: center;
+  font-size: 30px;
+  line-height: 30px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem; }
+
 .home__questions {
   background-color: #fd6f1d; }
   .home__questions h1 {
