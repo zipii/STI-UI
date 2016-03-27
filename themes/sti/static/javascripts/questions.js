@@ -4,27 +4,24 @@ function handleStepClick(event) {
   return true;
 }
 
+function toggleExpandArrowForSiblingClass($clickedElement, $parentElement, siblingClass) {
+  $parentElement
+    .siblings(siblingClass).first()
+    .slideToggle(function() {
+      $clickedElement.toggleClass('fa-caret-down');
+      $clickedElement.toggleClass('fa-caret-up');
+    });
+}
+
 function handleExpandArrowClick(event) {
-  console.log(event);
   event.preventDefault();
-  var $clickedElement = $(event.target);
-  console.log($clickedElement.parent().parent().parent())
-  if ($clickedElement.parent().parent().parent().is('fieldset')) {
-    console.log('fieldset')
-    $clickedElement.parent().parent()
-      .siblings('div.question-explanation').first()
-      .slideToggle(function() {
-        $clickedElement.toggleClass('fa-caret-down');
-        $clickedElement.toggleClass('fa-caret-up');
-      });
+  var $clickedElement       = $(event.target);
+  var $questionInputElement = $clickedElement.parent().parent();
+  var $questionElement      = $questionInputElement.parent();
+  if ($questionElement.is('fieldset')) {
+    toggleExpandArrowForSiblingClass($clickedElement, $questionInputElement, 'div.question-explanation');
   } else {
-    console.log('alt')
-    $clickedElement.parent().parent()
-      .siblings('div.predefined-message-preview').first()
-      .slideToggle(function() {
-        $clickedElement.toggleClass('fa-caret-down');
-        $clickedElement.toggleClass('fa-caret-up');
-      });
+    toggleExpandArrowForSiblingClass($clickedElement, $questionInputElement, 'div.predefined-message-preview');
   }
   return true;
 }
