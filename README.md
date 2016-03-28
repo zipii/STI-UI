@@ -2,20 +2,27 @@
 
 ## Translations
 
-+ Copy the English config and rename it correspondingly (i.e. `config_it.yaml` for Italian):
+Setup your language translation with:
+
 ```
-cp config_en.yaml config_[TWO_LETTER_CODE].yaml
+./translate.sh [TWO_LETTER_CODE]
+```
+
+### Config File
+
+Please have a quick look at the generated language specific config file here:
+
+```
+./config_[TWO_LETTER_CODE].yaml
 ```
 
 ### Layouts / Homepage
 
 The homepage itself is translatable in HTML form via layouts / layout partials only.
 
-+ Change all locale/language related fields in the new config file.
-+ Copy the English `layout` files as the base for your layout translation (layout files in the root `layouts` directory overrule any corresponding layout file from `themes/sti/layouts`):
+The corresponding layout files needed for translation (based on the English originals) will have been created and put here:
 ```
-mkdir layouts/[TWO_LETTER_CODE]
-cp themes/sti/layouts/* layouts/[TWO_LETTER_CODE]
+./layouts/[TWO_LETTER_CODE]/
 ```
 
 ### Content / Content Subpages
@@ -23,10 +30,11 @@ cp themes/sti/layouts/* layouts/[TWO_LETTER_CODE]
 We need a consistent `content` files structure in order for Hugo to generate the corresponding URL paths. *Most of the `content` files are stubs only* but an example for a pure content based page is [FAQ](https://github.com/Netzfreiheit/STI-UI/blob/master/content/en/faq/index.md).
 All files in `content` should be written in [Markdown](https://en.wikipedia.org/wiki/MarkdownContent).
 Files in the root `content` directory overrule any corresponding content file from `themes/sti/content`.
-+ Copy the English `content` files as the base for your content translation:
+
+The corresponding content files needed for translation (based on the English originals) will have been created and put here:
+
 ```
-mkdir content/[TWO_LETTER_CODE]
-cp content/en/* content/[TWO_LETTER_CODE]
+./content/[TWO_LETTER_CODE]/
 ```
 
 ## Build process
@@ -69,7 +77,7 @@ npm run build
 
 Different languages have different root config files:
 ```
-config_[two_letter-code].yaml
+config_[TWO_LETTER_CODE].yaml
 ```
 
 E.g. build German website to /public/de with:
