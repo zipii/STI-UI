@@ -1,9 +1,0 @@
-baseurl:    "https://beta.savetheinternet.eu"
-title:      "SAVE THE INTERNET"
-contentdir: "content/de"
-publishdir: "public/de"
-theme:      "sti"
-
-params:
-  locale: "de-DE"
-  language: "de"
