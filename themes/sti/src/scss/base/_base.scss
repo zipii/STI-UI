@@ -91,3 +91,11 @@ $desktop-large: 1600px;
   background-position: top center !important;
   padding-top: +73px;
 }
+
+@mixin ie-triangle-top($color) {
+  background-image: url(../images/triangle_#{$color}.png);
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-position: top center !important;
+  padding-top: +73px;
+}

@@ -34,6 +34,11 @@
   color: $sti-white;
 }
 
+.ie .home__questions__container__content__header {
+  @include ie-triangle-top(white);
+}
+
+
 .home__questions__container__content__header {
   @include content-inside;
   @include triangle-top(white);

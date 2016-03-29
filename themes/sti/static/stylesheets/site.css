@@ -1895,6 +1895,23 @@ a {
       float: right;
       margin-right: 0; } }
 
+/* .ie .counter-button { */
+/*   position: relative; */
+/*   margin-top: 0px; */
+/*   width: 142px; */
+/*   height: 500px; */
+/*   padding: 0; */
+/*   margin: 0; */
+/*   border: none; */
+/*   border-radius: 5px; */
+/*   background-color: rgb(255, 137, 19); */
+/*   box-shadow: -9px 5px 1px 0px rgba(0,0,0,0.2), inset 3px 5px 24px rgba(1,1,1,.11); */
+/*   color: $sti-white; */
+/*   background-image:    url(../images/act_now.svg); */
+/*   background-size:     contain; */
+/*   background-repeat:   no-repeat; */
+/*   background-position: bottom center; */
+/* } */
 .counter-button {
   position: relative;
   margin-top: 0px;
@@ -1929,6 +1946,9 @@ a {
   @media (min-width: 640px) {
     .counter-button {
       top: -2rem; } }
+
+.ie .counter-button {
+  background-image: url(../images/act_now.png); }
 
 .counter-message, .counter-days-left {
   display: block;
@@ -2010,6 +2030,13 @@ a {
   background-color: #ffffff;
   padding-top: 7.56303%; }
 
+.ie .home__info__container__content__berec-decision-2 {
+  background-image: url(../images/triangle_white.png);
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-position: top center !important;
+  padding-top: +73px; }
+
 .home__info__container__content__berec-decision-2 {
   width: 100%;
   float: left;
@@ -2024,6 +2051,18 @@ a {
   color: #ffffff; }
   .home__info__container__content__berec-decision-2 h2, .home__info__container__content__berec-decision-2 .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__info__container__content__berec-decision-2 a {
     line-height: 2rem; }
+
+.ie .home__info__container__content__berec-decision-3 {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  background-image: url(../images/triangle_black.png);
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-position: top center !important;
+  padding-top: +73px;
+  background-color: #ffffff; }
 
 .home__info__container__content__berec-decision-3 {
   width: 100%;
@@ -2308,6 +2347,13 @@ a {
   @media (min-width: 768px) {
     .home__questions__container__content {
       width: 74.78992%; } }
+
+.ie .home__questions__container__content__header {
+  background-image: url(../images/triangle_white.png);
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-position: top center !important;
+  padding-top: +73px; }
 
 .home__questions__container__content__header {
   width: 100%;
