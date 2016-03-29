@@ -21,6 +21,13 @@
   padding-top: span(2);
 }
 
+
+
+.ie .home__info__container__content__berec-decision-2 {
+  @include ie-triangle-top(white);
+}
+
+
 .home__info__container__content__berec-decision-2 {
   @include content-inside;
   @include triangle-top(white);
@@ -29,6 +36,12 @@
   h2 {
     line-height: 2rem;
   }
+}
+
+.ie .home__info__container__content__berec-decision-3 {
+  @include content-inside;
+  @include ie-triangle-top(black);
+  background-color: $sti-white;
 }
 
 .home__info__container__content__berec-decision-3 {
