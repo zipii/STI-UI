@@ -1630,6 +1630,20 @@ h4 {
   padding-left: 7.56303% !important;
   padding-right: 7.56303% !important; }
 
+h5 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-left: 7.56303% !important;
+  padding-right: 7.56303% !important; }
+
 p {
   font-family: "SourceSansPro-Regular", sans-serif;
   font-size: 15px;
@@ -2492,6 +2506,43 @@ a {
     margin-bottom: 0.42017%; }
   .home__aykit-produktion__container__content__support img {
     height: 70px; }
+
+.home__contact {
+  background-color: #89D3F6; }
+  .home__contact h2, .home__contact .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__contact a {
+    margin: 0;
+    text-align: center;
+    padding-top: 7.56303%; }
+  .home__contact h5 {
+    text-align: center; }
+  .home__contact h3 {
+    font-weight: 200; }
+  .home__contact .bold {
+    font-weight: 700; }
+
+.home__contact__container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #89D3F6; }
+  .home__contact__container:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.home__contact__container__content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff; }
+
+.home__contact__container__privacy {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+  .home__contact__container__privacy :last-child {
+    margin: 0;
+    padding-bottom: 7.56303%; }
 
 .faq {
   background-color: #89D3F6; }

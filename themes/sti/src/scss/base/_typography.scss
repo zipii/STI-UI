@@ -91,6 +91,14 @@ h4 {
   padding-right: span(2) !important;
 }
 
+h5 {
+  font-family: $montserrat;
+  font-weight: 700;
+  @include setFontToBaseline(20px, 1, 1);
+  padding-left: span(2) !important;
+  padding-right: span(2) !important;
+}
+
 p {
   font-family: $sourcesans;
   @include setFontToBaseline(15px, 1, 1.5);
