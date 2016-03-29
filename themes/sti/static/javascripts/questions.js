@@ -62,16 +62,16 @@ window.iFrameResizer = {
   readyCallback: function() {
     parentIFrame.sendMessage('loaded');
     if ('parentIFrame' in window) {
-      $('button').on('click', function() {
+      $('.questions-form__header__navigation button, .bottom-container button')
+      .on('click', function() {
         parentIFrame.scrollToOffset(0, -30);
         parentIFrame.sendMessage('loading');
-      })
+      });
     }
   }
 }
 
 $(document).ready(function() {
-
   registerStepHoverEvent('#questions-form__header__navigation__step-1', 'fa-check-square-o', 'fa-check-square');
   registerStepHoverEvent('#questions-form__header__navigation__step-2', 'fa-pencil-square-o', 'fa-pencil-square');
   registerStepHoverEvent('#questions-form__header__navigation__step-3', 'fa-pencil-square-o', 'fa-pencil-square');
