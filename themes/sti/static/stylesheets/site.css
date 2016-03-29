@@ -1630,6 +1630,20 @@ h4 {
   padding-left: 7.56303% !important;
   padding-right: 7.56303% !important; }
 
+h5 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-left: 7.56303% !important;
+  padding-right: 7.56303% !important; }
+
 p {
   font-family: "SourceSansPro-Regular", sans-serif;
   padding-left: 3.36134% !important;
@@ -2076,7 +2090,7 @@ a {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #ffffff; }
+  background-color: #010101; }
   @media (min-width: 768px) {
     .home__videos__container__content {
       width: 74.78992%; } }
@@ -2088,23 +2102,29 @@ a {
   margin-right: 0; }
 
 #video-carousel {
-  background-color: #ffffff;
-  padding-top: 7.56303%; }
+  background-color: #010101;
+  padding-top: 7.56303%;
+  padding-bottom: 7.56303%; }
 
 .home-video {
   margin-left: auto !important;
   margin-right: auto !important;
   text-align: center;
-  min-height: 320px;
-  max-width: 320px; }
+  min-height: 240px;
+  min-width: 320px; }
   @media (min-width: 640px) {
     .home-video {
       min-height: 380px;
-      max-width: 640px; } }
+      min-width: 180px; } }
 
 .videoplaceholder {
   cursor: pointer;
   opacity: 0.7; }
+  .videoplaceholder img {
+    width: 300px; }
+    @media (min-width: 640px) {
+      .videoplaceholder img {
+        width: unset; } }
 
 .videoplaceholder:hover {
   opacity: 1; }
@@ -2125,22 +2145,7 @@ a {
     box-sizing: border-box; }
 
 .carousel-inner {
-  background-color: #ffffff; }
-  .carousel-inner .item {
-    background-color: #ffffff; }
-
-.carousel-control {
-  background-color: #ffffff !important;
-  background-image: none !important;
-  color: #C2C6C8 !important; }
-
-.right {
-  background-color: #ffffff !important;
-  background-image: none !important; }
-
-.left {
-  background-color: #ffffff !important;
-  background-image: none !important; }
+  margin: auto; }
 
 .home__fix-net-neutrality {
   background-color: #89D3F6; }
@@ -2528,6 +2533,49 @@ a {
     margin-bottom: 0.42017%; }
   .home__aykit-produktion__container__content__support img {
     height: 70px; }
+
+.home__contact {
+  background-color: #89D3F6; }
+  .home__contact h2, .home__contact .home__info__container__content__berec-decision-5 h2 a, .home__info__container__content__berec-decision-5 h2 .home__contact a {
+    margin: 0;
+    text-align: center;
+    padding-top: 7.56303%; }
+  .home__contact h5 {
+    text-align: center; }
+  .home__contact h3 {
+    font-weight: 200; }
+  .home__contact .bold {
+    font-weight: 700; }
+
+.home__contact__container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #89D3F6; }
+  .home__contact__container:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.home__contact__container__content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff; }
+  @media (min-width: 768px) {
+    .home__contact__container__content {
+      width: 74.78992%; } }
+
+.home__contact__container__privacy {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+  @media (min-width: 768px) {
+    .home__contact__container__privacy {
+      width: 74.78992%; } }
+  .home__contact__container__privacy :last-child {
+    margin: 0;
+    padding-bottom: 7.56303%; }
 
 .faq {
   background-color: #89D3F6; }

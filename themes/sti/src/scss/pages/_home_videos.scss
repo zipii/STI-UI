@@ -11,8 +11,7 @@
 
 .home__videos__container__content {
   @include content;
-  // background-color: $sti-black-dark;
-  background-color: $sti-white;
+  background-color: $sti-black-dark;
 }
 
 .home__videos__container__content__videos {
@@ -20,10 +19,9 @@
 }
 
 #video-carousel {
-  // background-color: $sti-black-dark;
-  background-color: $sti-white;
+  background-color: $sti-black-dark;
   padding-top: span(2);
-  // padding-bottom: span(2);
+  padding-bottom: span(2);
 }
 
 .home-video {
@@ -33,12 +31,12 @@
 
   @extend .embed-responsive;
 
-  min-height: 320px;
-  max-width: 320px;
+  min-height: 240px;
+  min-width: 320px;
 
   @include susy-breakpoint($tablet-small) {
-    min-height: 380px;
-    max-width: 640px;
+     min-height: 380px;
+     min-width: 180px;
   }
 
 }
@@ -46,6 +44,13 @@
 .videoplaceholder {
     cursor: pointer;
     opacity: 0.7;
+
+    img {
+    	width: 300px;
+    	@include susy-breakpoint($tablet-small) {
+	    width: unset;
+    	}
+    }
 }
 
 .videoplaceholder:hover {
@@ -79,25 +84,5 @@
 }
 
 .carousel-inner {
-  background-color: $sti-white;
-  .item {
-    background-color: $sti-white;
-  }
-
-}
-
-.carousel-control {
-  background-color: $sti-white !important;
-  background-image: none !important;
-  color: $sti-gray-light !important;
-}
-
-.right {
-  background-color: $sti-white !important;
-  background-image: none !important;
-}
-
-.left {
-  background-color: $sti-white !important;
-  background-image: none !important;
+    margin: auto;
 }
