@@ -1,17 +1,12 @@
 // counter
 
 .home__counter {
-  // width: 100%;
-  height: 42vh;
-  background-image:    url(../images/hero.png);
-  background-attachment:fixed;
-  background-size:     cover;
-  background-repeat:   no-repeat;
-  background-position: center bottom;
-
-  @include susy-breakpoint($tablet-small) {
-    height: 70vh;
-  }
+  height: 70vh;
+  background-image:      url(../images/hero.png);
+  background-attachment: fixed;
+  background-size:       cover;
+  background-repeat:     no-repeat;
+  background-position:   center bottom;
 }
 
 .home__counter__container{
@@ -65,80 +60,52 @@
     }
   }
 
-  @include susy-breakpoint($tablet-small) {
+  top: 1rem;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     top: -2rem;
-    width: 142px;
   }
 }
 
-
-.counter-message {
+@mixin counter-content {
   display: block;
   font-family: $montserrat;
   font-weight: 400;
   text-align: center;
-  letter-spacing: 0.025rem;
+  padding-left: 0.2rem !important;
+  padding-right: 0.2rem !important;
+}
+
+.counter-message {
+  @include counter-content;
   @include setFontToBaseline(40px, 1, 1);
-  margin-top: 0px !important;
-  margin-bottom: 0px !important;
-  padding-top: 0;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
   top: -2rem;
-  @include susy-breakpoint($tablet-small) {
+  letter-spacing: 0.025rem;
+  margin-top:    0px !important;
+  margin-bottom: 0px !important;
+  padding-top: 0rem;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     padding-top: 0.8rem;
   }
 }
 
 .counter-message-description {
-  display: block;
-  color: $sti-black-dark;
-  font-family: $montserrat;
-  font-weight: 400;
-  text-align: center;
+  @include counter-content;
   @include setFontToBaseline(16px, 0, 0);
+  color: $sti-black-dark;
   margin-top: -0.4rem !important;
   margin-bottom: 0px !important;
   line-height: 1rem !important;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
-  padding-bottom: 6rem;
-  @include susy-breakpoint($tablet-small) {
-    margin-top: -0.4rem !important;
-    margin-bottom: 0px !important;
-    line-height: 1rem !important;
-    padding-left: 1rem;
-    padding-right: 0.2rem;
-    padding-bottom: 0;
-  }
 }
 
 .counter-days-left {
-  display: none;
-  @include susy-breakpoint($tablet-small) {
-    display: block;
-    font-family: $montserrat;
-    font-weight: 400;
-    text-align: center;
-    @include setFontToBaseline(43px, 1, 1);
-      margin-top: 0px !important;
-      margin-bottom: 0px !important;
-      padding-top: 0.8rem;
-      padding-left: 0;
-      padding-right: 0;
-      padding-bottom: 0;
-  }
+  @extend .counter-message;
+
 }
 
-
 .counter-days-left-description {
-  display: none;
-  @include susy-breakpoint($tablet-small) {
-    display: block;
-    @extend .counter-message-description;
-      text-align: center;
-      padding-left: 0;
-      padding-right: 0;
-      padding-bottom: 142px;
+  @extend .counter-message-description;
+  padding-bottom: 130px;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    padding-bottom: 142px;
   }
 }

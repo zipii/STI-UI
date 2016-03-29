@@ -25,11 +25,12 @@
   background-size:     contain;
   background-repeat:   no-repeat;
   background-position: center center;
-  margin: $grid-gutter-width $grid-gutter-width / 2;
+  margin: $grid-gutter-width / 2 $grid-gutter-width / 2;
   box-sizing: border-box;
 
-  @include susy-breakpoint($tablet-small) {
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     height: 116px;
     background-position: bottom left;
+    margin: $grid-gutter-width $grid-gutter-width / 2;
   }
 }
