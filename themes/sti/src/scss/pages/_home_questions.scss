@@ -15,7 +15,11 @@
   p {
     font-family: $montserrat;
     font-weight: 400;
-    @include setFontToBaseline(20px, 1, 1);
+    // @include setFontToBaseline(20px, 1, 1);
+    line-height: 1.2rem !important;
+    @include susy-breakpoint($tablet, $desktop-large) {
+      line-height: 1.5rem !important;
+    }
   }
 }
 

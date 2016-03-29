@@ -11,7 +11,8 @@
 
 .home__videos__container__content {
   @include content;
-  background-color: $sti-black-dark;
+  // background-color: $sti-black-dark;
+  background-color: $sti-white;
 }
 
 .home__videos__container__content__videos {
@@ -19,9 +20,10 @@
 }
 
 #video-carousel {
-  background-color: $sti-black-dark;
+  // background-color: $sti-black-dark;
+  background-color: $sti-white;
   padding-top: span(2);
-  padding-bottom: span(2);
+  // padding-bottom: span(2);
 }
 
 .home-video {
@@ -35,7 +37,6 @@
   max-width: 320px;
 
   @include susy-breakpoint($tablet-small) {
-
     min-height: 380px;
     max-width: 640px;
   }
@@ -75,4 +76,28 @@
   li {
     box-sizing: border-box;
   }
+}
+
+.carousel-inner {
+  background-color: $sti-white;
+  .item {
+    background-color: $sti-white;
+  }
+
+}
+
+.carousel-control {
+  background-color: $sti-white !important;
+  background-image: none !important;
+  color: $sti-gray-light !important;
+}
+
+.right {
+  background-color: $sti-white !important;
+  background-image: none !important;
+}
+
+.left {
+  background-color: $sti-white !important;
+  background-image: none !important;
 }

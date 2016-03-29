@@ -1,20 +1,20 @@
 .bottom-container {
   position: relative;
-  z-index:  1;
-  top:      -0.2em;
+  z-index:  0;
+  top: -5px;
 }
 
 @mixin form-content {
   background-color: $sti-white;
-  @include susy-breakpoint($tablet) {
-    padding-left:   1.5em;
-    padding-right:  1.5em;
-    padding-top:    1.7em;
-    padding-bottom: 1.5em;
-    box-sizing:   border-box;
-    border-left:  solid $sti-orange 3px;
-    border-right: solid $sti-orange 6px;
-  }
+  // @include susy-breakpoint($tablet, $desktop-large) {
+  padding-left:   1.5em;
+  padding-right:  1.5em;
+  padding-top:    1.7em;
+  padding-bottom: 1.5em;
+  box-sizing:   border-box;
+  border-left:  solid $sti-orange 3px;
+  border-right: solid $sti-orange 6px;
+  // }
 }
 
 .questions-form__body {
@@ -23,6 +23,7 @@
 
 .questions-form__body__content {
   @include content;
+
 }
 
 .questions-form__body__content__header {
@@ -30,26 +31,26 @@
   @include form-content;
 
   p {
-    // font-style: italic;
-    // @include setFontToBaseline(15px, 1.5, 1.5);
-    // line-height: 1.3rem;
-    // padding-left: span(2) !important;
-    // padding-right: span(2) !important;
-    //
-    // @include susy-breakpoint($tablet) {
-    //   @include setFontToBaseline(20px, 1.5, 1.5);
-    //   line-height: 1.3rem;
-    //   padding-left: span(2) !important;
-    //   padding-right: span(2) !important;
+    font-style: italic;
+    line-height: 1.3rem;
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+
+    // margin-bottom: 0px;
+    // @include susy-breakpoint($tablet-small, $desktop-large) {
+      // @include setFontToBaseline(20px, 1.5, 1.5);
+      // line-height: 1.3rem;
+      // padding-left: span(2) !important;
+      // padding-right: span(2) !important;
     // }
   }
 
   h1 {
-    // font-family: $montserrat;
-    // font-weight: 700;
-    // @include setFontToBaseline(25px, 1, 1);
-    // padding-left: span(2) !important;
-    // padding-right: span(2) !important;
+    font-family: $montserrat;
+    font-weight: 700;
+    @include setFontToBaseline(25px, 1, 1);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
     // @include susy-breakpoint($tablet) {
     //   @include setFontToBaseline(30px, 1, 1);
     //   padding-left: span(2) !important;
@@ -58,33 +59,37 @@
   }
 
   h3 {
-    // font-family: $montserrat;
-    // font-weight: 700;
-    // @include setFontToBaseline(15px, 0, 0);
-    // padding-left: span(2) !important;
-    // padding-right: span(2) !important;
-    // @include susy-breakpoint($tablet) {
-    //   @include setFontToBaseline(20px, 0, 0);
-    //   padding-left: span(2) !important;
-    //   padding-right: span(2) !important;
-    // }
+    font-family: $montserrat;
+    font-weight: 700;
+    @include setFontToBaseline(15px, 0, 0);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+    @include susy-breakpoint($tablet) {
+      @include setFontToBaseline(20px, 0, 0);
+      padding-left: span(2) !important;
+      padding-right: span(2) !important;
+    }
   }
 }
 
 .questions-form__body__content__body {
   @include span(24);
   @include form-content;
+    padding-top: 0px;
 
-  padding-top: 0px;
   .checkbox {
     padding-left: span(2) !important;
     padding-right: span(2) !important;
 
     label {
       font-family: $sourcesans;
-      @include setFontToBaseline(20px, 0, 0);
-      letter-spacing: 0.025;
       margin-bottom: span(1);
+
+      @include setFontToBaseline(15px, 0, 0);
+      @include susy-breakpoint($tablet, $desktop-large) {
+        @include setFontToBaseline(18px, 0, 0);
+        letter-spacing: 0.025;
+      }
 
       a {
         color: $sti-blue-dark;
@@ -114,7 +119,10 @@
   display: none;
   p {
     font-family: $sourcesans;
-    @include setFontToBaseline(20px, 0, 0);
+    @include setFontToBaseline(15px, 0, 0);
+    @include susy-breakpoint($tablet-small, $desktop-large) {
+      @include setFontToBaseline(18px, 0, 0);
+    }
     letter-spacing: 0.025;
     margin-bottom: span(1);
     padding-left: 0px !important;
@@ -128,7 +136,9 @@
   p {
     font-family: $sourcesans;
     font-style: italic;
-    @include setFontToBaseline(20px, 0, 0);
+    @include susy-breakpoint($tablet-small, $desktop-large) {
+      @include setFontToBaseline(18px, 0, 0);
+    }
     letter-spacing: 0.025;
     margin-bottom: span(1);
     padding-left: 0px !important;
@@ -143,7 +153,10 @@
   label {
     font-family: $montserrat;
     font-weight: 700;
-    @include setFontToBaseline(20px, 0, 0);
+    @include setFontToBaseline(15px, 0, 0);
+    @include susy-breakpoint($tablet-small, $desktop-large) {
+      @include setFontToBaseline(18px, 0, 0);
+    }
     padding-top: 0px;
     margin-bottom: span(1);
   }
@@ -151,7 +164,10 @@
     color: $sti-black-dark !important;
     font-family: $sourcesans;
     font-weight: 400;
-    @include setFontToBaseline(18px, 0, 0);
+    @include setFontToBaseline(15px, 0, 0);
+    @include susy-breakpoint($tablet-small, $desktop-large) {
+      @include setFontToBaseline(18px, 0, 0);
+    }
     margin-bottom: span(1);
   }
   margin-bottom: span(2);

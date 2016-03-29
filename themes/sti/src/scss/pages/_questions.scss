@@ -1,6 +1,3 @@
-@import "questions_header";
-@import "questions_body";
-
 body {
   background-color: $sti-orange;
 }
@@ -9,3 +6,6 @@ body {
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
 }
+
+@import "questions_header";
+@import "questions_body";
