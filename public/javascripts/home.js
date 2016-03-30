@@ -13,7 +13,7 @@ $(function clickToActivate() {
 
 $(document).ready(function() {
 
-  var deadline = new Date('2016-03-29');
+  var deadline = new Date('2016-06-02');
 
   var iframes = iFrameResize({
     heightCalculationMethod: 'max',

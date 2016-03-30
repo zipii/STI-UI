@@ -1,3 +1,12 @@
+@mixin content {
+  width: span(24 last);
+  margin-left:  auto;
+  margin-right: auto;
+  @include susy-breakpoint($tablet, $desktop-large) {
+   width: span(18 last);
+  }
+}
+
 @import "home_intro";
 @import "home_tagline";
 @import "home_counter";

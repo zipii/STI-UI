@@ -6,15 +6,19 @@
 
 @mixin form-content {
   background-color: $sti-white;
-  // @include susy-breakpoint($tablet, $desktop-large) {
-  padding-left:   1.5em;
-  padding-right:  1.5em;
-  padding-top:    1.7em;
-  padding-bottom: 1.5em;
-  box-sizing:   border-box;
-  border-left:  solid $sti-orange 3px;
-  border-right: solid $sti-orange 6px;
-  // }
+  padding-left:   1em;
+  padding-right:  1em;
+  padding-top:    1.2em;
+  padding-bottom: 1em;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    padding-left:   1.5em;
+    padding-right:  1.5em;
+    padding-top:    1.7em;
+    padding-bottom: 1.5em;
+    box-sizing:   border-box;
+    border-left:  solid $sti-orange 3px;
+    border-right: solid $sti-orange 6px;
+  }
 }
 
 .questions-form__body {
@@ -64,7 +68,7 @@
     @include setFontToBaseline(15px, 0, 0);
     padding-left: span(2) !important;
     padding-right: span(2) !important;
-    @include susy-breakpoint($tablet) {
+    @include susy-breakpoint($tablet-small, $desktop-large) {
       @include setFontToBaseline(20px, 0, 0);
       padding-left: span(2) !important;
       padding-right: span(2) !important;
@@ -86,7 +90,7 @@
       margin-bottom: span(1);
 
       @include setFontToBaseline(15px, 0, 0);
-      @include susy-breakpoint($tablet, $desktop-large) {
+      @include susy-breakpoint($tablet-small, $desktop-large) {
         @include setFontToBaseline(18px, 0, 0);
         letter-spacing: 0.025;
       }

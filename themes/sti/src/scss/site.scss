@@ -45,14 +45,14 @@
 @import 'base/base';
 @import 'base/typography';
 
+// Page Styles
+@import 'pages/home';
+@import 'pages/faq';
+
 // Layout Styles
 @import 'layout/header';
 @import 'layout/nav_bar';
 @import 'layout/footer';
-
-// Page Styles
-@import 'pages/home';
-@import 'pages/faq';
 
 // Component Styles
 @import 'components/form_elements';

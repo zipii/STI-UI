@@ -15,7 +15,7 @@ h1 {
   @include setFontToBaseline(25px, 1, 1);
   padding-left:  span(1) !important;
   padding-right: span(1) !important;
-  @include susy-breakpoint($tablet) {
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     @include setFontToBaseline(50px, 1, 1);
     padding-left: span(2) !important;
     padding-right: span(2) !important;
@@ -29,7 +29,7 @@ h2 {
   line-height: 2rem;
   padding-left: span(1) !important;
   padding-right: span(1) !important;
-  @include susy-breakpoint($tablet) {
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     @include setFontToBaseline(30px, 1, 1.5);
     line-height: 2rem;
     padding-left: span(2) !important;
@@ -43,7 +43,7 @@ h3 {
   @include setFontToBaseline(15px, 1.5, 1);
   padding-left: span(1) !important;
   padding-right: span(1) !important;
-  @include susy-breakpoint($tablet) {
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     @include setFontToBaseline(25px, 1.5, 1);
     padding-left: span(2) !important;
     padding-right: span(2) !important;
@@ -72,7 +72,7 @@ p {
   padding-left: span(1) !important;
   padding-right: span(1) !important;
   @include setFontToBaseline(15px, 1, 1.5);
-  @include susy-breakpoint($tablet, $desktop-large) {
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     @include setFontToBaseline(20px, 1, 1.5);
     padding-left: span(2) !important;
     padding-right: span(2) !important;
@@ -84,7 +84,7 @@ a {
   font-family: $sourcesans;
   text-decoration: none;
   @include setFontToBaseline(15px, 1, 1.5);
-  @include susy-breakpoint($tablet, $desktop-large) {
+  @include susy-breakpoint($tablet-small, $desktop-large) {
     @include setFontToBaseline(20px, 1, 1.5);
   }
   &:hover {

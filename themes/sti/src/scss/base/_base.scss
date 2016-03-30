@@ -70,16 +70,6 @@ $desktop-large: 1600px;
   @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
 }
 
-
-@mixin content {
-  width: span(24 last);
-  @include susy-breakpoint($tablet, $desktop-large) {
-   width: span(18 last);
-  }
-  margin-left:  auto;
-  margin-right: auto;
-}
-
 @mixin content-inside {
   @include span(24);
 }
