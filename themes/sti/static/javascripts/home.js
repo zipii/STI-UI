@@ -25,13 +25,11 @@ $(document).ready(function() {
     }
   }, document.getElementById('home__questions__container__content__body__iframe'));
 
-  if (typeof window.counter === 'undefined') {
-    window.counter = { "count" : 2 };
-  }
-
-  $('.home__counter__container__content__counter').show();
-  $('.counter-message').first().html(counter.count);
-  $('.counter-days-left').first().html(daysUntil(deadline));
+  $.get('/counter/count.json', function(counter) {
+    $('.home__counter__container__content__counter').show();
+    $('.counter-message').first().html(counter.count);
+    $('.counter-days-left').first().html(daysUntil(deadline));
+  });
 
   if (typeof window.shares === 'undefined') {
     window.shares = {'twitter': 4883 , 'facebook': 7350 , 'linkedin': 0 , 'google': 958};
