@@ -118,6 +118,7 @@
   background-color: $sti-black-dark;
 }
 
+
 .home__stay-informed__container__content__newsletter {
   @include content-inside;
   color: $sti-orange;
@@ -126,6 +127,12 @@
   padding-bottom: span(1.5);
 
   form {
+    z-index:  2;
+    .bootstrap-select.btn-group .dropdown-menu li a {
+      margin-bottom: 0.5rem;
+      margin-top: 0.5rem;
+    }
+
     padding-top: span(1.5);
     color: $sti-orange !important;
     margin-left: auto !important;
@@ -136,6 +143,7 @@
       padding-right: span(2);
       padding-left:  span(2);
       @include susy-breakpoint($tablet-small, $desktop-large) {
+        display: inline-block;
         padding-right: 1rem !important;
         padding-left:  0px !important;
       }

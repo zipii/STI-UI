@@ -39,6 +39,8 @@ $(document).ready(function() {
   $('#fb_counter').html(window.shares['facebook']);
   $('#gp_counter').html(window.shares['google']);
 
+  $('.selectpicker').selectpicker();
+
   $('.carousel').carousel({
     interval: false
   });
