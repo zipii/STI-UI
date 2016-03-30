@@ -8,8 +8,23 @@
     <link href="/stylesheets/site.css" rel="stylesheet" />
     <link rel="stylesheet" href="/stylesheets/vendor/font-awesome.min.css">
     <link rel="stylesheet" href="/stylesheets/vendor/bootstrap-select.min.css">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
-	  <link rel="shortcut icon" href="/favicon.ico">
+    
+    <link rel="shortcut icon" href="/icons/favicon.ico" />
+    
+    <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon-180x180.png">
+    
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#89D3F6">
+    
+    <meta name="theme-color" content="#89D3F6">
+    
+    <meta name="msapplication-TileColor" content="#89D3F6">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    
   </head>
   <body>
 
@@ -31,6 +46,26 @@
     </div>
   </div>
 </div>
+
+<section class="home__share">
+	<ul class="unstyle">
+		<li id="tw_count_bg">
+      <a href="https://twitter.com/home?status=Help%20save%20the%20internet.%20Tell%20your%20politician%20to%20safeguard%20net%20neutrality.%20http://www.savetheinternet.eu/%20%23ConnectedContinent%20#SaveTheInternetEU">
+        <span class="smcounter" id="tw_counter"></span>
+      </a>
+    </li>
+		<li id="fb_count_bg">
+      <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=http://www.savetheinternet.eu/&amp;p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&amp;p%5Btitle%5D=Help%20Save%20the%20Internet&amp;p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.">
+        <span class="smcounter" id="fb_counter"></span>
+      </a>
+    </li>
+		<li id="gp_count_bg">
+      <a href="https://plus.google.com/share?url=http://www.savetheinternet.eu/">
+        <span class="smcounter" id="gp_counter"></span>
+      </a>
+    </li>
+	</ul>
+</section>
 
 
 <section class="home__intro">
@@ -186,30 +221,30 @@
           <div class="carousel-inner" role="listbox">
             <div class="item active">
               <div class="home-video">
-            		<div width="300px" height="200px" class="videoplaceholder" videourl="https://www.youtube.com/embed/fpbOEoRrHyU">
-            		  <img src="/images/videos/video01.jpg" />
-            		</div>
+		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/fpbOEoRrHyU">
+		  <img src="/images/videos/video01.jpg" />
+		</div>
               </div>
             </div>
             <div class="item">
               <div class="home-video">
-            		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/mfY1NKrzqi0">
-            		  <img src="/images/videos/video02.jpg" />
-            		</div>
+	       <div class="videoplaceholder" videourl="https://www.youtube.com/embed/mfY1NKrzqi0">
+		 <img src="/images/videos/video02.jpg" />
+	       </div>
               </div>
             </div>
             <div class="item">
               <div class="home-video">
-            		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/g6fXpo8uQtA">
-            		  <img src="/images/videos/video03.jpg" />
-            		</div>
+		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/g6fXpo8uQtA">
+		  <img src="/images/videos/video03.jpg" />
+		</div>
               </div>
             </div>
       	    <div class="item">
               <div class="home-video">
-            		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/jHLIPWR_ug0">
-            		  <img src="/images/videos/video04.jpg" />
-            		</div>
+		<div class="videoplaceholder" videourl="https://www.youtube.com/embed/jHLIPWR_ug0">
+		  <img src="/images/videos/video04.jpg" />
+		</div>
             </div>
           </div>
           </div>
@@ -252,91 +287,128 @@
   </div>
 </section>
 
+<section class="home__contact">
+  <div class="home__contact__container">
+    <div class="home__contact__container__content">
+      <header class="home__contact__container__contact">
+        <h2>Contact Us</h2>
+        <h3>
+	  Feel free to contact us at <span class="bold"> <a href="mailto:info@savetheinternet.eu">info@savetheinternet.eu</a></span>
+	</h3>
+	<p>
+	  You have an idea to improve this website? That's great, we need you! The full source code of this website is available on github and can be forked, improved, remixed and pushed back to us.
+	</p>
+	<p>
+	  One thing we always need is help with translations, so if you speak a language that we haven't covered here so far, please get in contact with us.
+	</p>
+      </header>
+      <section class="home__contact__container__privacy">
+        <h5>Privacy Policy</h5>
+	<p>
+          We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations here. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign might also analyse the comments send to through website, if they are not marked as confidential. One month after the official consultation period has ended we will delete all comments.
+	</p>
+        <p>
+	  We collect non-personalized information on this website with Piwik a privacy friendly web analytics software.
+	</p>
+        <p>
+	  If you subscribe to the newsletter your email address will be stored in a mailinglist and database.
+	</p>
+      </section>
+    </div>
+  </div>
+</section>
+
 <section class="home__sponsors">
   <div class="home__sponsors__container">
     <div class="home__sponsors__container__content">
       <section class="home__sponsors__container__content__sponsors">
         <p>We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.</p>
-            <ul class="footerlogos">
-      		<li>
-      			<a href="https://netzfreiheit.org/">
-      				<img src="/images/sponsors/ifnf.png"><br>
-      				Initiative für Netzfreiheit (AT)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://edri.org/">
-      				<img src="/images/sponsors/edri.png"><br>
-      				European Digital Rights (EU)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://www.accessnow.org">
-      				<img src="/images/sponsors/access_now.png"><br>
-      				Access Now (international)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://digitalegesellschaft.de">
-      				<img src="/images/sponsors/digiges.png"><br>
-      				Digitale Gesellschaft (DE)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://www.laquadrature.net/">
-      				<img src="/images/sponsors/lqdn.png"><br>
-      				La Quadrature du Net (FR)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://www.bof.nl/">
-      				<img src="/images/sponsors/bof.png"><br>
-      				Bits of Freedom (NL)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="http://en.rsf.org/">
-      				<img src="/images/sponsors/reporters_without_borders.png"><br>
-      				Reporters Without Borders (international)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://www.openrightsgroup.org">
-      				<img src="/images/sponsors/org.png"><br>
-      				Open Rights Group (UK)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="http://itpol.dk/">
-      				<img src="/images/sponsors/itpol.png"><br>
-      				IT-Politisk Forening (DK)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="http://xnet-x.net">
-      				<img src="/images/sponsors/xnet.png"><br>
-      				Xnet (ES)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="http://www.info-hisa.si">
-      				<img src="/images/sponsors/infohouse.png"><br>
-      				Info House (SL)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="http://www.startupsfornetneutrality.eu">
-      				<img src="/images/sponsors/startups4nn.png"><br>
-      				Startups for Net Neutrality (international)
-      			</a>
-      		</li>
-      		<li>
-      			<a href="https://www.dfri.se/">
-      				<img src="/images/sponsors/dfri.png"><br>
-      				Föreningen för Digitala Fri- och Rättigheter
-      			</a>
-      		</li>
-          </ul>
+          <ul class="footerlogos">
+            <li>
+	      <a href="https://netzfreiheit.org/">
+		<img src="/images/sponsors/ifnf.png"><br>
+		Initiative für Netzfreiheit (AT)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://edri.org/">
+		<img src="/images/sponsors/edri.png"><br>
+		European Digital Rights (EU)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://www.accessnow.org">
+		<img src="/images/sponsors/access_now.png"><br>
+		Access Now (international)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://digitalegesellschaft.de">
+		<img src="/images/sponsors/digiges.png"><br>
+		Digitale Gesellschaft (DE)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://www.laquadrature.net/">
+		<img src="/images/sponsors/lqdn.png"><br>
+		La Quadrature du Net (FR)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://www.bof.nl/">
+		<img src="/images/sponsors/bof.png"><br>
+		Bits of Freedom (NL)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="http://en.rsf.org/">
+		<img src="/images/sponsors/reporters_without_borders.png"><br>
+		Reporters Without Borders (international)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://www.openrightsgroup.org">
+		<img src="/images/sponsors/org.png"><br>
+		Open Rights Group (UK)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="http://itpol.dk/">
+		<img src="/images/sponsors/itpol.png"><br>
+		IT-Politisk Forening (DK)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="http://xnet-x.net">
+		<img src="/images/sponsors/xnet.png"><br>
+		Xnet (ES)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="http://www.info-hisa.si">
+		<img src="/images/sponsors/infohouse.png"><br>
+		Info House (SL)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="http://www.startupsfornetneutrality.eu">
+		<img src="/images/sponsors/startups4nn.png"><br>
+		Startups for Net Neutrality (international)
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://www.dfri.se/">
+		<img src="/images/sponsors/dfri.png"><br>
+		Föreningen för Digitala Fri- och Rättigheter
+	      </a>
+	    </li>
+	    <li>
+	      <a href="https://www.apti.ro/">
+		<img src="/images/sponsors/apti.png"><br>
+		Asociația pentru Tehnologie și Internet
+	      </a>
+	    </li>
+        </ul>
       </section>
     </div>
   </div>
@@ -365,14 +437,13 @@
 	  </li>
 	  <li>
 	    <a href="http://daruma.io/">
-              <img src="images/daruma_logo.svg" alt="AYKIT">
+              <img src="images/daruma_logo.png" alt="AYKIT">
             </a>
 	  </li>
       </section>
     </div>
   </div>
 </section>
-
 
     <script src="/javascripts/vendor/jquery.min.js"></script>
     <script src="/javascripts/vendor/iframeResizer.min.js"></script>
@@ -382,8 +453,32 @@
     <script src="/javascripts/vendor/bootstrap/dropdown.js"></script>
     <script src="/javascripts/vendor/hammer.min.js"></script>
     <script src="/javascripts/vendor/jquery.hammer.js"></script>
+    <script src="/javascripts/vendor/css_browser_selector.js"></script>
     <script src="/javascripts/shared.js"></script>
     <script src="/javascripts/home.js"></script>
+
+    
+    <script type="text/javascript">
+     var _paq = _paq || [];
+     _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+     _paq.push(["setCookieDomain", "*.savetheinternet.eu"]);
+     _paq.push(["setDomains", ["*.savetheinternet.eu"]]);
+     _paq.push(["setDoNotTrack", true]);
+     _paq.push(["trackPageView"]);
+     _paq.push(["enableLinkTracking"]);
+     (function() {
+	     var u=(("https:" == document.location.protocol) ? "https" : "http")
+    + "://piwik.netzfreiheit.org/";
+	     _paq.push(["setTrackerUrl", u+"piwik.php"]);
+	     _paq.push(["setSiteId", "11"]);
+	     var d=document, g=d.createElement("script"),
+    s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+	     g.defer=true; g.async=true; g.src=u+"piwik.js";
+    s.parentNode.insertBefore(g,s);
+     })();
+    </script>
+    
+
   </body>
 </html>
 
