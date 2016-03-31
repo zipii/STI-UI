@@ -20,7 +20,7 @@ $(document).ready(function() {
                  userAgent.indexOf('Firefox') && userAgent.match( /Android/i ));
 
   var iframes = iFrameResize({
-    heightCalculationMethod:  isWeird ? 'max' : 'lowestElement',
+    heightCalculationMethod:  isWeird ? 'lowestElement' : 'max',
     messageCallback: function(context) {
       if (context.message === 'loaded' ||
           context.message === 'loading') {
