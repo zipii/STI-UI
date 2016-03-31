@@ -1,5 +1,7 @@
 # STI-UI
 
+Frontend code for [savetheinternet.eu](https://savetheinternet.eu)
+
 ## Translations
 
 Setup your language translation with:
@@ -87,39 +89,39 @@ hugo --config config_de.yaml
 
 ### Deployment
 
-Run full build for production (updates `/public`):
+Run without parameters to see usage of deploy script:
 
 ```
 cd /STI-UI
-./build.sh
+./build_and_deploy.sh
 ```
 
 *! This is an important last step before deploying as it provides all assets through the root url path until Hugo provides a better solution natively !*
 
-## Questionnaire specifics
+## Questionnaire specifics (iFrame included consultation page, backend adaptations)
 
-All questionnaire templates needed for inclusion and adaptation on the backend can be found here:
+# Backend HTML templates
+
+All questionnaire templates needed for inclusion and adaptation on the backend can either be builded locally or viewed and downloaded from staging:
+
+* [Questionnaire Template Step 1](https://beta.savetheinternet.eu/step-1)
+* [Questionnaire Template Step 2](https://beta.savetheinternet.eu/step-2)
+* [Questionnaire Template Step 3](https://beta.savetheinternet.eu/step-3)
+* [Questionnaire Template Step 4](https://beta.savetheinternet.eu/step-4)
+
+# Backend Assets
+
+All asset files/directories should be copied verbatim (to the public path of the backend server).
+E.g. "fonts" should simply be made accessible from "https://consultation.savetheinternet.eu/fonts" (without language path namespacing).
+
+The files can be found in the repo:
 
 ```
-public
-   └── en
-       ├── step-1
-       │   └── index.html
-       ├── step-2
-       │   └── index.html
-       ├── step-3
-       │   └── index.html
-       └── step-4
-           └── index.html
-```
-
-Asset directories should be copied to the public path of the backend server (without language namespace, e.g. fonts simply made reachable via "https://consultation.savetheinternet.eu/fonts"):
-
-```
-public
-   └── en
-       ├── fonts
-       ├── images
-       ├── javascripts
-       └── stylesheets
+themes
+   └── sti
+        └── static
+             ├── fonts
+             ├── images
+             ├── javascripts
+             └── stylesheets
 ```
