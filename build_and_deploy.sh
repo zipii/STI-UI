@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 set -e
 
 SITE_ENV="$1"
@@ -11,42 +11,44 @@ then
 fi
 
 build() {
-  # build assets
+  echo "building client side assets..."
   cd themes/sti || exit
   npm run build
 
-  # build markup
+  echo "building markup..."
   cd - || exit
   for CONFIG in ./config_??.yaml
   do
     hugo --config "$CONFIG"
   done
 
-  # i18n hugo workaround: copy assets to root of /public
+  echo "copying assets to root of ./public directory... (hugo i18n workaround)"
   find themes/sti/static/* -type d -maxdepth 0 -exec cp -av {} public \;
 
   if [ "$SITE_ENV" = "production" ]
   then
-    # delete static questionnaire examples
-    find -type d -name "public/step-?" -exec rm -rf {} \;
+    echo "deleting static questionnaire examples..."
+    find public/ -type d -name "public/step-*" -exec rm -rf {} \;
   fi
 }
 
 deploy() {
   # deploy but exclude deletion of counter
+  echo "deploying... ($USER_AT_REMOTE_DIRECTORY)"
   rsync -av public/ "$USER_AT_REMOTE_DIRECTORY" --delete --exclude=counter
 }
 
 clean() {
+  echo "cleaning... (deleting ./public)"
   rm -rf public/
 }
 
-# build && deploy && clean
-
+# build only for git pre_commit hook
 if [ "$SITE_ENV" == "git" ]
 then
   build
   exit 0
 fi
 
+# default build and deploy
 build && deploy && clean
