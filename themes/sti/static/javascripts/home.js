@@ -13,7 +13,11 @@ $(function clickToActivate() {
 
 $(document).ready(function() {
 
-  var deadline = new Date('2016-06-02');
+  // questionnaire iframe specifics
+
+  var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+  var isWeird = (userAgent.indexOf('MSIE') !== -1 ||
+                 userAgent.indexOf('Firefox') && userAgent.match( /Android/i ));
 
   var iframes = iFrameResize({
     heightCalculationMethod: 'max',
@@ -25,11 +29,17 @@ $(document).ready(function() {
     }
   }, document.getElementById('home__questions__container__content__body__iframe'));
 
+  // berec counter
+
+  var deadline = new Date('2016-06-02');
+
   $.get('/counter/count.json', function(counter) {
     $('.home__counter__container__content__counter').show();
     $('.counter-message').first().html(counter.count);
     $('.counter-days-left').first().html(daysUntil(deadline));
   });
+
+  // social sharing counter
 
   if (typeof window.shares === 'undefined') {
     window.shares = {'twitter': 4883 , 'facebook': 7350 , 'linkedin': 0 , 'google': 958};
@@ -38,6 +48,8 @@ $(document).ready(function() {
   $('#tw_counter').html(window.shares['twitter'] );
   $('#fb_counter').html(window.shares['facebook']);
   $('#gp_counter').html(window.shares['google']);
+
+  // video
 
   $('.carousel').carousel({
     interval: false
