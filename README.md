@@ -104,10 +104,10 @@ cd /STI-UI
 
 All questionnaire templates needed for inclusion and adaptation on the backend can either be builded locally or viewed and downloaded from staging:
 
-* [Questionnaire Template Step 1](https://beta.savetheinternet.eu/step-1)
-* [Questionnaire Template Step 2](https://beta.savetheinternet.eu/step-2)
-* [Questionnaire Template Step 3](https://beta.savetheinternet.eu/step-3)
-* [Questionnaire Template Step 4](https://beta.savetheinternet.eu/step-4)
+* [Questionnaire Template Step 1](https://beta.savetheinternet.eu/en/step-1)
+* [Questionnaire Template Step 2](https://beta.savetheinternet.eu/en/step-2)
+* [Questionnaire Template Step 3](https://beta.savetheinternet.eu/en/step-3)
+* [Questionnaire Template Step 4](https://beta.savetheinternet.eu/en/step-4)
 
 # Backend Assets
 
