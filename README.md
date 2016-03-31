@@ -98,9 +98,11 @@ cd /STI-UI
 
 *! This is an important last step before deploying as it provides all assets through the root url path until Hugo provides a better solution natively !*
 
-## Questionnaire specifics (iFrame included consultation page, backend adaptations)
+## Questionnaire specifics
 
-# Backend HTML templates
+This is about the iFrame included consultation page ("Questionnaire") and the corresponding backend adaptations.
+
+### Backend HTML templates
 
 All questionnaire templates needed for inclusion and adaptation on the backend can either be builded locally or viewed and downloaded from staging:
 
@@ -109,12 +111,12 @@ All questionnaire templates needed for inclusion and adaptation on the backend c
 * [Questionnaire Template Step 3](https://beta.savetheinternet.eu/en/step-3)
 * [Questionnaire Template Step 4](https://beta.savetheinternet.eu/en/step-4)
 
-# Backend Assets
+### Backend Assets
 
 All asset files/directories should be copied verbatim (to the public path of the backend server).
 E.g. "fonts" should simply be made accessible from "https://consultation.savetheinternet.eu/fonts" (without language path namespacing).
 
-The files can be found in the repo:
+The asset files can be found in the repository:
 
 ```
 themes
