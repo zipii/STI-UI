@@ -1,5 +1,1 @@
----
-tagline: "DERPY DERPY DERPY DERP"
----
-
 PLACEHOLDER

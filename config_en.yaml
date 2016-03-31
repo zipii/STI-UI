@@ -1,4 +1,4 @@
-baseurl:    "https://beta.savetheinternet.eu"
+baseurl:    "https://savetheinternet.eu"
 title:      "SAVE THE INTERNET"
 contentdir: "content/en"
 publishdir: "public/en"
