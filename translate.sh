@@ -3,7 +3,7 @@
 set -e
 
 LANGUAGE=$(echo ${1} | tr '[:upper:]' '[:lower:]')
-BASE_URL=savetheinternet.eu
+BASE_URL=https://savetheinternet.eu
 
 if [ -z $LANGUAGE ]
 then
