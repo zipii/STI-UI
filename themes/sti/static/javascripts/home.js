@@ -1,15 +1,71 @@
+// counter related globals
+
 function daysUntil(deadline) {
   var today = new Date();
   var millisecondsUntil = deadline.getTime() - today.getTime();
   return Math.floor(((((millisecondsUntil / 1000) / 60) / 60) / 24));
 }
 
+// video related globals
+
+var videoPlayers  = [];
+var intialVideoId = 1;
+
+function loadYoutubePlayerScript() {
+  var playerScriptTagId = '#player-script-tag';
+  var $playerScriptTag  = $(playerScriptTagId);
+
+  if (!($playerScriptTag.length > 0)) {
+    $playerScriptTag = $('<script>').attr({
+      'id':  playerScriptTagId,
+      'src': 'https://www.youtube.com/iframe_api'
+    });
+    $('script').first().parent().prepend($playerScriptTag);
+  }
+}
+
+function onYouTubeIframeAPIReady() {
+  videoPlayers = $.map($('.video-placeholder'), function(videoPlaceholder) {
+    var $video         = $(videoPlaceholder).parent();
+    var videoId        = $video.data('video-id');
+    var youtubeVideoId = $video.data('youtube-video-id');
+
+    return new YT.Player(videoPlaceholder, {
+      width: 480,
+      videoId: youtubeVideoId,
+      events: {
+        'onReady': function(e) {
+          if (initialVideoId === videoId) {
+            e.target.playVideo();
+          }
+        }
+      }
+    });
+  });
+}
+
+function setCurrentVideo(videoId) {
+  var currentVideoIdIndex = videoId - 1;
+  for (var i = 0; i < videoPlayers.length; i++) {
+    var player = videoPlayers[i];
+    if (i === currentVideoIdIndex) {
+      player.playVideo();
+    } else {
+      player.stopVideo();
+    }
+  }
+}
+
+// activating all youtube embeds on first click of any placeholder
+
 $(function clickToActivate() {
-  $(".videoplaceholder" ).click(function() {
-    var videourl = $( this ).attr( "videourl" );
-    $( this ).replaceWith( '<iframe src="' + videourl + '" frameborder="0"></iframe>' );
+  $('.video-placeholder').on('click', function() {
+    initialVideoId = $(this).parent().data('video-id');
+    loadYoutubePlayerScript();
   });
 });
+
+// document loaded and ready
 
 $(document).ready(function() {
 
@@ -17,7 +73,7 @@ $(document).ready(function() {
 
   var userAgent = navigator.userAgent || navigator.vendor || window.opera;
   var isWeird = (userAgent.indexOf('MSIE') !== -1 ||
-                 userAgent.indexOf('Firefox') && userAgent.match( /Android/i ));
+                 userAgent.indexOf('Firefox') && userAgent.match(/Android/i));
 
   var iframes = iFrameResize({
     heightCalculationMethod:  isWeird ? 'lowestElement' : 'max',
@@ -62,5 +118,10 @@ $(document).ready(function() {
   $('#video-carousel').hammer().on('swiperight', function(){
     $(this).carousel('prev');
   });
+
+  $('#video-carousel').on('slid.bs.carousel', function (e) {
+    var currentVideoId = $(e.relatedTarget).find('.home-video').first().data('video-id');
+    setCurrentVideo(currentVideoId);
+  })
 
 });

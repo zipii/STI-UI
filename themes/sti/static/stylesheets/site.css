@@ -2130,16 +2130,16 @@ a {
       min-height: 380px;
       min-width: 180px; } }
 
-.videoplaceholder {
+.video-placeholder {
   cursor: pointer;
   opacity: 0.7; }
-  .videoplaceholder img {
+  .video-placeholder img {
     width: 300px; }
     @media (min-width: 640px) {
-      .videoplaceholder img {
+      .video-placeholder img {
         width: unset; } }
 
-.videoplaceholder:hover {
+.video-placeholder:hover {
   opacity: 1; }
 
 .carousel .right, .carousel .left {
