@@ -1,3 +1,24 @@
+var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+var isMobile = {
+  windows: function() {
+    return /IEMobile/i.test(userAgent);
+  },
+  android: function() {
+    return /Android/i.test(userAgent);
+  },
+  blackberry: function() {
+    return /BlackBerry/i.test(userAgent);
+  },
+  ios: function() {
+    return /iPhone|iPad|iPod/i.test(userAgent);
+  },
+  any: function() {
+    return (isMobile.android() || isMobile.blackberry() || isMobile.ios() || isMobile.windows());
+  }
+};
+var isWeird = (userAgent.indexOf('MSIE') !== -1 ||
+               userAgent.indexOf('Firefox') && userAgent.match(/Android/i));
+
 // counter related globals
 
 function daysUntil(deadline) {
@@ -38,7 +59,9 @@ function onYouTubeIframeAPIReady() {
       events: {
         'onReady': function(e) {
           if (initialVideoId === videoId) {
-            e.target.playVideo();
+            if(!isMobile.any()) {
+              e.target.playVideo();
+            }
           }
         }
       }
@@ -51,7 +74,9 @@ function setCurrentVideo(videoId) {
   for (var i = 0; i < videoPlayers.length; i++) {
     var player = videoPlayers[i];
     if (i === currentVideoIdIndex) {
-      player.playVideo();
+      if(!isMobile.any()) {
+        player.playVideo();
+      }
     } else {
       player.stopVideo();
     }
@@ -72,10 +97,6 @@ $(function clickToActivate() {
 $(document).ready(function() {
 
   // questionnaire iframe specifics
-
-  var userAgent = navigator.userAgent || navigator.vendor || window.opera;
-  var isWeird = (userAgent.indexOf('MSIE') !== -1 ||
-                 userAgent.indexOf('Firefox') && userAgent.match(/Android/i));
 
   var iframes = iFrameResize({
     heightCalculationMethod:  isWeird ? 'lowestElement' : 'max',
