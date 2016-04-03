@@ -26,10 +26,12 @@ function loadYoutubePlayerScript() {
 
 function onYouTubeIframeAPIReady() {
   videoPlayers = $.map($('.video-placeholder'), function(videoPlaceholder) {
-    var $video         = $(videoPlaceholder).parent();
-    var videoId        = $video.data('video-id');
-    var youtubeVideoId = $video.data('youtube-video-id');
-
+    var $videoPlaceholder = $(videoPlaceholder);
+    var $video            = $videoPlaceholder.parent();
+    var videoId           = $video.data('video-id');
+    var youtubeVideoId    = $video.data('youtube-video-id');
+    // remove placeholder styling
+    $videoPlaceholder.removeClass('video-placeholder');
     return new YT.Player(videoPlaceholder, {
       width: 480,
       videoId: youtubeVideoId,
