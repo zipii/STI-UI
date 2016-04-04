@@ -4,9 +4,9 @@ set -e
 SITE_ENV="$1"
 USER_AT_REMOTE_DIRECTORY="$2"
 
-if [ -z "$USER_AT_REMOTE_DIRECTORY" ] && [ "$SITE_ENV" != "git" ] && [ "$SITE_ENV" != "production" ] && [ "$SITE_ENV" != "staging" ]
+if [ -z "$USER_AT_REMOTE_DIRECTORY" ] && [ "$SITE_ENV" != "local" ] && [ "$SITE_ENV" != "production" ] && [ "$SITE_ENV" != "staging" ]
 then
-  echo "./build_and_deploy.sh [production|staging|git] [user@hostname:/example_directory]"
+  echo "./build_and_deploy.sh [production|staging|local] [user@hostname:/example_directory]"
   exit 1
 fi
 
@@ -43,8 +43,8 @@ clean() {
   rm -rf public/
 }
 
-# build only for git pre_commit hook
-if [ "$SITE_ENV" == "git" ]
+# just build locally (./public)
+if [ "$SITE_ENV" == "local" ]
 then
   build
   exit 0
