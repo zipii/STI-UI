@@ -19,6 +19,7 @@ baseurl:    "${BASE_URL}"
 title:      "SAVE THE INTERNET"
 contentdir: "content/${LANGUAGE}"
 publishdir: "public/${LANGUAGE}"
+layoutdir:  "layouts/${LANGUAGE}"
 theme:      "sti"
 
 params:
