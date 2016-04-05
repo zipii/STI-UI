@@ -113,9 +113,15 @@ $(document).ready(function() {
   var deadline = new Date('2016-06-02');
 
   $.get('/counter/count.json', function(counter) {
-    $('.home__counter__container__content__counter').show();
     $('.counter-message').first().html(counter.count);
     $('.counter-days-left').first().html(daysUntil(deadline));
+    $('.home__counter__container__content__counter').show();
+  }).fail(function() {
+    console.log('Error: "/counter/count.json" could not be loaded');
+    // set to last known "hiscore" in case json couldn't be fetched
+    $('.counter-message').first().html(181);
+    $('.counter-days-left').first().html(daysUntil(deadline));
+    $('.home__counter__container__content__counter').show();
   });
 
   // social sharing counter
