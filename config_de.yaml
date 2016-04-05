@@ -2,10 +2,7 @@ baseurl:    "https://savetheinternet.eu"
 title:      "SAVE THE INTERNET"
 contentdir: "content/de"
 publishdir: "public/de"
-<<<<<<< HEAD
 layoutdir:  "layouts/de"
-=======
->>>>>>> katrinleinweber-translate-de-some-more
 theme:      "sti"
 
 params:
