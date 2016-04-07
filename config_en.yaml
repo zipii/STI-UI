@@ -1,8 +1,9 @@
-baseurl:    "https://savetheinternet.eu"
-title:      "SAVE THE INTERNET"
+baseurl: "https://savetheinternet.eu"
 contentdir: "content/en"
 publishdir: "public/en"
-theme:      "sti"
+title: "Save the Internet in Europe"
+theme: "sti"
 
 params:
   language: "en"
+  Description: "Contact your representative today!"
