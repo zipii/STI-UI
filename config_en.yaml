@@ -5,5 +5,5 @@ publishdir: "public/en"
 theme:      "sti"
 
 params:
-  language:    "en"
-  description: "Send a message to your regulator!"
+  language:   "en"
+  takeaction: "Join us and take action! Send a message to your regulator:"
