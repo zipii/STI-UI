@@ -1,9 +1,9 @@
-baseurl: "https://savetheinternet.eu"
+baseurl:    "https://savetheinternet.eu"
 contentdir: "content/en"
 publishdir: "public/en"
-title: "Save the Internet in Europe"
-theme: "sti"
+title:      "SAVE THE INTERNET IN EUROPE"
+theme:      "sti"
 
 params:
-  language: "en"
-  Description: "Contact your representative today!"
+  language:    "en"
+  description: "Send a message to your regulator!"
