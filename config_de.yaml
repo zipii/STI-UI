@@ -1,9 +1,11 @@
 baseurl:    "https://savetheinternet.eu"
-title:      "SAVE THE INTERNET"
+title:      "SAVE THE INTERNET IN EUROPE"
 contentdir: "content/de"
 publishdir: "public/de"
 layoutdir:  "layouts/de"
 theme:      "sti"
 
 params:
+  Description: "Sende eine Nachricht an die Regulierer!"
   language: "de"
+
