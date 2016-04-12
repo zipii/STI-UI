@@ -1,0 +1,10 @@
+title:      "SAVE THE INTERNET IN EUROPE"
+baseurl:    "https://savetheinternet.eu"
+contentdir: "content/lv"
+publishdir: "public/lv"
+theme:      "sti"
+layoutdir:  "layouts/lv"
+
+params:
+  language:   "lv"
+  takeaction: "Join us and take action! Send a message to your regulator:"

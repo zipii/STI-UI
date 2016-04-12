@@ -15,15 +15,16 @@ create_config_file() {
   NEW_CONFIG_FILE="config_${LANGUAGE}.yaml"
   echo "creating new config file... (to \"./${NEW_CONFIG_FILE}\")"
 cat >"config_${LANGUAGE}.yaml" <<EOF
+title:      "SAVE THE INTERNET IN EUROPE"
 baseurl:    "${BASE_URL}"
-title:      "SAVE THE INTERNET"
 contentdir: "content/${LANGUAGE}"
 publishdir: "public/${LANGUAGE}"
-layoutdir:  "layouts/${LANGUAGE}"
 theme:      "sti"
+layoutdir:  "layouts/${LANGUAGE}"
 
 params:
-  language: "${LANGUAGE}"
+  language:   "${LANGUAGE}"
+  takeaction: "Join us and take action! Send a message to your regulator:"
 EOF
 }
 
