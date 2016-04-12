@@ -10,41 +10,49 @@ then
   exit 1
 fi
 
-build() {
-  echo "building client side assets..."
-  cd themes/sti || exit
-  npm run build
+log() {
+  echo ""
+  echo "# $1"
+  echo "================================================================================"
+}
 
-  echo "building markup..."
-  cd - || exit
-  for CONFIG in ./config_??.yaml
+build() {
+  log "building client side assets..."
+  cd themes/sti || exit
+  npm run build >/dev/null 2>&1
+
+  log "building markup..."
+  cd - || exit >/dev/null 2>&1
+  for LANGUAGE in $(cat ./active_languages.conf)
   do
-    hugo --config "$CONFIG"
+    log "language: ${LANGUAGE}"
+    hugo --config "./config_${LANGUAGE}.yaml"
   done
 
-  echo "copying assets to root of ./public directory... (hugo i18n workaround)"
-  find themes/sti/static/* -type d -maxdepth 0 -exec cp -av {} public \;
+  log "copying assets to root of ./public directory... (hugo i18n workaround)"
+  find themes/sti/static/* -type d -maxdepth 0 -exec cp -av {} public \; >/dev/null 2>&1
 
   if [ "$SITE_ENV" = "production" ]
   then
-    echo "deleting static questionnaire examples..."
+    log "deleting static questionnaire examples..."
     find public/ -type d -name "public/step-*" -exec rm -rf {} \;
   fi
+  ls -l ./public
 }
 
 deploy() {
   # deploy but exclude deletion of counter
-  echo "deploying... ($USER_AT_REMOTE_DIRECTORY)"
-  rsync -av public/ "$USER_AT_REMOTE_DIRECTORY" --delete --exclude=counter
+  log "deploying... ($USER_AT_REMOTE_DIRECTORY)"
+  rsync -av public/ "$USER_AT_REMOTE_DIRECTORY" --force --delete --exclude=counter
 }
 
 clean() {
-  echo "cleaning... (deleting ./public)"
+  log "cleaning... (deleting ./public)"
   rm -rf public/
 }
 
 # just build locally (./public)
-if [ "$SITE_ENV" == "local" ]
+if [ "$SITE_ENV" = "local" ]
 then
   build
   exit 0
