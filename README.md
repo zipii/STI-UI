@@ -4,12 +4,6 @@ Frontend code for [savetheinternet.eu](https://savetheinternet.eu)
 
 ## Translations
 
-Setup your language translation with:
-
-```
-./translate.sh [TWO_LETTER_CODE]
-```
-
 ### Config File
 
 Please have a quick look at the generated language specific config file here:
@@ -39,13 +33,22 @@ The corresponding content files needed for translation (based on the English ori
 ./content/[TWO_LETTER_CODE]/
 ```
 
+### Set language to be ready for building (and deployment)
+
+To mark certain languages ready to be built (and deployed) add the
+corresponding two-letter-codes as a new line in:
+
+```
+./active_languages.conf
+```
+
 ## Build process
 
 ### HTML
 
 + Download and install [hugo](https://github.com/spf13/hugo/releases).
 + Continuously build and watch for development (builds to development server
-  cache):
+  cache; ATTENTION: the path will be absolute in development mode i.e. /faq ):
 ```
 cd /STI-UI
 hugo server --config config_[TWO_LETTER_CODE].yaml --verbose
@@ -104,7 +107,7 @@ This is about the iFrame included consultation page ("Questionnaire") and the co
 
 ### Backend HTML templates
 
-All questionnaire templates needed for inclusion and adaptation on the backend can either be builded locally or viewed and downloaded from staging:
+All questionnaire templates needed for inclusion and adaptation on the backend can either be built locally or viewed and downloaded from staging:
 
 * [Questionnaire Template Step 1](https://beta.savetheinternet.eu/en/step-1)
 * [Questionnaire Template Step 2](https://beta.savetheinternet.eu/en/step-2)
