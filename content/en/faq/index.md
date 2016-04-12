@@ -103,10 +103,10 @@ SaveTheInternet is the joint campaign of 12 European NGOs that work to protect c
 If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-
+<a name="what-are-specialised-services"></a>
 # SPECIALISED SERVICES
 
-<a name="what-are-specialised-services"></a>
+
 ## What are specialised services?
 
 A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
@@ -144,10 +144,10 @@ New specialised services have to be tested against all five safeguards by the re
 The optimisation of a specialised service has to be objectively necessary for the functionality of the service and not just a convenient advantage over competitors. If a comparable service exists in the open Internet, then a specialised service should not be granted.
 
 
-
+<a name="what-is-traffic-management"></a>
 # Traffic Management
 
-<a name="what-is-traffic-management"></a>
+
 ## What is traffic management?
 
 Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
@@ -195,10 +195,10 @@ According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri
 We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
 
 
-
+<a name="what-is-zero-rating"></a>
 # ZERO RATING
 
-<a name="what-is-zero-rating"></a>
+
 ## What is zero rating?
 
 Zero rating is a commercial practice, for which data downloaded from certain applications or services is not counted towards a subscriber's monthly download limit. Zero rating treats different traffic in different ways, in order for some to be offered at one price and some to be offered at a different price. Although technically different from classic net neutrality violations, it is identical, practically speaking, as it allows the Internet access provider to influence what applications and services are used and which are not.
