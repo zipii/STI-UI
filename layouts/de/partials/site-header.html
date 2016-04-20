@@ -1,4 +1,4 @@
-{{ $siteImagePath := "images/save_the_internet_logo_headline@2x.png" }}
+{{ $siteImagePath := "images/save_the_internet_logo_headline_sharing.png" }}
 
 <!DOCTYPE html>
 <html lang="{{ .Site.Params.language }}">
@@ -10,10 +10,10 @@
     <meta name="keywords" content="net neutrality, connected conntinent, digital single market, dsm, neelie kroes, Netzneutralität, drosselkom, specialised services, echtesnetz, BEREC, Internetneutralität, Plattformneutralität, Neutralitätsdebatte">
     <meta property="og:title" content="{{ .Site.Title }}" />
     <meta property="og:description" content="{{ .Site.Params.takeaction }}" />
-    <meta property="og:url" content="{{ .Site.BaseURL }}" />
+    <meta property="og:url" content="{{ .Site.BaseURL }}/{{ .Site.Params.language }}/" />
     <meta property="og:image" content="{{ .Site.BaseURL }}/{{ $siteImagePath }}" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:url" content="{{ .Site.BaseURL }}" />
+    <meta name="twitter:url" content="{{ .Site.BaseURL }}/{{ .Site.Params.language }}/" />
     <meta name="twitter:title" content="{{ .Site.Title }}" />
     <meta name="twitter:description" content="{{ .Site.Params.takeaction }}">
     <meta name="twitter:image" content="{{ .Site.BaseURL }}/{{ $siteImagePath }}">
