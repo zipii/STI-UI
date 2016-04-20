@@ -10,13 +10,13 @@
     <meta name="keywords" content="net neutrality, connected conntinent, digital single market, dsm, neelie kroes, Netzneutralität, drosselkom, specialised services, echtesnetz, BEREC, Internetneutralität, Plattformneutralität, Neutralitätsdebatte">
     <meta property="og:title" content="{{ .Site.Title }}" />
     <meta property="og:description" content="{{ .Site.Params.takeaction }}" />
-    <meta property="og:url" content="{{ .Site.BaseURL }}" />
-    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ $siteImagePath }}" />
+    <meta property="og:url" content="{{ .Site.BaseURL }}{{ .Site.Params.language }}" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ $siteImagePath }}" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:url" content="{{ .Site.BaseURL }}" />
+    <meta name="twitter:url" content="{{ .Site.BaseURL }}{{ .Site.Params.language }}" />
     <meta name="twitter:title" content="{{ .Site.Title }}" />
     <meta name="twitter:description" content="{{ .Site.Params.takeaction }}">
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}/{{ $siteImagePath }}">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $siteImagePath }}">
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 	  <title> {{ .Site.Title }} &middot; {{ .Title }} </title>
