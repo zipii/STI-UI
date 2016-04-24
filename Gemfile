@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'commander'
+gem 'commander' # command line convenience
 
-gem 'slim'
-gem 'kramdown'
+gem 'tilt' # template interface
+gem 'slim' # template engine
+gem 'kramdown' # kramdown flavored markdown processing
