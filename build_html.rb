@@ -6,6 +6,15 @@ require 'tilt'
 require 'slim'
 require 'kramdown'
 
+require 'pp'
+
+module Kramdown
+  module Converter
+    class Page < Html
+    end
+  end
+end
+
 def walk(path, &process_file)
   Dir.foreach(path) do |file|
     new_path = File.join(path, file)
@@ -22,10 +31,10 @@ end
 def build_all
   Dir.foreach('content') do |language|
     next if language == '.' or language == '..'
-    Process.fork {
+    # Process.fork {
       build_site language, 'site'
       build_site language, 'questionnaire'
-    }
+    # }
   end
 end
 
@@ -65,8 +74,10 @@ def build_site(language, description)
     create_dir target_path
 
     # get context from markdown
-    context = Kramdown::Document.new(File.join content_file_path, content_file)
-    puts context.to_kramdown
+    content_kramdown = File.read File.join(content_file_path, content_file)
+    context = Kramdown::Document.new(content_kramdown)
+
+    pp context
 
     # create markup from context
     #Slim::Template.new("#{template_path}/#{relative_path}/#{template_file}.slim")

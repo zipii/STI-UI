@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'pry'
 gem 'commander' # command line convenience
 
 gem 'tilt' # template interface
