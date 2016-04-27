@@ -1,0 +1,98 @@
+.home__intro__outer {
+  min-height: 448px;
+  background-color:    $sti-blue-new;
+  background-image:    url(../images/background.jpg);
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: bottom center;
+}
+
+.home__intro__inner {
+  @include container;
+}
+
+.home__intro__content {
+  @include span(18);
+  margin-left:  span(3) + gutter();
+  margin-right: span(3);
+  margin-top: 100px;
+
+  color: $sti-white;
+  text-align: center;
+
+  .counter {
+    @include span(8 of 18);
+    margin-left:  span(5 of 18) + gutter(18);
+    margin-right: span(5 of 18);
+
+    position: relative;
+    bottom: -100px;
+
+    table {
+      width: 100%;
+      visibility: hidden;
+      tr {
+        td:nth-child(odd) {
+          @include setFontToBaseline(32px, 1, 1);
+        }
+        td:nth-child(even) {
+          @include setFontToBaseline(14px, 0.2, 0.2);
+          text-align: left;
+          padding-left: 0.5rem;
+          padding-right: 2rem;
+        }
+      }
+    }
+
+    p:last-of-type {
+      text-align: center;
+      .take-action-button {
+        font-family: $montserrat;
+        font-weight: 700;
+        color: $sti-white;
+        @include setFontToBaseline(27px, 1, 1);
+        background-color: #ff4c0d;
+        padding-top: span(1 of 24);
+        padding-bottom: span(1 of 24);
+        width: 100%;
+      }
+    }
+  }
+}
+
+.home__fix-net-neutrality__outer {
+  background-color: $sti-white;
+}
+
+.home__fix-net-neutrality__inner {
+  @include container;
+}
+
+@mixin fix-net-neutrality-column($topic) {
+  .home__#{$topic} {
+    @include span(8 of 24);
+    box-sizing:        border-box;
+    padding-left:      span(1 of 24);
+    background-image:  url("../images/#{$topic}.svg");
+    background-size:   50px;
+    background-repeat: no-repeat;
+    margin-right:      0px;
+  }
+}
+
+.home__fix-net-neutrality__content {
+  @include span(24);
+  text-align: center;
+
+  p:last-of-type {
+    text-align: left;
+  }
+
+  h3 {
+    margin-top: 0px;
+  }
+
+  @include fix-net-neutrality-column("specialised-services");
+  @include fix-net-neutrality-column("traffic-management");
+  @include fix-net-neutrality-column("zero-rating");
+}

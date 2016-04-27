@@ -1,19 +1,7 @@
 #!/usr/bin/env ruby
 
-#require 'commander/import'
-
-require 'tilt'
-require 'slim'
-require 'kramdown'
-
 require 'pp'
-
-module Kramdown
-  module Converter
-    class Page < Html
-    end
-  end
-end
+require 'kramdown'
 
 def walk(path, &process_file)
   Dir.foreach(path) do |file|
@@ -22,19 +10,9 @@ def walk(path, &process_file)
       next
     elsif File.directory?(new_path)
       walk(new_path, &process_file)
-    else
+    elsif file =~ /.*\.md/
       yield(path, file)
     end
-  end
-end
-
-def build_all
-  Dir.foreach('content') do |language|
-    next if language == '.' or language == '..'
-    # Process.fork {
-      build_site language, 'site'
-      build_site language, 'questionnaire'
-    # }
   end
 end
 
@@ -60,37 +38,41 @@ def render_path(*path_parts)
 end
 
 def build_site(language, description)
-  build_path    = render_path "build", language, description
-  content_path  = render_path "content", language, description
-  template_path = render_path "layouts", language, description
+  build_path   = render_path "build",   description, language
+  content_path = render_path "content", description, language
 
-  walk(content_path) do |path, content_file|
-    relative_path      = render_path path.split('/')[3..-1]
-    content_file_path  = render_path content_path, relative_path
-    target_path        = render_path build_path, relative_path
+  walk(content_path) do |path, content_file_name|
+    relative_path = render_path path.split('/')[3..-1].join('/')
+    target_path   = render_path build_path, relative_path
 
-    template_file = content_file.split('.')[0..-2].push('slim').join('.')
+    layout_path = File.join(render_path("layouts"), "site.html.erb")
+    target_file_name = content_file_name.split('.')[0..-2].push('html').join('.')
 
+    # create html from kramdown flavoured markdown
+    content_kramdown = File.read File.join(path, content_file_name)
+    document = Kramdown::Document.new(content_kramdown, template: layout_path, parse_block_html: true, auto_ids: false)
+
+    # write html
     create_dir target_path
+    target_file = File.new File.join(target_path, target_file_name), 'w'
+    target_file << document.to_html
+  end
+end
 
-    # get context from markdown
-    content_kramdown = File.read File.join(content_file_path, content_file)
-    context = Kramdown::Document.new(content_kramdown)
-
-    pp context
-
-    # create markup from context
-    #Slim::Template.new("#{template_path}/#{relative_path}/#{template_file}.slim")
-
-    # write output to newly created public folder
-    #create_dir "#{build_path}#{relative_path}"
-    #render(template_file)
+def build_all
+  Dir.foreach('content') do |site|
+    site_path = File.join('content', site)
+    next if site == '.' or site == '..' or not File.directory?(site_path)
+    Dir.foreach(site_path) do |language|
+      language_path = File.join(site_path, language)
+      next if language == '.' or language == '..' or not File.directory?(language_path)
+      # Process.fork {
+        build_site language, site
+      # }
+    end
   end
 end
 
 build_all
 
-
-# run this script from gulp
-# create client side assets, copy into assets directory
-# run from travis (on master commit)
+# TODO: build locally via github (on master commit)

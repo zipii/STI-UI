@@ -1,0 +1,94 @@
+// =============================================================================
+// _typography.scss
+// -----------------------------------------------------------------------------
+// Basic Typography for all pages
+// =============================================================================
+
+html {
+  font-family: $sourcesans;
+  font-size: $base-font-size;
+}
+
+h1 {
+  font-family: $montserrat;
+  font-weight: 700;
+  @include setFontToBaseline(25px, 1, 1);
+  padding-left:  span(1) !important;
+  padding-right: span(1) !important;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    @include setFontToBaseline(50px, 1, 1);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  }
+}
+
+h2 {
+  font-family: $montserrat;
+  font-weight: 700;
+  @include setFontToBaseline(20px, 1, 1.5);
+  line-height: 2rem;
+  padding-left: span(1) !important;
+  padding-right: span(1) !important;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    @include setFontToBaseline(30px, 1, 1.5);
+    line-height: 2rem;
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  }
+}
+
+h3 {
+  font-family: $montserrat;
+  font-weight: 700;
+  @include setFontToBaseline(15px, 1.5, 1);
+  padding-left: span(1) !important;
+  padding-right: span(1) !important;
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    @include setFontToBaseline(25px, 1.5, 1);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  }
+}
+
+h4 {
+  font-family: $montserrat;
+  font-weight: 300;
+  font-style: italic;
+  @include setFontToBaseline(20px, 1, 1);
+  padding-left: span(2) !important;
+  padding-right: span(2) !important;
+}
+
+h5 {
+  font-family: $montserrat;
+  font-weight: 700;
+  @include setFontToBaseline(20px, 1, 1);
+  padding-left: span(2) !important;
+  padding-right: span(2) !important;
+}
+
+p {
+  font-family: $sourcesans;
+  padding-left: span(1) !important;
+  padding-right: span(1) !important;
+  @include setFontToBaseline(15px, 1, 1.5);
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    @include setFontToBaseline(20px, 1, 1.5);
+    padding-left: span(2) !important;
+    padding-right: span(2) !important;
+  }
+}
+
+a {
+  color: $sti-blue-dark;
+  font-family: $sourcesans;
+  text-decoration: none;
+  @include setFontToBaseline(15px, 1, 1.5);
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    @include setFontToBaseline(20px, 1, 1.5);
+  }
+  &:hover {
+    color: $sti-gray-dark !important;
+    text-decoration: underline;
+  }
+}

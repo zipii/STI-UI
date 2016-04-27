@@ -1,0 +1,88 @@
+// videos
+
+.home__videos {
+  background-color: $sti-blue-sky-light;
+}
+
+.home__videos__container {
+  @include container;
+  background-color: $sti-blue-sky-light;
+}
+
+.home__videos__container__content {
+  @include content;
+  background-color: $sti-black-dark;
+}
+
+.home__videos__container__content__videos {
+  @include span(24);
+}
+
+#video-carousel {
+  background-color: $sti-black-dark;
+  padding-top: span(2);
+  padding-bottom: span(2);
+}
+
+.home-video {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center;
+
+  @extend .embed-responsive;
+
+  min-height: 240px;
+  min-width: 320px;
+
+  @include susy-breakpoint($tablet-small) {
+     min-height: 380px;
+     min-width: 180px;
+  }
+
+}
+
+.video-placeholder {
+    cursor: pointer;
+    opacity: 0.7;
+
+    img {
+    	width: 300px;
+    	@include susy-breakpoint($tablet-small) {
+	    width: unset;
+    	}
+    }
+}
+
+.video-placeholder:hover {
+    opacity: 1;
+}
+
+// bootstrap overrides
+
+.carousel {
+
+  .right, .left {
+    top: auto;
+    bottom: -20px;
+  }
+
+  @include susy-breakpoint($tablet) {
+    .right, .left {
+      top: 50%;
+      margin-top: -1.5em;
+      bottom: auto;
+    }
+  }
+}
+
+.carousel-indicators {
+  bottom: 0;
+
+  li {
+    box-sizing: border-box;
+  }
+}
+
+.carousel-inner {
+    margin: auto;
+}

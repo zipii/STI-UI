@@ -1,0 +1,92 @@
+// =============================================================================
+// _base.scss
+// -----------------------------------------------------------------------------
+// Basic Styles for all pages
+// =============================================================================
+
+$susy: (
+  columns: 24,
+  container: 1056px,
+  global-box-sizing: border-box,
+  debug: (image: show)
+);
+
+$sti-blue-new:       #3CA8C4;
+$sti-blue:           #92c2ed;
+$sti-blue-dark:      #004E84;
+$sti-blue-light:     #0076CE;
+$sti-black-dark:     #010101;
+$sti-black-light:    #303030;
+$sti-blue-sky-dark:  #43AFDC;
+$sti-blue-sky-light: #89D3F6;
+$sti-gray-dark:      #A1A6A8;
+$sti-gray-light:     #C2C6C8;
+$sti-gray-lighter:   #D8DADB;
+$sti-gray-lightest:  #F0F2F4;
+$sti-orange:         #fd6f1d;
+$sti-white:          #ffffff;
+
+
+// fixed heights
+
+$header-height: 50px;
+
+
+// breakpoints
+
+$mobile:        0;
+$tablet-small:  640px;
+$tablet:        768px;
+$desktop:       1024px;
+$desktop-large: 1600px;
+
+@mixin cf {
+  // background-color: purple;
+  // &:after {
+  //   content: " ";
+    display: block;
+    clear: both;
+  // }
+}
+
+@mixin center($axis: "both") {
+  position: absolute;
+
+  @if $axis == "y"{
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  @if $axis == "x"{
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  @if $axis == "both"{
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+@mixin sti-gradient-background($color-from, $color-to) {
+  @include background-image(photoshop-gradient-overlay($color-from, normal, 100%, 90deg, 100%, ($color-from 0%, $color-to 100%)));
+}
+
+@mixin content-inside {
+  @include span(24);
+}
+
+@mixin triangle-top($color) {
+  background-image: url(../images/triangle_#{$color}.svg);
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-position: top center !important;
+  padding-top: +73px;
+}
+
+@mixin ie-triangle-top($color) {
+  background-image: url(../images/triangle_#{$color}.png);
+  background-size: 140px;
+  background-repeat: no-repeat;
+  background-position: top center !important;
+  padding-top: +73px;
+}

@@ -1,0 +1,34 @@
+// intro
+
+.home__intro {
+  // background-color: $sti-blue-sky-light;
+  padding-top: $header-height;
+  background-image:    url(../images/background.jpg);
+  background-size:     c;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  margin: $grid-gutter-width / 2 $grid-gutter-width / 2;
+  box-sizing: border-box;
+
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    height: 116px;
+    background-position: bottom left;
+    margin: $grid-gutter-width $grid-gutter-width / 2;
+  }
+}
+
+.home__intro__container {
+  @include container;
+}
+
+.home__intro__container__content {
+  @include content;
+}
+
+.home__intro__container__content__header {
+  @include span(24);
+}
+
+.home__intro__container__content__header__logo {
+  //width: 100%;
+}
