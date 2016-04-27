@@ -2,9 +2,12 @@
 <div class="home__intro__inner">
 <div class="home__intro__content">
 
-# Save Europe's Internet
+# Save the Internet
 
-European regulators are about to give big telecom corporations the power to decide what you can (and can't) do online, by passing weak net neutrality rules that let them privilege certain websites over others, for profit. If we don't fix these rules, then we'll lose the Open Internet in Europe, forever.
+European Regulators are about to decide whether to give big telecoms corporations the power
+to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
+to protect our freedoms and rights online.  We have until *July* to help Europe protect the open Internet. 
+Join the movement, take action now!
 
 <div class="counter">
 
