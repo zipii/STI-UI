@@ -106,7 +106,7 @@ $(document).ready(function() {
             $('#questionnaire-loading-spinner').toggle();
       }
     }
-  }, document.getElementById('home__questions__container__content__body__iframe'));
+  }, document.getElementById('home__questionnaire__content__iframe'));
 
   // berec counter
 

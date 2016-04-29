@@ -96,3 +96,17 @@
   @include fix-net-neutrality-column("traffic-management");
   @include fix-net-neutrality-column("zero-rating");
 }
+
+.home__questionnaire__outer {
+  background-color: $sti-blue-new;
+}
+
+.home__questionnaire__inner {
+  @include container;
+}
+
+.home__questionnaire__content {
+  @include span(24);
+  color: $sti-white;
+  text-align: center;
+}
