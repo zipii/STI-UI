@@ -1,3 +1,12 @@
+.navigation__outer {
+}
+
+.navigation__inner {
+}
+
+.navigation__content {
+}
+
 .home__intro__outer {
   min-height: 448px;
   background-color:    $sti-blue-new;
@@ -107,6 +116,113 @@
 
 .home__questionnaire__content {
   @include span(24);
+  color: $sti-white;
+  text-align: center;
+}
+
+.home__spread-the-word__outer {
+  background-color: #1c1e23;
+}
+
+.home__spread-the-word__inner {
+  @include container;
+}
+
+.home__spread-the-word__content {
+  @include span(24);
+  color: $sti-white;
+  text-align: center;
+}
+
+.home__newsletter__outer {
+  background-color: #010101;
+}
+
+.home__newsletter__inner {
+  @include container;
+}
+
+.home__newsletter__content {
+  @include span(24);
+  color: $sti-white;
+  text-align: center;
+}
+
+.home__video__outer {
+  background-color: $sti-white;
+}
+
+.home__video__inner {
+  @include container;
+}
+
+.home__video__content {
+  @include span(24);
+  background-color: #010101;
+  color: $sti-white;
+  text-align: center;
+}
+
+.home__info__outer {
+  background-color: $sti-white;
+}
+
+.home__info__inner {
+  @include container;
+}
+
+.home__info__content {
+  @include span(24);
+  background-color: #010101;
+  color: $sti-white;
+  text-align: center;
+}
+
+.home__berec__outer {
+  background-color: $sti-white;
+}
+
+.home__berec__inner {
+  @include container;
+}
+
+.home__berec__content {
+  @include span(24);
+  color: $sti-white;
+  text-align: center;
+
+  p {
+    background-color: #171717;
+    @include setFontToBaseline(28px, 1, 1);
+  }
+}
+
+.home__supported-by__outer {
+  background-color: $sti-white;
+}
+
+.home__supported-by__inner {
+  @include container;
+}
+
+.home__supported-by__content {
+  @include span(24);
+  background-color: #010101;
+  color: $sti-white;
+  text-align: center;
+}
+
+.home__made-by__outer {
+  background-color: $sti-white;
+}
+
+.home__made-by__inner {
+  @include container;
+}
+
+.home__made-by__content {
+  @include span(24);
+  background-color: #010101;
   color: $sti-white;
   text-align: center;
 }
