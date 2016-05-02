@@ -41,8 +41,14 @@
     text-align: center;
     li {
       padding-right: 50px;
+      text-align: right;
       a {
         letter-spacing: 0.14em;
+      }
+      @include cf;
+      @include susy-breakpoint($tablet-small, $desktop-large) {
+        text-align: center;
+        display: inline-block;
       }
     }
   }
