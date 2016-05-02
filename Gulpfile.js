@@ -98,8 +98,10 @@ gulp.task('icons', function() {
 });
 
 gulp.task('default', ['icons', 'fonts', 'images', 'siteCSS', 'questionnaireCSS', 'siteSCSS', 'questionnaireSCSS', 'siteJS', 'questionnaireJS'], function () {
-    gulp.watch("stylesheets/**/*.css",  ['siteCSS', 'questionnaireCSS']);
-    gulp.watch("stylesheets/**/*.scss", ['siteSCSS', 'questionnaireSCSS']);
+    // gulp.watch("stylesheets/**/*.css",  ['siteCSS', 'questionnaireCSS']);
+    gulp.watch("stylesheets/**/*.css",  ['siteCSS']);
+    // gulp.watch("stylesheets/**/*.scss", ['siteSCSS', 'questionnaireSCSS']);
+    gulp.watch("stylesheets/**/*.scss", ['siteSCSS']);
     gulp.watch("scripts/**/*.js", ['siteJS', 'questionnaireJS']);
     gulp.watch("images/**/*", ['images']);
     gulp.watch("fonts/**/*", ['fonts']);

@@ -12,9 +12,11 @@
 
 @include font-face("Montserrat-Regular", "Montserrat-Regular", "Montserrat", "sans-serif")
 @include font-face("SourceSansPro-Regular", "SourceSansPro-Regular", "Source_Sans_Pro", "sans-serif")
+@include font-face("Open Sans", "SourceSansPro-Regular", "sans-serif");
 
 $sourcesans: 'SourceSansPro-Regular', sans-serif;
 $montserrat: 'Montserrat-Regular', sans-serif;
+$opensans: 'Open Sans', sans-serif;
 
 // -----------------------------------------------------------------------------
 // Font Sizes (_verticalrythm.scss)

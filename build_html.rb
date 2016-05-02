@@ -37,6 +37,10 @@ def render_path(*path_parts)
   path.join
 end
 
+def delete_comments(html)
+  html.gsub /(<!--|-->)/, ''
+end
+
 def build_site(language, description)
   build_path   = render_path "build",   description, language
   content_path = render_path "content", description, language
@@ -55,7 +59,7 @@ def build_site(language, description)
     # write html
     create_dir target_path
     target_file = File.new File.join(target_path, target_file_name), 'w'
-    target_file << document.to_html
+    target_file << delete_comments(document.to_html)
   end
 end
 

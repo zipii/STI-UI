@@ -1,21 +1,24 @@
 <div class="home__intro__outer">
 <div class="home__intro__inner">
 <div class="home__intro__content">
-<div class="navigation">
-{: .navigation__sections}
-- [SEND MESSAGE]()
-- [INFORMATION]()
-- [FAQ]()
 
-<ul class="navigation__languages">
-<% @languages.each do |language| %>
-  <a href="/<%= language %>"><%= language %></a>
-<% end %>
-</ul>
+<div class="navigation">
+
+{: .navigation__sections}
+- [SEND MESSAGE](#send-a-message)
+- [INFORMATION](#info)
+- [FAQ](faq)
+
+{: .navigation__languages}
+- [EN](#)
+- [FR](/fr)
+- [IT](/it)
+
 </div>
 
 # Save the Internet
 
+{: .title-subtext}
 European Regulators are about to decide whether to give big telecoms corporations the power
 to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
 to protect our freedoms and rights online.  We have until *July* to help Europe protect the open Internet.
@@ -23,7 +26,7 @@ Join the movement, take action now!
 
 <div class="counter">
 
-| X | PEOPLE HAVE <br> SENT MESSAGES | X | DAYS <br> LEFT |
+| 99999 | PEOPLE HAVE <br> SENT MESSAGES | 30 | DAYS <br> LEFT |
 
 [TAKE ACTION](#take-action){: class="btn btn-default take-action-button"}
 
@@ -73,15 +76,17 @@ It sounds like you get something for free, but it makes your mobile operator bec
 </div>
 </div>
 
+
 <div class="home__questionnaire__outer">
 <div class="home__questionnaire__inner">
 <div class="home__questionnaire__content">
+[](){: name="send-a-message"}
 
 # Tell your national regulators and <br> BEREC to protect net neutrality
 
 Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.
 
-<iframe id="home__questionnaire__content__iframe" src="http://savetheinternet.azurewebsites.net/english/" scrolling="no"></iframe>
+<iframe id="home__questionnaire__content__iframe" src="https://savetheinternet.azurewebsites.net/english/" scrolling="no"></iframe>
 
 </div>
 </div>
@@ -172,6 +177,8 @@ SIGNUP
 </div>
 </div>
 </div>
+
+<a name="info"></a>
 
 <div class="home__info__outer">
 <div class="home__info__inner">

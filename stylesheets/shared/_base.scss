@@ -75,6 +75,15 @@ $desktop-large: 1600px;
   @include span(24);
 }
 
+@mixin triforce() {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 80px 20px 80px;
+  border-color: transparent transparent $sti-blue-new transparent;
+  line-height: 0px;
+}
+
 @mixin triangle-top($color) {
   background-image: url(../images/triangle_#{$color}.svg);
   background-size: 140px;
