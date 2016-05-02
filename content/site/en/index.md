@@ -5,14 +5,9 @@
 <div class="navigation">
 
 {: .navigation__sections}
-- [SEND MESSAGE](#send-a-message)
-- [INFORMATION](#info)
+- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
+- [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
-
-{: .navigation__languages}
-- [EN](#)
-- [FR](/fr)
-- [IT](/it)
 
 </div>
 
@@ -28,7 +23,7 @@ Join the movement, take action now!
 
 | 99999 | PEOPLE HAVE <br> SENT MESSAGES | 30 | DAYS <br> LEFT |
 
-[TAKE ACTION](#take-action){: class="btn btn-default take-action-button"}
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 </div>
 
@@ -48,7 +43,7 @@ Join the movement, take action now!
 
 Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.
 
-[READ MORE](http://savetheinternet.eu/en/)
+[READ MORE](faq/#what-are-specialised-services)
 
 </div>
 
@@ -58,7 +53,7 @@ Specialised Services risk becoming the paid fast-lane for big Internet companies
 
 Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.
 
-[READ MORE](http://savetheinternet.eu/en/)
+[READ MORE](faq/#what-is-traffic-management)
 
 </div>
 
@@ -68,7 +63,7 @@ Don't let your Internet provider decide what traffic is important and which onli
 
 It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.
 
-[READ MORE](http://savetheinternet.eu/en/)
+[READ MORE](faq/#what-is-zero-rating)
 
 </div>
 
@@ -80,7 +75,7 @@ It sounds like you get something for free, but it makes your mobile operator bec
 <div class="home__questionnaire__outer">
 <div class="home__questionnaire__inner">
 <div class="home__questionnaire__content">
-[](){: name="send-a-message"}
+<span id="send-a-message"></span>
 
 # Tell your national regulators and <br> BEREC to protect net neutrality
 
@@ -178,11 +173,11 @@ SIGNUP
 </div>
 </div>
 
-<a name="info"></a>
 
 <div class="home__info__outer">
 <div class="home__info__inner">
 <div class="home__info__content">
+<span id="info"></span>
 
 ## In 2015, the European Union adopted  legislation on net neutrality ...
 
@@ -202,20 +197,13 @@ The Body of European Regulators of Electronic Communications (BEREC) has to prep
 </div>
 </div>
 
-<div class="home__berec__outer">
-<div class="home__berec__inner">
-<div class="home__berec__content">
-
-</div>
-</div>
-</div>
-
 <div class="home__supported-by__outer">
 <div class="home__supported-by__inner">
 <div class="home__supported-by__content">
 
 <p>We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.</p>
   <ul class="footerlogos">
+
     <li>
       <a href="https://netzfreiheit.org/">
         <img src="/images/sponsors/ifnf.png"><br>
@@ -337,6 +325,7 @@ The Body of European Regulators of Electronic Communications (BEREC) has to prep
             Zveza potrošnikov Slovenije (SL)
       </a>
     </li>
+  </ul>
 
 </div>
 </div>
@@ -350,24 +339,25 @@ The Body of European Regulators of Electronic Communications (BEREC) has to prep
 <ul class="footerlogos">
   <li>
     <a href="http://produktion.io/">
-      <img src="images/produktion_io.svg" alt="produktion.io"><br>
+      <img src="/images/produktion_io.svg" alt="produktion.io"><br>
     </a>
   </li>
   <li>
     <a href="https://aykit.org">
-      <img src="images/aykit.png" alt="AYKIT">
+      <img src="/images/aykit.png" alt="AYKIT">
     </a>
   </li>
   <li>
     <a href="http://endzone.io/">
-      <img src="images/Endzone_vector.svg" alt="AYKIT">
+      <img src="/images/Endzone_vector.svg" alt="AYKIT">
     </a>
   </li>
   <li>
     <a href="http://daruma.io/">
-      <img src="images/daruma_logo.png" alt="AYKIT">
+      <img src="/images/daruma_logo.png" alt="AYKIT">
     </a>
   </li>
+</ul>
 
 </div>
 </div>

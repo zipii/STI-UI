@@ -1,0 +1,63 @@
+.navigation__outer {
+  background-color:    $sti-blue-new;
+  background-image:    url(../images/background.jpg);
+  background-size:     100% 200px cover;
+  background-repeat:   no-repeat;
+  background-position: top center;
+}
+
+.navigation__inner {
+  @include container
+}
+
+.navigation__content {
+  @include span(24);
+  text-align: center;
+}
+
+.navigation {
+  background-image: url(../images/logo_top_2x.png);
+  background-repeat: no-repeat;
+  background-size: 161px;
+  min-height: 86px;
+
+  padding-top: 30px;
+
+  ul {
+    display: inline;
+    list-style-type: none;
+    margin-top: 0px;
+    li {
+      display: inline;
+      a {
+        @include setFontToBaseline(16px, 0, 0);
+        margin-top: 30px !important;
+        color: $sti-white;
+      }
+    }
+  }
+
+  .navigation__sections {
+    text-align: center;
+    li {
+      padding-right: 50px;
+      a {
+        letter-spacing: 0.14em;
+      }
+    }
+  }
+
+  .navigation__languages {
+    float: right;
+    li {
+      padding-right: 12px;
+      a {
+        letter-spacing: 0em;
+        &:active {
+          background-color: #3f9fb7;
+        }
+      }
+    }
+  }
+
+}

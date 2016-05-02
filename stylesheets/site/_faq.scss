@@ -1,7 +1,15 @@
 // faq
 
-.faq {
-  background-color: $sti-blue-sky-light;
+.faq__outer {
+}
+
+.faq__inner {
+  @include container;
+  background-color: $sti-white;
+}
+
+.faq__content {
+  @include span(24);
 
   h3 {
     font-family: $montserrat;
@@ -17,24 +25,9 @@
       text-decoration: none;
       @include setFontToBaseline(30px, 1, 1);
     }
-
   }
-}
 
-.faq__container {
-  @include container;
-  background-color: $sti-blue-sky-light;
-}
-
-.faq__container__content {
-  @include content;
   background-color: $sti-white;
-}
-
-.faq__container__content__main {
-  @include content-inside;
-  background-color: $sti-white;
-  padding-top: span(2);
 
   h1 {
       margin-top: span(2);

@@ -112,13 +112,9 @@ $(document).ready(function() {
 
   var deadline = new Date('2016-06-02');
 
-  // var $counter      = $('.home__intro__content').find('table').first();
-  // var $sentMessages = $counter.find('tr:nth-child(1)').find('td:nth-child(1)');
-  // var $daysLeft     = $counter.find('tr:nth-child(1)').find('td:nth-child(3)');
-
-  var $counter      = $('.home__intro__content').find('counter').first();
-  var $sentMessages = $counter.find('messages-count');
-  var $daysLeft     = $counter.find('days-left-count');
+  var $counter      = $('.home__intro__content').find('table').first();
+  var $sentMessages = $counter.find('tr:nth-child(1)').find('td:nth-child(1)');
+  var $daysLeft     = $counter.find('tr:nth-child(1)').find('td:nth-child(3)');
 
   $.get('/counter/count.json', function(counter) {
     $sentMessages.html(counter.count);
@@ -159,5 +155,9 @@ $(document).ready(function() {
     var currentVideoId = $(e.relatedTarget).find('.home-video').first().data('video-id');
     setCurrentVideo(currentVideoId);
   })
+
+  // scroll animations
+
+  smoothScroll.init();
 
 });

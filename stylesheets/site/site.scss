@@ -44,10 +44,11 @@
 // Base Styles
 @import '../shared/base';
 @import '../shared/typography';
+@import '../shared/navigation';
 
 // Page Styles
 @import 'home';
-// @import 'faq';
+@import 'faq';
 
 // Layout Styles
 // @import '../shared/header';
