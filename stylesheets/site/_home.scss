@@ -232,9 +232,14 @@
   }
 }
 
+#questionnaire-loading-spinner {
+  display: none;
+  text-align: center;
+  @include setFontToBaseline(30px, 1, 1);
+}
+
 .home__questionnaire__outer {
   background-color: $sti-blue-new;
-
 }
 
 .home__questionnaire__inner {
@@ -247,6 +252,7 @@
   text-align: center;
   iframe {
     width: 100%;
+    border: none;
   }
 }
 

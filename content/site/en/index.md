@@ -81,7 +81,8 @@ It sounds like you get something for free, but it makes your mobile operator bec
 
 Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.
 
-<iframe id="home__questionnaire__content__iframe" src="https://savetheinternet.azurewebsites.net/english/" scrolling="no"></iframe>
+<!-- <div id="questionnaire-loading-spinner">Loading Questionnaire <i class="fa fa-circle-o-notch fa-spin"></i></div>
+<iframe id="home__questionnaire__content__iframe" src="https://savetheinternet.azurewebsites.net/english/" scrolling="no"></iframe> -->
 
 </div>
 </div>
