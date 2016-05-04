@@ -188,12 +188,71 @@ SIGNUP
 </div>
 </div>
 
-<div class="home__berec__outer">
-<div class="home__berec__inner">
-<div class="home__berec__content">
+<div class="home__berec-1__outer">
+<div class="home__berec-1__inner">
+<div class="home__berec-1__content">
 
 The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not.
 
+</div>
+</div>
+</div>
+
+<div class="home__berec-2__outer">
+<div class="home__berec-2__inner">
+<div class="home__berec-2__content">
+In June 2016, BEREC plans to publish its draft guidelines and launch a public consultation. However, BEREC's procedural rules say that the public only has __from June 6th to July 18th__ to respond and the Regulation says that BEREC needs to publish its final guidelines on 30 August 2016. That means that citizens will only have __a few weeks__ to respond to the consultation and BEREC will only have __a little bit over a month__ to process the (potentially thousands of) comments, draft updates to its guidelines and then go through the administrative processes to formally agree to any changes that it makes to the draft.
+</div>
+</div>
+</div>
+
+<div class="home__berec-3__outer">
+<div class="home__berec-3__inner">
+<div class="home__berec-3__content">
+## EU Net Neutrality Roadmap
+</div>
+</div>
+</div>
+
+<div class="home__berec-4__outer">
+<div class="home__berec-4__inner">
+<div class="home__berec-4__content">
+### __This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.__
+
+Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
+
+Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/) in those meetings into plain English and added few others when we felt this was necessary.
+
+</div>
+</div>
+</div>
+
+<div class="home__berec-5__outer">
+<div class="home__berec-5__inner">
+<div class="home__berec-5__content">
+## BEREC [needs your input](#send-a-message){: data-scroll="true"} before they decide on the future of net neutrality in Europe.
+</div>
+</div>
+</div>
+
+<div class="home__contact-us__outer">
+<div class="home__contact-us__inner">
+<div class="home__contact-us__content">
+### Contact Us
+
+__Feel free to contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+
+You have an idea to improve this website? That's great, we need you! The full source code of this website is available on (GitHub)[https://github.com/Netzfreiheit/STI-UI] and can be forked, improved, remixed and pushed back to us.
+
+One thing we always need is help with translations, so if you speak a language that we haven't covered here so far, please get in contact with us.
+
+### Privacy Policy
+
+We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations (here)[http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf]. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign might also analyse the comments sent to BEREC through this website, if they are not marked as confidential. One month after the official consultation period has ended we will delete all comments.
+
+We collect non-personalized information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+
+If you subscribe to the newsletter your email address will be stored in a mailinglist and database.
 </div>
 </div>
 </div>

@@ -369,19 +369,19 @@
 
 .home__info__content {
   @include span(24);
-  color: #404c66;
+  color: $sti-blue-light-new;
   text-align: center;
 }
 
-.home__berec__outer {
+.home__berec-1__outer {
   background-color: $sti-white;
 }
 
-.home__berec__inner {
+.home__berec-1__inner {
   @include container;
 }
 
-.home__berec__content {
+.home__berec-1__content {
   @include span(24);
   color: $sti-white;
   text-align: center;
@@ -392,6 +392,92 @@
     padding-top: 2em;
     padding-bottom: 2em;
   }
+}
+
+.home__berec-2__outer {
+
+}
+.home__berec-2__inner {
+  @include container;
+
+}
+.home__berec-2__content {
+  @include span(24);
+  color: $sti-blue-light-new;
+
+}
+
+.home__berec-3__outer {
+
+}
+.home__berec-3__inner {
+  @include container;
+
+}
+.home__berec-3__content {
+  @include span(24);
+  color: $sti-blue-light-new;
+  background-color: $sti-white;
+  min-height: 512px !important;
+  background-image:    url(../images/net_neutrality_roadmap.png);
+  background-image:    url(../images/net_neutrality_roadmap.svg);
+  background-size:     contain;
+  background-repeat:   no-repeat;
+  background-position: right bottom;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.home__berec-4__outer {
+
+}
+.home__berec-4__inner {
+  @include container;
+
+}
+.home__berec-4__content {
+  @include span(24);
+  color: $sti-blue-light-new;
+
+}
+
+.home__berec-5__outer {
+
+}
+.home__berec-5__inner {
+  @include container;
+
+}
+.home__berec-5__content {
+  @include span(24);
+  color: $sti-white;
+  text-align: center;
+  background-color: #171717;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    a {
+      @extend h2;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+      color: $sti-red-new;
+    }
+  }
+}
+
+.home__contact-us__outer {
+
+}
+.home__contact-us__inner {
+  @include container;
+
+}
+.home__contact-us__content {
+  @include span(24);
+
+  color: $sti-blue-light-new;
 }
 
 .home__supported-by__outer {
