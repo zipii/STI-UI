@@ -1,17 +1,15 @@
 #!/usr/bin/env ruby
 
 require 'pp'
-require 'kramdown'
+require 'erb'
 require 'yaml'
+require 'kramdown'
 
-@translations_ready = YAML.load(
-  File.read(
-    File.join(
-      Dir.pwd,
-      'translations-ready.yml'
-    )
-  )
-).uniq.sort
+def read_file(relative_path)
+  File.read(File.join(Dir.pwd, relative_path))
+end
+
+@translations_ready = YAML.load(read_file('translations-ready.yml')).uniq.sort
 
 def walk(path, &process_file)
   Dir.foreach(path) do |file|
@@ -48,10 +46,17 @@ def render_path(*path_parts)
 end
 
 def render_partial(partial_name)
-  "\n{::nomarkdown}\n" + File.read(File.join(Dir.pwd, "layouts/_#{partial_name}.html")) + "{:/}\n"
+  "\n{::nomarkdown}\n" + read_file("layouts/_#{partial_name}.html") + "{:/}\n"
 end
 
-def transform(language, html)
+def render_head(site_config)
+  erb = ERB.new(read_file("layouts/_head.html.erb"))
+  obj = Object.new
+  obj.instance_variable_set(:@config, site_config)
+  "\n{::nomarkdown}\n" + erb.result(obj.instance_eval{binding}) + "{:/}\n"
+end
+
+def transform(site_config, language, html)
   block_pattern = /{{([^}]*)}}/
 
   if block_line = html[block_pattern, 1]
@@ -126,15 +131,16 @@ def transform(language, html)
         html.sub! block_pattern, render_partial('supported-by')
       end
     end
-    transform language, html
+    transform site_config, language, html
   else
-    html.gsub /^ */, ''
+    (render_head(site_config) + html).gsub /^ */, ''
   end
 end
 
 def build_site(language, description)
   build_path   = render_path "build",   description, language
   content_path = render_path "content", description, language
+  site_config  = YAML.load read_file("#{content_path}/config.yml")
 
   walk(content_path) do |path, content_file_name|
     relative_path = render_path path.split('/')[3..-1].join('/')
@@ -144,7 +150,8 @@ def build_site(language, description)
     target_file_name = content_file_name.split('.')[0..-2].push('html').join('.')
 
     # create html from kramdown flavoured markdown
-    content_kramdown = transform language, File.read(File.join(path, content_file_name))
+    content_kramdown = transform site_config, language, File.read(File.join(path, content_file_name))
+
     document = Kramdown::Document.new(content_kramdown, template: layout_path, parse_block_html: true, auto_ids: false)
 
     # write html
@@ -157,7 +164,7 @@ end
 def build_all
   Dir.foreach('content') do |site|
     site_path = File.join('content', site)
-    next if site == '.' or site == '..' or not File.directory?(site_path)
+    next if site == '.' or site == '..' or not File.directory?(site_path) or site == 'questionnaire'
     Dir.foreach(site_path) do |language|
       language_path = File.join(site_path, language)
       next if language == '.' or language == '..' or not File.directory?(language_path) or not @translations_ready.include?(language)
