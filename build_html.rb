@@ -2,6 +2,16 @@
 
 require 'pp'
 require 'kramdown'
+require 'yaml'
+
+@translations_ready = YAML.load(
+  File.read(
+    File.join(
+      Dir.pwd,
+      'translations-ready.yml'
+    )
+  )
+).uniq.sort
 
 def walk(path, &process_file)
   Dir.foreach(path) do |file|
@@ -41,7 +51,7 @@ def render_partial(partial_name)
   "\n{::nomarkdown}\n" + File.read(File.join(Dir.pwd, "layouts/_#{partial_name}.html")) + "{:/}\n"
 end
 
-def transform(html)
+def transform(language, html)
   block_pattern = /{{([^}]*)}}/
 
   if block_line = html[block_pattern, 1]
@@ -82,8 +92,19 @@ def transform(html)
       case id_part
       when 'questionnaire-iframe'
         html.sub! block_pattern, ''
-      when 'navigation',
-           'counter',
+      when 'navigation'
+        navigation_tail = "
+          <ul class=\"navigation__languages\">
+            <li><a class=\"current-language\" href=\"#\">#{language.upcase}</a></li>
+        "
+        @translations_ready.each do |t|
+          break if t == language
+          navigation_tail << "<li><a href=\"/#{t}\">#{t.upcase}</a></li>"
+        end
+        navigation_tail << "</ul></div>"
+
+        html.sub! block_pattern, navigation_tail
+      when 'counter',
            'home__specialised-services',
            'home__traffic-management',
            'home__zero-rating'
@@ -105,7 +126,7 @@ def transform(html)
         html.sub! block_pattern, render_partial('supported-by')
       end
     end
-    transform html
+    transform language, html
   else
     html.gsub /^ */, ''
   end
@@ -123,8 +144,7 @@ def build_site(language, description)
     target_file_name = content_file_name.split('.')[0..-2].push('html').join('.')
 
     # create html from kramdown flavoured markdown
-    content_kramdown = transform File.read(File.join(path, content_file_name))
-    puts content_kramdown
+    content_kramdown = transform language, File.read(File.join(path, content_file_name))
     document = Kramdown::Document.new(content_kramdown, template: layout_path, parse_block_html: true, auto_ids: false)
 
     # write html

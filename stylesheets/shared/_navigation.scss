@@ -37,6 +37,13 @@
     }
   }
 
+  .current-language {
+    background-color: $sti-blue-background-new;
+    padding: 0.3rem;
+    border: none;
+    border-radius: 6px;
+  }
+
   .navigation__sections {
     text-align: center;
     li {

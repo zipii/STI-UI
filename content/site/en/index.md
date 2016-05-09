@@ -4,6 +4,7 @@
 - [SEND MESSAGE](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
+
 {{ END NAVIGATION }}
 
 # Save the Internet
