@@ -160,10 +160,8 @@ def build_all
     next if site == '.' or site == '..' or not File.directory?(site_path)
     Dir.foreach(site_path) do |language|
       language_path = File.join(site_path, language)
-      next if language == '.' or language == '..' or not File.directory?(language_path)
-      # Process.fork {
-        build_site language, site
-      # }
+      next if language == '.' or language == '..' or not File.directory?(language_path) or not @translations_ready.include?(language)
+      build_site language, site
     end
   end
 end
