@@ -80,7 +80,7 @@ p {
 }
 
 a {
-  color: $sti-blue-dark;
+  color: $sti-red-new;
   font-family: $sourcesans;
   text-decoration: none;
   @include setFontToBaseline(15px, 1, 1.5);
@@ -88,7 +88,7 @@ a {
     @include setFontToBaseline(20px, 1, 1.5);
   }
   &:hover {
-    color: $sti-gray-dark !important;
+    color: $sti-red-new !important;
     text-decoration: underline;
   }
 }

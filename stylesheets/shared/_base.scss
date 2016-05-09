@@ -10,7 +10,9 @@ $susy: (
   global-box-sizing: border-box
 );
 
+$sti-blue-lighter-new: #16a6f8;
 $sti-blue-light-new: #404c66;
+$sti-blue-sky-new:   #5bcae5;
 $sti-red-new:        #ff4c0d;
 $sti-blue-new:       #3CA8C4;
 $sti-blue:           #92c2ed;
@@ -40,6 +42,10 @@ $tablet-small:  640px;
 $tablet:        768px;
 $desktop:       1024px;
 $desktop-large: 1600px;
+
+html {
+  overflow-x: hidden;
+}
 
 @mixin cf {
   // background-color: purple;

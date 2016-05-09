@@ -1,24 +1,13 @@
-<div class="navigation__outer">
-<div class="navigation__inner">
-<div class="navigation__content">
-
-<div class="navigation">
-
+{{ BEGIN FAQ NAVIGATION }}
+{{ BEGIN NAVIGATION }}
 {: .navigation__sections}
 - [SEND MESSAGE](../#send-a-message)
 - [INFORMATION](../#info)
 - [FAQ](#)
+{{ END NAVIGATION }}
+{{ END FAQ NAVIGATION }}
 
-</div>
-
-</div>
-</div>
-</div>
-
-<div class="faq__outer">
-<div class="faq__inner">
-<div class="faq__content">
-
+{{ BEGIN FAQ }}
 # FREQUENTLY ASKED QUESTIONS
 
 ## Net Neutrality
@@ -281,6 +270,4 @@ You can help SaveTheInternet.eu in many ways:
 
 Do you have any other cool and creative ideas? Please, reach out to us via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-</div>
-</div>
-</div>
+{{ END FAQ }}

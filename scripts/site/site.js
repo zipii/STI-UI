@@ -127,16 +127,6 @@ $(document).ready(function() {
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   });
 
-  // social sharing counter
-
-  if (typeof window.shares === 'undefined') {
-    window.shares = {'twitter': 4883 , 'facebook': 7350 , 'linkedin': 0 , 'google': 958};
-  }
-
-  $('#tw_counter').html(window.shares['twitter'] );
-  $('#fb_counter').html(window.shares['facebook']);
-  $('#gp_counter').html(window.shares['google']);
-
   // video
 
   $('.carousel').carousel({
