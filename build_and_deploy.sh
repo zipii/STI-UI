@@ -18,37 +18,21 @@ log() {
 
 build() {
   log "building client side assets..."
-  cd themes/sti || exit
-  npm run build >/dev/null 2>&1
+  gulp build
 
   log "building markup..."
-  cd - || exit >/dev/null 2>&1
-  for LANGUAGE in $(cat ./active_languages.conf)
-  do
-    log "language: ${LANGUAGE}"
-    hugo --config "./config_${LANGUAGE}.yaml"
-  done
-
-  log "copying assets to root of ./public directory... (hugo i18n workaround)"
-  find themes/sti/static/* -type d -maxdepth 0 -exec cp -av {} public \; >/dev/null 2>&1
-
-  if [ "$SITE_ENV" = "production" ]
-  then
-    log "deleting static questionnaire examples..."
-    find public/ -type d -name "public/step-*" -exec rm -rf {} \;
-  fi
-  ls -l ./public
+  ./build_html.rb
 }
 
 deploy() {
   # deploy but exclude deletion of counter
   log "deploying... ($USER_AT_REMOTE_DIRECTORY)"
-  rsync -av public/ "$USER_AT_REMOTE_DIRECTORY" --force --delete --exclude=counter
+  rsync -av build/site/ "$USER_AT_REMOTE_DIRECTORY" --force --delete --exclude=counter
 }
 
 clean() {
   log "cleaning... (deleting ./public)"
-  rm -rf public/
+  rm -rf build/
 }
 
 # just build locally (./public)

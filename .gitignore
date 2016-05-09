@@ -14,6 +14,5 @@
 # Ignore .DS_store file
 .DS_Store
 
-themes/sti/node_modules
-
-./public
+build
+node_modules
