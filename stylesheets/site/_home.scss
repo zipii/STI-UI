@@ -188,19 +188,20 @@
 
 .home__fix-net-neutrality__content {
   margin-top: 80px;
-  text-align: center;
 
   h2 {
     @include setFontToBaseline(46px, 1, 1);
     font-weight: 300;
     color: #286e82;
     font-family: $opensans;
+    text-align: center;
   }
 
   h3 {
     font-weight: 700;
     font-family: $opensans;
     @include setFontToBaseline(20px, 0, 0);
+    text-align: left;
     margin-top: 0px;
     color: #435058;
   }
@@ -210,6 +211,7 @@
     line-height: 1.33;
     font-family: $opensans;
     font-weight: 300;
+    text-align: left;
   }
 
   p:last-of-type {
