@@ -92,23 +92,7 @@ $(function clickToActivate() {
   });
 });
 
-// document loaded and ready
-
-$(document).ready(function() {
-
-  // questionnaire iframe specifics
-
-  var iframes = iFrameResize({
-    heightCalculationMethod:  isWeird ? 'lowestElement' : 'max',
-    messageCallback: function(context) {
-      if (context.message === 'loaded' ||
-          context.message === 'loading') {
-            $('#questionnaire-loading-spinner').toggle();
-      }
-    }
-  }, document.getElementById('home__questionnaire__content__iframe'));
-
-  // berec counter
+function registerAndSetupCounter() {
 
   var deadline = new Date('2016-06-02');
 
@@ -126,6 +110,27 @@ $(document).ready(function() {
     $daysLeft.html(daysUntil(deadline));
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   });
+
+}
+
+// document loaded and ready
+
+$(document).ready(function() {
+
+  // questionnaire iframe specifics
+
+  var iframes = iFrameResize({
+    heightCalculationMethod:  isWeird ? 'lowestElement' : 'max',
+    messageCallback: function(context) {
+      if (context.message === 'loaded' ||
+          context.message === 'loading') {
+            $('#questionnaire-loading-spinner').toggle();
+      }
+    }
+  }, document.getElementById('home__questionnaire__content__iframe'));
+
+  // berec counter
+  // registerAndSetupCounter();
 
   // video
 
