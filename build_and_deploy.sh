@@ -18,7 +18,7 @@ log() {
 
 build() {
   log "building client side assets..."
-  gulp build
+  ./node_modules/gulp/bin/gulp.js build
 
   log "building markup..."
   ./build_html.rb

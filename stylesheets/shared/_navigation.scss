@@ -1,4 +1,4 @@
-.navigation__outer {
+.faq__navigation__outer {
   background-color:    $sti-blue-new;
   background-image:    url(../images/background.jpg);
   background-size:     100% 200px cover;
@@ -6,11 +6,11 @@
   background-position: top center;
 }
 
-.navigation__inner {
+.faq__navigation__inner {
   @include container
 }
 
-.navigation__content {
+.faq__navigation__content {
   @include span(24);
   text-align: center;
 }
