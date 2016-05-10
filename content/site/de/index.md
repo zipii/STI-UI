@@ -43,7 +43,7 @@ Spezialdienste drohen zu bezahlten Überholspuren für finanzstarke Unternehmen 
 
 ### Traffic-Management
 
-Keine Zensur des offenen Internets: Internet-Provider dürfen und nicht Hilfssheriffs werden und entscheiden, welche Datenverbindung wichtig ist und welche Onlinedienste er eigenmächtig herunterdrosselt.
+Keine Zensur des offenen Internets: Internet-Provider dürfen nicht Hilfssheriffs werden und entscheiden, welche Datenverbindung wichtig ist und welche Onlinedienste er eigenmächtig herunterdrosselt.
 
 [In den FAQs weiterlesen](faq/#what-is-traffic-management)
 
