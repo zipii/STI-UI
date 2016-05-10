@@ -103,8 +103,9 @@ def transform(site_config, language, html)
             <li><a class=\"current-language\" href=\"#\">#{language.upcase}</a></li>
         "
         @translations_ready.each do |t|
-          break if t == language
-          navigation_tail << "<li><a href=\"/#{t}\">#{t.upcase}</a></li>"
+          unless t == language
+            navigation_tail << "<li><a href=\"/#{t}\">#{t.upcase}</a></li>"
+          end
         end
         navigation_tail << "</ul></div>"
 
