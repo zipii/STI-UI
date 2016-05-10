@@ -65,7 +65,7 @@ Es scheint, als ob du etwas gratis bekommst, aber Zero-Rating macht deinen Mobil
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Fordere deine <br> nationalen <br> Regulierungsbehörden und BEREC auf, <br> Netzneutralität zu <br> sichern
+# Fordere deine nationalen Regulierungsbehörden und BEREC auf, Netzneutralität zu sichern
 
 Sag den Regulierungsbehörden deine Meinung über die neuen Regeln zur Netzneutralität! Verwende dafür das Fragebogen-Tool unten auf dieser Seite. Wenn du beliebig viele Fragen in den ersten drei Reitern beantwortest, erzeugt das Tool im letzten Reiter eine E-Mail für dich. Diese E-Mail werden wir bei der EU-Regulierungsbehörde für Telekommunikation einreichen, wenn die offizielle Konsultation im Juni 2016 startet.
 
@@ -144,6 +144,7 @@ Wenn du [den Newsletter abonnierst](#subscribe-to-newsletter){: data-scroll="tru
 
 {{ BEGIN HOME SUPPORTED-BY }}
 Wir sind Menschen und regierungsunabhängige Organisationen aus ganz Europa, denen die bürgerlichen Freiheiten in der Digitalen Sphäre am Herzen liegen.
+{{ LOGOS SUPPORTED-BY }}
 {{ END HOME SUPPORTED-BY }}
 
 {{ BEGIN HOME MADE-BY }}
