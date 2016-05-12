@@ -4,58 +4,55 @@
 - [SEND MESSAGE](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
-
 {{ END NAVIGATION }}
 
 # Save the Internet
 
 {: .title-subtext}
-European Regulators are about to decide whether to give big telecoms corporations the power
-to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
-to protect our freedoms and rights online. We have until __July__ to help Europe protect the open Internet.
+Да могат ли големите телекомуникационни компании да предопределят каво четем (или не) в интернет? Европейските регулатори на електронни съобщения скоро ще създадат правила за мрежова неутралност. В Европа имаме спешна нужда от ясни и приложими принципи, които да защитят отворения и свободен интернет. Имаме време до __юли__ месец, за да помогнем това да се случи!  
 <br><br>
-Join the movement, take action now!
+Присъединете се към нашето движение!
 
 {{ BEGIN COUNTER }}
 
-| X | PEOPLE HAVE <br> SENT MESSAGES | Y | DAYS <br> LEFT |
+| X | БРОЙ ГРАЖДАНИ <br> ИЗПРАТИЛИ СЪОБЩЕНИЕ | Y | ОСТАВАЩИ <br> ДНИ |
 
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
+[ПОДКРЕПЯМ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-## What needs to be fixed:
+## Какво трябва да поправим:
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
-### Specialised Services
+### Специализирани услуги
 
-Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.
+Специализираните услуги рискуват да се превърнат в платена „високоскоростна лента“ за големите интернет компании, които да изтикат всеки друг уебсайт, идея или старт-ъп в „бавната лента“.
 
-[READ MORE](faq/#what-are-specialised-services)
+[ПРОЧЕТЕТЕ ПОВЕЧЕ](faq/#what-are-specialised-services)
 
 {{ END HOME SPECIALISED-SERVICES }}
 
 {{ BEGIN HOME TRAFFIC-MANAGEMENT }}
 
-### Traffic Management
+### Управление на трафика
 
-Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.
+Не позволявайте на интернет доставчика ви да решава по свое собствено усмотрение кой трафик е важен и на кои онлайн услуги да намали скоростта.
 
-[READ MORE](faq/#what-is-traffic-management)
+[ПРОЧЕТЕТЕ ПОВЕЧЕ](faq/#what-is-traffic-management)
 
 {{ END HOME TRAFFIC-MANAGEMENT }}
 
 {{ BEGIN HOME ZERO-RATING }}
 
-### Zero Rating
+### Нулева тарифа
 
-It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.
+Звучи все едно получавате нещо безплатно, но това превръща мобилния ви оператор в пъдар и му дава основания за по-ниски месечни лимити на данните.
 
-[READ MORE](faq/#what-is-zero-rating)
+[ПРОЧЕТЕТЕ ПОВЕЧЕ](faq/#what-is-zero-rating)
 
 {{ END HOME ZERO-RATING }}
 
@@ -65,9 +62,9 @@ It sounds like you get something for free, but it makes your mobile operator bec
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Tell your national regulators and <br> BEREC to protect net neutrality
+# Кажете на Комисията за регулиране на съобщенията и на европейската служба ОЕРЕС <br> да защитят мрежовата неутралност
 
-Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecoms Regulators (BEREC) when the official consultation starts in June 2016.
+Кажете на регулаторите какво мислите за мрежовата неутралност, използвайки въпросника по-долу. След като отговорите на някои или всички въпроси системата ще генерира съобщение за вас. Това съобщение представлява вашите отговори в обществената консултация и ще бъде внесено от нас в Службата на Органа на европейските регулатори в областта на електронните съобщения (ОЕРЕС) в началото на м. юни 2016 г., когато официално започва консултацията.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -78,11 +75,11 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-## Spread the word!
+## Сподели!
 
-[Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Сподели във Фейсбук](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
+[Сподели в Туитър](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -96,58 +93,58 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ ANCHOR INFO }}
 ## In 2015, the European Union adopted  legislation on net neutrality ...
 
-[The EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.
+[Европейската регулация](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } съдържа добри принципи, които да осигурят, че можете да се свържете с произволна точка в интернет без да сте обект на дискриминация. Въпреки това, с някои части от Регулацията може да бъде злоупотребено, за да бъде подкопана мрежовата неутралност. Законодателите решиха да оставят отговорността да изясняването на неяснотите в текста от страна на телекомуникационните регулатори.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not.
+До края на м. август 2016 г. Органът на европейските регулатори в областта на електронните съобщения (ОЕРЕС)  трябва да подготви правилник за приложението, които да тълкуват неяснотите в закона. Този правилник ще определи дали Европа ще се радва на мрежова неутралност, или не.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-In June 2016, BEREC plans to publish its draft guidelines and launch a public consultation. However, BEREC's procedural rules say that the public only has __from June 6th to July 18th__ to respond and the Regulation says that BEREC needs to publish its final guidelines on 30 August 2016. That means that citizens will only have __a few weeks__ to respond to the consultation and BEREC will only have __a little bit over a month__ to process the (potentially thousands of) comments, draft updates to its guidelines and then go through the administrative processes to formally agree to any changes that it makes to the draft.
+През м. юни 2016 г., ОЕРЕС планира да публикува проекта за правилник и да инициира обществено обсъждане. Въпреки това, по процедурните правила на Органа, обществеността има време само от 6 юни до 18 юли да реагира, а Регулацията твърди, че ОЕРЕС трябва да публикува финалната версия на правилника си на 30 август 2016 г. Това означава, че гражданите ще имат само __няколко седмици__ да вземат отношение в обсъждането и ОЕРЕС има едва __малко повече от месец__, за да обработи (потенциално хилядите) коментари и актуализации на проекта си, и след това да премине през всички административни процедури, за да одобри формално всякакви промени, които могат да бъдат включени в проектоправилника.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
-## EU Net Neutrality Roadmap
+## Пътна карта на мрежовата неутралност в ЕС
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.__
+### __Това е критично важен момент: Това е моментът, в който в САЩ и Индия бяха постигнати големи успехи. Това означава, че ние трябва да продължим да упражняваме натиск в името на мрежовата неутралност, като убеждаваме регулаторите за това колко е важен свободният и отворен интернет.__
 
-Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
+Регулаторите трябва да се снабдят с инструменти за прилагането на мрежовата неутралност. Ние от инициативата Save The Internet смятаме, че ОЕРЕС няма достатъчно време, за да обработи и надлежно да отчете потенциално десетки хилядите отговори (за сравнение, щатският телекомуникационен регулатор получи 3.7 милиона отговора в рамките на своето обществено обсъждане!). Можем да променим баланса на силите, като дадем възможност на всекиго да допринесе към правилата по един по-ефективен начин.
 
-Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in those meetings into plain English and added few others when we felt this was necessary.
+Наскоро ОЕРЕС организира лични срещи наживо със заинтересованите групи. Преведохме на английски въпросите, които ОЕРЕС попита всяка от страните [виж тук](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) и [тук](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) на тези срещи и добавихме и няколко други, когато сметнахме за необходимо.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [needs your input](#send-a-message){: data-scroll="true"} before they decide on the future of net neutrality in Europe.
+## ОЕРЕС [има нужда да чуе твоя глас](#send-a-message){: data-scroll="true"} преди да вземе решение за бъдещето на мрежовата неутралност в Европа.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
-### Contact Us
+### Свържи се с нас
 
-__Feel free to contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__Заповядай да се свържеш с нас на адрес [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-You have an idea to improve this website? That's great, we need you! The full source code of this website is available on [GitHub](https://github.com/Netzfreiheit/STI-UI) and can be forked, improved, remixed and pushed back to us.
+Имаш идея как може този сайт да се подобри? Страхотно, имаме нужда от теб! Пълният програмен код на уебсайта е достъпен от [GitHub](https://github.com/Netzfreiheit/STI-UI) и може да бъде форкнат, подобрен, променен и обратно да ни бъде върнат.
 
-One thing we always need is help with translations, so if you speak a language that we haven't covered here so far, please get in contact with us.
+Едно нещо, от което винаги имаме нужда от помощ, са преводите. Така че, ако говориш език, на който досега не сме имали преводи, моля, свържи се с нас.
 
-### Privacy Policy
+### Политика по защита на личните данни
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign might also analyse the comments sent to BEREC through this website, if they are not marked as confidential. One month after the official consultation period has ended we will delete all comments.
+Ние съхраняваме коментарите ти от общественото обсъждане на ОЕРЕС във входящата поща на имейл адрес, който се хоства в Австрия, докато не препратим тези имейл с коментари в официалното обсъждане на ОЕРЕС. Можеш да намериш информация за политиката за личните данни на ОЕРЕС за случаите на обществени обсъждания [тук](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). ОЕРкЕС ще публикува всички отговори,които не са отбелязани като конфиденциални. Организациите, които стоят зад тази кампания, също може да анализират коментарите, изпратени до ОЕРЕС, през този уебсайт, ако те не са отбелязани като конфиденциални. Един месец след като приключи периодът на обществено обсъждане, ние ще изтрием всички коментари.
 
-We collect non-personalized information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+На този сайт ние събираме само неперсонализирана информация, използвайки [Piwik](https://piwik.org/), софтуер за уеб аналитики, който защитава личните данни.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database.
+Ако се [абонираш за новинарския ни бюлетин](#subscribe-to-newsletter){: data-scroll="true"}, твоят имейл адрес ще бъде запазен в пощенски списък и в база данни.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
-We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.
+Ние сме загрижени граждани от неправителствени организации от цяла Европа, които милеят за гражданските свободи в дигиталната реалност.
 {{ LOGOS SUPPORTED-BY }}
 {{ END HOME SUPPORTED-BY }}
 
 {{ BEGIN HOME MADE-BY }}
-With friendly support from
+С приятелската подкрепа на:
 {{ LOGOS MADE-BY }}
 {{ END HOME MADE-BY }}
