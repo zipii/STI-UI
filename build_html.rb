@@ -45,12 +45,9 @@ def render_path(*path_parts)
   path.join
 end
 
-def render_partial(partial_name)
-  "\n{::nomarkdown}\n" + read_file("layouts/_#{partial_name}.html") + "{:/}\n"
-end
-
-def render_head(site_config)
-  erb = ERB.new(read_file("layouts/_head.html.erb"))
+def render_partial(site_config, partial_name)
+  puts site_config
+  erb = ERB.new(read_file("layouts/_#{partial_name}.html.erb"))
   obj = Object.new
   obj.instance_variable_set(:@config, site_config)
   "\n{::nomarkdown}\n" + erb.result(obj.instance_eval{binding}) + "{:/}\n"
@@ -73,7 +70,7 @@ def transform(site_config, language, html)
     when 'BEGIN'
       case id_part
       when 'questionnaire-iframe'
-        html.sub! block_pattern, render_partial('questionnaire')
+        html.sub! block_pattern, render_partial(site_config, 'questionnaire')
       when 'navigation',
            'counter',
            'home__specialised-services',
@@ -85,7 +82,7 @@ def transform(site_config, language, html)
           <div class=\"#{id_part}__outer\">
           <div class=\"#{id_part}__inner\">
           <div class=\"#{id_part}__content\">
-        " + render_partial(id_part.split('__').last)
+        " + render_partial(site_config, id_part.split('__').last)
       else
         html.sub! block_pattern, "
           <div class=\"#{id_part}__outer\">
@@ -127,14 +124,14 @@ def transform(site_config, language, html)
     when 'LOGOS'
       case id_part
       when 'made-by'
-        html.sub! block_pattern, render_partial('made-by')
+        html.sub! block_pattern, render_partial(site_config, 'made-by')
       when 'supported-by'
-        html.sub! block_pattern, render_partial('supported-by')
+        html.sub! block_pattern, render_partial(site_config, 'supported-by')
       end
     end
     transform site_config, language, html
   else
-    (render_head(site_config) + html).gsub /^ */, ''
+    (render_partial(site_config, 'head') + html).gsub /^ */, ''
   end
 end
 

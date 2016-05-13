@@ -1,4 +1,5 @@
-language: en
+language: "en"
+questionnaire_language: "en"
 title: SAVE THE INTERNET IN EUROPE
 action: Join us and take action! Send a message to your regulator
 keywords:

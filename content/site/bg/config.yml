@@ -1,4 +1,5 @@
-language: bg
+language: "bg"
+questionnaire_language: "en"
 title: За мрежова неутралност в Европа
 action: Включи се и пиши на националния си регулатор!
 keywords:
