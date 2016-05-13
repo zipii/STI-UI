@@ -12,39 +12,39 @@
 
 ## Neutralidad de la red
 
-- [¿Qué es la neutralidad de la red?](#que-es-la-neutralidad-de-la-red)
-- [¿Cómo me afecta la neutralidad de la red en mi vida diaria?](#como-me-afecta-la-neutralidad-de-la-red)
-- [¿Como hemos llegada hasta aquí? ¿Qué ha pasado en la UE?](#como-hemos-llegado-hasta-aqui-que-ha-pasado-en-la-ue)
-- [¿Quién está debatiendo en Europa?](#quien-esta-debatiendo-en-europa)
-- [¿Quién está detrás de SaveTheInternet.eu?](#quien-esta-detras-de-savetheinterneteu)
+- [¿Qué es la neutralidad de la red?](#que-es-la-neutralidad-de-la-red){: data-scroll="true"}
+- [¿Cómo me afecta la neutralidad de la red en mi vida diaria?](#como-me-afecta-la-neutralidad-de-la-red){: data-scroll="true"}
+- [¿Como hemos llegada hasta aquí? ¿Qué ha pasado en la UE?](#como-hemos-llegado-hasta-aqui-que-ha-pasado-en-la-ue){: data-scroll="true"}
+- [¿Quién está debatiendo en Europa?](#quien-esta-debatiendo-en-europa){: data-scroll="true"}
+- [¿Quién está detrás de SaveTheInternet.eu?](#quien-esta-detras-de-savetheinterneteu){: data-scroll="true"}
 
 ## Servicios Especializados
-- [¿Qué son los servicios especializados?](#que-son-los-servicios-especializados)
-- [¿Ejemplos de servicios que no son servicios especializados?](#ejemplos-de-servicios-no-especializados)
-- [¿Qué condiciones incluye la ley de la UE respecto a los servicios especializados?](#que-condidiones-contiene-la-ley-ue-respecto-a-los-servicios-especializados)
-- [¿Qué hace falta para reforzar las condiciones respecto a los servicios especializados y por qué es importante?](#que-hace-falta-para-reforzar-las-condiciones-respecto-a-los-servicios-especializados)
+- [¿Qué son los servicios especializados?](#que-son-los-servicios-especializados){: data-scroll="true"}
+- [¿Ejemplos de servicios que no son servicios especializados?](#ejemplos-de-servicios-no-especializados){: data-scroll="true"}
+- [¿Qué condiciones incluye la ley de la UE respecto a los servicios especializados?](#que-condidiones-contiene-la-ley-ue-respecto-a-los-servicios-especializados){: data-scroll="true"}
+- [¿Qué hace falta para reforzar las condiciones respecto a los servicios especializados y por qué es importante?](#que-hace-falta-para-reforzar-las-condiciones-respecto-a-los-servicios-especializados){: data-scroll="true"}
 
 ## Gestión del Tráfico
-- [¿Qué es la gestión del tráfico?](#que-es-la-gestion-del-trafico)
-- [¿Por qué debería importarme la gestión del tráfico?](#por-que-deberia-importarme-la-gestion-del-trafico)
-- [¿No deberían los proveedores de Internet poder gestionar sus propias redes?](#no-deberian-los-proveedores-de-internet-gestionar-sus-propias-redes)
-- [¿Qué objetivo tiene SaveTheInternet.eu en cuanto la gestión del tráfico?](#que-objetivo-tiene-savetheinterneteu-en-cuanto-a-la-gestion-del-trafico)
-- [¿Cuando puede un proveedor empezar a gestionar su red?](#cuando-puede-un-proveedor-empezar-a-gestionar-su-red)
+- [¿Qué es la gestión del tráfico?](#que-es-la-gestion-del-trafico){: data-scroll="true"}
+- [¿Por qué debería importarme la gestión del tráfico?](#por-que-deberia-importarme-la-gestion-del-trafico){: data-scroll="true"}
+- [¿No deberían los proveedores de Internet poder gestionar sus propias redes?](#no-deberian-los-proveedores-de-internet-gestionar-sus-propias-redes){: data-scroll="true"}
+- [¿Qué objetivo tiene SaveTheInternet.eu en cuanto la gestión del tráfico?](#que-objetivo-tiene-savetheinterneteu-en-cuanto-a-la-gestion-del-trafico){: data-scroll="true"}
+- [¿Cuando puede un proveedor empezar a gestionar su red?](#cuando-puede-un-proveedor-empezar-a-gestionar-su-red){: data-scroll="true"}
 
 ## "Zero Rating"
-- [¿Qué es el "zero rating"?](#que-es-el-zero-rating)
-- [¿Por qué el "zero rating" es un problema?](#por-que-el-zero-rating-es-un-problema)
-- [¿Realmente me dan algo gratis cuando uso un programa de "zero rating"?](#realmente-me-dan-algo-gratis-cuando-uso-un-programa-de-zero-rating)
-- [¿Cómo puede afectar el "zero rating" a los proveedores de servicios online y la diversidad del ecosistema en Internet?](#como-puede-afectar-el-zero-rating-a-los-proveedores-de-servicios-online-y-la-diversidad-del-ecosistema-en-internet)
-- [¿Qué objetivo tiene SaveTheInternet.eu en cuanto al zero-rating?](#que-objetivo-tiene-savetheinterneteu-en-cuanto-al-zero-rating)
+- [¿Qué es el "zero rating"?](#que-es-el-zero-rating){: data-scroll="true"}
+- [¿Por qué el "zero rating" es un problema?](#por-que-el-zero-rating-es-un-problema){: data-scroll="true"}
+- [¿Realmente me dan algo gratis cuando uso un programa de "zero rating"?](#realmente-me-dan-algo-gratis-cuando-uso-un-programa-de-zero-rating){: data-scroll="true"}
+- [¿Cómo puede afectar el "zero rating" a los proveedores de servicios online y la diversidad del ecosistema en Internet?](#como-puede-afectar-el-zero-rating-a-los-proveedores-de-servicios-online-y-la-diversidad-del-ecosistema-en-internet){: data-scroll="true"}
+- [¿Qué objetivo tiene SaveTheInternet.eu en cuanto al zero-rating?](#que-objetivo-tiene-savetheinterneteu-en-cuanto-al-zero-rating){: data-scroll="true"}
 
 ## Transparencia
-- [¿Qué mejoras podemos esperar con la nuevas leyes de neutralidad de la red?](#que-mejoras-podemos-esperar-con-la-nuevas-leyes-de-neutralidad-de-la-red)
-- [¿Qué tipo de transparencia cabe esperar con las nuevas leyes de neutralidad de la red?](#que-tipo-de-transparencia-podemos-esperar-con-las-nuevas-leyes-de-neutralidad-de-la-red)
+- [¿Qué mejoras podemos esperar con la nuevas leyes de neutralidad de la red?](#que-mejoras-podemos-esperar-con-la-nuevas-leyes-de-neutralidad-de-la-red){: data-scroll="true"}
+- [¿Qué tipo de transparencia cabe esperar con las nuevas leyes de neutralidad de la red?](#que-tipo-de-transparencia-podemos-esperar-con-las-nuevas-leyes-de-neutralidad-de-la-red){: data-scroll="true"}
 
 ## Otros
-- [¿Cómo se gestiona la neutralidad en otras partes de mundo?](#como-se-gestiona-la-neutralidad-en-otras-partes-de-mundo)
-- [¿Cómo puedo ayudar?](#como-puedo-ayudar)
+- [¿Cómo se gestiona la neutralidad en otras partes de mundo?](#como-se-gestiona-la-neutralidad-en-otras-partes-de-mundo){: data-scroll="true"}
+- [¿Cómo puedo ayudar?](#como-puedo-ayudar){: data-scroll="true"}
 
 
 
