@@ -1,16 +1,16 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ENVÍA UN MENSAJE](#envia-un-mensaje){: data-scroll="true" }
-- [INFORMATION](#info){: data-scroll="true" }
-- [FAQ](faq)
+- [ENVÍA UN MENSAJE](#send-a-message){: data-scroll="true" }
+- [INFORMACIÓN](#info){: data-scroll="true" }
+- [PREGUNTAS FRECUENTES](faq)
 {{ END NAVIGATION }}
 
 # Save the Internet
 
 {: .title-subtext}
 Los Reguladores Europeos están a punto de decidir si darle a las grandes corporaciones de telecomunicaciones el poder
-de influir en lo que podemos (y no podemos) hacer online. Europa necesita urgentemente directrices claras de neutralidad de la red
+de influir en lo que puedes (y no puedes) hacer online. Europa necesita urgentemente directrices claras de neutralidad de la red
 para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ para ayudar a proteger el Internet abierto en Europa.
 <br><br>
 ¡Movilízate, actúa ahora!
@@ -19,7 +19,7 @@ para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ par
 
 | X | PERSONAS HAN <br> ENVIADO MENSAJES | Y | DÍAS <br> RESTANTES |
 
-[ACTÚA](#envia-un-mensaje){: id="take-action-button" data-scroll="true" }
+[ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
