@@ -8,7 +8,7 @@
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# FREQUENTLY ASKED QUESTIONS
+# Frequently Asked Questions
 
 ## Net Neutrality
 
@@ -38,7 +38,7 @@
 - [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
 - [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## TRANSPARENCY
+## Transparency
 - [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
 - [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
@@ -107,7 +107,7 @@ SaveTheInternet is the joint campaign of 12 European NGOs that work to protect c
 If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# SPECIALISED SERVICES {#what-are-specialised-services}
+# Specialised services {#what-are-specialised-services}
 
 
 ## What are specialised services?
@@ -190,7 +190,7 @@ According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri
 We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
 
 
-# ZERO RATING {#what-is-zero-rating}
+# Zero Rating {#what-is-zero-rating}
 
 
 ## What is zero rating?
@@ -226,7 +226,7 @@ If data caps are exceeded and certain zero rated services are still accessible w
 
 
 
-# TRANSPARENCY
+# Transparency
 
 ## What benefits can we expect with the new net neutrality rules? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 -       
@@ -239,7 +239,7 @@ The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R
 
 
 
-# OTHER
+# Other
 
 ## How is net neutrality dealt with in other parts of the world? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
