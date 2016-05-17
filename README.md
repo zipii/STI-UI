@@ -29,9 +29,11 @@ corresponding two-letter-codes as a new line in:
 ./translations-ready.yml
 ```
 
-## Build process
+## Build & Deploy
 
-### HTML
+!! __*Please refrain from building this for translation purposes, the only things needed for doing translations are the listed steps from above.*__ !!
+
+Setup build environment:
 
 + Download and install ruby 2.3.0
 + Install ruby dependencies:
@@ -39,34 +41,14 @@ corresponding two-letter-codes as a new line in:
 cd /STI-UI
 bundle install
 ```
-+ Build locally (or for production):
-```
-cd /STI-UI
-./build_html.rb
-```
-
-### Assets
-
 + Download and install [node.js v5.7.1](https://nodejs.org/download/release/v5.7.1/) via the official installer or via [nodenv](https://github.com/nodenv/nodenv) (we use 5.7.1 [locally](https://github.com/nodenv/nodenv#nodenv-local) in `themes/sti`).
 + Install node.js dependencies:
 ```
 cd /STI-UI
 npm install
 ```
-+ Continuously build and watch for development:
-```
-cd /STI-UI
-npm start
-```
-+ Build for production:
-```
-cd /STI-UI
-npm run build
-```
 
-### Deployment
-
-Run without parameters to see usage of deploy script:
+Run without parameters to see usage of build & deploy script:
 
 ```
 cd /STI-UI
