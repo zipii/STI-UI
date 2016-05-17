@@ -8,7 +8,7 @@
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# ÎNTREBĂRI FRECVENTE
+# Întrebări Frecvente
 
 ## Neutralitatea Internetului
 
