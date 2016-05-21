@@ -1,7 +1,7 @@
-language: "en"
+language: "pt"
 questionnaire_language: "en"
-title: SAVE THE INTERNET IN EUROPE
-action: Join us and take action! Send a message to your regulator
+title: SALVA A INTERNET NA EUROPA
+action: Junta-te a nós e actua! Envia uma mensagem ao regulador
 keywords:
   - net neutrality
   - connected conntinent
@@ -13,6 +13,6 @@ keywords:
   - specialised services
   - echtesnetz
   - BEREC
-  - Internetneutralität
-  - Plattformneutralität
-  - Neutralitätsdebatte
+  - serviços específicos
+  - gestão de tráfego
+  - zero rating
