@@ -136,11 +136,11 @@ Una de las cosas que siempre necesitamos es ayuda con las traducciones, así que
 
 ### Política de Privacidad
 
-Almacenamos tus comentarios para el BEREC en la bandeja de entrada de una dirección e-mail alojada en Austria hasta que los enviemos todos los mails con vuestros comentarios a la consulta oficial del ORECE. Puedes leer la política de privacidad para las consultas del ORECE <a href="http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf">aquí</a>. El ORECE publicará todas las respuestas que no hayan sido marcadas como confidenciales. Las organizaciones impulsoras de esta campaña podrían también analizar los comentarios que se han enviado al ORECE a través de este sitio web, siempre que no hayan sido marcados como confidenciales. Un mes después de que acaba el periodo de la consulta oficial eliminaremos todos los comentarios.
+Almacenamos tus comentarios para el BEREC en la bandeja de entrada de una dirección e-mail alojada en Austria hasta que los enviemos todos los mails con vuestros comentarios a la consulta oficial del BEREC. Puedes leer la política de privacidad para las consultas del BEREC <a href="http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf">aquí</a>. El BEREC publicará todas las respuestas que no hayan sido marcadas como confidenciales. Las organizaciones impulsoras de esta campaña podrían también analizar los comentarios que se han enviado al BEREC a través de este sitio web, siempre que no hayan sido marcados como confidenciales. Un mes después de que acaba el periodo de la consulta oficial eliminaremos todos los comentarios.
 
 Recogemos información no-personalizada en esta web a través del software respetuoso con la privacidad [Piwik](https://piwik.org/).
 
-Si te [suscribes a nuestra newsletter] (#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database.
+Si te [suscribes a nuestra newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database.
 
 {{ END HOME CONTACT-US }}
 
