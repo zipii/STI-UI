@@ -8,266 +8,264 @@
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# Frequently asked questions
+# FREQUENTLY ASKED QUESTIONS
 
-## Net Neutrality
+## [Netzneutralität](#net-neutrality){: data-scroll="true"}
+- [Was ist Netzneutralität?](#what-is-net-neutrality){: data-scroll="true"}
+- [Wie beeinflusst Netzneutralität mich und mein Leben?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
+- [Wie sind wir hierhin gekommen? Was ist in der EU passiert?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
+- [Wer ist in Europa an der Debatte beteiligt?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
+- [Wer steht hinter SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-- [What is net neutrality?](#what-is-net-neutrality){: data-scroll="true"}
-- [How does net neutrality influence me and my life?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
-- [How did we end up here? What happened in the EU?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
-- [Who is involved in the debate in Europe?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
-- [Who is behind SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
+## [Spezialdienste](#specialised-services){: data-scroll="true"}
+- [Was sind Spezialdienste?](#what-are-specialised-services){: data-scroll="true"}
+- [Welche Dienste sind keine Spezialdienste?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
+- [Wie lauten die Regeln im EU-Recht für Spezialdienste?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
+- [Was ist notwendig, um die Regeln für Spezialdienste zu verschärfen, und warum ist dies wichtig?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Specialised Services
-- [What are specialised services?](#what-are-specialised-services){: data-scroll="true"}
-- [What are examples of services that are not specialised services?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
-- [What safeguards are in EU law to deal with specialised services?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
-- [What is required to strengthen the safeguards on specialised services and why is this important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
+## [Traffic Management](#traffic-management){: data-scroll="true"}
+- [Was ist Traffic Management?](#what-is-traffic-management){: data-scroll="true"}
+- [Warum sollte mich Traffic Management interessieren?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
+- [Sollte es Internet Providern nicht erlaubt sein, ihre Netzwerke zu managen?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
+- [Was ist das Ziel von SaveTheInternet.eu bezüglich Traffic Management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
+- [Unter welchen Umständen darf ein Provider sein Netzwerk managen?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
-## Traffic Management
-- [What is traffic management?](#what-is-traffic-management){: data-scroll="true"}
-- [Why should I care about traffic management?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
-- [Shouldn't internet providers be allowed to manage their networks?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
-- [What is the goal of SaveTheInternet.eu when it comes to traffic management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
-- [When can a provider start managing its network?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
+## [Zero-Rating](#zero-rating){: data-scroll="true"}
+- [Was ist Zero-Rating?](#what-is-zero-rating){: data-scroll="true"}
+- [Warum ist Zero-Rating ein Problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
+- [Bekomme ich wirklich etwas umsonst, wenn ich einen Zero-Rating-Tarif nutze?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
+- [Wie kann sich Zero-Rating auf Anbieter von Onlinediensten und auf die Vielfalt des Internets auswirken?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
+- [Was ist das Ziel von SaveTheInternet.eu bezüglich Zero-Rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## Zero Rating
-- [What is zero rating?](#what-is-zero-rating){: data-scroll="true"}
-- [Why is zero rating a problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
-- [Am I really getting something for free when I use a zero rating programme?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
-- [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
-- [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
+## [Transparenz](#transparency){: data-scroll="true"}
+- [Welche Vorteile können wir von den neuen Netzneutralitäts-Regeln erwarten?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
+- [Welche Art von Transparenz kann von den neuen Regeln erwartet werden?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Transparency
-- [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
-- [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
+## [Weitere Fragen](#other){: data-scroll="true"}
+- [Wie wird Netzneutralität in anderen Ländern der Erde gehandhabt?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
+- [Wie kann ich helfen?](#how-can-i-help-you){: data-scroll="true"}
 
-## Other
-- [How is net neutrality dealt with in other parts of the world?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
-- [How can I help you?](#how-can-i-help-you){: data-scroll="true"}
 
 
+# Netzneutralität {#net-neutrality}
 
-# Net Neutrality
+## Was ist Netzneutralität? {#what-is-net-neutrality}
 
-## What is net neutrality? {#what-is-net-neutrality}
+Netzneutralität ist das Prinzip, dass Internetprovider alle Daten gleich gut, ohne Unterscheidung nach Ausgangspunkt, Ziel oder Datentyp befördern müssen. Das bedeutet, dass Netzneutralität es den Providern verbietet, Inhalte zu blockieren oder Inhalte, Anwendungen oder Dienste mit niedriger Priorität zu behandeln.
 
-Net neutrality is the principle under which Internet access providers carry data without discrimination on the basis of origin, destination or type of data. This means that net neutrality prohibits telecoms operators from blocking or degrading content, applications or services.
+Netzneutralität garantiert deine Freiheit, auf Informationen im Netz zuzugreifen oder sie zu verbreiten. Dieses Prinzip besteht seit den Anfängen des Internets und sichert Offenheit, Innovation, Wettbewerbsfähigkeit und Vielfalt im Netz.
 
-Net neutrality guarantees your freedom online to access and distribute the information you want.This founding principle ensures the openness, innovation, competition and diversity of the Internet.
 
+## Wie beeinflusst Netzneutralität mich und mein Leben? {#how-does-net-neutrality-influence-me-and-my-life}
 
-## How does net neutrality influence me and my life? {#how-does-net-neutrality-influence-me-and-my-life}
+So würde ein Internet ohne Netzneutralität aussehen …
 
-Without net neutrality...
+1.        Du würdest mehr bezahlen für weniger Internet, und dein Provider würde zum Torwächter werden, der sich zwischen dich und die von dir gewünschten Online-Dienste und Anwendungen stellt.
 
-1.        You would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
+2.        Neue, coole Websites und Erfindungen würden nicht so schnell und leicht erreichbar sein wie die großen, etablierten Websites in den USA – vielleicht würden sie gar nicht lange genug überleben, um selbst populär werden zu können.
 
-2.        New cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
+3.        Die Wirtschaft und insbesondere Startups würden leiden. Mit Netzneutralität können wir alle neue Dienstleistungen erfinden, ohne um Erlaubnis zu fragen, und von Beginn an eine globale, faire Infrastruktur nutzen und so profitieren. Wenn wir diese Freiheit verlieren, verlieren wir auch wesentliche Teile des enormen Erfolgs der digitalen Wirtschaft, unserer Wahlfreiheit als Verbraucher und unserer Kommunikationsfreiheit als Bürgerinnen und Bürger.
 
-3.        The economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
+4.        Das Internet würde langsamer werden. Studien haben gezeigt: wenn Internet-Provider die Erlaubnis bekommen, Wettbewerbsvorteile an einige wenige Websites zu verkaufen, dann haben sie auch einen Anreiz, den Rest des Internets für alle anderen langsamer zu machen. Auch wenn scheinbar billigere Tarife dabei entstehen sollten, würde dies in Wirklichkeit weniger Auswahl und langsamere Download-Limits für das „echte“ Internet bedeuten.
 
-4.        The Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
+[So schädigen Volumengrenzen Verbraucher und Innovation (englisch)](https://www.newamerica.org/oti/artificial-scarcity/)
 
-[How data caps harm consumers and innovation](https://www.newamerica.org/oti/artificial-scarcity/)
+[So schädigt Zero-Rating niederländische Verbraucher (englisch)](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
 
-[How zero-rating hurt Dutch consumers](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+[Zero-rating in Slowenien (englisch)](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
 
-[Zero-rating in Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
 
+## Wie sind wir hierhin gekommen? Was ist in der EU passiert? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
-## How did we end up here? What happened in the EU? {#how-did-we-end-up-here-what-happened-in-the-eu}
+Viele der NGOs in dieser Kampagne setzen sich bereits seit 2008 für Netzneutralität ein. Im Verlauf der Debatte bemerkten wir zunehmende Verletzungen des Prinzips der Netzneutralität im Internet. Als der US-Telekommuniationsregulierer FCC seine ersten Richtlinien für das Internet veröffentlichte, um Internet via Festnetz gegen einige Formen der Netz-Diskriminierung zu schützen, war dies ein großer Erfolg. In der Folge [führten weitere Länder Gesetze und Regulierungen zum Schutz der Netzneutralität ein](https://www.thisisnetneutrality.org/#map). Dies geschah zum Beispiel in Chile, den Niederlanden, Slowenien, Indien und Kanada.
 
-Many of the NGOs behind this campaign have fought for net neutrality as early as 2008. As the debate unfolded, we saw more and more violations of the principle of net neutrality in the Internet. When the US telecoms regulator FCC released its first Internet order to protect the fixed-line Internet against some forms of network discrimination, this was a big success for net neutrality. Subsequently, [ other countries adopted legislation and regulatory decisions to safeguard net neutrality](https://www.thisisnetneutrality.org/#map). This is the case of, for example, Chile, the Netherlands, Slovenia, India and Canada. 
+In der Europäischen Union hat sich die Debatte sehr langsam entwickelt. Wir mussten bis zum 11. September 2013 warten, bis es einen Vorschlag für ein europäisches Gesetz zur Netzneutralität gab. Dieser Vorschlag wurde von der Europäischen Kommission vorgelegt.
 
-In the European Union the debate progressed very slowly. We had to wait until 11 September 2013 to have a proposal for having a European law on net neutrality. This proposal was made by the European Commission.
+Der Vorschlag von 2013 enthielt mehrere problematische Hintertüren, mit denen Internet-Provider Möglichkeiten zum Umgehen der Netzneutralität bekommen hätten. So wäre es ISPs über eine Bestimmung zu „Spezialdiensten“ erlaubt gewesen, diskriminierende Sonderzugänge zum Netz anzubieten. Dieser Vorschlag hätte außerdem diskriminierende Netzsperren für Websites, Anwendungen und Inhalte zugelassen – eine Bedrohung der Meinungsfreiheit und des Prinzips der Rechtsstaatlichkeit.
 
-The 2013 proposal contained several problematic loopholes that would have allowed Internet providers to circumvent net neutrality. For instance, through a provision on "specialised services", ISPs  would have been allowed to offer discriminatory prioritised access. The proposal would also have allowed for discriminatory blocking of websites, applications, and content — a threat to the rule of law and freedom of expression.
+Zum Glück wurde im Europäischen Parlament hart gearbeitet, um diese Schlupflöcher zu schließen. Am 3. April stimmte das Parlament für klare und bindende Regeln für Netzneutralität. Obwohl es zu Beginn düster ausgesehen hatte, halfen eure Bemühungen zusammen mit SaveTheInternet, dass das Parlament einen Text mit einer starken Absicherung der Netzneutralität beschloss. Dieses Ergebnis wurde von Millionen von Menschen in der ganzen Welt gefeiert.
 
-Fortunately, the European Parliament worked hard to close these loopholes and voted in favour of clear and binding rules for net neutrality on 3 April 3rd of 2014. Although things looked grim at first, your efforts with SaveTheInternet helped the Parliament adopt a text with strong net neutrality safeguards. This vote was applauded by millions of people around the world.
+Nach diesem Etappensieg trafen sich Regierungsvertreter der EU-Mitgliedsstaaten im Europäischen Rat und machten nur sehr langsame Fortschritte – erst nach über einem Jahr erreichten sie eine gemeinsame Position. Sie verständigten sich auf einen neuen Text, der einige Hintertüren zurückbrachte und einige neue einführte. Wenn der Text des Rates übernommen worden wäre, hätte er bezahlte Überholspuren geschaffen, Preisdiskriminierung in der EU erlaubt und Provider zu illegalen und willkürlichen Netzsperren von legalen Inhalten ermächtigt.
 
-After this victory, the EU Member States gathered in the Council and progressed slowly, taking over a year to come up with a joint position. They agreed on a new text that re-introduced loopholes and created new ones. If adopted, the Council's text would have created paid fast-lanes; allowed price discrimination in the EU, and authorised illegal and arbitrary blocking of lawful content.
+Um die Verhandlungen voranzutreiben und die Position des EU-Parlaments zu untergraben, begannen die Institutionen (Kommission, Rat, Parlament) „informelle“ Gespräche im sogenannten [„Trilog“-Prozess](https://edri.org/files/NN_process_infographics.pdf). In einer nächtlichen Sitzung wurde gegen 2 Uhr morgens ein politischer Kompromiss zwischen den drei Institutionen herbeigeführt. Dieser Text enthält starke Grundregeln, um Netzneutralität in Europa einzuführen. Doch einige Bestimmungen in der beschlossenen Verordnung (die besser ist als der ursprüngliche Vorschlag der Kommission, aber schlechter als die zunächst vom Parlament beschlossene Position) sind nicht klar und könnten missbraucht werden. Dadurch könnten Schlupflöcher entstehen, die eine Diskriminierung im Internet zulassen würden. In der Abstimmung zur 2. Lesung im EU-Parlament wurde versucht, durch Änderungsvorschläge mehr Klarheit zu schaffen. Weil aber die gleiche Verordnung auch die Abschaffung der Roaming-Gebühren im Mobilfunk behandelt und außerdem der vereinbarte Text nur mit einer absoluten Mehrheit geändert werden konnte, wurde kein Änderungsvorschlag angenommen. Anders gesagt entschied das Europäische Parlament, dass es nun die Aufgabe der Regulierungsbehörden ist, über die Auslegung der Unklarheiten im Gesetzestext zu entscheiden.
 
-In order to advance the talks and undermine the Parliament's position, the three institutions began "informal" negotiations within the so called ["trilogue" process](https://edri.org/files/NN_process_infographics.pdf). In a late night session around 2am, a political agreement was reached between the three institutions. This text contains strong principles to deliver net neutrality in Europe. However, certain provisions of the Regulation are not clear and could be abused (which was better than the Commission's initial proposal but worse than the Parliament's initial position). This may lead to loopholes that would allow discrimination on the Internet. Amendments in the 2nd reading vote in the European Parliament tried to bring clarity. However, the Regulation also deals with the elimination of the roaming charges, which, together with the fact that an absolute majority of all Parliamentarians was needed to change the agreed text, none of the amendments were adopted. In other words, the European Parliament decided that the regulators should be the ones deciding on the uncertainties of the text. 
 
+## Wer ist in Europa an der Debatte beteiligt? {#who-is-involved-in-the-debate-in-europe}
 
-## Who is involved in the debate in Europe? {#who-is-involved-in-the-debate-in-europe}
+Aktuell sind die Regulierungsbehörden Ziel einer starken Lobbyarbeit durch die Telekommunikationsindustrie, weil diese Firmen ihre diskriminierenden Geschäftsmodelle erhalten und ausweiten möchten, und durch Gerätehersteller, die zusätzliche Hardware verkaufen möchten für Netzkomponenten, welche die bei diesen Geschäftsmodellen notwendige Überwachung des Datenverkehrs durchführen.
 
-Right now, the regulators are being heavily lobbied by the telecom industries that want to keep and expand their discriminatory business models; and equipment manufacturers, which want to sell more network equipment that carry out the surveillance of data traffic that makes this possible.
+Auf der Seite für Netzneutralität kämpfen vor allem Organisationen, die für die Zivilgesellschaft und für Verbraucherrechte engagiert sind, sowie Startups, öffentliche Rundfunkanstalten, Büchereien und Unversitäten.
 
-On the pro-net neutrality side, you have mostly civil society and consumer organisations as well as start-ups, public broadcasters, libraries and universities. 
+Aber der entscheidende Faktor in den meisten Debatten zur Netzneutralität ist die Öffentlichkeit – **oder anders gesagt, du**. Wenn genug Menschen an der Diskussion teilnehmen, können wir die Anti-Netzneutralitäts-Lobby aufwiegen, wir können die guten Argumente zu Gehör bringen und damit gewinnen.
 
-But the deciding factor in most net neutrality debates is the general public, **you, in other words**. If enough people engage in the debate, we can outnumber anti-net neutrality lobby, we can make the good arguments heard and win.
 
+## Wer steht hinter SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-## Who is behind SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
+SaveTheInternet ist die gemeinsame Kampagne von 12 europäischen NGOs, die sich den Schutz der Freiheiten im Internet zur Aufgabe gemacht haben. Die Kampagne wurde gestartet, um Menschen mit Entscheidungsträgern in der Vorbereitung der EU-Verordnung zur Netzneutralität miteinander zu verbinden. Der Öffentlichkeit wurde diese Kampagne im Dezember 2012 beim 30c3-Kongress vorgestellt. Sie wurde seitdem laufend aktualisiert, um dem Prozess der Gesetzgebung und Regulierung zu folgen.
 
-SaveTheInternet is the joint campaign of 12 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
+Wenn du Teil einer Organisation bist, die Unterstützer dieser Kampagne werden möchte, und wenn du helfen möchtest, die Kampagne zu verbreiten, dann kontaktiere uns bitte: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
+# Spezialdienste {#specialised-services}
 
-# Specialised services {#what-are-specialised-services}
 
+## Was sind Spezialdienste? {#what-are-specialised-services}
 
-## What are specialised services?
+Ein Spezialdienst ist jeder Dienst, der über eine Internet-Verbindung angeboten wird, aber eine höhere Qualität durch den Internet-Zugangsanbieter erhält. Die [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) schreibt vor, dass jede Optimierung dieser Art objektiv notwendig sein muss für den Dienst, auf den zugegriffen wird – es darf nicht ohne weiteres eine Priorisierung für diesen Dienst eingerichtet werden. Der Zugangsanbieter muss außerdem sicherstellen, das insgesamt ausreichend Kapazität im Netzwerk vorhanden sein muss, so dass der allgemeine Internetzugang nicht untergraben wird. Diese Anforderung soll durch die nationalen Telekommunikations-Regulierer überprüft werden. Kurz gesagt darf ein „Spezialdienst“ keine diskriminierende „Überholspur“ sein.
 
-A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
+Echte Spezialdienste haben nichts mit dem Internet zu tun. Es sind Dienste, die vielleicht die gleiche Technologie und manchmal sogar die gleiche physische Architektur verwenden, aber sie sind nicht Teil des globalen Internets, weil sie ein Qualitätsniveau benötigen, das über das Internet nicht angeboten werden kann.
 
-Real specialised services have nothing to do with the Internet. They are services that may use the same technology and sometimes even the same physical architecture, but they are not part of the global Internet because they require a level of quality which could not be offered by the Internet. 
 
+## Welche Dienste sind keine Spezialdienste? {#what-are-examples-of-services-that-are-not-specialised-services}
 
-## What are examples of services that are not specialised services? {#what-are-examples-of-services-that-are-not-specialised-services}
+Spezialdienste sind keine Dienste, die über das Internet angeboten werden könnten. Ein Problem, das verhindert werden muss, ist, dass existierende Online-Dienste jetzt als Spezialdienste klassifiziert werden könnten. In so einem Szenario könnten Firmen mit ausreichenden Geldmitteln eine Vorzugsbehandlung für ihre Dienste erkaufen, wodurch sie einen unfairen Vorteil gegenüber allen Konkurrenten erhalten würden. Wettbewerb, Innovation und Wahlfreiheit würden so vermindert.
 
-Specialised services are not services which could be provided on the Internet. The problem to be avoided is allowing existing online services to be reclassified as specialised services. Under such a scenario, a company with enough money could buy priority for their services, which would give them an unfair advantage ahead everyone else &#8211; reducing competition, innovation and choice.. 
 
+## Wie lauten die Regeln im EU-Recht für Spezialdienste? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
-## What safeguards are in EU law to deal with specialised services? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
+Die [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) enthält fünf Regeln, um die Ausbreitung von Spezialdiensten zu begrenzen:
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) establishes five safeguards for the provision of specialised services:
+1.        Spezialdienste dürfen nicht eingesetzt werden, um die Regeln zum Traffic Management zu umgehen. Internet-Provider dürfen nicht Spezialdiensten Priorität einräumen gegenüber vergleichbaren Inhalten, Anwendungen oder Dienstleistungen, die über Internet-Zugangsdienste erreichbar sind;
 
-1.        Specialised services cannot be used to circumvent provisions regarding traffic management measures. ISPs cannot give priority to specialised services over comparable content, applications or services available via Internet Access Services; 
+2.        die Optimierung von Spezialdiensten muss für die Anforderungen der Inhalte, Dienste oder Anwendungen notwendig sein;
 
-2.        Specialised services have to be optimised to assure specific quality of service requirements of the content, application or service, which are necessary for key functionalities of the content, application or service in question; 
+3.        Spezialdienste dürfen nicht als Ersatz für Internet-Zugangsdienste nutzbar sein oder angeboten werden;
 
-3.        Specialised services shall not be usable or offered as a replacement for Internet Access Services; 
+4.        Spezialdienste dürfen nur angeboten werden, wenn es ausreichend Kapazitäten im Netzwerk gibt, um sie zusätzlich zu dem bereitgestellten Internet-Zugangsdienst anzubieten;
 
-4.        Specialised services can only be offered if sufficient network capacity is available to offer them in addition to any Internet Access Service provided; 
+5.        Das Angebot von Spezialdienste darf nicht zu Nachteilen bei der Verfügbarkeit oder der allgemeinen Qualität von Internet-Zugangsdiensten führen.
 
-5.        Specialised services cannot be provided in detriment of the availability or general quality of Internet Access Services. 
 
+## Was ist notwendig, um die Regeln für Spezialdienste zu verschärfen, und warum ist dies wichtig? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
-## What is required to strengthen the safeguards on specialised services and why is this important? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
+Neue Spezialdienste müssen durch die Regulierungsbehörden mit allen fünf oben genannten Regeln geprüft werden, bevor sie am Markt eingeführt werden dürfen. Wenn eine Prüfung nur in Reaktion auf Beschwerden erfolgt, könnte es in manchen Fällen jahrelang dauern, bis diskriminierende Angebote als illegal erkannt und zurückgezogen werden. Es ist eine übliche Strategie von wettbewerbsfeindlichen Telekommunikationsunternehmen, sich auf das langsame Handeln von Gerichten und Regulierern und die hohen Kostenhürden vor Gericht zu verlassen, um innovative Konkurrenten zu ersticken.
 
-New specialised services have to be tested against all five safeguards by the regulator before they can be introduced into the market. If they are only tested after somebody complains, it can sometimes take years before discriminatory products that are later found to be illegal are removed. It is a common strategy of anti-competitive telcoms operators to use the slowness and expense of courts and regulators to kill off innovative competitors. 
+Die Optimierung durch einen Spezialdienst muss für die Funktionalität des Dienstes objektiv notwendig sein, nicht nur ein bequemer Weg, Vorteile über Mitbewerber zu erlangen. Wenn ein vergleichbarer Dienst im offenen Internet existiert, sollte ein Spezialdienst nicht erlaubt werden.
 
-The optimisation of a specialised service has to be objectively necessary for the functionality of the service and not just a convenient advantage over competitors. If a comparable service exists in the open Internet, then a specialised service should not be granted.
 
+# Verkehrsmanagement (Traffic Management) {#traffic-management}
 
-# Traffic Management {#what-is-traffic-management}
 
+## Was ist Verkehrsmanagement? {#what-is-traffic-management}
 
-## What is traffic management?
+Mit Verkehrsmanagement können Internet-Provider den Datenverkehr auf ihren Netzwerken regeln. Ausgewählte Kommunikationsvorgänge können damit beschleunigt und andere verlangsamt werden. Nach der neuen Verordnung sind diese Maßnahmen angemessen, wenn sie transparent, nicht-diskriminierend und verhältnismäßig sind. Verkehrsmanagement muss eine vorübergehende Maßnahme sein, nicht ein dauerhafter Teil der Netzwerkkonfiguration. Außerdem gilt als allgemeine Regel, dass Verkehrsmanagement alle Anwendungen gleich behandeln soll, und dass es nur in sehr begrenzten Situationen den Datenverkehr in Kategorien unterteilen und diese unterschiedlich behandeln soll.
 
-Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
 
+## Warum sollte mich Traffic Management interessieren? {#why-should-i-care-about-traffic-management}
 
-## Why should I care about traffic management? {#why-should-i-care-about-traffic-management}
+Verkehrsmanagement beeinflusst dein alltägliches Internet-Erlebnis. Wenn dein Netflix-Video endlos nachlädt, dein Internet-Telefonat abbricht oder ein Online-Spiel nicht gespielt werden kann, kann Verkehrsmanagement durch deinen Internet-Provider die Ursache sein.
 
-Traffic management affects your everyday Internet experience. When your Netflix video is endlessly buffering, your Internet-Telephony call is breaking off or an online game is unplayable, traffic management by your Internet provider can be the cause. 
+Wenn die EU-Regeln missbraucht werden, könnten die Online-Dienste deiner Wahl so sehr gedrosselt werden, dass sie unbenutzbar werden, während andere konkurriende Dienste, für die dein Provider Werbung macht, vielleicht immer noch funktionieren.
 
-If the EU rules are abused, the online services you want to use could be slowed down to the level that they become unusable while other competing services promoted by your own Internet provider could still work properly. 
+Verkehrsmanagement sollte niemals in deine Freiheit als Endnutzer oder Anbieter von Online-Diensten eingreifen. Die Rolle eines Internet-Providers ist es, das Netzwerk zum Nutzen aller Dienste so gut zu verwalten, wie er es kann – und nicht, Entscheidungen zu treffen über die Wichtigkeit, Integrität und Rechtmäßigkeit der Inhalte, Dienste oder Anwendungen, die du im Internet erreichen möchtest.
 
-Traffic management should never interfere with your freedom as an end-user or online service provider. The role of an Internet provider is to manage the network for all services to the best of his its abilities, but not to make decisions about the importance, integrity and legality of the Internet content, services or applications you want to access. 
 
+## Sollte es Internet Providern nicht erlaubt sein, ihre Netzwerke zu managen? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
-## Shouldn't internet providers be allowed to manage their networks? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
+Selbstverständlich sollte es Internet-Providern erlaubt sein, ihre Netzwerke zu managen. Doch dies muss so geschehen, dass keine Unterscheidungen gemacht werden nach Inhalten, Anwendungen oder Diensten, die du oder andere im Internet benutzen. [Das ist machbar](https://tools.ietf.org/html/rfc6057) und wird durch [detaillierte Analysen](http://apps.fcc.gov/ecfs/document/view?id=60001032169) unterstützt.
 
-Of course internet providers should be allowed to manage their networks. However, this needs to be done in a way that makes no distinction on the basis of the content, application and services being used by you or other internet users. [This is feasible](https://tools.ietf.org/html/rfc6057) and supported by [detailed analysis](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
+Die Alternative ist, dass Internet-Provider Datenpakete nach selbst erstellten Kriterien klassifizieren. Als Folge davon werden einige Anwendungen verlangsamt und einige beschleunigt. Dies kann mit technischen Anforderungen des Dienstes begründet sein (etwa Empfindlichkeit gegenüber Dauer oder Schwankungen in der Laufzeit) oder aufgrund der Funktionalität, die der Dienst seinen Nutzern bietet (Telefonie, Video- oder Musik-Streams, Spiele usw.). Dieser zweite Ansatz wird klassenbasiertes Verkehrsmanagement genannt. Weil aber verschlüsselte Daten nicht klassifiziert werden können, ist eines der Risiken dieses Ansatzes, dass verschlüsselte Verbindungen automatisch auf die „Kriechspur“ umgeleitet werden (solange sie nicht von einem großen Anbieter kommen, bei dem der Typ der übertragenen Daten erraten werden kann). Wenn so Anreize gegen Verschlüsselung geschaffen werden, ist dies natürlich schlecht für den Datenschutz, und wenn verschlüsselte Datenverbindungen mit kleinen Anbietern speziell verlangsamt werden, ist dies wettbewerbswidrig.
 
-The alternative is for the Internet provider to classify data packages based on criteria that it establishes, leading to some applications being slowed down and others speeded up. This can be on the basis of technical requiements of the service (time sensitivity, jitter sensitivity) or the functionality the service offers to the user (telephony, video-streaming, music-streaming, gaming, etc.). This second approach is called class-based traffic management. As encrypted data traffic cannot be classified, one of the risks of this approach is that such data is automatically put in a "slow lane" (unless it come from a big provider, where the type of data can be guessed). Disincentivising encryption is clearly bad for privacy, while slowing down encrypted data from small providers is anti-competitive.
+Wir können deshalb festhalten, dass klassenbasiertes Verkehrsmanagement
 
-We can therefore say that class-based traffic management measures are: 
+-        weniger transparent ist als Maßnahmen, die nicht von der benutzten Anwendung abhängen, weil die Nutzer nicht erfahren, dass ihre speziellen Inhalte und die von ihnen benutzten Dienste klassifiziert werden;
 
--        Less transparent than application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified;
+-        stärker diskriminiert als anwendungsunabhängige Maßnahmen, weil das Risiko einer falschen Klassifizierung von Anwendungen besteht, weil gegen verschlüsselten Datenverkehr diskriminiert wird und weil die Möglichkeit von wettbewerbswidrigen Praktiken besteht;
 
--        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
+-        weniger verhältnismäßig ist als anwendungsunabhängige Maßnahmen, weil diese stets weniger Eingriffe bedeuten und besser für die Wahlfreiheit der Benutzer sind.
 
--        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice;
 
+## Was ist das Ziel von SaveTheInternet.eu bezüglich Verkehrsmanagement? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
-## What is the goal of SaveTheInternet.eu when it comes to traffic management? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
+Die [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32015R2120) enthält eine klare, dreigeteilte Hierarchie in Bezug auf Verkehrsmanagement. Diese muss in deutlichen, bindenden Regeln festgeschrieben werden ([siehe Artikel 3(3), Sub-Paragraphen 1 bis 3](http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32015R2120#d1e453-1-1)). Internet-Provider müssen ein Problem im ihrem Netzwerk stets zuerst mit anwendungsunabhängigen Maßnahmen zu lösen versuchen, d.h. mit Maßnahmen, die nicht von spezifischen Eigenschaften von Inhalten, Anwendungen, Diensten oder Geräten abhängen. Wenn anwendungsunabhängige Maßnahmen ausgeschöpft sind und die Probleme durch sie nicht gelöst werden konnten, ist es Internet-Providern gestattet, auf klassenbasierte Maßnahmen zurückzugreifen.
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
+Verkehrsmanagement ist notwendig, um Netzüberlastungen zu beseitigen und um die Integrität und Sicherheit des Netzwerks zu gewährleisten. Jedoch sollte Verkehrsmanagement (ebenso wie Überwachung) unter den verfügbaren Maßnahmen nur diejenige mit der geringsten Eingriffstiefe auswählen, und diese sollte nur für einen spezifischen Zweck und für begrenzte Zeit angewendet werden, und nur wenn dies tatsächlich notwendig ist, um ein legitimes Ziel zu erreichen.
 
-Traffic management is necessary to resolve congestion and ensure the integrity and security of the network. But, like surveillance, traffic management should only use the least intrusive measures available, only for a specific purpose and a for limited time when it is genuinely necessary to achieve a legitimate goal.
 
+## Unter welchen Umständen darf ein Provider sein Netzwerk managen? {#when-can-a-provider-start-managing-its-network}
 
-## When can a provider start managing its network? {#when-can-a-provider-start-managing-its-network}
+Aufgrund der [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) können Internet-Provider Verkehrsmanagement einführen, wenn entweder ein tatsächlicher Fall von Netzüberlastung vorliegt oder wenn sie eine bevorstehende Netzüberlastung abmildern möchten. Die zweite Bedingung sollte von Regulierungsbehörden klarer gefasst werden, um zu vermeiden, dass in Netzwerken ständig Verkehrsmanagement angewendet wird, selbst wenn dafür kein wirklicher Bedarf besteht.
 
-According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), Internet providers can either start to manage their network in an actual case of congestion or in cases where they are seeking to mitigate congestion that is about to materialise. This second option should be clarified by the regulators to avoid a slippery slope situation where the network is "managed" all the time, even when there is no actual need for it.
+Wir meinen, dass diese zweite Option nur dann zulässig sein sollte, wenn weitere Indikatoren über die Datenmenge an einem bestimmten Netzwerkknoten hinaus vorhanden sind (etwa die Anzahl Kunden, die mit einer Netzwerkzelle verbunden sind). Es muss stets ein konkreter und aktueller Bedarf für Verkehrsmanagement gegeben sein.
 
-We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
 
+# Zero-Rating {#zero-rating}
 
-# Zero rating {#what-is-zero-rating}
 
+## Was ist Zero-Rating? {#what-is-zero-rating}
 
-## What is zero rating?
+Zero-Rating ist ein Geschäftsmodell, bei dem Daten von einer bestimmten Anwendung oder einem bestimmten Dienst nicht für das monatliche Datenlimit von Kunden mitgezählt werden. Zero-Rating behandelt verschiedene Datenverbindungen auf verschiedene Weise, damit bestimmte Verbindungen zu einem Preis und weitere zu einem anderen Preis angeboten werden können. Obwohl dies von „klassischen“ Verletzungen der Netzneutralität abweicht, ist es in der Praxis doch dasselbe, weil der Internet-Provider so beeinflussen darf, welche Anwendungen und Dienste benutzt werden und welche nicht.
 
-Zero rating is a commercial practice, for which data downloaded from certain applications or services is not counted towards a subscriber's monthly download limit. Zero rating treats different traffic in different ways, in order for some to be offered at one price and some to be offered at a different price. Although technically different from classic net neutrality violations, it is identical, practically speaking, as it allows the Internet access provider to influence what applications and services are used and which are not.
 
+## Warum ist Zero-Rating ein Problem? {#why-is-zero-rating-a-problem}
 
-## Why is zero rating a problem? {#why-is-zero-rating-a-problem}
+In diesem Geschäftsmodell kann dein Internet-Provider kontrollieren, welche du benutzt oder benutzen wirst. Jeder Konkurrent zu einer Anwendung oder einem Dienst, für den Zero-Rating gilt, erhält einen wesentlichen Wettbewerbsnachteil, weil es extra Geld kostet, die Anwendung oder den Dienst ungehindert zu benutzen. Von diesen Nachteilen sind Startups und kleine oder mittlere Unternehmen besonders betroffen.
 
-With this practice, your Internet provider can exercise control over the services that you use or will use. Every competitor to a zero-rated application or service (mainly start-ups and SMEs) is at a great disadvantage because you have to pay extra to be able to use the application or service unhindered.
+Zero-Rating ist eine wichtige Rechtfertigung für geringe Volumengrenzen (also Limits für Uploads oder Downloads). Internet-Provider möchten dir Anreize geben, dass du ihre eigenen Online-Dienste oder die ihrer Partner benutzt. Wenn Provider diese ausgewählten Dienste von der Berechnung deiner Volumengrenzen ausnehmen dürfen, haben sie eine bessere Rechtfertigung, diese Limits weiterhin eher niedrig anzusetzen, damit sie preislich in einer starken Wettbewerbsposition bleiben. Ohne Zero-Rating könnten diese Firmen dir größere Datenmengen anbieten, bei denen du frei entscheiden könntest, wie du sie nutzt. Es gibt gut dokumentierte Fälle in den [Niederlanden](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) und in [Slowenien](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html), wo durch strenge Gesetze zur Netzneutralität, in denen Zero-Rating verboten ist, die Mobilanbieter ihre Volumengrenzen verdoppelt haben.
 
-Zero rating is a major reason for low data caps (data caps are data upload or download limits). Internet providers want you to use their own online services or their partner services. If providers are allowed to exempt these selected services from your data cap, they have a reason to keep this cap intact and relatively low so their competitive advantage stays strong. Without zero rating, these companies could be offering you more data volume that you can use and you would be able to freely decide how to use it.  There are well documented cases [in the Netherlands](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) and in [Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) where, thanks to strong net neutrality laws prohibiting zero rating, mobile operators doubled the data caps of their users.
 
+## Bekomme ich wirklich etwas umsonst, wenn ich einen Zero-Rating-Tarif nutze? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
-## Am I really getting something for free when I use a zero rating programme? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
+Auf den ersten Blick könnte es so aussehen, als ob du etwas kostenlos bekommst. Doch dieser Eindruck täuscht: tatsächlich wird deine Wahlfreiheit im Internet eingeschränkt und dein Internet-Provider wird zum Torwächter. Nehmen wir als Beispiel das „Free Basics“-Angebot von Facebook: Warum sollte Facebook entscheiden, welche Dienste und Apps du benutzen kannst? Worin liegt der wirtschaftliche Anreiz für Facebook, so etwas anzubieten? Ist das wirklich kostenlos? Die Antwort ist Nein. Nichts ist kostenlos, und Zero-Rating hat Auswirkungen auf deine Sicherheit, den Schutz deiner Daten und auf die Wettbewerbssituation im Markt.
 
-At first sight, it looks as if you’d get something for free. Contrary to appearances, your freedom of choice in the Internet is restricted and your Internet provider establishes itself as a gatekeeper. In the case of Facebook's Free Basics programme, for example, why should Facebook decide which services and apps you can use? What is the economic incentive for Facebook to offer this? Is this really for free? The answer is no. Nothing is for free. Zero rating has implications for your security, privacy and for a competitive market.
 
+## Wie kann sich Zero-Rating auf Anbieter von Onlinediensten und auf die Vielfalt des Internets auswirken? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
-## How can zero rating affect providers of online services and the diversity of the Internet ecosystem? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
+Zero-Rating-Vereinbarungen werden in Europa fast immer mit großen Internetfirmen wie Facebook oder Spotify geschlossen. Diese sind oft auf beiden Seiten Exklusivverträge, d.h. der Inhalte-Anbieter bindet sich an einen einzigen Internet-Provider im jeweiligen Land und umgekehrt.
 
-Zero rating agreements in Europe are almost always with big Internet companies like Facebook and Spotify. These deals are often mutually exclusive, which means that the content provider is binding itself to one operator in a country and vice-versa. 
+Zero-Rating ist schlecht für die Wahlfreiheit von Kunden, weil es katastrophal für die Online-Wirtschaft ist. Es hilft lediglich großen Firmen, ihre Marktposition zu zementieren und ihre Konkurrenten zu eliminieren. Wir sehen dies bereits z.B. im Markt für Musik-Streaming, wo die Wahlfreiheit für Verbraucher durch solche exklusiven Zero-Rating-Angebote erheblich geschrumpft ist.
 
-Zero rating is bad for user choice because it is devastating for the online economy. It only helps big companies to cement their market position and kill off their competition. We already see this in the music streaming market, for example, where the freedom of choice for consumers has been greatly reduced by such exclusive zero rating offers.
+Anstatt einfach Internet-Zugang zu verkaufen, möchten die Provider dir zunehmend direkt Online-Content, Anwendungen und Dienste verkaufen, die entweder von ihnen oder von ihren Partnern angeboten werden. Indem sie sich als Mittelsmänner hineinschieben, versuchen Internet-Provider doppelt zu kassieren. Zuerst bezahlst du sie für deine Internet-Verbindung. Anschließend bezahlen Anbieter von Inhalten, Diensten und Apps, um Zugang zu der Kundenbasis des Providers zu erhalten, also auch zu dir.
 
-Instead of simply selling Internet access, Internet providers increasingly want to sell you directly online content, applications and services provided either by them or their partners. By inserting themselves as middle-men, Internet providers  want to get paid twice. First, you pay them for your Internet connection. Second, content, services and apps providers pay them for getting access to their customer base, which includes you. 
+## Was ist das Ziel von SaveTheInternet.eu bezüglich Zero-Rating? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
-## What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
+Zero-Rating ist ein klarer Bruch der Regeln zu Netzneutralität und muss deshalb verboten werden. Diese Praxis ist wettbewerbswidrig und verletzt deine Freiheit, die Anwendungen, Dienste und Inhalte zu erreichen, die du möchtest, und die Freiheit von Anbietern von Inhalten und Anwendungen, ihre Angebote in allen Netzwerken ohne Beschränkung zu machen (wie es von Artikel 3(1) der [EU-Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) verlangt wird). Die EU-Verordnung verbietet es auch Internet- und Inhalts-Anbietern, Dienste anzubieten, die deine Rechte als Endverbraucher oder als Inhalts-Anbeiter einschränkt ([vgl. Artikel 3(2) der Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120#d1e453-1-1)).
 
-Zero rating is a clear violation of the net neutrality rules and therefore needs to be prohibited. This practice is anti-competitive and violates your freedom to use and access the applications, services and content you want and the freedom of content and application providers to make their offer in all networks without restriction (as required by Article 3(1) of the [EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). The EU Regulation also bans Internet and content providers from offering services that limit your rights as an end-user or as a content provider [(cf. Article 3(2) of the Regulation)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
+Wenn nach einer Überschreitung von Volumengrenzen Zero-Rating-Angebote immer noch erreichbar sind, während der Rest des Internets blockiert oder gedrosselt wird, ist dies eine klare Verletzung von weiteren Bestimmungen in der Verordnung zur Sicherung der Netzneutralität.
 
-If data caps are exceeded and certain zero rated services are still accessible while the rest of the Internet is blocked or throttled, this is a clear violation of other provisions of the Regulation delivering net neutrality. 
 
 
+# Transparenz {#transparency}
 
-# Transparency
+## Welche Vorteile können wir von den neuen Netzneutralitäts-Regeln erwarten? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 
-## What benefits can we expect with the new net neutrality rules? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
--       
-There are many benefits that we have under the [EU Regulation on net neutrality](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). In terms of transparency, one of them is the requirement for Internet providers to state in their contracts what the minimum, average and maximum bandwidth of any Internet access connection is, instead of just the theoretical maximum. The Committee of the European telecom regulators (BEREC) will have to clarify how these values are calculated and what should happen if a connection is shared between more than one user.
+Es gibt viele günstige Folgen der [EU-Verordnung über Netzneutralität](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120). Im Bereich der Transparenz ist ein Vorteil, dass Internet-Provider in ihren Verträgen angeben müssen, was die minimale, durchschnittliche und maximale Bandbreite jedes Internet-Zugangs ist, nicht nur das theoretische Maximum. Der Ausschuss der europäischen Telekommunikations-Regulatoren (BEREC) wird klarstellen müssen, wie diese Werte zu berechnen sind und was geschehen soll, wenn eine Verbindung zwischen mehreren Nutzern geteilt wird.
 
 
-## What type of transparency can be expected with the new rules? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
+## Welche Art von Transparenz kann von den neuen Regeln erwartet werden? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) requires Internet providers to provide information about all traffic management measures that affect a user's Internet access. Regulators are now seeking for input on what this means in practice.
+Die [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) verpflichtet Internet-Provider, Informationen zu geben über alle Maßnahmen im Verkehrsmanagement, die den Internet-Zugang von Nutzern betreffen könnten. Die Regulierungsbehörden benötigen jetzt Hinweise, was dies in der Praxis bedeuten soll.
 
 
 
-# Other
+# Weitere Fragen {#other}
 
-## How is net neutrality dealt with in other parts of the world? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
+## Wie wird Netzneutralität in anderen Ländern der Erde gehandhabt? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
-There are strong net neutrality rules in the USA, Canada, and Chile. The most recent example is India, which has recently adopted strong rules on zero-rating. For more detailed approach visit [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map) 
+Es gibt starke Regeln für Netzneutralität in den USA, Kanada und Chile. Das aktuellste Beispiel ist Indien, das vor kurzem starke Regeln zu Zero-Rating eingeführt hat. Weitere Informationen weltweit gibt es bei [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map).
 
-Other countries are running a SaveTheInternet campaign.
-
-These are some examples:
+Es gibt auch „SaveTheInternet“-Kampagnen in anderen Ländern.
+Einige Beispiele:
 
 -        [USA](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+-        [Indien](http://www.savetheinternet.in/)
 
 
-## How can I help you? {#how-can-i-help-you}
+## Wie kann ich helfen? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+Da kannst SaveTheInternet.eu auf mehreren Wegen helfen:
 
-<i class="fa fa-long-arrow-right"></i>        Spread the word! Tell your friends this campaign, about net neutrality and about why it is important to act now. Only when many individuals voices speak out,  will we be able to protect our online rights and freedoms.
+<i class="fa fa-long-arrow-right"></i>        Verbreite die Botschaft! Sprich mit deinen Freunden über diese Kampagne, über Netzneutralität und warum es wichtig ist, jetzt zu handeln. Nur wenn mehrere Einzelne ihre Stimme erheben, wird es gelingen, Online-Rechte und -Freiheiten zu schützen.
 
-<i class="fa fa-long-arrow-right"></i>        Translate the website into your language! You can do that via [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI) 
+<i class="fa fa-long-arrow-right"></i>        Übersetze die Website in deine Sprache! Deine Bearbeitung kannst du über [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI) einreichen.
 
-<i class="fa fa-long-arrow-right"></i>        Join us! If you are part of an organisation and would like to join SaveTheInternet.eu, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+<i class="fa fa-long-arrow-right"></i>        Komm zu uns! Wenn du Teil einer Organisation bist und bei SaveTheInternet.eu dabei sein möchtest, schreib uns bitte an [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Report violations of net neutrality through [Respect My Net](https://respectmynet.eu/)
+<i class="fa fa-long-arrow-right"></i>        Melde Verletzungen der Netzneutralität bei [Respect My Net](https://respectmynet.eu/).
 
-<i class="fa fa-long-arrow-right"></i>        Donate! If you want to donate to the organisations behind SaveTheInternet, please click [ here ] 
+<i class="fa fa-long-arrow-right"></i>        Gib Spenden! Wenn du den Organisationen hinter SaveTheInternet eine Spende zukommen lassen möchtest, klicke bitte [ hier ].
 
-Do you have any other cool and creative ideas? Please, reach out to us via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+Hast du noch andere coole und kreative Ideen? Bitte sprich uns an via [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 {{ END FAQ }}
