@@ -1,0 +1,52 @@
+Ajax:allCountriesOption;All EU countries;Todos os países da UE
+Ajax:backToQuestionsButton;Back to questions;Voltar às perguntas
+Ajax:confidentialDescription;We will not forward your email to BEREC. If you entered your email, you will have an opportunity to submit your answers to BEREC and NRAs yourself.;Não reencaminharemos o seu mail para o BEREC. Se tiver introduzido o seu mail, terá oportunidade de submeter diretamente as suas respostas ao BEREC e às ARNs.
+Ajax:confidentialLabel;Please treat my response confidential;Agradeço que respeitem a confidencialidade da minha resposta
+Ajax:countryLabel;Where do you wish to submit your answers?;Onde quer entregar as suas respostas?
+Ajax:doYouAgree;Do you agree?;Concorda?
+Ajax:emailDescription;We will send you a copy of your answers and instructions how to submit them to your NRA.;Iremos enviar-lhe uma cópia das suas respostas e instruções sobre como as entregar à sua ARN.
+Ajax:emailFarewell;Kind regards, ;Melhores cumprimentos, 
+Ajax:emailGreeting;Dear Sir or Madam,;Exmo(a) Senhor(a),
+Ajax:emailInstructions;You are almost done. To submit your opinion to your national Telecom Regulator(s), please forward this email to the following address(es):;Já falta pouco. Para enviar a sua opinião para a autoridade nacional das comunicações eletrónicas, agradecemos que reencaminhe este mail para o(s) seguinte(s) endereço(s):
+Ajax:emailInternationalInstructions;Thank you for completing the questionnaire. We are sending you a copy of your answers for your record.;Muito obrigado por ter respondido ao questionário. Enviamos-lhe uma cópia das suas respostas para o seu registo.
+Ajax:emailIntro;Please take this Stakeholder comment regarding the BEREC net neutrality guidelines creation into consideration.;Agradecemos que os comentários desta Parte interessada sobre a criação de diretrizes sobre a neutralidade da Internet pelo BEREC sejam tomados em consideração.
+Ajax:emailLabel;Email address (recommended);Endereço de e-mail (recomendado)
+Ajax:emailWatermark;Enter your email;Introduza o seu e-mail
+Ajax:hideExtraInformation;Hide extra information;Ocultar informações adicionais
+Ajax:internationalVisitor;International;Internacional
+Ajax:nameDescription;Please indicate on whose behalf you are filling this questionnaire.;Por favor indique em nome de quem é que está a preencher este questionário.
+Ajax:nameLabel;Name / Organization (required);Nome / Organização (preenchimento obrigatório)
+Ajax:nameWatermark;Enter your name / organization;Introduza o seu nome/organização
+Ajax:newsletterDescription;You can opt out from receiving emails at any time.;Pode decidir deixar de receber emails em qualquer altura.
+Ajax:newsletterLabel;Sign up to EDRi newsletter;Subscreva a newsletter da associação EDRi (European Digital Rights)
+Ajax:nextButton;Next;Seguinte
+Ajax:no;No;Não
+Ajax:notEnoughAnswersWarningDescription;You have not answered enough questions. Please answer at least three questions before submitting.;Não respondeu a perguntas suficientes. Por favor responda a, pelo menos, três perguntas, antes de submeter as suas respostas.
+Ajax:notEnoughAnswersWarningLabel;Warning!;Atenção!
+Ajax:prevButton;Prev;Ant.
+Ajax:sendButton;Submit;Submeter
+Ajax:showMoreInformation;Show more information;Mostrar mais informações
+Ajax:skipButton;Skip;Ignorar
+Ajax:submitButton;Submit;Submeter
+Ajax:submitEarlyButton;Skip to the end;Ir diretamente para o fim
+Ajax:submitHeading;Thank you for completing the questionnaire!;Obrigada por ter respondido ao questionário!
+Ajax:submitSubheading;Please review your answers bellow, edit them as you see fit, and click Submit to have your voice heard.;Agradecemos que reveja as suas respostas abaixo, as edite se e como achar necessário e, em seguida, clique em Submeter para que a sua voz seja ouvida.
+Ajax:thankYouHeading;Thank you for completing the questionnaire!;Obrigada por ter respondido ao questionário!
+Ajax:thankYouSubheading;You are awesome! Your answers were submitted, thank you for fighting for net neutrality!;"Muito obrigado por ter respondido a este questionário, foi fantástico da sua parte! As suas respostas foram submetidas; obrigadíssimo por participar nesta luta pela neutralidade da Internet!"
+Ajax:yes;Yes;Sim
+Go To Submission;Go To Submission;
+Questionnaire: Next;More;
+Questionnaire: Prev;Back;
+Response: Click here;click here;
+Response: Compose an email;Compose an email;
+Response: Email label;Your E-Mail:;
+Response: Empty response;You haven't responded to any of the questions. Please edit the draft above or restart the questionnaire.;
+Response: From your device;from your device;
+Response: Manual copy instructions;Copy the above text by Right-click -> Copy (or Ctrl+C) or;
+Response: Or via;or via;
+Response: Paste in body;then paste (Ctrl+V) in the body;
+Response: Send email to regulator;Now send this E-Mail to your regulator;
+Response: Step 1;Step 1;
+Response: Step 2;Step 2;
+Response: Step 3;Step 3;
+Response: Text copied;Text copied!;
