@@ -10,44 +10,44 @@
 {{ BEGIN FAQ }}
 # Frequently Asked Questions
 
-## Net Neutrality
+## [Net Neutrality](#net-neutrality){: data-scroll="true"}
 - [What is net neutrality?](#what-is-net-neutrality){: data-scroll="true"}
 - [How does net neutrality influence me and my life?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
 - [How did we end up here? What happened in the EU?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
 - [Who is involved in the debate in Europe?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
 - [Who is behind SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-## Specialised Services
+## [Specialised Services](#specialised-services){: data-scroll="true"}
 - [What are specialised services?](#what-are-specialised-services){: data-scroll="true"}
 - [What are examples of services that are not specialised services?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
 - [What safeguards are in EU law to deal with specialised services?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
 - [What is required to strengthen the safeguards on specialised services and why is this important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Traffic Management
+## [Traffic Management](#traffic-management){: data-scroll="true"}
 - [What is traffic management?](#what-is-traffic-management){: data-scroll="true"}
 - [Why should I care about traffic management?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
 - [Shouldn't internet providers be allowed to manage their networks?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
 - [What is the goal of SaveTheInternet.eu when it comes to traffic management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
 - [When can a provider start managing its network?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
-## Zero Rating
+## [Zero Rating](#zero-rating){: data-scroll="true"}
 - [What is zero rating?](#what-is-zero-rating){: data-scroll="true"}
 - [Why is zero rating a problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
 - [Am I really getting something for free when I use a zero rating programme?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
 - [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
 - [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## Transparency
+## [Transparency](#transparency){: data-scroll="true"}
 - [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
 - [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Other
+## [Other](#other){: data-scroll="true"}
 - [How is net neutrality dealt with in other parts of the world?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
 - [How can I help you?](#how-can-i-help-you){: data-scroll="true"}
 
 
 
-# Net Neutrality
+# Net Neutrality {#net-neutrality}
 
 ## What is net neutrality? {#what-is-net-neutrality}
 
@@ -106,10 +106,10 @@ SaveTheInternet is the joint campaign of 12 European NGOs that work to protect c
 If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# Specialised services {#what-are-specialised-services}
+# Specialised services {#specialised-services}
 
 
-## What are specialised services?
+## What are specialised services? {#what-are-specialised-services}
 
 A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
 
@@ -143,10 +143,10 @@ New specialised services have to be tested against all five safeguards by the re
 The optimisation of a specialised service has to be objectively necessary for the functionality of the service and not just a convenient advantage over competitors. If a comparable service exists in the open Internet, then a specialised service should not be granted.
 
 
-# Traffic Management {#what-is-traffic-management}
+# Traffic Management {#traffic-management}
 
 
-## What is traffic management?
+## What is traffic management? {#what-is-traffic-management}
 
 Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
 
@@ -177,7 +177,7 @@ We can therefore say that class-based traffic management measures are: 
 
 ## What is the goal of SaveTheInternet.eu when it comes to traffic management? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
+The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices. If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
 
 Traffic management is necessary to resolve congestion and ensure the integrity and security of the network. But, like surveillance, traffic management should only use the least intrusive measures available, only for a specific purpose and a for limited time when it is genuinely necessary to achieve a legitimate goal.
 
@@ -189,10 +189,10 @@ According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri
 We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
 
 
-# Zero Rating {#what-is-zero-rating}
+# Zero Rating {#zero-rating}
 
 
-## What is zero rating?
+## What is zero rating? {#what-is-zero-rating}
 
 Zero rating is a commercial practice, for which data downloaded from certain applications or services is not counted towards a subscriber's monthly download limit. Zero rating treats different traffic in different ways, in order for some to be offered at one price and some to be offered at a different price. Although technically different from classic net neutrality violations, it is identical, practically speaking, as it allows the Internet access provider to influence what applications and services are used and which are not.
 
@@ -225,7 +225,7 @@ If data caps are exceeded and certain zero rated services are still accessible w
 
 
 
-# Transparency
+# Transparency {#transparency}
 
 ## What benefits can we expect with the new net neutrality rules? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 
