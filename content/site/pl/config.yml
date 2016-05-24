@@ -1,18 +1,14 @@
-language: "en"
+language: "pl"
 questionnaire_language: "en"
-title: SAVE THE INTERNET IN EUROPE
-action: Join us and take action! Send a message to your regulator
+title: SAVE THE INTERNET W EUROPIE
+action: Dołącz do nas i działaj! Prześlij wiadomość do swojego urzędu regulacyjnego
 keywords:
-  - net neutrality
-  - connected conntinent
-  - digital single market
-  - dsm
-  - neelie kroes
-  - Netzneutralität
-  - drosselkom
-  - specialised services
-  - echtesnetz
-  - BEREC
-  - Internetneutralität
-  - Plattformneutralität
-  - Neutralitätsdebatte
+  - neutralność sieci
+  - otwarty Internet
+  - wyspecjalizowane usługi
+  - zarządzanie ruchem
+  - płatne szybkie pasy
+  - zero-rating
+  - Europa
+  - Jednolity rynek telekomunikacyjny
+  - neutralność sieci
