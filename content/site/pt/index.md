@@ -1,51 +1,55 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ENVIA UMA MENSAGEM](#send-a-message){: data-scroll="true" }
-- [INFORMAÇÃO](#info){: data-scroll="true" }
-- [PERGUNTAS FREQUENTES](faq)
-
+- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
+- [INFORMATION](#info){: data-scroll="true" }
+- [FAQ](faq)
 {{ END NAVIGATION }}
 
-# Salva a Internet
+# Salve a Internet
 
 {: .title-subtext}
-Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de telecomunicações o poder
-de influenciar o que podes (e não podes) fazer online. A Europa precisa urgentemente de directrizes claras de neutralidade da rede
-para proteger as nossas liberdade e direitos online. Temos até __Julho__ para ajudar a proteger a Internet aberta na Europa.
+As entidades reguladoras europeias estão prestes a decidir se vão dar às grandes empresas de telecomunicações o poder
+de influenciarem aquilo que podemos (e não podemos) fazer online. A Europa necessita urgentemente de diretrizes claras sobre a neutralidade da Internet
+para proteger as nossas liberdades e os nossos direitos online. Temos até ao dia __ de julho de __ para ajudar a Europa a proteger a Internet aberta.
 <br><br>
-Mobiliza-te, actua Já!
+Junte-se a este movimento, não espere para agir!
 
 {{ BEGIN COUNTER }}
 
-| X | PESSOAS <br> ENVIARAM MENSAGENS | Y | DIAS <br> RESTANTES |
+| X | PESSOAS ENVIARAM  <br> MENSAGENS FALTAM | Y | DIAS <br> |
 
-[ACTUA](#send-a-message){: id="take-action-button" data-scroll="true" }
+For example:
+10 People have sent messages
+5 days left
+(Don’t translate this explainatory part)
+
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-## O que é preciso solucionar:
+## O que precisa de ser mudado:
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
-### Serviços Especializados
+### Specialised Services
 
-Os Serviços Especializados ameaçam tornar-se nas vias rápidas pagas para as grandes companhias da Internet, empurrando todos os outros sites, ideias ou "start-ups" para a via lenta.
+O risco de os serviços específicos se transformarem na "via rápida" paga para grandes empresas da Internet, que empurram todas as outras páginas Web, ideias e start-ups para a "via lenta".
 
-[LER MAIS](faq/#o-que-sao-servicos-especializados)
+[READ MORE](faq/#what-are-specialised-services)
 
 {{ END HOME SPECIALISED-SERVICES }}
 
 {{ BEGIN HOME TRAFFIC-MANAGEMENT }}
 
-### Gestão de Tráfego
+### Traffic Management
 
-Não permitas que o teu fornecedor de Internet decida por ti que tráfego é importante e que serviços desacelera à sua vontade.
+Não permita que seja o seu prestador de serviços de acesso à Internet a decidir qual o tráfego que é importante e quais os serviços online que vai abrandar, como ele muito bem entender.
 
-[LER MAIS](faq/#o-que-e-gestao-de-trafego)
+[READ MORE](faq/#what-is-traffic-management)
 
 {{ END HOME TRAFFIC-MANAGEMENT }}
 
@@ -53,9 +57,9 @@ Não permitas que o teu fornecedor de Internet decida por ti que tráfego é imp
 
 ### Zero Rating
 
-Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel torna-se guardião da tua conexão e dá-lhe uma razão para reduzir o teu limite mensal de dados.
+Parece-lhe que está a conseguir algo de graça, mas, na realidade, está a transformar o seu fornecedor móvel no guardião que o controla e a dar-lhe um motivo para reduzir as capacidade de dados mensais.
 
-[LER MAIS](faq/#o-que-e-zero-rating)
+[READ MORE](faq/#what-is-zero-rating)
 
 {{ END HOME ZERO-RATING }}
 
@@ -65,9 +69,9 @@ Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel 
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Diz aos reguladores nacionais e ao <br> BEREC para protegerem a neutralidade da rede
+# Exija às suas entidades reguladoras nacionais e <br> ao BEREC que protejam a neutralidade da Internet
 
-Dá a tua opinião sobre a nova lei de neutralidade da rede aos reguladores usando o questionário em baixo. Ao responder às questões será gerado um email para ti. O email será submetido por nós à consulta oficial dos Reguladores de Telecomunicações da UE (BEREC) quando esta começar em Junho de 2016.
+Transmita às suas entidades reguladoras a sua opinião sobre as novas regras de neutralidade da Internet respondendo ao questionário abaixo. Ao responder a qualquer número de perguntas de escolha múltipla e de perguntas abertas será automaticamente gerado um mail para si. O seu mail será por nós submetido aos reguladores de telecomunicações da UE (BEREC) quando a consulta oficial se iniciar em junho de 2016.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -78,11 +82,11 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-## Difunde!
+## Spread the word!
 
-[Partilha no Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Partilhe no Facebook] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Partilha no Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
+[Partilhe no Twitter] (https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -94,60 +98,60 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## Em 2015, a União Europeia adoptou uma legislação sobre neutralidade da rede...
+## In 2015, the European Union adopted  legislation on net neutrality ...
 
-[A Regulação Europeia](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120){: target="_blank" } contém bons princípios para asegurar que possas conectar-te a qualquer ponto da rede sem discriminações. Contudo, existe o risco de que algumas partes da regulação sejam usadas abusivamente para subverter a neutralidade da rede. Os legisladores decidiram deixar nas mãos dos reguladores de telecomunicações a responsabilidade de clarificar algumas partes onde o texto é pouco preciso.
+[O Regulamento da UE] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contém princípios bons para garantir que se pode ligar a qualquer ponto da net sem discriminação. No entanto, algumas partes do regulamento podem ser malbaratadas e utilizadas para minar a neutralidade da Internet. Os legisladores decidiram depositar a responsabilidade pela clarificação de pontos dúbios do texto nas mãos das entidades reguladoras de telecomunicações.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-O Organismo de Reguladores Europeus das Comunicações Eletrónicas (BEREC, Body of European Regulators of the Electronic Communications) tem que preparar as directrizes de implementação que iterpretar as ambiguidades da lei até finais de Agosto de 2016. Estas directrizes determinarão se a Europa terá uma rede neutra ou não.
+O "Body of European Regulators of Electronic Communications" (BEREC) tem de elaborar diretrizes de implementação para interpretar as ambiguidades da lei até finais de agosto de 2016. Estas diretrizes irão determinar se a Europa vai ou não usufruir de neutralidade da Internet.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-Em junho de 2016, o BEREC publicará o rascunho das suas directrizes e lançará uma consulta pública. Não obstante, de acordo com os procedimentos do BEREC estabelecem que o público tem apenas de __6 de Junho a 18 de Julho__ para responder e que o BEREC tem de publicar as suas directrizes finais a 30 de Agosto de 2016. Isso significa que os cidadãos têm __poucas semanas__ para responder à consulta e o BEREC tem __pouco mais de um mês__ para processar os (potencialmente milhares) de comentários, actualizar as suas directrizes e depois passar pelo  processo administrativo para aceitar formalmente qualquer alteração ao rascunho inicial.
+Em junho de 2016, o BEREC planeia publicar o seu projeto de diretriz e lançar uma consulta pública. Contudo, as regras processuais do BEREC estipulam que o público só vai poder responder __do dia 6 de junho até ao dia 18 de julho__ e o Regulamento determina que o BEREC tem de publicar a sua diretriz final no dia 30 de agosto de 2016. O que quer dizer que os cidadão  só vão ter __poucas semanas__ para responder à consulta e que o BEREC só vai dispor de __pouco mais de um mês__ para processar os (potencialmente milhares de) comentários, projetos de atualização das suas diretrizes e, em seguida, cumprir todos os processos administrativos para concordar formalmente com quaisquer alterações que introduza no projeto.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
-## Guia para a Neutralidade da Rede na UE
+## Quadro de Referência da Neutralidade da Internet na UE
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __Este é um momento crucial: Esta é a fase em que se alcançaram grandes victórias nos Estados Unidos e na Índia. Portanto, devemos continuar a fazer pressão por uma verdadeira neutralidade da rede, convencendo os reguladores do valor de uma Internet livre e aberta.__
+### __Estamos num momento crucial: foi nesta fase que os grandes êxitos foram conseguidos nos Estados Unidos e na Índia. Assim sendo, temos de continuar a insistir numa neutralidade da Internet real, convencendo as entidades reguladoras do valor de uma Internet livre e aberta.__
 
-Os reguladores devem prover-se das melhores ferramentas para impor a neutralidade da rede. Na Save The Internet, pensamos que o BEREC não terá tempo suficiente para processar devidamente e ter em consideração as milhares de respostas (os reguladores de telecomunicações dos Estados Unidos receberam 3,7 milhões de respostas à sua consulta!). Podemos reequilibrar a balança permitindo que todos possam contribuir na elaboração das directrizes de forma mais eficiente.
+As entidades reguladoras têm de se equipar com as ferramentas apropriadas para imporem a neutralidade da Internet. Na Save The Internet, somos de opinião que o BEREC não vai ter tempo suficiente para processar e tomar devidamente em consideração eventuais dezenas de milhares de respostas (a entidade norte-americana reguladora das telecomunicações recebeu 3,7 milhões de respostas à sua consulta!). Podemos mudar o equilíbrio, dando a capacidade a todas as pessoas de contribuírem adequadamente para as diretrizes de uma forma mais eficiente.
 
-O BEREC organizou recentemente um encontro presencial para as partes interessadas. Compilamos as nossas respostas às questões que o BEREC nos colocou no encontro ([aqui](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) e [aqui](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) em inglês simples e adicionando algumas outras que cremos serem também necessárias.
+Recentemente, o BEREC organizou reuniões cara-a-cara com grupos de partes interessadas. Nós traduzimos as perguntas que o BEREC fez às partes interessadas ([ver aqui] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) e [aqui] (https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) nessas reuniões para um inglês simples, e acrescentámos algumas outras perguntas quando o considerámos necessário.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## O BEREC [precisa da tua opinião](#send-a-message){: data-scroll="true"} antes de decidir o futuro da neutralidade da rede na Europa.
+## O BEREC [precisa da sua opinião] (#envie uma mensagem) {: data-scroll="true"} antes de tomar uma decisão sobre o futuro da neutralidade da Internet na Europa.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
-### Contacta-nos
+### Entre em contacto connosco
 
-__Podes contactar-nos em [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__Não hesite em entrar em contacto connosco através do endereço [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)__
 
-Tens uma ideia para melhorar este website? Estupendo, precisamos de ti! O código fonte da página está disponível no [GitHub](https://github.com/Netzfreiheit/STI-UI), podes fazer um "fork", melhorar e fazer um "push" de volta.
+Tem uma ideia sobre como melhorar esta página Web? Fantástico, nós precisamos de si! Todo o código fonte desta página Web está disponível no [GitHub] (https://github.com/Netzfreiheit/STI-UI) e pode ser bifurcado, melhorado, remisturado e reenviado para nós.
 
-Algo que precisamos sempre é de ajuda nas traduções, portanto se falas algum idioma que não tenhamos ainda coberto, por favor contacta-nos.
+Uma das coisas de que precisamos sempre é de ajuda com as traduções, por isso, se domina um idioma que ainda não tenhamos coberto até agora, agradecemos desde já que entre em contacto connosco.
 
-### Política de Privacidade
+### Política de privacidade
 
-Armazenamos os teus comentários para o BEREC na caixa de entrada de um endereço de e-mail alojado na Austria até os enviar-mos a todos para a consulta oficial do BEREC. Podes ler a política de privacidade para as consultas do BEREC [aqui](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). O BEREC publicará todas as respostas que não tenham sido assinaladas como confidenciais. As organizações promotoras desta campanha poderão também analizar os comentários enviados para o BEREC através deste website, se não tiverem sido assinaladas como confidenciais. Um mês após o encerramento do periodo de consulta oficial eliminaremos todos os comentários.
+Nós guardamos os seus comentários à consulta do BEREC na caixa de entrada de um endereço de mail alojado na Áustria até reencaminharmos estes mails com os vossos comentários para a consulta oficial do BEREC. Encontrará a Política de Privacidade do BEREC no que diz respeito a consultas em [aqui] (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). O BEREC publicará todas as respostas que não estiverem assinaladas como sendo confidenciais. Além disso, a organização que está por trás desta campanha também poderá analisar os comentários enviados para o BEREC através desta página Web, desde que não estejam assinalados como sendo confidenciais. Um mês depois da consulta oficial ter terminado, eliminaremos todos os comentários.
 
-Recolhemos informação não personalizada neste website através do [Piwik](https://piwik.org/), um software de análise que respeita a privacidade do utilizador.
+Recolhemos informações não pessoais nesta página Web com o [Piwik] (https://piwik.org/), um software analítico da Web que protege a privacidade.
 
-Se [subscrever a nossa newsletter](#subscribe-to-newsletter){: data-scroll="true"} o teu endereço de email ficará registado numa mailing list e base de dados.
+Se [subscrever a newsletter] (#subscribe-to-newsletter){: data-scroll="true"} o seu endereço de mail ficará guardado numa lista de correio e numa base de dados.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
-Somos cidadãos preocupados de diferentes organizações de toda a Europa que se importam com as liberdades no espaço digital.
+Nós somos cidadãos preocupados de ONGs de toda a Europa que se preocupam com as liberdades civis no reino digital.
 {{ LOGOS SUPPORTED-BY }}
 {{ END HOME SUPPORTED-BY }}
 
 {{ BEGIN HOME MADE-BY }}
-Com o apoio cordial de
+Com o apoio amigo de
 {{ LOGOS MADE-BY }}
 {{ END HOME MADE-BY }}
