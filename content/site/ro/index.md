@@ -4,7 +4,6 @@
 - [TRIMITE UN MESAJ](#send-a-message){: data-scroll="true" }
 - [INFORMAȚII](#info){: data-scroll="true" }
 - [ÎNTREBĂRI FRECVENTE](faq)
-
 {{ END NAVIGATION }}
 
 # Salvează Internetul
@@ -63,9 +62,9 @@ Pare că primești ceva gratis, dar îți transformă operatorul de telefonie mo
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Spune autorității naționale de reglementare și BEREC să apere neutralitatea Internetului
+# Spune ANCOM și BEREC să apere neutralitatea Internetului
 
-Spune autorității tale naționale de reglementare în telecomunicații opinia ta privind noile reguli pentru neutralitatea Internetului folosind chestionarul de mai jos. Răspunzând la oricâte dintre întrebările din secțiunile de întrebări grilă și de întrebări cu răspuns deschis, va fi generat un email pentru tine. Email-ul tău va fi trimis de noi către autoritatea de reglementare în telecomunicații din UE (BEREC) atunci când va fi lansată consultarea oficială, în Iunie 2016.
+Spune ANCOM (Autoritatea Națională pentru Administrare și Reglementare în Comuncații) opinia ta privind noile reguli pentru neutralitatea Internetului folosind chestionarul de mai jos. Răspunzând la oricâte dintre întrebările din secțiunile de întrebări grilă și de întrebări cu răspuns deschis, va fi generat un email pentru tine. Email-ul tău va fi trimis de noi către autoritatea de reglementare în telecomunicații din UE (BEREC) atunci când va fi lansată consultarea oficială, în Iunie 2016.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -103,7 +102,7 @@ Comitetul autorităților de reglementare a comunicațiilor electronice din Euro
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-În Iunie 2016, BEREC plănuiește să publice o primă versiune a ghidului și să lanseze o consultare publică, Cu toate acestea, regulile de procedură ale BEREC spun că publicul poate răspunde doar în __intervalul 6 Iunie - 18 Iunie__ iar Regulamentul spune că BEREC trebuie să publice forma finală a ghidului pe 30 August 2016. Asta înseamnă ca cetățenii vor avea doar __câteva săptămâni__ la dispoziție pentru a răspunde iar BEREC va avea doar __un pic peste o lună__ pentru a procesa comentariile, ajusta ghidul și apoi trece prin procedura administrativă pentru acceptarea formală a oricăror modificări făcute la forma inițială.
+În Iunie 2016, BEREC plănuiește să publice o primă versiune a ghidului și să lanseze o consultare publică, Cu toate acestea, regulile de procedură ale BEREC spun că publicul poate răspunde doar în __intervalul 6 Iunie - 18 Iunie__, iar Regulamentul spune că BEREC trebuie să publice forma finală a ghidului pe 30 August 2016. Asta înseamnă că cetățenii vor avea doar __câteva săptămâni__ la dispoziție pentru a răspunde iar BEREC va avea doar __un pic peste o lună__ pentru a procesa comentariile, ajusta ghidul și apoi trece prin procedura administrativă pentru acceptarea formală a oricăror modificări făcute la forma inițială.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
@@ -113,9 +112,9 @@ Comitetul autorităților de reglementare a comunicațiilor electronice din Euro
 {{ BEGIN HOME BEREC-4 }}
 ### __Acesta este un moment crucial: Acesta este pasul unde au fost obținute succese importante în Statele Unite și în India. De aceea, trebuie să continuăm să luptăm pentru o reală neutralitate a Internetului convingând autoritățile de reglementare de valoarea unui Internet liber și deschis.__
 
-Autoritățile de reglementare trebuie sa se înarmeze cu instrumentele necesare pentru aplicarea neutralității Internetului. La Salvează Internetul, considerăm ca BEREC nu va avea suficient timp să proceseze și să ia în considerare în mod atent potențialele zeci de mii de răspunsuri (autoritatea de reglementare din Statele Unite a primit 3.7 milioane de răspunsuri la consultarea lor!). Putem îndrepta balanța facilitând contribuția cât mai eficientă la consultare pentru cât mai multe persoane.
+Autoritățile de reglementare trebuie să se înarmeze cu instrumentele necesare pentru aplicarea neutralității Internetului. Considerăm ca BEREC nu va avea suficient timp să proceseze și să ia în considerare în mod atent potențialele zeci de mii de răspunsuri (autoritatea de reglementare din Statele Unite a primit 3.7 milioane de răspunsuri la consultarea lor!). Putem îndrepta balanța facilitând contribuția cât mai eficientă la consultare pentru cât mai multe persoane.
 
-Recent, BEREC a organizat întâlniri față în față cu multiple grupuri ale părților interesate. Am tradus întrebările puse de BEREC părților interesate ([vezi aici](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) și [aici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/) la aceste întâlniri într-un limbaj ușor de înțeles și am adăugat câteva pe care le-am considerat ca fiind necesare.
+Recent, BEREC a organizat întâlniri față în față cu multiple grupuri ale părților interesate. Am tradus întrebările puse de BEREC părților interesate ([vezi aici](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) și [aici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) la aceste întâlniri într-un limbaj ușor de înțeles și am adăugat câteva pe care le-am considerat ca fiind necesare.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
@@ -129,13 +128,13 @@ __Contactează-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
 Ai o idee despre cum poate fi îmbunătățit acest site? Excelent, avem nevoie de tine! Codul sursă complet al acestui site este [GitHub](https://github.com/Netzfreiheit/STI-UI) și poate fi forkat, îmbunătățit, remixat și pushat înapoi către noi.
 
-Un lucru de care avem întotdeauna este ajutor cu traducerile, așa că dacă vorbești o limbă pe care nu o avem încă, te rugăm să ne contactezi.
+Un lucru de care avem întotdeauna nevoie este ajutor cu traducerile, așa că dacă vorbești o limbă pe care nu o avem încă, te rugăm să ne contactezi.
 
 ### Politică de Confidențialitate
 
-Stocăm comentariile tale pentru consultarea BEREC în căsuța de mesaje a unei adrese de e-mail găzduită în Austria până când forwardăm aceste emailuri cu comentarii la consultarea oficială BEREC. Poți găsi Politica de Confidențialitate a consultărilor BEREC [aici](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC va publica toate răspunsurile care nu sunt marcate ca fiind confidențiale. Organizațiile din spatele acestei campanii s-ar putea să analizeze comentariile trimise către BEREC prin intermediul acestui site, dacă acestea nu sunt marcate ca fiind confidențiale. La o lună după ce perioada oficială de consultare s-a terminat, vom șterge toate comentariile.
+Stocăm comentariile tale pentru consultarea BEREC în căsuța de mesaje a unei adrese de e-mail găzduită în Austria până când forwardăm aceste e-mailuri cu comentarii la consultarea oficială BEREC. Poți găsi Politica de Confidențialitate a consultărilor BEREC [aici](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC va publica toate răspunsurile care nu sunt marcate ca fiind confidențiale. Organizațiile din spatele acestei campanii s-ar putea să analizeze comentariile trimise către BEREC prin intermediul acestui site, dacă acestea nu sunt marcate ca fiind confidențiale. La o lună după ce perioada oficială de consultare s-a terminat, vom șterge toate comentariile.
 
-Colectăm informații ne-personalizată pe acest site cu [Piwik](https://piwik.org/), un pachet de web analytics prietenos cu datele tale personale.
+Colectăm informații nepersonalizată pe acest site cu [Piwik](https://piwik.org/), un pachet de web analytics prietenos cu datele tale personale.
 
 Dacă te [înscrii la newsletter](#subscribe-to-newsletter){: data-scroll="true"}, adresa ta de email va fi stocată într-o lista de mailuri și într-o bază de date.
 {{ END HOME CONTACT-US }}
