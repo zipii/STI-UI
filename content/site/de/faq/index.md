@@ -23,11 +23,11 @@
 - [Wie lauten die Regeln im EU-Recht für Spezialdienste?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
 - [Was ist notwendig, um die Regeln für Spezialdienste zu verschärfen, und warum ist dies wichtig?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## [Traffic Management](#traffic-management){: data-scroll="true"}
-- [Was ist Traffic Management?](#what-is-traffic-management){: data-scroll="true"}
-- [Warum sollte mich Traffic Management interessieren?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
+## [Verkehrsmanagement (Traffic Management)](#traffic-management){: data-scroll="true"}
+- [Was ist Verkehrsmanagement?](#what-is-traffic-management){: data-scroll="true"}
+- [Warum sollte mich Verkehrsmanagement interessieren?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
 - [Sollte es Internet Providern nicht erlaubt sein, ihre Netzwerke zu managen?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
-- [Was ist das Ziel von SaveTheInternet.eu bezüglich Traffic Management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
+- [Was ist das Ziel von SaveTheInternet.eu bezüglich Verkehrsmanagement?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
 - [Unter welchen Umständen darf ein Provider sein Netzwerk managen?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
 ## [Zero-Rating](#zero-rating){: data-scroll="true"}
@@ -125,7 +125,7 @@ Spezialdienste sind keine Dienste, die über das Internet angeboten werden könn
 
 Die [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) enthält fünf Regeln, um die Ausbreitung von Spezialdiensten zu begrenzen:
 
-1.        Spezialdienste dürfen nicht eingesetzt werden, um die Regeln zum Traffic Management zu umgehen. Internet-Provider dürfen nicht Spezialdiensten Priorität einräumen gegenüber vergleichbaren Inhalten, Anwendungen oder Dienstleistungen, die über Internet-Zugangsdienste erreichbar sind;
+1.        Spezialdienste dürfen nicht eingesetzt werden, um die Regeln zum Verkehrsmanagement zu umgehen. Internet-Provider dürfen nicht Spezialdiensten Priorität einräumen gegenüber vergleichbaren Inhalten, Anwendungen oder Dienstleistungen, die über Internet-Zugangsdienste erreichbar sind;
 
 2.        die Optimierung von Spezialdiensten muss für die Anforderungen der Inhalte, Dienste oder Anwendungen notwendig sein;
 
@@ -151,7 +151,7 @@ Die Optimierung durch einen Spezialdienst muss für die Funktionalität des Dien
 Mit Verkehrsmanagement können Internet-Provider den Datenverkehr auf ihren Netzwerken regeln. Ausgewählte Kommunikationsvorgänge können damit beschleunigt und andere verlangsamt werden. Nach der neuen Verordnung sind diese Maßnahmen angemessen, wenn sie transparent, nicht-diskriminierend und verhältnismäßig sind. Verkehrsmanagement muss eine vorübergehende Maßnahme sein, nicht ein dauerhafter Teil der Netzwerkkonfiguration. Außerdem gilt als allgemeine Regel, dass Verkehrsmanagement alle Anwendungen gleich behandeln soll, und dass es nur in sehr begrenzten Situationen den Datenverkehr in Kategorien unterteilen und diese unterschiedlich behandeln soll.
 
 
-## Warum sollte mich Traffic Management interessieren? {#why-should-i-care-about-traffic-management}
+## Warum sollte mich Verkehrsmanagement interessieren? {#why-should-i-care-about-traffic-management}
 
 Verkehrsmanagement beeinflusst dein alltägliches Internet-Erlebnis. Wenn dein Netflix-Video endlos nachlädt, dein Internet-Telefonat abbricht oder ein Online-Spiel nicht gespielt werden kann, kann Verkehrsmanagement durch deinen Internet-Provider die Ursache sein.
 
