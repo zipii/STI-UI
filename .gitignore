@@ -15,4 +15,5 @@
 .DS_Store
 
 build
+deploy.sh
 node_modules
