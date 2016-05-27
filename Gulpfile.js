@@ -5,6 +5,7 @@ const gulp         = require('gulp'),
       rename       = require('gulp-rename'),
       sass         = require('gulp-sass'),
       uglify       = require('gulp-uglify');
+      Promise      = require('es6-promise').Promise;
 
 const PATH = {
   siteCSS: {
