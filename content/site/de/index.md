@@ -10,9 +10,7 @@
 # Save the Internet
 
 {: .title-subtext}
-Europäische Regulierungsbehörden werden demnächst entscheiden, ob man großen Telekomfirmen das Recht geben soll
-Einfluss darauf zu nehmen was wir online tun (und nicht tun) können. Europa braucht dringend klare Netzneutralitätsregeln
-um unsere Freiheit und Rechte online zu bewahren. Wir haben Zeit bis __Juli__ um Europa zu helfen das freie Internet zu schützen.
+Europäische Regulierungsbehörden werden in Kürze entscheiden, ob große Telekommunikationsfirmen beeinflussen dürfen, was wir online tun (und nicht tun) können. Europa braucht dringend klare Regeln für Netzneutralität, um unsere Freiheiten und Rechte online zu schützen. Wir haben Zeit bis __Juli__, um Europa bei der Bewahrung des freien Internets zu helfen.
 <br><br>
 Schließe dich uns an, hilf jetzt mit!
 
