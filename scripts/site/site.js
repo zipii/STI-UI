@@ -16,8 +16,8 @@ var isMobile = {
     return (isMobile.android() || isMobile.blackberry() || isMobile.ios() || isMobile.windows());
   }
 };
-var isWeird = (userAgent.indexOf('MSIE') !== -1 ||
-               userAgent.indexOf('Firefox') && userAgent.match(/Android/i));
+var isIE = /MSIE/i.test(userAgent);
+var isFF = /Firefox/i.test(userAgent);
 
 // counter related globals
 
@@ -119,15 +119,15 @@ $(document).ready(function() {
 
   // questionnaire iframe specifics
 
-  var iframes = iFrameResize({
-    heightCalculationMethod:  isWeird ? 'lowestElement' : 'max',
+  $('#home__questionnaire__content__iframe').iFrameResize({
+    heightCalculationMethod: ((isIE) || (isFF && isMobile.android())) ? 'max' : 'lowestElement',
     messageCallback: function(context) {
       if (context.message === 'loaded' ||
-          context.message === 'loading') {
-            $('#questionnaire-loading-spinner').toggle();
+        context.message === 'loading') {
+          $('#questionnaire-loading-spinner').toggle();
       }
     }
-  }, document.getElementById('home__questionnaire__content__iframe'));
+  });
 
   // berec counter
   // registerAndSetupCounter();
