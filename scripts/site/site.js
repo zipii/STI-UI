@@ -120,6 +120,7 @@ $(document).ready(function() {
   // questionnaire iframe specifics
 
   $('#home__questionnaire__content__iframe').iFrameResize({
+    log: true,
     heightCalculationMethod: ((isIE) || (isFF && isMobile.android())) ? 'max' : 'lowestElement',
     messageCallback: function(context) {
       if (context.message === 'loaded' ||
