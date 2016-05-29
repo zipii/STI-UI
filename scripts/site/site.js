@@ -16,8 +16,6 @@ var isMobile = {
     return (isMobile.android() || isMobile.blackberry() || isMobile.ios() || isMobile.windows());
   }
 };
-var isIE = /MSIE/i.test(userAgent);
-var isFF = /Firefox/i.test(userAgent);
 
 // counter related globals
 
@@ -121,7 +119,7 @@ $(document).ready(function() {
 
   $('#home__questionnaire__content__iframe').iFrameResize({
     log: true,
-    heightCalculationMethod: ((isIE) || (isFF && isMobile.android())) ? 'max' : 'lowestElement',
+    heightCalculationMethod: 'max',
     messageCallback: function(context) {
       if (context.message === 'loaded' ||
         context.message === 'loading') {
