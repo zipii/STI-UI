@@ -1,273 +1,271 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](../#send-a-message)
-- [INFORMATION](../#info)
-- [FAQ](#)
+- [Pošlji sporočilo](../#send-a-message)
+- [Informacije](../#info)
+- [Pogosta vprašanja](#)
 {{ END NAVIGATION }}
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# FREQUENTLY ASKED QUESTIONS
+#  Pogosto Zastavljena Vprašanja
 
-## Net Neutrality
+## Internetna Nevtralnost
 
-- [What is net neutrality?](#what-is-net-neutrality){: data-scroll="true"}
-- [How does net neutrality influence me and my life?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
-- [How did we end up here? What happened in the EU?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
-- [Who is involved in the debate in Europe?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
-- [Who is behind SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
+- [Kaj pomeni internetna nevtralnost?](#what-is-net-neutrality){: data-scroll="true"}
+- [Kako internetna nevtralnost vpliva name in na moje življenje?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
+- [Kako smo prišli do sem? Kaj se je zgodilo v EU?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
+- [Kdo je vključen v razpravo v Evropi?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
+- [Kdo stoji za SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-## Specialised Services
-- [What are specialised services?](#what-are-specialised-services){: data-scroll="true"}
-- [What are examples of services that are not specialised services?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
-- [What safeguards are in EU law to deal with specialised services?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
-- [What is required to strengthen the safeguards on specialised services and why is this important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
+## Specializirane Storitve
+- [Kaj so specializirane storitve?](#what-are-specialised-services){: data-scroll="true"}
+- [Kakšni so primeri storitev, ki niso specializirane storitve?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
+- [Kakšni zaščitni ukrepi so navzoči v zakonodaji EU za reševanje specializiranih storitev?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
+- [Kaj je potrebno za okrepitev varnostnih ukrepov povezanih s  specializiranimi storitvami, ter zakaj je to pomembno?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Traffic Management
-- [What is traffic management?](#what-is-traffic-management){: data-scroll="true"}
-- [Why should I care about traffic management?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
-- [Shouldn't internet providers be allowed to manage their networks?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
-- [What is the goal of SaveTheInternet.eu when it comes to traffic management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
-- [When can a provider start managing its network?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
+## Upravljanje Prometa
+- [Kaj je upravljanje prometa?](#what-is-traffic-management){: data-scroll="true"}
+- [Zakaj bi moral skrbeti za upravljanje prometa?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
+- [Ali nimajo ponudniki interneta pravice do upravljanja svojega omrežja?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
+- [Kaj je cilj SaveTheInternet.eu, ko gre za upravljanje prometa?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
+- [Kdaj lahko ponudnik začne upravljati svoje omrežje?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
 ## Zero Rating
-- [What is zero rating?](#what-is-zero-rating){: data-scroll="true"}
-- [Why is zero rating a problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
-- [Am I really getting something for free when I use a zero rating programme?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
-- [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
-- [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
+- [Kaj je zero rating?](#what-is-zero-rating){: data-scroll="true"}
+- [Zakaj pomeni zero rating problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
+- [Sem res dobili nekaj zastonj, ko uporabljam zero rating program?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
+- [HKako lahko zero rating vpliva na ponudnike spletnih storitev in raznolikost internetnega okolja?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
+- [Kaj je cilj kampanje SaveTheInternet.eu, ko gre za zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## TRANSPARENCY
-- [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
-- [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
+## Transparentnost
+- [Kakšne koristi lahko pričakujemo, z novimi pravili o nevtralnosti?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
+- [Kakšna preglednost se lahko pričakuje z novimi pravili?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Other
-- [How is net neutrality dealt with in other parts of the world?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
-- [How can I help you?](#how-can-i-help-you){: data-scroll="true"}
+## Drugo
+- [Kako je nevtralnost obravnavana v drugih delih sveta?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
+- [Kako vam lahko pomagam?](#how-can-i-help-you){: data-scroll="true"}
 
+# Internetna Nevtralnost
 
+## Kaj pomeni internetna nevtralnost? {#what-is-net-neutrality}
 
-# Net Neutrality
+Internetna nevtralnost je načelo, usklajeno z katerim operatorji internetnega omrežja izvedbo podatkov upravljajo brez diskriminacije na podlagi porekla, cilja in vrste podatkov. To pomeni, da nevtralnost prepoveduje operaterjem telekomunikacij blokiranje ali upočasnitev vsebine, aplikacije ali storitve.
 
-## What is net neutrality? {#what-is-net-neutrality}
-
-Net neutrality is the principle under which Internet access providers carry data without discrimination on the basis of origin, destination or type of data. This means that net neutrality prohibits telecoms operators from blocking or degrading content, applications or services.
-
-Net neutrality guarantees your freedom online to access and distribute the information you want.This founding principle ensures the openness, innovation, competition and diversity of the Internet.
+Nevtralnost zagotavlja našo svobodo na spletu za dostop in distribucijo želene informacije. To temeljno načelo zagotavlja odprtost, inovativnost, konkurenčnost in raznolikost interneta.
 
 
-## How does net neutrality influence me and my life? {#how-does-net-neutrality-influence-me-and-my-life}
+## Kako internetna nevtralnost vpliva name in na moje življenje? {#how-does-net-neutrality-influence-me-and-my-life}
 
-Without net neutrality...
+Brez internetne nevtralnosti...
 
-1.        You would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
+1        Plačali bi več za manj interneta in ponudnik internetnih storitev bi postal vratar med vami in spletnimi storitvami in aplikacijami, ki so vam všeč.
 
-2.        New cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
+2        Odlične nove spletne strani in izumi ne bi bili tako hitre in dostopne kot so velike, spletne strani, ustanovljene v ZDA. Najverjetneje ne bi niti preživele dovolj dolgo, da postanejo popularne.
 
-3.        The economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
+3.        Ekonomija in začetna podjetja bi trpela Z nevtralnostjo interneta, lahko vsakdo iznajde nove storitve, ne da bi prosil za dovoljenje in ima lahko korist od globalne, nevtralne infrastrukture, od prvega dne. Če izgubimo to svobodo, bomo izgubili gospodarski  uspeh digitalnega gospodarstva in naše svobode izbire kot potrošniki in komuniciranja kot državljani.
 
-4.        The Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
+4.        Internet bo upočasnjen Študije so pokazale, da če bi ponudniki internetnih storitev dovoljeno prodajali konkurenčno prednost nekaj spletnim stranem, bi imeli spodbudo, da bi bil preostanek interneta za vse ostale počasnejši. Tudi ko izgleda da dobite nekaj izredno poceni imate v resnici zelo majhne opcije in manjši limit nalaganja pri uporabi pravega interneta.
 
-[How data caps harm consumers and innovation](https://www.newamerica.org/oti/artificial-scarcity/)
+[Kako pokrivanje podatkov škoduje potrošnikom in inovacijam](https://www.newamerica.org/oti/artificial-scarcity/)
 
-[How zero-rating hurt Dutch consumers](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+[Kako zero-rating škoduje nizozemskim potrošnikom](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)
 
-[Zero-rating in Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
-
-
-## How did we end up here? What happened in the EU? {#how-did-we-end-up-here-what-happened-in-the-eu}
-
-Many of the NGOs behind this campaign have fought for net neutrality as early as 2008. As the debate unfolded, we saw more and more violations of the principle of net neutrality in the Internet. When the US telecoms regulator FCC released its first Internet order to protect the fixed-line Internet against some forms of network discrimination, this was a big success for net neutrality. Subsequently, [ other countries adopted legislation and regulatory decisions to safeguard net neutrality](https://www.thisisnetneutrality.org/#map). This is the case of, for example, Chile, the Netherlands, Slovenia, India and Canada. 
-
-In the European Union the debate progressed very slowly. We had to wait until 11 September 2013 to have a proposal for having a European law on net neutrality. This proposal was made by the European Commission.
-
-The 2013 proposal contained several problematic loopholes that would have allowed Internet providers to circumvent net neutrality. For instance, through a provision on "specialised services", ISPs  would have been allowed to offer discriminatory prioritised access. The proposal would also have allowed for discriminatory blocking of websites, applications, and content — a threat to the rule of law and freedom of expression.
-
-Fortunately, the European Parliament worked hard to close these loopholes and voted in favour of clear and binding rules for net neutrality on 3 April 3rd of 2014. Although things looked grim at first, your efforts with SaveTheInternet helped the Parliament adopt a text with strong net neutrality safeguards. This vote was applauded by millions of people around the world.
-
-After this victory, the EU Member States gathered in the Council and progressed slowly, taking over a year to come up with a joint position. They agreed on a new text that re-introduced loopholes and created new ones. If adopted, the Council's text would have created paid fast-lanes; allowed price discrimination in the EU, and authorised illegal and arbitrary blocking of lawful content.
-
-In order to advance the talks and undermine the Parliament's position, the three institutions began "informal" negotiations within the so called ["trilogue" process](https://edri.org/files/NN_process_infographics.pdf). In a late night session around 2am, a political agreement was reached between the three institutions. This text contains strong principles to deliver net neutrality in Europe. However, certain provisions of the Regulation are not clear and could be abused (which was better than the Commission's initial proposal but worse than the Parliament's initial position). This may lead to loopholes that would allow discrimination on the Internet. Amendments in the 2nd reading vote in the European Parliament tried to bring clarity. However, the Regulation also deals with the elimination of the roaming charges, which, together with the fact that an absolute majority of all Parliamentarians was needed to change the agreed text, none of the amendments were adopted. In other words, the European Parliament decided that the regulators should be the ones deciding on the uncertainties of the text. 
+[Zero-rating v Sloveniji](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
 
-## Who is involved in the debate in Europe? {#who-is-involved-in-the-debate-in-europe}
+## Kako smo prišli do sem? Kaj se je zgodilo v EU? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
-Right now, the regulators are being heavily lobbied by the telecom industries that want to keep and expand their discriminatory business models; and equipment manufacturers, which want to sell more network equipment that carry out the surveillance of data traffic that makes this possible.
+Veliko nevladnih organizacij, ki stojijo za to akcijo so se borile za nevtralnosti že v letu 2008 Kot se je razprava razpletla, smo videli vse več kršitev načela nevtralnosti na internetu. Ko je ameriški telekomunikacijski regulator FCC izdal svojo prvo internetno naročilo za zaščito interneta fiksne linije proti nekaterim oblikam omrežja diskriminacije, je bil to velik uspeh za nevtralnost interneta.  Zatem[ so mnoge države sprejele zakonodajo in regulacije za zaščito nevtralnosti interneta](https://www.thisisnetneutrality.org/#map). To se je zgodilo, na primer v državah kot so, Čile, Nizozemska, Slovenija, Indija in Kanada
 
-On the pro-net neutrality side, you have mostly civil society and consumer organisations as well as start-ups, public broadcasters, libraries and universities. 
+V Evropski uniji je razprava napredovala zelo počasi. Morali smo počakati do 11. septembra 2013, da je prišlo do predloga, evropskega zakona o nevtralnosti. Ta predlog je bil pripravljen s strani Evropske komisije.
 
-But the deciding factor in most net neutrality debates is the general public, **you, in other words**. If enough people engage in the debate, we can outnumber anti-net neutrality lobby, we can make the good arguments heard and win.
+Predlog 2013 je vseboval številne problematične vrzeli, ki bi omogočili ponudnikom interneta, da se izognejo nevtralnosti. Na primer, bi na podlagi določbe o "specializiranih storitvah", ponudnikom internetnih storitev bilo dovoljeno, da ponudijo diskriminatoren prednostni dostop. Predlog bi tudi omogočil diskriminatorno blokiranje spletnih strani, aplikacij in vsebin - grožnjo vladavini prava in svobode izražanja.
+
+Na srečo, si je Evropski parlament močno prizadeval za odpravo teh vrzeli in glasoval za jasna in zavezujoča pravila za nevtralnosti interneta 3. aprila 2014. Čeprav so stvari videti mrke na prvi pogled, je vaš trud z SaveTheInternet pomagal parlamentu sprejeti besedilo z močnimi zaščitnimi ukrepi o nevtralnosti.   To glasovanje je pozdravilo na milijone ljudi po vsem svetu
+
+Po tej zmagi, so se države članice EU zbrale v svetu in počasi napredovale, pri čemer je trajalo več kot eno leto, da je prišlo do skupnega stališča. Dogovorili so se o novem besedilu, ki ponovno uvajajo vrzeli in ustvarjajo nove. Če bo sprejeto besedilo Sveta, to besedilo ustvarja plačane hitre pasove; dovoljeno diskriminacijo cen v EU, in dovoljuje blokiranje nezakonitih in samovoljno blokiranje nezakonitih vsebin.
+
+ Da bi pospešili pogovore in negativno vplivali na stališče Parlamenta, so vse tri institucije začele "neformalna" pogajanja v okviru tako imenovanega  \ [ "tristranskega" procesa ] (https://edri.org/files/NN_process_infographics.pdf).  V poznem nočnem zasedanju okoli 2. ure zjutraj, je bil dosežen politični dogovor med tremi institucijami. To besedilo vsebuje močne načela za zagotavljanje nevtralnosti v Evropi. Vendar pa nekatere določbe Uredbe niso jasne in bi jih lahko zlorabili (kar je bilo boljše od prvotnega predloga Komisije, vendar slabše od začetnega položaja Parlamenta).  To lahko privede do vrzeli, ki bi omogočile diskriminacijo na internetu. Spremembe v glasovanju 2. branja v Evropskem parlamentu je poskušalo stvari razjasniti. Vendar pa se Uredba ukvarja tudi z odpravo cen roaminga, ki je, skupaj z dejstvom, da je bila potrebna absolutna večina vseh poslancev da se spremeni dogovorjeno besedilo, ni bila sprejeta nobena od sprememb.  Z drugimi besedami, je Evropski parlament odločil, da morajo biti regulatorji tisti, ki odločajo o negotovostih besedila.   
 
 
-## Who is behind SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
+##  Kdo je vključen v razpravo v Evropi?  {#who-is-involved-in-the-debate-in-europe}
 
-SaveTheInternet is the joint campaign of 12 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
+Trenutno so regulatorji močno lobirali, pri telekomunikacijski industriji, ki želijo obdržati in razširiti svoje diskriminatorne poslovne modele; in proizvajalci opreme, ki želijo prodati več omrežne opreme, ki izvajajo nadzor podatkovnega prometa, ki to omogoča.
 
-If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+Na pro-net strani nevtralnosti, imate večinoma civilne organizacije družbe in potrošnikov, pa tudi začetna podjetja, javne radiodifuzije, knjižnice in univerze.
+
+Toda odločilen dejavnik pri večini nevtralnosti razprave je širša javnost, ** vi, z drugimi besedami **. Če dovolj ljudi, sodeluje v razpravi, lahko prekašamo lobi proti nevtralnosti, lahko ustanovimo, da se dobri argumenti slišijo in zmagajo.
+
+
+##  Kdo stoji za SaveTheInternet.eu?{2~~pobj] {#who-is-behind-savetheinterneteu}
+
+SaveTheInternet je skupna akcija 12 evropskih nevladnih organizacij, ki delujejo za zaščito državljanskih svoboščin na internetu. Ta kampanja je bila zgrajena za povezovanje ljudi z oblikovalci politike pri pripravi uredbe EU o internetni nevtralnosti. Ta akcija se je začela na konferenci 30c3 decembra 2012 in je bila posodobljena za sledenje zakonodajnega in regulativnega postopka.
+
+ Če ste del organizacije in želite postati podpornik ali pomagati širiti besedo, nam pišite na  [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
 # SPECIALISED SERVICES {#what-are-specialised-services}
 
 
-## What are specialised services?
+##  Kaj so specializirane storitve?
 
-A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
+ Specialna storitev je vsaka storitev, ki preko povezave dostopa do interneta, doda dodatno kakovost ponudnika dostopa do interneta Pod  \ [Uredbo {1 ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) }, mora biti vsaka takšna optimizacija objektivno potrebna za to, da postane elektronska storitev dostopna in ne zgolj dodelitev prednosti za storitve. Ponudnik dostopa mora tudi zagotoviti, da obstaja dovolj zmogljivosti na omrežju, tako da kakovost dostopa do interneta ni ogrožena. To potreba bi morala biti preverjena s strani nacionalnega telekomunikacijskega regulativnega organa. Skratka, "specializirana služba" ne more biti diskriminatorna "hitra linija".
 
-Real specialised services have nothing to do with the Internet. They are services that may use the same technology and sometimes even the same physical architecture, but they are not part of the global Internet because they require a level of quality which could not be offered by the Internet. 
-
-
-## What are examples of services that are not specialised services? {#what-are-examples-of-services-that-are-not-specialised-services}
-
-Specialised services are not services which could be provided on the Internet. The problem to be avoided is allowing existing online services to be reclassified as specialised services. Under such a scenario, a company with enough money could buy priority for their services, which would give them an unfair advantage ahead everyone else &#8211; reducing competition, innovation and choice.. 
+ Prave specializirane storitve, nimajo nič opraviti z internetom. To so storitve, ki lahko uporabljajo isto tehnologijo in včasih celo ista fizično arhitekturo, vendar niso del globalnega spleta, saj zahtevajo določeno raven kakovosti, ki jih internet ne ponuja.  
 
 
-## What safeguards are in EU law to deal with specialised services? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
+##  Kakšni so primeri storitev, ki niso specializirane storitve?  {#what-are-examples-of-services-that-are-not-specialised-services}
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) establishes five safeguards for the provision of specialised services:
-
-1.        Specialised services cannot be used to circumvent provisions regarding traffic management measures. ISPs cannot give priority to specialised services over comparable content, applications or services available via Internet Access Services; 
-
-2.        Specialised services have to be optimised to assure specific quality of service requirements of the content, application or service, which are necessary for key functionalities of the content, application or service in question; 
-
-3.        Specialised services shall not be usable or offered as a replacement for Internet Access Services; 
-
-4.        Specialised services can only be offered if sufficient network capacity is available to offer them in addition to any Internet Access Service provided; 
-
-5.        Specialised services cannot be provided in detriment of the availability or general quality of Internet Access Services. 
+ Specializirane storitve niso storitve, ki bi jih lahko zagotavljal internet. Da bi se problemu izognili se dovoljuje, da se obstoječe spletne storitve, ponovno razvrstijo kot specializirane storitve.  V skladu s tem scenarijem, bi si lahko podjetje z dovolj denarja kupilo prednost za svoje storitve, kar bi jim podarilo nepošteno prednost pred vsemi drugimi - zmanjšanje konkurence, inovacije in možnosti izbire ..  
 
 
-## What is required to strengthen the safeguards on specialised services and why is this important? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
+##  Kakšni zaščitni ukrepi so navzoči v zakonodaji EU za reševanje specializiranih storitev?  {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
-New specialised services have to be tested against all five safeguards by the regulator before they can be introduced into the market. If they are only tested after somebody complains, it can sometimes take years before discriminatory products that are later found to be illegal are removed. It is a common strategy of anti-competitive telcoms operators to use the slowness and expense of courts and regulators to kill off innovative competitors. 
+[Regulacija \ ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  Uredba določa pet zaščitnih ukrepov za zagotavljanje specializiranih storitev:
 
-The optimisation of a specialised service has to be objectively necessary for the functionality of the service and not just a convenient advantage over competitors. If a comparable service exists in the open Internet, then a specialised service should not be granted.
+1.        Specializirane storitve se ne morejo uporabljati za izogibanje določbe v zvezi z ukrepi za upravljanje prometa. Ponudniki internetnih storitev ne more dati prednost specializiranih storitev več kot primerljive vsebine, aplikacije ali storitve, ki so na voljo preko dostopa internetnih storitev;
+
+2.        Specializirane storitve morajo biti optimizirane za zagotovitev posebnih zahtev glede kakovosti storitev usklajeno z vsebino, aplikacije ali storitve, ki so potrebne za ključne funkcionalnosti vsebine, aplikacije ali službe;
+
+3.         Specializirane storitve ne smejo biti uporabljane ali ponujane kot nadomestek za dostop  internetnetnih storitev;
+
+4.        Specializirane storitve se lahko ponude le, če je na voljo zadostna zmogljivost omrežja, in so ponuejene poleg vseh internetnih storitev za dostop;
+
+5.         Specializirane storitve ni mogoče zagotoviti v škodo razpoložljivosti ali splošne kakovosti dostopa do internetnih storitev.  
+
+
+##  Kaj je potrebno za okrepitev varnostnih ukrepov povezanih s  specializiranimi storitvami, ter zakaj je to pomembno?  {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
+
+Nove specializirane storitve je treba testirati na področju vseh petih zaščitnih ukrepov s strani regulatorja, preden se lahko uvedejo na trg. Če so testirani šele po tem, ko se nekdo pritožuje, lahko včasih traja leta in leta, preden so diskriminatorni izdelki, za katere se ugotovi, da so nezakoniti odstranjeni. To je skupna strategija protikonkurenčnih telekomunikacijskih operaterjev, ki uporabijo počasnost in stroške sodišča in regulatorje, da bi odstranili inovativne konkurente.
+
+Optimizacija specializiranih storitev mora biti objektivno potrebna za delovanje storitve in ne le priročno prednost pred konkurenti. Če primerljive storitve obstajajo na odprtem internetu, potem se specializirana služba ne sme odobriti.
 
 
 # Traffic Management {#what-is-traffic-management}
 
 
-## What is traffic management?
+##  Kaj je upravljanje prometa?
 
-Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
-
-
-## Why should I care about traffic management? {#why-should-i-care-about-traffic-management}
-
-Traffic management affects your everyday Internet experience. When your Netflix video is endlessly buffering, your Internet-Telephony call is breaking off or an online game is unplayable, traffic management by your Internet provider can be the cause. 
-
-If the EU rules are abused, the online services you want to use could be slowed down to the level that they become unusable while other competing services promoted by your own Internet provider could still work properly. 
-
-Traffic management should never interfere with your freedom as an end-user or online service provider. The role of an Internet provider is to manage the network for all services to the best of his its abilities, but not to make decisions about the importance, integrity and legality of the Internet content, services or applications you want to access. 
+Upravljanje prometa omogoča, aplikacije za upravljanje podatkovnega prometa po njihovih omrežjih. Za to, lahko ponudniki internetnih storitev dajo prednost določenim komunikacijam in upočasnijo nekatere druge. V skladu z uredbo je ta praksa dovoljena, če je to smiselno, pregledno, nediskriminatorno in sorazmerno. Upravljanje prometa mora biti začasno in zato ni del standardnega konfiguracijskega omrežja.  Prav tako, praviloma upravljanje prometa obravnava vse vloge enako in lahko razlikuje med različnimi vrstami prometa le v zelo omejenih okoliščinah.
 
 
-## Shouldn't internet providers be allowed to manage their networks? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
+##  Zakaj bi moral skrbeti za upravljanje prometa?  {#why-should-i-care-about-traffic-management}
 
-Of course internet providers should be allowed to manage their networks. However, this needs to be done in a way that makes no distinction on the basis of the content, application and services being used by you or other internet users. [This is feasible](https://tools.ietf.org/html/rfc6057) and supported by [detailed analysis](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
+Upravljanje prometa vpliva na vaše vsakdanje internetne izkušnje. Ko se vaš Netflix video neskončno polni, se vaš Internet-telefonski klic nenehno prekinja ali ni možno predvajanje online iger, je vzrok tega upravljanje prometa, pri ponudniku interneta.
 
-The alternative is for the Internet provider to classify data packages based on criteria that it establishes, leading to some applications being slowed down and others speeded up. This can be on the basis of technical requiements of the service (time sensitivity, jitter sensitivity) or the functionality the service offers to the user (telephony, video-streaming, music-streaming, gaming, etc.). This second approach is called class-based traffic management. As encrypted data traffic cannot be classified, one of the risks of this approach is that such data is automatically put in a "slow lane" (unless it come from a big provider, where the type of data can be guessed). Disincentivising encryption is clearly bad for privacy, while slowing down encrypted data from small providers is anti-competitive.
+Če so pravila EU zlorabljena, bi lahko bile spletne storitve, ki jih želite uporabljati upočasnjene do ravni, da postanejo neuporabne, medtem ko bi ostale konkurenčne storitve z lastnim ponudnikom internetnih storitev, ki se oglašujejo še vedno delovale pravilno.
 
-We can therefore say that class-based traffic management measures are: 
-
--        Less transparent than application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified;
-
--        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
-
--        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice;
+ Upravljanje prometa ne bi smelo nikoli posegati v vašo svobodo kot končen uporabnik ali spletnega ponudnika storitev. Vloga internetnega ponudnika je upravljanje omrežja za vse storitve po svojih najboljših močeh, ne pa tudi za sprejemanje odločitev o pomembnosti, celovitosti in zakonitosti internetnih vsebin, storitev ali aplikacij, ki jih želite dostopati.  
 
 
-## What is the goal of SaveTheInternet.eu when it comes to traffic management? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
+ ##  Ali nimajo ponudniki interneta pravice do upravljanja svojega omrežja?  {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
+ Seveda bi morali imeti internetni ponudniki pravico do  upravljanja svojega omrežja. Vendar pa je to treba storiti na način, ki ne razlikuje na podlagi vsebine, aplikacije in storitve, ki jih vi ali drugi uporabniki interneta uporabljajo. \ [To je izvedljivo]  (https://tools.ietf.org/html/rfc6057(http://apps.fcc.gov/ecfs/document/view?id=60001032169).) in podprto \ [podrobnejša analiza]
 
-Traffic management is necessary to resolve congestion and ensure the integrity and security of the network. But, like surveillance, traffic management should only use the least intrusive measures available, only for a specific purpose and a for limited time when it is genuinely necessary to achieve a legitimate goal.
+Druga možnost je, da ponudnik interneta za razvrstitev podatkovnih paketov na podlagi meril, ki jih vzpostavlja, v primeru nekaterih aplikacij, te upočasni in druge pospeši. To se lahko na podlagi tehničnih pogojev službe (občutljivost časa, trepetanje občutljivosti) ali funkcionalnosti storitev ponuja uporabniku (telefonija, video streaming, glasba-streaming, igranje iger, itd). Ta drugi pristop se imenuje, razredno upravljanje prometa. Kot šifriran promet, podatkov ni mogoče opredeliti, eno od tveganj tega pristopa je, da se ti podatki samodejno znajdejo v "počasnem pasu" (razen, če so prišli od enega velikega ponudnika, pri čemer se lahko ugani vrsta podatkov). Disincentivizijsko šifriranje je seveda slabo za zasebnost, hkrati pa je upočasnjevanje šifriranih podatkov malih ponudnikov  protikonkurenčno.
+
+Zato lahko rečemo, da so ukrepi za upravljanje prometa, ki temeljijo na razvrščevanju v razred:
+
+- Manj pregledni od aplikacij agnostičnih ukrepov, saj končni uporabnik ne ve, kako bodo vsebine in storitve, ki jih uporablja, razvrščene;
+
+- Več diskriminatorna kot uporaba agnostičnih ukrepov, saj obstaja nevarnost, da se vloge uvrstijo v neprimeren razred, ki diskriminirajo šifriran promet in omogočajo protikonkurenčno ravnanje;
+
+- Manj sorazmerno kot uporaba agnostičnih ukrepov, saj je manj vsiljiva in boljša za izbiro uporabnika;
 
 
-## When can a provider start managing its network? {#when-can-a-provider-start-managing-its-network}
+##  Kaj je cilj SaveTheInternet.eu, ko gre za upravljanje prometa?  {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
-According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), Internet providers can either start to manage their network in an actual case of congestion or in cases where they are seeking to mitigate congestion that is about to materialise. This second option should be clarified by the regulators to avoid a slippery slope situation where the network is "managed" all the time, even when there is no actual need for it.
+ Regulacija \ [uredba]  (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)   daje   jasno hierarhijo za upravljanje prometa, ki mora biti zapisana v jasnih in zavezujočih pravilih \ [glej člen 3 (3), pododstavek 1 do 3]  (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).   Ponudnik interneta vedno mora poskušati rešiti problem v svojem omrežju najprej z ukrepi aplikacij in agnostik, torej ukrepi, ki niso odvisni od specifičnih lastnosti vsebine, aplikacij, storitev ali naprave. Če se ukrepi za dostop do aplikacij agnostik izčrpani in težave ni mogoče rešiti na ta način, je ponudnikom internetnih storitev dovoljeno, da se zatekajo k ukrepom, ki temeljijo na razvrstitvi razreda.
 
-We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
+Upravljanje prometa je potrebno za reševanje prometnih zastojev in zagotovitev integritet in varnosti omrežja. Toda, kot nadzor, naj bi vodenje prometa bilo uporabljano le za manj vsiljive ukrpe in le za določen namen in za določen čas, ko je to dejansko potrebno za doseganje legitimnega cilja.
+
+
+##  Kdaj lahko ponudnik začne upravljati svoje omrežje?  {#when-can-a-provider-start-managing-its-network}
+
+Usklajeno z \ [Uredba ] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) , lahko ponudniki internetnih storitev bodisi začnejo upravljati svoje omrežje v konkretnem primeru zastojev ali v primerih, ko skušajo omiliti zastoje, ki je na tem, da se realizira. To drugo možnost je treba pojasniti s strani regulatorjev da bi se izognili spolzkem položaju, ko je omrežje "upravljano" ves čas, tudi ko ni dejanske potrebe za to.
+
+ Trdimo, da bi morala biti ta druga možnost dovoljena le v primerih, ko so navzoči tudi drugi kazalniki poleg zneska prometa skozi dano omrežje (kot znesek naročnikov povezanih z eno celico omrežja).  Obstajati mora vedno konkretna in dejanska potreba za upravljanje prometa.  
 
 
 # ZERO RATING {#what-is-zero-rating}
 
 
-## What is zero rating?
+##  Kaj je zero rating?
 
-Zero rating is a commercial practice, for which data downloaded from certain applications or services is not counted towards a subscriber's monthly download limit. Zero rating treats different traffic in different ways, in order for some to be offered at one price and some to be offered at a different price. Although technically different from classic net neutrality violations, it is identical, practically speaking, as it allows the Internet access provider to influence what applications and services are used and which are not.
-
-
-## Why is zero rating a problem? {#why-is-zero-rating-a-problem}
-
-With this practice, your Internet provider can exercise control over the services that you use or will use. Every competitor to a zero-rated application or service (mainly start-ups and SMEs) is at a great disadvantage because you have to pay extra to be able to use the application or service unhindered.
-
-Zero rating is a major reason for low data caps (data caps are data upload or download limits). Internet providers want you to use their own online services or their partner services. If providers are allowed to exempt these selected services from your data cap, they have a reason to keep this cap intact and relatively low so their competitive advantage stays strong. Without zero rating, these companies could be offering you more data volume that you can use and you would be able to freely decide how to use it.  There are well documented cases [in the Netherlands](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) and in [Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) where, thanks to strong net neutrality laws prohibiting zero rating, mobile operators doubled the data caps of their users.
+Zero Rating je poslovna praksa, za katero se podatki prenešeni iz določene aplikacije ali storitve, ne vštevajo v mesečne omejitve prenosa naročnikov. Zero rating obravnava različen promet na različne načine, da bi nekatere bile ponujene po isti ceni, medtem ko bodo druge na voljo po drugačni ceni. Čeprav se tehnično razlikuje od klasičnih kršitev internetne nevtralnosti, je kršitev identična, praktično gledano, saj omogoča ponudniku dostopa do interneta, vpliv na to katere aplikacije in storitve se uporabljajo in katere ne.
 
 
-## Am I really getting something for free when I use a zero rating programme? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
+## Zakaj pomeni zero rating problem? {#why-is-zero-rating-a-problem}
 
-At first sight, it looks as if you’d get something for free. Contrary to appearances, your freedom of choice in the Internet is restricted and your Internet provider establishes itself as a gatekeeper. In the case of Facebook's Free Basics programme, for example, why should Facebook decide which services and apps you can use? What is the economic incentive for Facebook to offer this? Is this really for free? The answer is no. Nothing is for free. Zero rating has implications for your security, privacy and for a competitive market.
+S to prakso, lahko ponudnik internetnih storitev izvaja nadzor nad storitvami, ki jih uporabljajo ali bodo uporabljali. Vsak tekmovalec zero-rating prijave uporabe ali storitev (predvsem novoustanovljena podjetja in MSP) je na veliko slabšem položaju, ker mora dodatno plačati, da bi lahko uporabljal aplikacijo ali storitev neovirano.
 
-
-## How can zero rating affect providers of online services and the diversity of the Internet ecosystem? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
-
-Zero rating agreements in Europe are almost always with big Internet companies like Facebook and Spotify. These deals are often mutually exclusive, which means that the content provider is binding itself to one operator in a country and vice-versa. 
-
-Zero rating is bad for user choice because it is devastating for the online economy. It only helps big companies to cement their market position and kill off their competition. We already see this in the music streaming market, for example, where the freedom of choice for consumers has been greatly reduced by such exclusive zero rating offers.
-
-Instead of simply selling Internet access, Internet providers increasingly want to sell you directly online content, applications and services provided either by them or their partners. By inserting themselves as middle-men, Internet providers  want to get paid twice. First, you pay them for your Internet connection. Second, content, services and apps providers pay them for getting access to their customer base, which includes you. 
-
-## What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
-
-Zero rating is a clear violation of the net neutrality rules and therefore needs to be prohibited. This practice is anti-competitive and violates your freedom to use and access the applications, services and content you want and the freedom of content and application providers to make their offer in all networks without restriction (as required by Article 3(1) of the [EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). The EU Regulation also bans Internet and content providers from offering services that limit your rights as an end-user or as a content provider [(cf. Article 3(2) of the Regulation)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
-
-If data caps are exceeded and certain zero rated services are still accessible while the rest of the Internet is blocked or throttled, this is a clear violation of other provisions of the Regulation delivering net neutrality. 
+ Zero Rating je glavni razlog za nizko pokrivanje podatkov (pokriti podatki so limiti prenešenih ali naloženih podatkov). Ponudniki internetnih storitev želijo, da uporabljate njihove spletne storitve ali storitve njihovih partnerjev.  Če je dovoljeno, da ponudniki te izbrane storitve izvzamejo iz pokritih podatkov, imajo razlog, da ta meja ostane nepoškodovana in relativno nizka, saj tako njihova konkurenčna prednost ostaja močna. Brez zero-rating, bi lahko te družbe, ponujale večjo količino podatkov, ki jih lahko uporabljate in bi se lahko svobodno odločili, kako te uporabljati.  To so dobro dokumentirani primeri \  [na Nizozemskem]  (http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)   in v \ [Sloveniji]  (http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) , kjer je zaradi močnih jasnih zakonov nevtralnosti zero rating prepovedan, mobilni operaterji pa so podvojili podatkovna pokrovanja njihovih uporabnikov.
 
 
+##  Sem res dobili nekaj zastonj, ko uporabljam zero rating program?  {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
-# TRANSPARENCY
-
-## What benefits can we expect with the new net neutrality rules? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
--       
-There are many benefits that we have under the [EU Regulation on net neutrality](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). In terms of transparency, one of them is the requirement for Internet providers to state in their contracts what the minimum, average and maximum bandwidth of any Internet access connection is, instead of just the theoretical maximum. The Committee of the European telecom regulators (BEREC) will have to clarify how these values are calculated and what should happen if a connection is shared between more than one user.
+Na prvi pogled je videti kot če bi dobili nekaj zastonj. V nasprotju z kako to izgleda, je vaša svoboda izbire na internetu omejena in se ponudnik internetnih storitev vzpostavlja kot filter. V primeru prostega programa Facebook, na primer, zakaj bi Facebook odločal, katere storitve in aplikacije, lahko uporabimo? Kaj je gospodarska spodbuda za Facebook, da to ponuja? Je to res zastonj? Odgovor je ne. Nič ni zastonj. Zero Rating vpliva na vašo varnost, zasebnost in za konkurenčni trg.
 
 
-## What type of transparency can be expected with the new rules? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
+##  Kako lahko zero rating vpliva na ponudnike spletnih storitev in raznolikost internetnega okolja?  {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) requires Internet providers to provide information about all traffic management measures that affect a user's Internet access. Regulators are now seeking for input on what this means in practice.
+Zero rating sporazumi v Evropi so sklenjeni skoraj vedno z velikimi internetnimi podjetmi, kot sta Facebook in Spotify. Ti posli se pogosto medsebojno izključujejo, kar pomeni, da je ponudnik vsebin vezan na enega operaterja v državi in obratno.
+
+Zero rating je slab za izbiro uporabnika, saj je uničujoč za spletno gospodarstvo. Pomaga le velika podjetja, da ta utrdijo svoj položaj na trgu in umaknejo svojo konkurenco. To smo že videli pri streaming trgu glasbe, na primer, ko je bila svoboda izbire za uporabnike močno zmanjšana za takšnimi zero rating ponudbami.
+
+ Namesto zgolj prodaje dostopa do interneta, ponudniki interneta vedno bolj želijo prodati neposredno spletno vsebino, aplikacije in storitve, ki jih nudijo sami ali njihovi partnerji. Če se postavite na sredo, ponudniki internetnih storitev želijo, da plačate dvakrat. Najprej plačate za svoje internetne povezave. Drugič, ponudniki plačujejo za pridobitev dostopa do vsebine, storitve in aplikacije in do njihove baze kupcev, v kar ste vključeni tudi vi.  
+
+##  Kaj je cilj kampanje SaveTheInternet.eu, ko gre za zero-rating?  {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
+
+ Zero rating je jasna kršitev pravil o nevtralnosti interneta in jo je zato treba prepovedati. Ta praksa je nekonkurenčna in krši svobodo uporabe in dostopa do aplikacij, storitev in vsebin, ki jih želite uporabljati in svobodo vsebin in aplikacij ponudnikov, da bi svojo ponudbo ponujali v vseh omrežjih brez omejitev (kot je določeno v členu 3 (1) \ [Uredba EU]  (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ).  Uredba EU prepoveduje tudi internetnim ponudnikom in ponudnikom vsebine, da bi ponujali storitve, ki omejujejo vaše pravice kot pravice končnega uporabnika ali kot ponudnika vsebin \ [(prim. Člen 3 (2) uredbe)]  (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
+
+ Če so pokrivani podatki preseženi in so zero-rating storitve  še vedno na voljo, medtem ko je preostali del interneta blokiran ali upočasnjen, je to jasna kršitev drugih določb Uredbe o internetni nevtralnosti.  
 
 
 
-# OTHER
+#  TRANSPARENTNOST
 
-## How is net neutrality dealt with in other parts of the world? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
-
-There are strong net neutrality rules in the USA, Canada, and Chile. The most recent example is India, which has recently adopted strong rules on zero-rating. For more detailed approach visit [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map) 
-
-Other countries are running a SaveTheInternet campaign.
-
-These are some examples:
-
--        [USA](http://www.savetheinternet.com/sti-home)
-
--        [India](http://www.savetheinternet.in/)
+##  Kakšne koristi lahko pričakujemo, z novimi pravili o nevtralnosti?  {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
+-       
+Obstaja veliko koristi, ki so usklajene z \ [Uredbo EU o nevtralnosti ] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120).  V smislu preglednosti, je eden od njih zahteva za ponudnike internetnih storitev, da v njihovih pogodbah navedejo, kakšna je minimalna, povprečna in maksimalna pasovna širina katerega koli dostopa do internetne povezave, in ne le teoretične maksimalne vrednosti. Odbor evropskih telekomunikacijskih regulatorjev (BEREC), bo moral pojasniti, kako se te vrednosti izračunajo in kaj naj bi se zgodilo, če je povezava razdeljena med več uporabnikov.
 
 
-## How can I help you? {#how-can-i-help-you}
+##  Kakšna preglednost se lahko pričakuje z novimi pravili?  {#what-type-of-transparency-can-be-expected-with-the-new-rules}
+
+ \ [Uredba]  (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  zahteva ponudnikom interneta zagotovitev informacij o vseh ukrepih za upravljanje prometa, ki vplivajo na uporabnikov dostop do interneta. Regulatorji zdaj iščejo za vnos o tem, kaj to pomeni v praksi.
+
+
+
+ #  DRUGO
+
+ ##  Kako je nevtralnost obravnavana v drugih delih sveta?  {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
+
+ Obstajajo stroga pravila o nevtralnosti omrežja v ZDA, Kanadi in Čilom. Najnovejši primer je Indija, ki je nedavno sprejela stroga pravila o zero-rating-u. Za podrobnejše podatke \ [To je internetna nevtralnost]  (https://www.thisisnetneutrality.org/#map)
+
+Druge države so vključene v akcijo SaveTheInternet
+
+Nekaj primerov:
+
+-        [USA] (http://www.savetheinternet.com/sti-home)
+
+-        [India] (http://www.savetheinternet.in/)
+
+
+## Kako vam lahko pomagam? {#how-can-i-help-you}
 
 You can help SaveTheInternet.eu in many ways:
 
-<i class="fa fa-long-arrow-right"></i>        Spread the word! Tell your friends this campaign, about net neutrality and about why it is important to act now. Only when many individuals voices speak out,  will we be able to protect our online rights and freedoms.
+<i class="fa fa-long-arrow-right"></i>        Širite besedo! Povejte svojim prijateljem o tej kampanji, o internetni nevtralnosti in o tem, zakaj je pomembno, da ukrepamo zdaj.  Šele ko številni posamezniki povzdignejo glas, bomo lahko zaščitili naše spletne pravice in svoboščine.
 
-<i class="fa fa-long-arrow-right"></i>        Translate the website into your language! You can do that via [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI) 
+<i class="fa fa-long-arrow-right"></i>          Prevedi spletno stran v tvoj jezik! To lahko storiš na \ [Save The Internet na GitHub] (https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Join us! If you are part of an organisation and would like to join SaveTheInternet.eu, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+<i class="fa fa-long-arrow-right"></i>        Pridruži se nam! Če si del organizacije, in bi rad/a, da se organizacija pridruži k SaveTheInternet.eu, nam piši na \ [info@savetheinternet.eu]  (mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Report violations of net neutrality through [Respect My Net](https://respectmynet.eu/)
+<i class="fa fa-long-arrow-right"></i>         Poročilo kršitve nevtralnosti skozi \ [Respect My Net]  (https://respectmynet.eu/)
 
-<i class="fa fa-long-arrow-right"></i>        Donate! If you want to donate to the organisations behind SaveTheInternet, please click [ here ] 
+<i class="fa fa-long-arrow-right"></i>          Prispevaj! Če želite darovati organizacijam v ozadju SaveTheInternet, kliknite \ [tukaj]  
 
-Do you have any other cool and creative ideas? Please, reach out to us via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+ Ali imate kakšne druge zanimive in ustvarjalne ideje? Prosim obrnite se na nas skozi [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)
 
 {{ END FAQ }}

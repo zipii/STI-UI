@@ -1,24 +1,23 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
-- [INFORMATION](#info){: data-scroll="true" }
-- [FAQ](faq)
-
+- [Pošlji sporočilo](#send-a-message){: data-scroll="true" }
+- [Informacije](#info){: data-scroll="true" }
+- [Pogosta vprašanja](faq)
 {{ END NAVIGATION }}
 
-# Save the Internet
+# Rešite Internet
 
 {: .title-subtext}
-European Regulators are about to decide whether to give big telecoms corporations the power
-to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
-to protect our freedoms and rights online. We have until __July__ to help Europe protect the open Internet.
+Evropski regulatorj se odločajo, ali dati velikim telekomunikacijskim družbam moč
+vpliva na to kar lahko (in ne moremo) opraviti na spletu. Evropa nujno potrebuje jasne smernice nevtralnosti
+za zaščito naših svoboščin in pravic na spletu. Do __Julija moramo__ pomagati Evropi zaščititi odprt internet
 <br><br>
-Join the movement, take action now!
+Pridružite se gibanju, ukrepajmo zdaj!
 
 {{ BEGIN COUNTER }}
 
-| X | PEOPLE HAVE <br> SENT MESSAGES | Y | DAYS <br> LEFT |
+| X |   LJUDJE SO   <br>  POSLALI SPOROČILA  | Y |   DNI  <br>   PREOSTALIH {3 ]  |
 
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
@@ -27,13 +26,13 @@ Join the movement, take action now!
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-## What needs to be fixed:
+##  Kaj je potrebno popraviti: {2
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
 ### Specialised Services
 
-Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.
+Specializirani ponudniki storitev so v  nevarnosti, da postanejo plačana hitra steza za velika internetna podjetja, ki potiskajo vse druge spletne strani, ideje in start-up v počasno stezo.
 
 [READ MORE](faq/#what-are-specialised-services)
 
@@ -43,7 +42,7 @@ Specialised Services risk becoming the paid fast-lane for big Internet companies
 
 ### Traffic Management
 
-Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.
+Ne dovolite, da vaš ponudnik internetnih odloča, kateri internetni promet je pomemben in katere spletne storitve bo upočasnil, po svoji lastni presoji.
 
 [READ MORE](faq/#what-is-traffic-management)
 
@@ -53,7 +52,7 @@ Don't let your Internet provider decide what traffic is important and which onli
 
 ### Zero Rating
 
-It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.
+Sliši se, kot da bi dobili nekaj zastonj, je pa zato vaš mobilni operater postal filter in daje razlog za nižje mesečne pokrivanje podatkov.
 
 [READ MORE](faq/#what-is-zero-rating)
 
@@ -65,9 +64,9 @@ It sounds like you get something for free, but it makes your mobile operator bec
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Tell your national regulators and <br> BEREC to protect net neutrality
+#  Povejte svojim nacionalnim  regulatorjem in <br> BEREC naj ščitijo internetno nevtralnost
 
-Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecoms Regulators (BEREC) when the official consultation starts in June 2016.
+Povejte svojim regulatorjem svoje mnenje o novih pravilih o nevtralnosti tako, da izpolnite spodnji vprašalnik. Z odgovori na poljubno število vprašanj v testu in odprtih vprašanj po e-mailu, ki bo za vas generiran. Vaš e-mail bo za nas predložen s strani regulatorjev EU za telekomunikacije (BEREC), ko se uradno posvetovanje začne v juniju 2016
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -80,9 +79,9 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 ## Spread the word!
 
-[Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Delite na Facebooku] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=What%0Aif%0Athey%0Amade%0AEurope%27s%0Ainternet%0Aso%0Aslow%2C%0Aevery%0Atweet%0Aloaded%0Aslowly%0Alike%0Athis%3F%0ADon%27t%20let%20them%3A%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2F)
+[Delite na Twitterju] (https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -96,58 +95,58 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ ANCHOR INFO }}
 ## In 2015, the European Union adopted  legislation on net neutrality ...
 
-[The EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.
+[Uredba EU] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } vsebuje dobra načela, da se zagotovi, da se lahko povežete s katero koli drugo točko na internetu brez diskriminacije. Vendar pa bi lahko nekateri deli uredbe zlorabljali in ogrožali internetno nevtralnost. Zakonodajalci so se odločili, da zapustijo odgovornost za razjasnitev negotovosti besedila za regulatorje telekomunikacije.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not.
+Organ evropskih regulatorjev za elektronske komunikacije (BEREC), mora pripraviti smernice za izvajanje za razlago nejasnosti zakona do konca avgusta 2016. Te smernice bodo ugotovile, ali bo Evropa uživali nevtralnost ali ne.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-In June 2016, BEREC plans to publish its draft guidelines and launch a public consultation. However, BEREC's procedural rules say that the public only has __from June 6th to July 18th__ to respond and the Regulation says that BEREC needs to publish its final guidelines on 30 August 2016. That means that citizens will only have __a few weeks__ to respond to the consultation and BEREC will only have __a little bit over a month__ to process the (potentially thousands of) comments, draft updates to its guidelines and then go through the administrative processes to formally agree to any changes that it makes to the draft.
+V juniju 2016, BEREC načrtuje objavo svojih osnutkov smernic in sproža javno posvetovanje. Vendar pa postopkovna pravila BEREC pravijo, da ima javnost čas le __od 6. junija do 18. julija, da se odzove in Uredba pravi, da BEREC mora objaviti svoje končne smernice 30. avgusta 2016. To pomeni, da bodo državljani imeli samo __nekaj tednov__, da reagirajo na posvetovanje, BEREC bo imel samo __malo več kot mesec__ za obdelavo (potencialno tisoče) pripomb, predlogov, posodobitev svojih smernicah in nato opraviti upravne postopke za uradno strinjanje, za vse spremembe, ki jih pripravi za osnutek.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
-## EU Net Neutrality Roadmap
+##  Internetna Nevtralnost načrt EU
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.__
+### __  To je ključni trenutek: To je korak, kjer so velike uspehe dosegli v ZDA in Indiji. Zato si moramo še naprej prizadevati za resnično nevtralnost, in prepričati zakonodajalce o pomenu svobodnega in odprtega interneta .__
 
-Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
+Regulatorji se morajo sami opremiti z orodji za uveljavljanje nevtralnosti. V Save The Internet, mislimo, da BEREC ne bo imel dovolj časa za obdelavo in ustrezno upoštevanje potencialno tisoč odgovorov (ameriški telekomunikacijski regulator je prejel 3,7 milijonov odzivov na posvetovanju!). Mi lahko ponovno vzpostavimo ravnotežje, ki omogoča vsem, da se ustrezno prispeva k smernicam na bolj učinkovit način.
 
-Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in those meetings into plain English and added few others when we felt this was necessary.
+  Nedavno je BEREC organiziral srečanje iz oči v oči z interesnimi skupinami. Prevedli smo vprašanja, ki jih je BEREC vprašal zainteresirane (\ [glej tukaj ] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) in \ [tukaj] (https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/))  na teh sestankih v preprostem angleškem jeziku in dodali nekaj drugih, ko smo menili, da je to potrebno.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [needs your input](#send-a-message){: data-scroll="true"} before they decide on the future of net neutrality in Europe.
+##  BEREC \ [potrebuje vaš prispevek] (# pošlji sporočilo) {: data-scroll="true"}  preden se odloči o prihodnosti nevtralnosti omrežja v Evropi.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
-### Contact Us
+ ###  Kontakt
 
-__Feel free to contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__  Prosimo, da nam pišite na  [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)__
 
-You have an idea to improve this website? That's great, we need you! The full source code of this website is available on [GitHub](https://github.com/Netzfreiheit/STI-UI) and can be forked, improved, remixed and pushed back to us.
+ Imate idejo za izboljšanje te spletne strani? To je super, potrebujemo vas! Celotna izvorna koda te spletne strani je na voljo na  [GitHub] (https://github.com/Netzfreiheit/STI-UI)  in se lahko ločuje, izboljša, spremeni in pošlje nazaj k nam.
 
-One thing we always need is help with translations, so if you speak a language that we haven't covered here so far, please get in contact with us.
+Ena stvar, ki jo vedno potrebujejo, je pomoč pri prevodu, tako da, če govorite jezik, ki tukaj ni naveden doslej, prosimo, stopite v stik z nami.
 
-### Privacy Policy
+###  Politika zasebnosti
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign might also analyse the comments sent to BEREC through this website, if they are not marked as confidential. One month after the official consultation period has ended we will delete all comments.
+ Shranjujemo vaše pripombe o posvetovanju BEREC v nabiralniku e-poštni naslov, ki gostuje v Avstriji, dokler ne bomo posredovali to e-pošto z vašimi pripombami na uradno posvetovanje BEREC. Najdete Pravilnik o zasebnosti BEREC za posvetovanje \ [tukaj] (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf).  BEREC bo objavil vse odgovore, ki niso označeni kot zaupni. Organizacije za takšno akcijo lahko analizira tudi pripombe, poslane BEREC na tej spletni strani, če niso označene kot zaupne.  En mesec po uradnem posvetovanju, bomo izbrisali vse komentarje.
 
-We collect non-personalized information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+ Zbiramo ne-osebne informacije na tej spletni strani, s  [Piwik] (https://piwik.org/),  zasebnosti prijaznim softverjem za spletno analitiko.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database.
+ Če se [naročite na e-novice] (#subscribe-to-newsletter){: data-scroll="true"}  bo vaš e-poštni naslov shranjen v poštni seznam in zbirki podatkov.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
-We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.
+Smo zaskrbljeni državljani iz nevladnih organizacij po Evropi, ki skrbijo za državljanske svoboščine v digitalnem svetu.
 {{ LOGOS SUPPORTED-BY }}
 {{ END HOME SUPPORTED-BY }}
 
 {{ BEGIN HOME MADE-BY }}
-With friendly support from
+S prijazno podporo
 {{ LOGOS MADE-BY }}
 {{ END HOME MADE-BY }}
