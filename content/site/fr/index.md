@@ -1,51 +1,49 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
+- [ENVOYER UN MESSAGE](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
-
 {{ END NAVIGATION }}
 
 # Save the Internet
 
 {: .title-subtext}
-European Regulators are about to decide whether to give big telecoms corporations the power
-to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
-to protect our freedoms and rights online. We have until __July__ to help Europe protect the open Internet.
+Les régulateurs européens sont sur le point de décider de donner aux grandes entreprises de télécommunications le pouvoir d'influencer ce que nous pouvons (et ne pouvons pas) faire en ligne. L'Europe a besoin de toute urgence de directives claires sur la neutralité du net
+afin de protéger nos libertés et nos droits en ligne. Nous avons jusqu'à __Juillet__ pour aider l'Europe à protéger l'Internet ouvert.
 <br><br>
-Join the movement, take action now!
+Rejoignez le mouvement, agissons maintenant !
 
 {{ BEGIN COUNTER }}
 
-| X | PEOPLE HAVE <br> SENT MESSAGES | Y | DAYS <br> LEFT |
+| X | PERSONNES ONT <br> ENVOYÉ DES MESSAGES | Y | JOURS <br> RESTANTS |
 
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
+[AGISSONS](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-## What needs to be fixed:
+## Ce qui doit être corrigé :
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
-### Specialised Services
+### Services Spécialisés
 
-Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.
+Les services spécialisés risquent de devenir la voie rapide payante pour les grandes sociétés d'Internet laissant d'autres sites web, d'autres idées et d'autres start-ups dans la voix lente.
 
-[READ MORE](faq/#what-are-specialised-services)
+[EN LIRE PLUS](faq/#what-are-specialised-services)
 
 {{ END HOME SPECIALISED-SERVICES }}
 
 {{ BEGIN HOME TRAFFIC-MANAGEMENT }}
 
-### Traffic Management
+### Gestion de Traffic
 
-Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.
+Ne laissez pas votre fournisseur d'accès à Internet décider quel traffic est important et quels services en ligne il décide de ralentir sans que vous le sachiez.
 
-[READ MORE](faq/#what-is-traffic-management)
+[EN LIRE PLUS](faq/#what-is-traffic-management)
 
 {{ END HOME TRAFFIC-MANAGEMENT }}
 
@@ -53,9 +51,9 @@ Don't let your Internet provider decide what traffic is important and which onli
 
 ### Zero Rating
 
-It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.
+Vous avez l'impression que c'est gratuit, mais c'est votre opérateur mobile qui décide de ce que vous utilisez, ce qui lui donner une raison pour des faibles limites de données mensuelles.
 
-[READ MORE](faq/#what-is-zero-rating)
+[EN LIRE PLUS](faq/#what-is-zero-rating)
 
 {{ END HOME ZERO-RATING }}
 
@@ -65,24 +63,25 @@ It sounds like you get something for free, but it makes your mobile operator bec
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Tell your national regulators and <br> BEREC to protect net neutrality
+# Dites à vos régulateurs nationaux et <br> au ORECE de protéger la neutralité du net
 
-Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecoms Regulators (BEREC) when the official consultation starts in June 2016.
+Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
+__[Questionnaire Avancé](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
+
 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-## Spread the word!
+## Faites passer le mot !
 
-[Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Partagez sur  Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=What%0Aif%0Athey%0Amade%0AEurope%27s%0Ainternet%0Aso%0Aslow%2C%0Aevery%0Atweet%0Aloaded%0Aslowly%0Alike%0Athis%3F%0ADon%27t%20let%20them%3A%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2F)
+[Partagez sur Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -94,60 +93,60 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## En 2015, l'Union européenne a adopté une loi sur la neutralité du net ...
 
-[The EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.
+[Le règlement de l'UE] (http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2120) {: target = "_ blank"} contient des bons principes qui protègent votre droit à vous connecter à un autre point sur le net sans discrimination.Toutefois, certaines parties du règlement pourrait être utilisées pour saper la neutralité du net. Les législateurs ont décidé de laisser la responsabilité de clarification des incertitudes du texte aux régulateurs nationaux des télécommunications.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not.
+L'Organe des régulateurs européens des communications électroniques (ORECE) doit élaborer des lignes directrices de mise en œuvre pour l'interprétation des ambiguïtés de la loi d'ici la fin août 2016. Ces lignes directrices permettra de déterminer si l'Europe bénéficiera la neutralité du net ou non.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-In June 2016, BEREC plans to publish its draft guidelines and launch a public consultation. However, BEREC's procedural rules say that the public only has __from June 6th to July 18th__ to respond and the Regulation says that BEREC needs to publish its final guidelines on 30 August 2016. That means that citizens will only have __a few weeks__ to respond to the consultation and BEREC will only have __a little bit over a month__ to process the (potentially thousands of) comments, draft updates to its guidelines and then go through the administrative processes to formally agree to any changes that it makes to the draft.
+En juin 2016, l'ORECE prévoit de publier le brouillon des lignes directrices et de lancer une consultation publique. Toutefois, les règles de procédure de l'ORECE établissent que le public a seulement __du 6 au 18 juillet__  pour réagir et le règlement stipule que l'ORECE doit publier ses lignes directrices finales le 30 août 2016. Cela signifie que les citoyens auront seulement __quelques semaines__ pour répondre à la la consultation. Tandis que l'ORECE aura  __un peu plus d'un mois__ pour traiter les (potentiellement des milliers de) commentaires, de projets de mises à jour de ses lignes directrices et ensuite passer par les processus administratifs afin d'accepter formellement les modifications qu'il apporte au projet.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
-## EU Net Neutrality Roadmap
+## Feuille de route de la neutralité du net en Europe
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.__
+### __Ceci est un moment crucial: C'est l'étape où les grands succès ont été obtenus aux États-Unis et en Inde. Par conséquent, nous devons continuer à se battre pour une neutralité du net réelle en convaincant les organismes de réglementation de la valeur d'un Internet libre et ouvert.__
 
-Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
+Les régulateurs doivent se doter des outils nécessaires pour faire respecter la neutralité du net. Notre coalition (Save The Internet) pense que l'ORECE n'aura pas assez de temps pour traiter et tenir dûment compte des dizaines de milliers de réponses (le régulateur des télécoms américain a reçu 3,7 millions de réponses à sa consultation !). Nous pouvons rétablir l'équilibre en permettant à chacun de contribuer de manière adéquate aux lignes directrices.
 
-Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in those meetings into plain English and added few others when we felt this was necessary.
+Récemment, l'ORECE a organisé des réunions avec des groupes d'intervenants. Nous avons traduit les questions que l'ORECE a demandé aux participants ([voir ici] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) et [ici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) en anglais simple et nous en avons ajouté quelques autres quand nous avons senti que cela était nécessaire.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [needs your input](#send-a-message){: data-scroll="true"} before they decide on the future of net neutrality in Europe.
+## L'ORECE [a besoin de votre avis](#send-a-message){: data-scroll="true"} avant qu'ils décident du futur de la neutralité du net en Europe.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
-### Contact Us
+### Contactez-nous
 
-__Feel free to contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__N'hésitez pas à nous contacter à [infro@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-You have an idea to improve this website? That's great, we need you! The full source code of this website is available on [GitHub](https://github.com/Netzfreiheit/STI-UI) and can be forked, improved, remixed and pushed back to us.
+Vous avez une idée pour améliorer ce site ? Nous avons besoin de vous ! Le code source de ce site web est disponible sur [GitHub] (https://github.com/Netzfreiheit/STI-UI) et peut être forké, amélioré, remixé.
 
-One thing we always need is help with translations, so if you speak a language that we haven't covered here so far, please get in contact with us.
+Nous avons toujours besoin d'aide avec les traductions, donc si vous parlez une langue que nous avons ne sont pas couverts ici, nous vous invitons, si vous le désirez de prendre contact avec nous.
 
-### Privacy Policy
+### Politique de confidentialité
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign might also analyse the comments sent to BEREC through this website, if they are not marked as confidential. One month after the official consultation period has ended we will delete all comments.
+Nous stockons vos commentaires sur la consultation de l'ORECE dans la boîte de réception d'une adresse e-mail hébergé en Autriche jusqu'à ce que nous transmettons ces e-mails avec vos commentaires à la consultation officielle de l'ORECE. Vous pouvez trouver la politique de confidentialité de l'ORECE pour consultations [ici](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). L'ORECE publiera toutes les réponses qui ne sont pas marquées comme confidentielles. Les organisations à l'origine de cette campagne peuvent également analyser les commentaires envoyés à l'ORECE à travers ce site, si elles ne sont pas marqués comme confidentielles. Un mois après la fin de période de consultation officielle, nous allons supprimer tous les commentaires.
 
-We collect non-personalized information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+Nous recueillons des informations non-personnalisées sur ce site avec [Piwik] (https://piwik.org/), un outil d'analyse web sympathique.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database.
+Si vous vous [abonnez à la newsletter] (#subscribe-to-newsletter) {: data-scroll = "true"} votre adresse e-mail sera stockée dans une liste de diffusion et de base de données.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
-We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.
+Nous sommes des citoyens et ONG présentes à travers l'Europe qui se soucient de libertés fondamentales dans le domaine numérique.
 {{ LOGOS SUPPORTED-BY }}
 {{ END HOME SUPPORTED-BY }}
 
 {{ BEGIN HOME MADE-BY }}
-With friendly support from
+Avec le soutien de
 {{ LOGOS MADE-BY }}
 {{ END HOME MADE-BY }}
