@@ -79,7 +79,7 @@ __[Questionnaire Avancé](https://consultation.savetheinternet.eu/advanced/){: t
 
 ## Faites passer le mot !
 
-[Partagez sur  Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Partagez sur Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
 [Partagez sur Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
@@ -95,7 +95,7 @@ __[Questionnaire Avancé](https://consultation.savetheinternet.eu/advanced/){: t
 {{ ANCHOR INFO }}
 ## En 2015, l'Union européenne a adopté une loi sur la neutralité du net ...
 
-[Le règlement de l'UE] (http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2120) {: target = "_ blank"} contient des bons principes qui protègent votre droit à vous connecter à un autre point sur le net sans discrimination.Toutefois, certaines parties du règlement pourrait être utilisées pour saper la neutralité du net. Les législateurs ont décidé de laisser la responsabilité de clarification des incertitudes du texte aux régulateurs nationaux des télécommunications.
+[Le règlement de l'UE](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2120){: target = "_ blank"} contient des bons principes qui protègent votre droit à vous connecter à un autre point sur le net sans discrimination.Toutefois, certaines parties du règlement pourrait être utilisées pour saper la neutralité du net. Les législateurs ont décidé de laisser la responsabilité de clarification des incertitudes du texte aux régulateurs nationaux des télécommunications.
 {{ END HOME INFO }}
 
 
@@ -104,7 +104,7 @@ L'Organe des régulateurs européens des communications électroniques (ORECE) d
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-En juin 2016, l'ORECE prévoit de publier le brouillon des lignes directrices et de lancer une consultation publique. Toutefois, les règles de procédure de l'ORECE établissent que le public a seulement __du 6 au 18 juillet__  pour réagir et le règlement stipule que l'ORECE doit publier ses lignes directrices finales le 30 août 2016. Cela signifie que les citoyens auront seulement __quelques semaines__ pour répondre à la la consultation. Tandis que l'ORECE aura  __un peu plus d'un mois__ pour traiter les (potentiellement des milliers de) commentaires, de projets de mises à jour de ses lignes directrices et ensuite passer par les processus administratifs afin d'accepter formellement les modifications qu'il apporte au projet.
+En juin 2016, l'ORECE prévoit de publier le brouillon des lignes directrices et de lancer une consultation publique. Toutefois, les règles de procédure de l'ORECE établissent que le public a seulement __du 6 au 18 juillet__ pour réagir et le règlement stipule que l'ORECE doit publier ses lignes directrices finales le 30 août 2016. Cela signifie que les citoyens auront seulement __quelques semaines__ pour répondre à la la consultation. Tandis que l'ORECE aura __un peu plus d'un mois__ pour traiter les (potentiellement des milliers de) commentaires, de projets de mises à jour de ses lignes directrices et ensuite passer par les processus administratifs afin d'accepter formellement les modifications qu'il apporte au projet.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
@@ -116,7 +116,7 @@ En juin 2016, l'ORECE prévoit de publier le brouillon des lignes directrices et
 
 Les régulateurs doivent se doter des outils nécessaires pour faire respecter la neutralité du net. Notre coalition (Save The Internet) pense que l'ORECE n'aura pas assez de temps pour traiter et tenir dûment compte des dizaines de milliers de réponses (le régulateur des télécoms américain a reçu 3,7 millions de réponses à sa consultation !). Nous pouvons rétablir l'équilibre en permettant à chacun de contribuer de manière adéquate aux lignes directrices.
 
-Récemment, l'ORECE a organisé des réunions avec des groupes d'intervenants. Nous avons traduit les questions que l'ORECE a demandé aux participants ([voir ici] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) et [ici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) en anglais simple et nous en avons ajouté quelques autres quand nous avons senti que cela était nécessaire.
+Récemment, l'ORECE a organisé des réunions avec des groupes d'intervenants. Nous avons traduit les questions que l'ORECE a demandé aux participants ([voir ici](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) et [ici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) en anglais simple et nous en avons ajouté quelques autres quand nous avons senti que cela était nécessaire.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
@@ -128,7 +128,7 @@ Récemment, l'ORECE a organisé des réunions avec des groupes d'intervenants. N
 
 __N'hésitez pas à nous contacter à [infro@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Vous avez une idée pour améliorer ce site ? Nous avons besoin de vous ! Le code source de ce site web est disponible sur [GitHub] (https://github.com/Netzfreiheit/STI-UI) et peut être forké, amélioré, remixé.
+Vous avez une idée pour améliorer ce site ? Nous avons besoin de vous ! Le code source de ce site web est disponible sur [GitHub](https://github.com/Netzfreiheit/STI-UI) et peut être forké, amélioré, remixé.
 
 Nous avons toujours besoin d'aide avec les traductions, donc si vous parlez une langue que nous avons ne sont pas couverts ici, nous vous invitons, si vous le désirez de prendre contact avec nous.
 
@@ -136,9 +136,9 @@ Nous avons toujours besoin d'aide avec les traductions, donc si vous parlez une 
 
 Nous stockons vos commentaires sur la consultation de l'ORECE dans la boîte de réception d'une adresse e-mail hébergé en Autriche jusqu'à ce que nous transmettons ces e-mails avec vos commentaires à la consultation officielle de l'ORECE. Vous pouvez trouver la politique de confidentialité de l'ORECE pour consultations [ici](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). L'ORECE publiera toutes les réponses qui ne sont pas marquées comme confidentielles. Les organisations à l'origine de cette campagne peuvent également analyser les commentaires envoyés à l'ORECE à travers ce site, si elles ne sont pas marqués comme confidentielles. Un mois après la fin de période de consultation officielle, nous allons supprimer tous les commentaires.
 
-Nous recueillons des informations non-personnalisées sur ce site avec [Piwik] (https://piwik.org/), un outil d'analyse web sympathique.
+Nous recueillons des informations non-personnalisées sur ce site avec [Piwik](https://piwik.org/), un outil d'analyse web sympathique.
 
-Si vous vous [abonnez à la newsletter] (#subscribe-to-newsletter) {: data-scroll = "true"} votre adresse e-mail sera stockée dans une liste de diffusion et de base de données.
+Si vous vous [abonnez à la newsletter](#subscribe-to-newsletter){: data-scroll = "true"} votre adresse e-mail sera stockée dans une liste de diffusion et de base de données.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
