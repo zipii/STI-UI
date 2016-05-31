@@ -9,7 +9,7 @@
 # Salva Internet
 
 {: .title-subtext}
-I regolatori europei stanno per decidere se dare alle grosse imprese di telecomunicazioni il potere di influenzare le nostre scelte online. L’Europa ha urgentemente bisogno di linee-guida chiare sulla neutralità della rete per proteggere le nostre libertà e diritti online. Abbiamo tempo fino al ___ luglio per aiutare l’Europa a proteggere la libertà di Internet.
+I regolatori europei stanno per decidere se dare alle grosse imprese di telecomunicazioni il potere di influenzare le nostre scelte online. L’Europa ha urgentemente bisogno di linee-guida chiare sulla neutralità della rete per proteggere le nostre libertà e diritti online. Abbiamo tempo fino al __luglio__ per aiutare l’Europa a proteggere la libertà di Internet.
 <br><br>
 Unisciti al movimento, agisci subito!
 
@@ -77,9 +77,9 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 ## Condividi questo sito!
 
-[Condividi su Facebook] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Condividi su Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Condividi su Twitter] (https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
+[Condividi su Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -91,9 +91,9 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## In 2015, the European Union adopted legislation on net neutrality ...
 
-[Il Regolamento Europeo] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contiene dei buoni principi che ti garantiscono di navigare come e dove vuoi su Internet senza discriminazioni. Tuttavia, alcune parti del Regolamento potrebbero prestarsi ad interpretazioni che possono condurre ad abusi e minare la neutralità della rete. Il legislatore ha deciso di lasciare la responsabilità di chiarire le incertezze del testo agli enti di regolamentazione delle telecomunicazioni.
+[Il Regolamento Europeo](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contiene dei buoni principi che ti garantiscono di navigare come e dove vuoi su Internet senza discriminazioni. Tuttavia, alcune parti del Regolamento potrebbero prestarsi ad interpretazioni che possono condurre ad abusi e minare la neutralità della rete. Il legislatore ha deciso di lasciare la responsabilità di chiarire le incertezze del testo agli enti di regolamentazione delle telecomunicazioni.
 {{ END HOME INFO }}
 
 
@@ -114,29 +114,29 @@ Nel mese di giugno 2016, il BEREC pubblicherà la bozza delle linee-guida e lanc
 
 I regolatori hanno bisogno di dotarsi degli strumenti necessari per attuare i principi di neutralità della rete. Noi di “Save The Internet” pensiamo che il BEREC non avrà abbastanza tempo per elaborare e tenere debitamente conto delle potenziali decine di migliaia di risposte (negli USA i regolatori delle telecomunicazioni hanno ricevuto 3,7 milioni di risposte alla consultazione!). Possiamo ritrovare l’equilibrio dando a tutti la possibilità di contribuire adeguatamente alla stesura delle linee-guida in modo più efficiente.
 
-Recentemente il BEREC ha organizzato degli incontri a tu per tu con vari gruppi di interlocutori: abbiamo tradotto le domande che il BEREC ha posto loro ([leggi qui] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) e [qui] (https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) durante quegli incontri in un inglese semplice e ne abbiamo aggiunta qualcuna in più quando lo abbiamo ritenuto necessario.
+Recentemente il BEREC ha organizzato degli incontri a tu per tu con vari gruppi di interlocutori: abbiamo tradotto le domande che il BEREC ha posto loro ([leggi qui](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) e [qui](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) durante quegli incontri in un inglese semplice e ne abbiamo aggiunta qualcuna in più quando lo abbiamo ritenuto necessario.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## Il BEREC [ha bisogno del tuo aiuto] (#invia-un-messaggio) {: data-scroll="true"} prima di decidere il futuro della neutralità della rete in Europa.
+## Il BEREC [ha bisogno del tuo aiuto](#invia-un-messaggio) {: data-scroll="true"} prima di decidere il futuro della neutralità della rete in Europa.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Contattaci
 
-__Contattaci liberamente all’indirizzo [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)__
+__Contattaci liberamente all’indirizzo [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Hai un’idea per migliorare questo sito web? Ottimo, abbiamo bisogno di te! Il codice sorgente completo di questo sito web è disponibile su [GitHub] (https://github.com/Netzfreiheit/STI-UI) e può essere suddiviso, migliorato, rimixato e rimandato a noi.
+Hai un’idea per migliorare questo sito web? Ottimo, abbiamo bisogno di te! Il codice sorgente completo di questo sito web è disponibile su [GitHub](https://github.com/Netzfreiheit/STI-UI) e può essere suddiviso, migliorato, rimixato e rimandato a noi.
 
 Una cosa di cui abbiamo sempre bisogno è di traduzioni, quindi se parli una lingua che qui non abbiamo ancora utilizzato, ti preghiamo di metterti in contatto con noi.
 
 ### Regolamento sulla privacy
 
-Memorizziamo i tuoi commenti alla consultazione del BEREC nella casella della posta in arrivo di un indirizzo e-mail ospitato in Austria fino a quando ri-inviamo queste e-mail con i tuoi commenti alla consultazione ufficiale del BEREC. Puoi consultare il Regolamento sulla privacy del BEREC [qui] (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Il BEREC pubblicherà tutte le risposte non contrassegnate come riservate. Anche gli organismi che promuovono questa campagna potrebbero analizzare i commenti inviati al BEREC tramite questo sito web, se non sono contrassegnati come riservati. Un mese dopo la fine del periodo della consultazione ufficiale cancelleremo tutti i commenti.
+Memorizziamo i tuoi commenti alla consultazione del BEREC nella casella della posta in arrivo di un indirizzo e-mail ospitato in Austria fino a quando ri-inviamo queste e-mail con i tuoi commenti alla consultazione ufficiale del BEREC. Puoi consultare il Regolamento sulla privacy del BEREC [qui](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Il BEREC pubblicherà tutte le risposte non contrassegnate come riservate. Anche gli organismi che promuovono questa campagna potrebbero analizzare i commenti inviati al BEREC tramite questo sito web, se non sono contrassegnati come riservati. Un mese dopo la fine del periodo della consultazione ufficiale cancelleremo tutti i commenti.
 
-Raccogliamo informazioni non personalizzate su questo sito web con [Piwik] (https://piwik.org/), un software di analitica web che non viola la privacy.
+Raccogliamo informazioni non personalizzate su questo sito web con [Piwik](https://piwik.org/), un software di analitica web che non viola la privacy.
 
-Se ti [iscrivi alla newsletter] (#subscribe-to-newsletter){: data-scroll="true"} il tuo indirizzo email verrà conservato in una mailing list e in un database.
+Se ti [iscrivi alla newsletter](#subscribe-to-newsletter){: data-scroll="true"} il tuo indirizzo email verrà conservato in una mailing list e in un database.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
