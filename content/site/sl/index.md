@@ -17,7 +17,7 @@ Pridružite se gibanju, ukrepajmo zdaj!
 
 {{ BEGIN COUNTER }}
 
-| X |   LJUDJE SO   <br>  POSLALI SPOROČILA  | Y |   DNI  <br>   PREOSTALIH {3 ]  |
+| X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
 
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
@@ -26,13 +26,13 @@ Pridružite se gibanju, ukrepajmo zdaj!
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-##  Kaj je potrebno popraviti:
+## Kaj je potrebno popraviti:
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
 ### Specialised Services
 
-Specializirani ponudniki storitev so v  nevarnosti, da postanejo plačana hitra steza za velika internetna podjetja, ki potiskajo vse druge spletne strani, ideje in start-up v počasno stezo.
+Specializirani ponudniki storitev so v nevarnosti, da postanejo plačana hitra steza za velika internetna podjetja, ki potiskajo vse druge spletne strani, ideje in start-up v počasno stezo.
 
 [READ MORE](faq/#what-are-specialised-services)
 
@@ -93,7 +93,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## In 2015, the European Union adopted legislation on net neutrality ...
 
 [Uredba EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } vsebuje dobra načela, da se zagotovi, da se lahko povežete s katero koli drugo točko na internetu brez diskriminacije. Vendar pa bi lahko nekateri deli uredbe zlorabljali in ogrožali internetno nevtralnost. Zakonodajalci so se odločili, da zapustijo odgovornost za razjasnitev negotovosti besedila za regulatorje telekomunikacije.
 {{ END HOME INFO }}
@@ -116,7 +116,7 @@ V juniju 2016, BEREC načrtuje objavo svojih osnutkov smernic in sproža javno p
 
 Regulatorji se morajo sami opremiti z orodji za uveljavljanje nevtralnosti. V Save The Internet, mislimo, da BEREC ne bo imel dovolj časa za obdelavo in ustrezno upoštevanje potencialno tisoč odgovorov (ameriški telekomunikacijski regulator je prejel 3,7 milijonov odzivov na posvetovanju!). Mi lahko ponovno vzpostavimo ravnotežje, ki omogoča vsem, da se ustrezno prispeva k smernicam na bolj učinkovit način.
 
-Nedavno je BEREC organiziral srečanje iz oči v oči z interesnimi skupinami. Prevedli smo vprašanja, ki jih je BEREC vprašal zainteresirane [glej tukaj](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) in [tukaj](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/))  na teh sestankih v preprostem angleškem jeziku in dodali nekaj drugih, ko smo menili, da je to potrebno.
+Nedavno je BEREC organiziral srečanje iz oči v oči z interesnimi skupinami. Prevedli smo vprašanja, ki jih je BEREC vprašal zainteresirane ([glej tukaj](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) in [tukaj](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) na teh sestankih v preprostem angleškem jeziku in dodali nekaj drugih, ko smo menili, da je to potrebno.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
@@ -134,9 +134,9 @@ Ena stvar, ki jo vedno potrebujejo, je pomoč pri prevodu, tako da, če govorite
 
 ### Politika zasebnosti
 
-Shranjujemo vaše pripombe o posvetovanju BEREC v nabiralniku e-poštni naslov, ki gostuje v Avstriji, dokler ne bomo posredovali to e-pošto z vašimi pripombami na uradno posvetovanje BEREC. Najdete Pravilnik o zasebnosti BEREC za posvetovanje [tukaj](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC bo objavil vse odgovore, ki niso označeni kot zaupni. Organizacije za takšno akcijo lahko analizira tudi pripombe, poslane BEREC na tej spletni strani, če niso označene kot zaupne.  En mesec po uradnem posvetovanju, bomo izbrisali vse komentarje.
+Shranjujemo vaše pripombe o posvetovanju BEREC v nabiralniku e-poštni naslov, ki gostuje v Avstriji, dokler ne bomo posredovali to e-pošto z vašimi pripombami na uradno posvetovanje BEREC. Najdete Pravilnik o zasebnosti BEREC za posvetovanje [tukaj](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC bo objavil vse odgovore, ki niso označeni kot zaupni. Organizacije za takšno akcijo lahko analizira tudi pripombe, poslane BEREC na tej spletni strani, če niso označene kot zaupne. En mesec po uradnem posvetovanju, bomo izbrisali vse komentarje.
 
-Zbiramo ne-osebne informacije na tej spletni strani, s  [Piwik] (https://piwik.org/),  zasebnosti prijaznim softverjem za spletno analitiko.
+Zbiramo ne-osebne informacije na tej spletni strani, s [Piwik](https://piwik.org/), zasebnosti prijaznim softverjem za spletno analitiko.
 
 Če se [naročite na e-novice](#subscribe-to-newsletter){: data-scroll="true"} bo vaš e-poštni naslov shranjen v poštni seznam in zbirki podatkov.
 {{ END HOME CONTACT-US }}
