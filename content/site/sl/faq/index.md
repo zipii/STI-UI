@@ -46,7 +46,7 @@
 - [Kako vam lahko pomagam?](#how-can-i-help-you){: data-scroll="true"}
 
 
-# Internetna Nevtralnost
+# Internetna Nevtralnost {#net-neutrality}
 
 ## Kaj pomeni internetna nevtralnost? {#what-is-net-neutrality}
 
