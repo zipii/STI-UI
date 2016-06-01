@@ -101,9 +101,9 @@ SaveTheInternet è una campagna congiunta promossa da 12 ONG europee che operano
 Se fai parte di un’organizzazione e vuoi diventare un sostenitore o aiutarci a passare parole, contattaci all’indirizzo [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# Specialised Services {#what-are-specialised-services}
+# Specialised Services {#specialised-services}
 
-## Che cosa sono i servizi specializzati?
+## Che cosa sono i servizi specializzati? {#what-are-specialised-services}
 
 Un servizio specializzato è un qualsiasi servizio che viene fornito sulla base di un collegamento ad Internet, al quale il provider dell’accesso ad Internet può attribuire una ulteriore qualità. Secondo il [Regolamento](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), tali ottimizzazioni devono essere obiettivamente necessarie per il servizio elettronico a cui si accede e non semplicemente concedere una priorità al servizio. Il fornitore dell’accesso deve anche garantire che ci sia sufficiente capacità sulla rete, in modo che la qualità dell’accesso ad Internet non sia compromessa. Questa necessità deve essere verificata dall’ente nazionale che regola le telecomunicazioni. In breve, un "servizio specializzato" non può essere una "corsia preferenziale" discriminatoria.
 
@@ -175,9 +175,9 @@ Secondo il [Regolamento](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELE
 Noi sosteniamo che questa seconda opzione dovrebbe essere ammessa solo nei casi in cui ci siano altri indicatori oltre alla quantità di traffico in un dato hub di rete (come la quantità di iscritti collegati ad una stessa cella). Ci deve essere sempre un bisogno concreto e reale per gestire il traffico.
 
 
-# Zero Rating {#what-is-zero-rating}
+# Zero Rating {#zero-rating}
 
-## Che cosa è lo “zero rating” (accesso gratuito)?
+## Che cosa è lo “zero rating” (accesso gratuito)? {#what-is-zero-rating}
 
 Lo zero rating, o accesso gratuito, è una prassi commerciale nella quale i dati scaricati da determinate applicazioni o servizi non vengono conteggiati nel limite mensile al download di un determinato abbonato, dunque tratta traffici diversi in modi diversi, di modo che una parte venga offerta a un prezzo e un’altra parte ad un altro prezzo. Anche se tecnicamente si tratta di qualcosa di diverso dalla classica violazione della neutralità della rete, in pratica la situazione è identica perché permette al fornitore di accesso ad Internet di decidere quali applicazioni e servizi debbano essere utilizzati e quali no.
 
