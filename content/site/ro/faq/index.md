@@ -242,8 +242,6 @@ Poți ajuta SaveTheInternet.eu în multe feluri:
 
 <i class="fa fa-long-arrow-right"></i>        Raportează încălcări ale neutralității Internetului la [Respect My Net](https://respectmynet.eu/)
 
-<i class="fa fa-long-arrow-right"></i>        Donează! Dacă vrei să donezi organizațiilor din spatele campaniei SaveTheInternet, fă click [ aici ] 
-
 Ai alte idei creative? Contactează-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 {{ END FAQ }}

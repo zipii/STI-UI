@@ -84,7 +84,7 @@ Na srečo, si je Evropski parlament močno prizadeval za odpravo teh vrzeli in g
 
 Po tej zmagi, so se države članice EU zbrale v svetu in počasi napredovale, pri čemer je trajalo več kot eno leto, da je prišlo do skupnega stališča. Dogovorili so se o novem besedilu, ki ponovno uvajajo vrzeli in ustvarjajo nove. Če bo sprejeto besedilo Sveta, to besedilo ustvarja plačane hitre pasove; dovoljeno diskriminacijo cen v EU, in dovoljuje blokiranje nezakonitih in samovoljno blokiranje nezakonitih vsebin.
 
-Da bi pospešili pogovore in negativno vplivali na stališče Parlamenta, so vse tri institucije začele "neformalna" pogajanja v okviru tako imenovanega [ "tristranskega" procesa ](https://edri.org/files/NN_process_infographics.pdf). V poznem nočnem zasedanju okoli 2. ure zjutraj, je bil dosežen politični dogovor med tremi institucijami. To besedilo vsebuje močne načela za zagotavljanje nevtralnosti v Evropi. Vendar pa nekatere določbe Uredbe niso jasne in bi jih lahko zlorabili (kar je bilo boljše od prvotnega predloga Komisije, vendar slabše od začetnega položaja Parlamenta). To lahko privede do vrzeli, ki bi omogočile diskriminacijo na internetu. Spremembe v glasovanju 2. branja v Evropskem parlamentu je poskušalo stvari razjasniti. Vendar pa se Uredba ukvarja tudi z odpravo cen roaminga, ki je, skupaj z dejstvom, da je bila potrebna absolutna večina vseh poslancev da se spremeni dogovorjeno besedilo, ni bila sprejeta nobena od sprememb. Z drugimi besedami, je Evropski parlament odločil, da morajo biti regulatorji tisti, ki odločajo o negotovostih besedila. 
+Da bi pospešili pogovore in negativno vplivali na stališče Parlamenta, so vse tri institucije začele "neformalna" pogajanja v okviru tako imenovanega [ "tristranskega" procesa ](https://edri.org/files/NN_process_infographics.pdf). V poznem nočnem zasedanju okoli 2. ure zjutraj, je bil dosežen politični dogovor med tremi institucijami. To besedilo vsebuje močne načela za zagotavljanje nevtralnosti v Evropi. Vendar pa nekatere določbe Uredbe niso jasne in bi jih lahko zlorabili (kar je bilo boljše od prvotnega predloga Komisije, vendar slabše od začetnega položaja Parlamenta). To lahko privede do vrzeli, ki bi omogočile diskriminacijo na internetu. Spremembe v glasovanju 2. branja v Evropskem parlamentu je poskušalo stvari razjasniti. Vendar pa se Uredba ukvarja tudi z odpravo cen roaminga, ki je, skupaj z dejstvom, da je bila potrebna absolutna večina vseh poslancev da se spremeni dogovorjeno besedilo, ni bila sprejeta nobena od sprememb. Z drugimi besedami, je Evropski parlament odločil, da morajo biti regulatorji tisti, ki odločajo o negotovostih besedila.
 
 ## Kdo je vključen v razpravo v Evropi? {#who-is-involved-in-the-debate-in-europe}
 
@@ -107,11 +107,11 @@ SaveTheInternet je skupna akcija 12 evropskih nevladnih organizacij, ki delujejo
 
 Specialna storitev je vsaka storitev, ki preko povezave dostopa do interneta, doda dodatno kakovost ponudnika dostopa do interneta Pod [Uredbo {1 ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) }, mora biti vsaka takšna optimizacija objektivno potrebna za to, da postane elektronska storitev dostopna in ne zgolj dodelitev prednosti za storitve. Ponudnik dostopa mora tudi zagotoviti, da obstaja dovolj zmogljivosti na omrežju, tako da kakovost dostopa do interneta ni ogrožena. To potreba bi morala biti preverjena s strani nacionalnega telekomunikacijskega regulativnega organa. Skratka, "specializirana služba" ne more biti diskriminatorna "hitra linija".
 
-Prave specializirane storitve, nimajo nič opraviti z internetom. To so storitve, ki lahko uporabljajo isto tehnologijo in včasih celo ista fizično arhitekturo, vendar niso del globalnega spleta, saj zahtevajo določeno raven kakovosti, ki jih internet ne ponuja. 
+Prave specializirane storitve, nimajo nič opraviti z internetom. To so storitve, ki lahko uporabljajo isto tehnologijo in včasih celo ista fizično arhitekturo, vendar niso del globalnega spleta, saj zahtevajo določeno raven kakovosti, ki jih internet ne ponuja.
 
 ## Kakšni so primeri storitev, ki niso specializirane storitve? {#what-are-examples-of-services-that-are-not-specialised-services}
 
-Specializirane storitve niso storitve, ki bi jih lahko zagotavljal internet. Da bi se problemu izognili se dovoljuje, da se obstoječe spletne storitve, ponovno razvrstijo kot specializirane storitve. V skladu s tem scenarijem, bi si lahko podjetje z dovolj denarja kupilo prednost za svoje storitve, kar bi jim podarilo nepošteno prednost pred vsemi drugimi - zmanjšanje konkurence, inovacije in možnosti izbire .. 
+Specializirane storitve niso storitve, ki bi jih lahko zagotavljal internet. Da bi se problemu izognili se dovoljuje, da se obstoječe spletne storitve, ponovno razvrstijo kot specializirane storitve. V skladu s tem scenarijem, bi si lahko podjetje z dovolj denarja kupilo prednost za svoje storitve, kar bi jim podarilo nepošteno prednost pred vsemi drugimi - zmanjšanje konkurence, inovacije in možnosti izbire ..
 
 ## Kakšni zaščitni ukrepi so navzoči v zakonodaji EU za reševanje specializiranih storitev? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
@@ -125,7 +125,7 @@ Specializirane storitve niso storitve, ki bi jih lahko zagotavljal internet. Da 
 
 4.        Specializirane storitve se lahko ponude le, če je na voljo zadostna zmogljivost omrežja, in so ponuejene poleg vseh internetnih storitev za dostop;
 
-5.        Specializirane storitve ni mogoče zagotoviti v škodo razpoložljivosti ali splošne kakovosti dostopa do internetnih storitev. 
+5.        Specializirane storitve ni mogoče zagotoviti v škodo razpoložljivosti ali splošne kakovosti dostopa do internetnih storitev.
 
 ## Kaj je potrebno za okrepitev varnostnih ukrepov povezanih s specializiranimi storitvami, ter zakaj je to pomembno? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -146,7 +146,7 @@ Upravljanje prometa vpliva na vaše vsakdanje internetne izkušnje. Ko se vaš N
 
 Če so pravila EU zlorabljena, bi lahko bile spletne storitve, ki jih želite uporabljati upočasnjene do ravni, da postanejo neuporabne, medtem ko bi ostale konkurenčne storitve z lastnim ponudnikom internetnih storitev, ki se oglašujejo še vedno delovale pravilno.
 
-Upravljanje prometa ne bi smelo nikoli posegati v vašo svobodo kot končen uporabnik ali spletnega ponudnika storitev. Vloga internetnega ponudnika je upravljanje omrežja za vse storitve po svojih najboljših močeh, ne pa tudi za sprejemanje odločitev o pomembnosti, celovitosti in zakonitosti internetnih vsebin, storitev ali aplikacij, ki jih želite dostopati. 
+Upravljanje prometa ne bi smelo nikoli posegati v vašo svobodo kot končen uporabnik ali spletnega ponudnika storitev. Vloga internetnega ponudnika je upravljanje omrežja za vse storitve po svojih najboljših močeh, ne pa tudi za sprejemanje odločitev o pomembnosti, celovitosti in zakonitosti internetnih vsebin, storitev ali aplikacij, ki jih želite dostopati.
 
 ## Ali nimajo ponudniki interneta pravice do upravljanja svojega omrežja? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
@@ -172,7 +172,7 @@ Upravljanje prometa je potrebno za reševanje prometnih zastojev in zagotovitev 
 
 Usklajeno z [Uredba ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) , lahko ponudniki internetnih storitev bodisi začnejo upravljati svoje omrežje v konkretnem primeru zastojev ali v primerih, ko skušajo omiliti zastoje, ki je na tem, da se realizira. To drugo možnost je treba pojasniti s strani regulatorjev da bi se izognili spolzkem položaju, ko je omrežje "upravljano" ves čas, tudi ko ni dejanske potrebe za to.
 
- Trdimo, da bi morala biti ta druga možnost dovoljena le v primerih, ko so navzoči tudi drugi kazalniki poleg zneska prometa skozi dano omrežje (kot znesek naročnikov povezanih z eno celico omrežja). Obstajati mora vedno konkretna in dejanska potreba za upravljanje prometa. 
+ Trdimo, da bi morala biti ta druga možnost dovoljena le v primerih, ko so navzoči tudi drugi kazalniki poleg zneska prometa skozi dano omrežje (kot znesek naročnikov povezanih z eno celico omrežja). Obstajati mora vedno konkretna in dejanska potreba za upravljanje prometa.
 
 
 # Zero Rating {#zero-rating}
@@ -197,13 +197,13 @@ Zero rating sporazumi v Evropi so sklenjeni skoraj vedno z velikimi internetnimi
 
 Zero rating je slab za izbiro uporabnika, saj je uničujoč za spletno gospodarstvo. Pomaga le velika podjetja, da ta utrdijo svoj položaj na trgu in umaknejo svojo konkurenco. To smo že videli pri streaming trgu glasbe, na primer, ko je bila svoboda izbire za uporabnike močno zmanjšana za takšnimi zero rating ponudbami.
 
-Namesto zgolj prodaje dostopa do interneta, ponudniki interneta vedno bolj želijo prodati neposredno spletno vsebino, aplikacije in storitve, ki jih nudijo sami ali njihovi partnerji. Če se postavite na sredo, ponudniki internetnih storitev želijo, da plačate dvakrat. Najprej plačate za svoje internetne povezave. Drugič, ponudniki plačujejo za pridobitev dostopa do vsebine, storitve in aplikacije in do njihove baze kupcev, v kar ste vključeni tudi vi. 
+Namesto zgolj prodaje dostopa do interneta, ponudniki interneta vedno bolj želijo prodati neposredno spletno vsebino, aplikacije in storitve, ki jih nudijo sami ali njihovi partnerji. Če se postavite na sredo, ponudniki internetnih storitev želijo, da plačate dvakrat. Najprej plačate za svoje internetne povezave. Drugič, ponudniki plačujejo za pridobitev dostopa do vsebine, storitve in aplikacije in do njihove baze kupcev, v kar ste vključeni tudi vi.
 
 ## Kaj je cilj kampanje SaveTheInternet.eu, ko gre za zero-rating? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
  Zero rating je jasna kršitev pravil o nevtralnosti interneta in jo je zato treba prepovedati. Ta praksa je nekonkurenčna in krši svobodo uporabe in dostopa do aplikacij, storitev in vsebin, ki jih želite uporabljati in svobodo vsebin in aplikacij ponudnikov, da bi svojo ponudbo ponujali v vseh omrežjih brez omejitev (kot je določeno v členu 3 (1) [Uredba EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)). Uredba EU prepoveduje tudi internetnim ponudnikom in ponudnikom vsebine, da bi ponujali storitve, ki omejujejo vaše pravice kot pravice končnega uporabnika ali kot ponudnika vsebin [(prim. Člen 3 (2) uredbe)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
- Če so pokrivani podatki preseženi in so zero-rating storitve še vedno na voljo, medtem ko je preostali del interneta blokiran ali upočasnjen, je to jasna kršitev drugih določb Uredbe o internetni nevtralnosti. 
+ Če so pokrivani podatki preseženi in so zero-rating storitve še vedno na voljo, medtem ko je preostali del interneta blokiran ali upočasnjen, je to jasna kršitev drugih določb Uredbe o internetni nevtralnosti.
 
 
 # Transparentnost {#transparency}
@@ -241,8 +241,6 @@ You can help SaveTheInternet.eu in many ways:
 <i class="fa fa-long-arrow-right"></i>        Pridruži se nam! Če si del organizacije, in bi rad/a, da se organizacija pridruži k SaveTheInternet.eu, nam piši na [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 <i class="fa fa-long-arrow-right"></i>        Poročilo kršitve nevtralnosti skozi [Respect My Net](https://respectmynet.eu/)
-
-<i class="fa fa-long-arrow-right"></i>        Prispevaj! Če želite darovati organizacijam v ozadju SaveTheInternet, kliknite [tukaj] 
 
  Ali imate kakšne druge zanimive in ustvarjalne ideje? Prosim obrnite se na nas skozi [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

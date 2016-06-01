@@ -273,8 +273,6 @@ Puede ayudar a SaveTheInternet.eu de muchas maneras:
 
 <i class="fa fa-long-arrow-right"></i>        Denuncia violaciones de la neutralidad de la red a través de [Respect&nbsp;My&nbsp;Net](https://respectmynet.eu/)
 
-<i class="fa fa-long-arrow-right"></i>        Si quieres donar a las organizaciones detrás de la campaña SaveTheInternet, haz click [ aquí ] 
-
 ¿Tienes alguna otra idea interesante o creativa? Por favor contacta con nosotros vía [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 {{ END FAQ }}

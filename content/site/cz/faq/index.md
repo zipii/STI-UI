@@ -265,8 +265,6 @@ You can help SaveTheInternet.eu in many ways:
 
 <i class="fa fa-long-arrow-right"></i>        Porušování síťové neutrality hlaste prostřednictvím webu [Respect My Net] (https://respectmynet.eu/)
 
-<i class="fa fa-long-arrow-right"></i>        Staňte se sponzory! Chcete-li poskytnout dar organizacím, které stojí za kampaní SaveTheInternet, klikněte prosím [ sem ]
-
 Maté další skvělé a tvořivé nápady? Pak se na nás obraťte prostřednictvím [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)
 
 {{ END FAQ }}
