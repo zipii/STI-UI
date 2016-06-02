@@ -208,7 +208,7 @@ Dacă limitele de trafic sunt depășite și anumite servicii cu zero rating sun
 # Transparență {#transparency}
 
 ## Care sunt beneficiile la care ne putem aștepta de pe urma noului regulament privitor la neutralitatea Internetului? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
--       
+
 [Regulamentul privind neutralitatea Internetului](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) aduce multe beneficii. Din punctul de vedere al transparenței, unul dintre ele este cerința ca furnizorii de servicii Internet să spună în contractele pe care le încheie cu clienții care este lățimea de bandă minimă, medie și maximă a conexiunii furnizate, în locul maximului teoretic. Comitetul autorităților de reglementare a comunicațiilor electronice din Europa (BEREC) va trebui să clarifice cum sunt calculate aceste valori și ce ar trebui să se întâmple dacă o conexiune este folosită în comun de mai mult de un utilizator.
 
 ## La ce fel de transparență ne putem aștepta cu noile reguli? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
@@ -220,10 +220,9 @@ Dacă limitele de trafic sunt depășite și anumite servicii cu zero rating sun
 
 ## Cum este neutralitatea Internetului abordată în alte părți ale lumii? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
-Reguli puternice pentru neutralitatea Internetului există în Statele Unite ale Americii, Canada și Chile. Cel mai recent exemplu este India, unde au fost adoptate reguli puternice împotriva zero rating-ului. Pentru mai multe detalii, vezi [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map) 
+Reguli puternice pentru neutralitatea Internetului există în Statele Unite ale Americii, Canada și Chile. Cel mai recent exemplu este India, unde au fost adoptate reguli puternice împotriva zero rating-ului. Pentru mai multe detalii, vezi [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map).
 
 Alte țări unde se derulează o campanie SaveTheInternet.
-
 Câteva exemple:
 
 -        [Statele Unite ale Americii](http://www.savetheinternet.com/sti-home)
