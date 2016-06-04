@@ -151,7 +151,7 @@ L'optimisation de services spécialisés doit être objectivement nécessaire po
 La gestion du trafic autorise les FAIs à gérer le trafic de données sur leurs réseaux. Pour ce faire, les FAIs peuvent donner la priorité à certaines communications et en ralentir d'autres. Selon le Réglement, cette pratique est autorisée si elle est raisonnable, transparente, non discriminatoire et proportionnée. La gestion du trafic doit être temporaire et, par conséquent, ne doit pas être un état standard de la configuration du réseau. Aussi, comme règle générale, la gestion du trafic doit traiter toutes les applications sur un pied d'égalité et elle peut différencier parmi différentes catégories de trafic seulement dans des circonstances très limitées.
 
 
-## Pourquoi le zero rating est un problème? {#why-should-i-care-about-traffic-management}
+## Pourquoi devrais-je me soucier de la gestion de trafic? {#why-should-i-care-about-traffic-management}
 
 *Something is missing here*
 
