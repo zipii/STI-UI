@@ -153,7 +153,7 @@ La gestion du trafic autorise les FAIs à gérer le trafic de données sur leurs
 
 ## Pourquoi devrais-je me soucier de la gestion de trafic? {#why-should-i-care-about-traffic-management}
 
-*Something is missing here*
+La gestion du trafic affecte tous les jours votre navigation Internet. Lorsque votre vidéo Netflix ne charge pas, quand votre appel téléphonique via Internet coupe tout le temps ou quand il est impossible de jouer à un jeu en ligne, la gestion du trafic par votre fournisseur d'accès Internet peut en être la cause.
 
 Si les règles de l'UE sont circonvenues, les services en ligne que vous utilisez pourraient être ralentis à tel point qu'ils seraient inutilisables tandis que d'autres services concurrents promus par votre propre FAI fonctionneraient de façon satisfaisante.
 
