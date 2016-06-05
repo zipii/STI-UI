@@ -19,7 +19,7 @@ Pridružite se gibanju, ukrepajmo zdaj!
 
 | X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
 
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
+[UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
