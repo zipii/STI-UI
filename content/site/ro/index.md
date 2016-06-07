@@ -102,7 +102,7 @@ Comitetul autorităților de reglementare a comunicațiilor electronice din Euro
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-În Iunie 2016, BEREC plănuiește să publice o primă versiune a ghidului și să lanseze o consultare publică, Cu toate acestea, regulile de procedură ale BEREC spun că publicul poate răspunde doar în __intervalul 6 Iunie - 18 Iunie__, iar Regulamentul spune că BEREC trebuie să publice forma finală a ghidului pe 30 August 2016. Asta înseamnă că cetățenii vor avea doar __câteva săptămâni__ la dispoziție pentru a răspunde iar BEREC va avea doar __un pic peste o lună__ pentru a procesa comentariile, ajusta ghidul și apoi trece prin procedura administrativă pentru acceptarea formală a oricăror modificări făcute la forma inițială.
+În Iunie 2016, BEREC plănuiește să publice o primă versiune a ghidului și să lanseze o consultare publică, Cu toate acestea, regulile de procedură ale BEREC spun că publicul poate răspunde doar în __intervalul 6 Iunie - 18 Iulie__, iar Regulamentul spune că BEREC trebuie să publice forma finală a ghidului pe 30 August 2016. Asta înseamnă că cetățenii vor avea doar __câteva săptămâni__ la dispoziție pentru a răspunde iar BEREC va avea doar __un pic peste o lună__ pentru a procesa comentariile, ajusta ghidul și apoi trece prin procedura administrativă pentru acceptarea formală a oricăror modificări făcute la forma inițială.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
