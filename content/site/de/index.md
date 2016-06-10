@@ -131,13 +131,13 @@ Du hast eine Verbesserungsidee für diese Website? Sehr gut – wir brauchen dic
 
 Was wir immer brauchen können, ist Hilfe mit Übersetzungen. Wenn du also eine Sprache sprichst, die wir hier noch nicht anbieten, dann schreib uns bitte.
 
-### Datenschutzrichtlinie
+### Datenschutz-Bestimmungen
 
-Wir speichern deine Kommentare für die BEREC-Konsultation im Posteingang eines in Österreich gehosteten E-Mail-Kontos, bis wir diese E-Mails mit euren Kommentaren an die offizielle BEREC-Konsultation weiterleiten. Die Datenschutzrichtlinien von BEREC findest du [hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC wird alle Kommentare veröffentlichen, die nicht als vertraulich gekennzeichnet sind. Die Organisationen hinter dieser Kampagne analysieren möglicherweise ebenfalls die Kommentare, die durch diese Website an BEREC gesendet werden und nicht als vertraulich gekennzeichnet sind. Einen Monat nach der offiziellen Konsultation werden wir alle Kommentare löschen.
+Wir speichern Ihre Kommentare zu der BEREC Konsultation in einem E-Mail-Postfach, welches in Österreich gehostet wird, bis wir die E-Mails mit Ihren Kommentaren der offiziellen BEREC Konsultation übermitteln. [Hier] (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) können Sie die Datenschutz-Bestimmungen von BEREC für Konsultationen finden. BEREC wird alle Antworten veröffentlichen, die nicht als vertraulich markiert sind. Die Organisationen, die hinter dieser Kampagne stehen sind am Ende dieser Website aufgelistet. Einen Monat nachdem die offizielle Konsultationsphase beendet ist, werden wir alle Kommentare löschen.
 
-Wir sammeln auf dieser Website nicht-personenbezogene Information mit der Privatsphäre-freundlichen Web-Analytik-Software [Piwik](https://piwik.org/).
+Wir sammeln nicht-personalisierte Informationen auf dieser Website mit [Piwik](https://piwik.org/), einer datenschutzfreundlichen Web-Analytics-Software.
 
-Wenn du [den Newsletter abonnierst](#subscribe-to-newsletter){: data-scroll="true"}, speichern wir deine E-Mail-Adresse in einer Mailingliste und in einer Datenbank.
+Wenn Sie den [Newsletter abonnieren](#subscribe-to-newsletter){: data-scroll="true"}, wird ihre E-Mail-Adresse in einer Mailingliste und Datenbank gespeichert werden, die von European Digital Rights gehostet und verwaltet wird. Sie ist die einzige Organisation, die das Recht hat, ihnen Nachrichten zu senden, wenn Sie den Newsletter abonnieren. Sie können sich jederzeit von diesem Newsletter abmelden und werden keine weiteren Nachrichten mehr empfangen.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}

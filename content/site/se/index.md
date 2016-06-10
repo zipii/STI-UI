@@ -134,12 +134,11 @@ Någonting vi som alltid är i behov av är hjälp med översättningar. Så om 
 
 ### Integritetspolicy
 
-Vi sparar dina kommentarer i inkorgen till ett e-postkonto i Österrike ända tills vi mejlar dem vidare till BEREC:s offentliga samråd.   Integritetspolicyn för BEREC hittar du [här] (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC publicerar alla svar som inte är märkta med ordet "konfidentiellt". Organisationerna bakom den här kampanjen har också möjlighet att analysera kommentarerna som skickas till BEREC via denna webbplats utom konfidentiellt märkta kommentarer. En månad efter att tiden för det offentliga samrådet har löpt ut kommer vi att ta bort alla kommentarer.
+Vi förvarar era kommentarer till BEREC-konsultationen i vårat mailkonto i Österrike fram tills dess att vi vidarebefordrar dem till den officiella BEREC-konsultationen. Vår integritetspolicy för BEREC-konsultationen kan ni hitta [här](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC kommer publicera alla de svar som inte är markerade som konfidentiella. Organisationerna bakom den här kampanjen finns listade längst ned på den här hemsidan. En månad efter att den officiella konsultationsperioden har avslutats, kommer samtliga kommentarer att raderas.
 
+Vi samlar icke-personlig information på denna hemsida via [Piwik](https://piwik.org/), ett integritetsvänligt verktyg för web-analys.
 
-Vi samlar icke personrelaterade uppgifter på denna webbplats med [Piwik] (https://piwik.org/), a privacy friendly web analytics software.
-
-Om du prenumererar på vårt nyhetsbrev] (#subscribe-to-newsletter){: data-scroll="true"} kommer din e-postadress att sparas i en mejlinglista och en databas.
+Ifall du [prenumererar på nyhetsbrevet](#subscribe-to-newsletter){: data-scroll="true"} kommer din email-adress att förvaras i en mailing-lista och databas som administreras och tillhandahålls av European Digital Rights. Dem är också de enda som organisationen som har rätt att skicka dig meddelanden ifall du prenumererar på  nyhetesbrevet. Du kan när som helst avsluta din prenumeration från nyhetsbrevet och kommer då inte få några fler meddelanden.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
