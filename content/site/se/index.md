@@ -6,7 +6,7 @@
 - [FAQ](faq)
 {{ END NAVIGATION }}
 
-# # Rädda internet
+# Rädda internet
 
 {: .title-subtext}
 De europeiska regleringsmyndigheterna kommer snart att besluta om stora telekommunikationsföretag ska kunna påverka vad vi kan (och inte) kan göra på nätet. Europa är i brådskande behov av klara riktlinjer för nätneutralitet för att skydda vår frihet och våra rättigheter på nätet. Vi har tid ända till __juli__ att hjälpa Europa med att bevara ett öppet internet.
@@ -77,9 +77,9 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 ## Spread the word!
 
-[Dela på Facebook] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Dela på Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Dela på Twitter] (https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
+[Dela på Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -93,7 +93,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ ANCHOR INFO }}
 ## In 2015, the European Union adopted  legislation on net neutrality ...
 
-[EU-förordningen] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } innehåller bra grundprinciper som säkerställer att du kan koppla upp dig till vilken plats som helst på nätet utan bli diskriminerad. Tyvärr kan vissa delar av förordningen missbrukas och undergräva nätneutraliteten. Lagstiftarna har beslutat överlämna ansvaret när det gäller att klarlägga oklarheter i texten till regleringsmyndigheterna för telekommunikationer.
+[EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } innehåller bra grundprinciper som säkerställer att du kan koppla upp dig till vilken plats som helst på nätet utan bli diskriminerad. Tyvärr kan vissa delar av förordningen missbrukas och undergräva nätneutraliteten. Lagstiftarna har beslutat överlämna ansvaret när det gäller att klarlägga oklarheter i texten till regleringsmyndigheterna för telekommunikationer.
 {{ END HOME INFO }}
 
 
@@ -114,11 +114,11 @@ I juni 2016 kommer BEREC att publicera sitt förslag till riktlinjer och genomf�
 
 Regleringsmyndigheterna behöver lämpliga verktyg för att kunna forcera nätneutralitet. Vi som jobbar med kampanjen Save The Internet tror inte att BEREC kommer att ha tillräckligt med tid på sig för att kunna behandla och ta hänsyn till potentiellt tiotusentals svar (de amerikanska regleringsmyndigheterna fick 3,7 miljoner svar efter sitt samråd!). Vi erbjuder ett förfarande där alla människor på ett meningsfullt sätt kan bidra till att riktlinjerna kommer till stånd och balansen återställs.
 
-Nyligen organiserade BEREC personliga möten med intressegrupper. Vi har översatt frågorna som BEREC ställde till intressegrupperna ([se här] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) och [här] (https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) på dessa möten till lätt engelska och lagt till några andra där vi tyckte att det var viktigt.
+Nyligen organiserade BEREC personliga möten med intressegrupper. Vi har översatt frågorna som BEREC ställde till intressegrupperna ([se här](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) och [här](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) på dessa möten till lätt engelska och lagt till några andra där vi tyckte att det var viktigt.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [behöver dina synpunkter] (#skicka ett meddelande) {: data-scroll="true"} innan de beslutar om framtiden för nätneutralitet i Europa.
+## BEREC [behöver dina synpunkter](#skicka ett meddelande){: data-scroll="true"} innan de beslutar om framtiden för nätneutralitet i Europa.
 
 
 {{ END HOME BEREC-5 }}
@@ -126,9 +126,9 @@ Nyligen organiserade BEREC personliga möten med intressegrupper. Vi har översa
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakta oss
 
-__Kontakta oss gärna på [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)__
+__Kontakta oss gärna på [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Har du idéer eller förslag till hur man kan förbättra den här webbplatsen? Toppen! Då behöver vi dig. Hela källkoden till den här webbplatsen finns på [GitHub] (https://github.com/Netzfreiheit/STI-UI) och kan gafflas, förbättras, remixas och puffas tillbaka till oss.
+Har du idéer eller förslag till hur man kan förbättra den här webbplatsen? Toppen! Då behöver vi dig. Hela källkoden till den här webbplatsen finns på [GitHub](https://github.com/Netzfreiheit/STI-UI) och kan gafflas, förbättras, remixas och puffas tillbaka till oss.
 
 Någonting vi som alltid är i behov av är hjälp med översättningar. Så om du talar något språk som inte finns med här är du välkommen att kontakta oss.
 

@@ -77,9 +77,9 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 ## Delen op social media!
 
-[Delen op Facebook] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Delen op Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Delen op Twitter] (https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
+[Delen op Twitter](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -93,7 +93,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ ANCHOR INFO }}
 ## In 2015 heeft de Europese Unie nieuwe wetgeving aangenomen over netneutraliteit.
 
-[De EU-verordening] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } bevat goede principes om ervoor te zorgen dat u zonder discriminatie verbinding kunt maken met elk ander punt op het net. Bepaalde delen van de verordening kunnen echter misbruikt worden om netneutraliteit te ondermijnen. De wetgevers besloten de verantwoordelijkheid voor het verklaren van de onduidelijkheden van de tekst over te laten aan de regelgevende instanties voor telecommunicatie.
+[De EU-verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } bevat goede principes om ervoor te zorgen dat u zonder discriminatie verbinding kunt maken met elk ander punt op het net. Bepaalde delen van de verordening kunnen echter misbruikt worden om netneutraliteit te ondermijnen. De wetgevers besloten de verantwoordelijkheid voor het verklaren van de onduidelijkheden van de tekst over te laten aan de regelgevende instanties voor telecommunicatie.
 {{ END HOME INFO }}
 
 
@@ -114,19 +114,19 @@ BEREC is van plan om in juni 2016 zijn ontwerprichtsnoeren te publiceren en een 
 
 Regelgevende instanties moeten zorgen dat ze beschikken over de middelen waarmee ze netneutraliteit kunnen afdwingen. De ngo's achter Save The Internet denken dat BEREC niet genoeg tijd zal hebben om potentieel tienduizenden reacties te verwerken en goed in te calculeren (de Amerikaanse telecomregulator ontving 3,7 miljoen reacties op zijn raadpleging!). We kunnen het evenwicht herstellen door te zorgen dat iedereen op een efficiëntere manier een bijdrage aan de richtsnoeren kan leveren.
 
-BEREC heeft onlangs vergaderingen met groepen belanghebbenden georganiseerd. We hebben de vragen die BEREC tijdens deze vergaderingen aan de belanghebbenden heeft gesteld ([zie hier] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) en [hier] (https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)), in eenvoudig Engels omgezet en er enkele andere vragen aan toegevoegd waar wij dit nodig vonden.
+BEREC heeft onlangs vergaderingen met groepen belanghebbenden georganiseerd. We hebben de vragen die BEREC tijdens deze vergaderingen aan de belanghebbenden heeft gesteld ([zie hier](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) en [hier](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)), in eenvoudig Engels omgezet en er enkele andere vragen aan toegevoegd waar wij dit nodig vonden.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [heeft uw input nodig] (#send-a-message) {: data-scroll="true"} voordat het een beslissing neemt over de toekomst van netneutraliteit in Europa.
+## BEREC [heeft uw input nodig](#send-a-message){: data-scroll="true"} voordat het een beslissing neemt over de toekomst van netneutraliteit in Europa.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Neem contact met ons op
 
-__Neem gerust contact met ons op via [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)__
+__Neem gerust contact met ons op via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Hebt u suggesties voor de verbetering van deze website? Geweldig, we hebben u nodig! De volledige broncode van deze website is beschikbaar op [GitHub] (https://github.com/Netzfreiheit/STI-UI) en kan worden geforkt, verbeterd en geremixt en naar ons worden teruggepusht.
+Hebt u suggesties voor de verbetering van deze website? Geweldig, we hebben u nodig! De volledige broncode van deze website is beschikbaar op [GitHub](https://github.com/Netzfreiheit/STI-UI) en kan worden geforkt, verbeterd en geremixt en naar ons worden teruggepusht.
 
 Wat we altijd nodig hebben, is hulp met vertalen. Dus als u een taal spreekt die we hier nog niet aanbieden, nodigen wij u uit contact met ons op te nemen.
 

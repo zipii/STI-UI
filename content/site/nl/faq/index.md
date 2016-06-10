@@ -175,14 +175,14 @@ Klassegebaseerde verkeersbeheersmaatregelen zijn daarom:
 
 ## Wat is het doel van SaveTheInternet.eu voor wat betreft verkeersbeheer? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
-De [Verordening] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) geeft een duidelijke drieledige hiërarchie voor verkeersbeheer, die moet worden verankerd in duidelijke en bindende regels [zie artikel 3, lid 3, alinea 1 tot en met 3] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Internetproviders moeten altijd eerst proberen problemen in hun netwerk op te lossen met maatregelen waarbij niet op toepassingen wordt gelet, d.w.z. maatregelen die niet afhankelijk zijn van de specifieke kenmerken van inhoud, toepassingen, diensten of apparaten. Als alle maatregelen waarbij niet op toepassingen wordt gelet, zijn uitgeprobeerd en het probleem op deze manier niet kan worden opgelost, mogen internetproviders klassegebaseerde maatregelen gebruiken.
+De [Verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) geeft een duidelijke drieledige hiërarchie voor verkeersbeheer, die moet worden verankerd in duidelijke en bindende regels [zie artikel 3, lid 3, alinea 1 tot en met 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Internetproviders moeten altijd eerst proberen problemen in hun netwerk op te lossen met maatregelen waarbij niet op toepassingen wordt gelet, d.w.z. maatregelen die niet afhankelijk zijn van de specifieke kenmerken van inhoud, toepassingen, diensten of apparaten. Als alle maatregelen waarbij niet op toepassingen wordt gelet, zijn uitgeprobeerd en het probleem op deze manier niet kan worden opgelost, mogen internetproviders klassegebaseerde maatregelen gebruiken.
 
 Verkeersbeheer is nodig om congestie op te lossen en de integriteit en veiligheid van het netwerk te waarborgen. Maar net als bewaking dient verkeersbeheer uitsluitend gebruik te maken van de minst ingrijpende maatregelen die beschikbaar zijn, alleen voor een specifiek doeleinde en gedurende beperkte tijd wanneer het echt noodzakelijk is om een legitiem doel te bereiken.
 
 
 ## Wanneer kunnen providers beginnen hun netwerk te beheren? {#when-can-a-provider-start-managing-its-network}
 
-Volgens de [Verordening] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  kunnen internetproviders beginnen hun netwerk te beheren wanneer daadwerkelijk sprake is van congestie of in gevallen waarin ze proberen dreigende congestie te beperken. Deze tweede optie dient door de regelgevende instanties te worden verhelderd om een dubieuze situatie waarin het netwerk continu wordt 'beheerd', zelfs als het niet echt nodig is, te voorkomen.
+Volgens de [Verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  kunnen internetproviders beginnen hun netwerk te beheren wanneer daadwerkelijk sprake is van congestie of in gevallen waarin ze proberen dreigende congestie te beperken. Deze tweede optie dient door de regelgevende instanties te worden verhelderd om een dubieuze situatie waarin het netwerk continu wordt 'beheerd', zelfs als het niet echt nodig is, te voorkomen.
 
 Wij stellen dat deze tweede optie alleen mag worden toegestaan in gevallen waarin er naast de hoeveelheid verkeer die door een bepaalde netwerkhub stroomt, ook andere indicatoren zijn (zoals het aantal abonnees dat met één netwerkcel is verbonden). Er dient altijd een concrete en werkelijke behoefte aan verkeersbeheer te zijn.
 
@@ -196,7 +196,7 @@ Zero rating is een commerciële praktijk waarbij gegevens die vanuit bepaalde to
 
 Met deze praktijk kan uw internetprovider controle uitoefenen over de diensten die u gebruikt of gaat gebruiken. Elke concurrent van een toepassing of dienst met zero rating (voornamelijk startende en mkb-bedrijven) is sterk in het nadeel omdat je extra moet betalen om de toepassing of dienst ongehinderd te kunnen gebruiken.
 
-Zero rating is een belangrijke reden voor lage datalimieten (datalimieten zijn limieten voor het uploaden of downloaden van gegevens). Internetproviders willen dat u hun eigen onlinediensten of die van hun partners gebruikt. Als providers deze geselecteerde diensten niet hoeven meerekenen voor uw datalimiet, zijn ze erbij gebaat om deze limiet intact en relatief laag te houden, zodat ze hun concurrenten de baas kunnen blijven. Zonder zero rating zouden deze bedrijven u een groter datavolume kunnen aanbieden, dat u kunt gebruiken op de manier die u het best uitkomt. Er zijn goed gedocumenteerde gevallen [in Nederland] (http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) en in [Slovenië] (http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) waar mobiele operators de datalimieten van hun gebruikers hebben verdubbeld; dit is te danken aan de sterke netneutraliteitswetten die zero rating verbieden.
+Zero rating is een belangrijke reden voor lage datalimieten (datalimieten zijn limieten voor het uploaden of downloaden van gegevens). Internetproviders willen dat u hun eigen onlinediensten of die van hun partners gebruikt. Als providers deze geselecteerde diensten niet hoeven meerekenen voor uw datalimiet, zijn ze erbij gebaat om deze limiet intact en relatief laag te houden, zodat ze hun concurrenten de baas kunnen blijven. Zonder zero rating zouden deze bedrijven u een groter datavolume kunnen aanbieden, dat u kunt gebruiken op de manier die u het best uitkomt. Er zijn goed gedocumenteerde gevallen [in Nederland](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) en in [Slovenië](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) waar mobiele operators de datalimieten van hun gebruikers hebben verdubbeld; dit is te danken aan de sterke netneutraliteitswetten die zero rating verbieden.
 
 
 ## Krijg ik echt iets gratis als ik een zero rating-programma gebruik? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
@@ -214,7 +214,7 @@ In plaats van gewoon internettoegang te verkopen, willen internetproviders u ste
 
 ## Wat is het doel van de SaveTheInternet.eu-campagne voor wat betreft zero rating? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
-Zero rating is een duidelijke schending van de regels voor netneutraliteit en moet daarom worden verboden. Deze praktijk verstoort de concurrentie en maakt inbreuk op uw vrijheid om naar wens toepassingen, diensten en inhoud op te roepen, en op de vrijheid van aanbieders van inhoud en toepassingen om hun producten in alle netwerken zonder beperkingen aan te bieden (zoals voorgeschreven door artikel 3, lid 1, van de [EU-verordening] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). De EU-verordening verbiedt internet- en contentproviders tevens om diensten aan te bieden die uw rechten als eindgebruiker of als contentprovider beperken [(vgl. artikel 3, lid 2, van de verordening)] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
+Zero rating is een duidelijke schending van de regels voor netneutraliteit en moet daarom worden verboden. Deze praktijk verstoort de concurrentie en maakt inbreuk op uw vrijheid om naar wens toepassingen, diensten en inhoud op te roepen, en op de vrijheid van aanbieders van inhoud en toepassingen om hun producten in alle netwerken zonder beperkingen aan te bieden (zoals voorgeschreven door artikel 3, lid 1, van de [EU-verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). De EU-verordening verbiedt internet- en contentproviders tevens om diensten aan te bieden die uw rechten als eindgebruiker of als contentprovider beperken [(vgl. artikel 3, lid 2, van de verordening)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
 Als datalimieten worden overschreden en bepaalde diensten met een nultarief nog steeds toegankelijk zijn terwijl de rest van internet geblokkeerd of afgeknepen is, is dit een duidelijke schending van andere bepalingen van de Verordening inzake netneutraliteit.
 
@@ -222,26 +222,26 @@ Als datalimieten worden overschreden en bepaalde diensten met een nultarief nog 
 
 ## Welke voordelen zijn te verwachten van de nieuwe regels voor netneutraliteit? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 -       
-De [EU-verordening inzake netneutraliteit] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) biedt een aantal voordelen. Een voordeel wat betreft transparantie is dat internetproviders in hun contracten moeten vermelden wat de minimale, gemiddelde en maximale bandbreedte van elke internetverbinding is, in plaats van alleen het theoretische maximum. Het Orgaan van Europese regelgevende instanties voor elektronische communicatie (BEREC) moet verduidelijken hoe deze waarden worden berekend en wat er moet gebeuren als een verbinding door meerdere gebruikers wordt gedeeld.
+De [EU-verordening inzake netneutraliteit](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) biedt een aantal voordelen. Een voordeel wat betreft transparantie is dat internetproviders in hun contracten moeten vermelden wat de minimale, gemiddelde en maximale bandbreedte van elke internetverbinding is, in plaats van alleen het theoretische maximum. Het Orgaan van Europese regelgevende instanties voor elektronische communicatie (BEREC) moet verduidelijken hoe deze waarden worden berekend en wat er moet gebeuren als een verbinding door meerdere gebruikers wordt gedeeld.
 
 
 ## Welk soort transparantie is te verwachten van de nieuwe regels? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
 
-De [Verordening] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stelt internetproviders verplicht om informatie te verstrekken over alle verkeersbeheersmaatregelen die van invloed zijn op de internettoegang van een gebruiker. Regelgevende instanties zijn nu bezig inlichtingen te verzamelen over wat dit in de praktijk betekent.
+De [Verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stelt internetproviders verplicht om informatie te verstrekken over alle verkeersbeheersmaatregelen die van invloed zijn op de internettoegang van een gebruiker. Regelgevende instanties zijn nu bezig inlichtingen te verzamelen over wat dit in de praktijk betekent.
 
 # OVERIGEN
 
 ## Hoe wordt netneutraliteit in andere delen van de wereld aangepakt? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
-Er zijn strikte regels voor netneutraliteit in de V.S., Canada en Chili. Het meest recente voorbeeld is India, dat onlangs strikte regels inzake zero rating heeft aangenomen. Ga voor een meer gedetailleerde benadering naar [This Is Net Neutrality] (https://www.thisisnetneutrality.org/#map).
+Er zijn strikte regels voor netneutraliteit in de V.S., Canada en Chili. Het meest recente voorbeeld is India, dat onlangs strikte regels inzake zero rating heeft aangenomen. Ga voor een meer gedetailleerde benadering naar [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map).
 
 Er worden ook SaveTheInternet-campagnes gevoerd in andere landen.
 
 Bijvoorbeeld:
 
--        [V.S.] (http://www.savetheinternet.com/sti-home)
+-        [V.S.](http://www.savetheinternet.com/sti-home)
 
--        [India] (http://www.savetheinternet.in/)
+-        [India](http://www.savetheinternet.in/)
 
 
 ## Hoe kan ik helpen? {#how-can-i-help-you}
@@ -250,14 +250,14 @@ You can help SaveTheInternet.eu in many ways:
 
 <i class="fa fa-long-arrow-right"></i>        Zeg het voort! Vertel uw vrienden over deze campagne, over netneutraliteit en waarom het belangrijk is om nu actie te ondernemen. Alleen als mensen in groten getale hun stem laten horen, kunnen we onze onlinerechten en -vrijheden beschermen.
 
-<i class="fa fa-long-arrow-right"></i>        Vertaal de website in uw taal! Dat kunt u doen via [Save The Internet on Github] (https://github.com/netzfreiheit/STI-UI).
+<i class="fa fa-long-arrow-right"></i>        Vertaal de website in uw taal! Dat kunt u doen via [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI).
 
-<i class="fa fa-long-arrow-right"></i>        Sluit u bij ons aan! Als u bij een organisatie werkt en u wilt u aansluiten bij SaveTheInternet.eu, stuur dan een e-mail naar [info@savetheinternet.eu] (mailto:info@savetheinternet.eu).
+<i class="fa fa-long-arrow-right"></i>        Sluit u bij ons aan! Als u bij een organisatie werkt en u wilt u aansluiten bij SaveTheInternet.eu, stuur dan een e-mail naar [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Meld schendingen van netneutraliteit via [Respect My Net] (https://respectmynet.eu/).
+<i class="fa fa-long-arrow-right"></i>        Meld schendingen van netneutraliteit via [Respect My Net](https://respectmynet.eu/).
 
 <i class="fa fa-long-arrow-right"></i>        Maak een donatie! Klik [ hier ] als u een donatie wilt maken aan de organisaties achter SaveTheInternet.
 
-Hebt u andere coole en creatieve ideeën? Neem contact met ons op via  [info@savetheinternet.eu] (mailto:info@savetheinternet.eu).
+Hebt u andere coole en creatieve ideeën? Neem contact met ons op via  [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 {{ END FAQ }}
