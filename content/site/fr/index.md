@@ -134,11 +134,11 @@ Nous avons toujours besoin d'aide avec les traductions, donc si vous parlez une 
 
 ### Politique de confidentialité
 
-Nous stockons vos commentaires sur la consultation de l'ORECE dans la boîte de réception d'une adresse e-mail hébergé en Autriche jusqu'à ce que nous transmettons ces e-mails avec vos commentaires à la consultation officielle de l'ORECE. Vous pouvez trouver la politique de confidentialité de l'ORECE pour consultations [ici](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). L'ORECE publiera toutes les réponses qui ne sont pas marquées comme confidentielles. Les organisations à l'origine de cette campagne peuvent également analyser les commentaires envoyés à l'ORECE à travers ce site, si elles ne sont pas marqués comme confidentielles. Un mois après la fin de période de consultation officielle, nous allons supprimer tous les commentaires.
+We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments.
 
-Nous recueillons des informations non-personnalisées sur ce site avec [Piwik](https://piwik.org/), un outil d'analyse web sympathique.
+We collect non-personalized information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-Si vous vous [abonnez à la newsletter](#subscribe-to-newsletter){: data-scroll = "true"} votre adresse e-mail sera stockée dans une liste de diffusion et de base de données.
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you signup to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}

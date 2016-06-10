@@ -134,11 +134,11 @@ Ena stvar, ki jo vedno potrebujejo, je pomoč pri prevodu, tako da, če govorite
 
 ### Politika zasebnosti
 
-Shranjujemo vaše pripombe o posvetovanju BEREC v nabiralniku e-poštni naslov, ki gostuje v Avstriji, dokler ne bomo posredovali to e-pošto z vašimi pripombami na uradno posvetovanje BEREC. Najdete Pravilnik o zasebnosti BEREC za posvetovanje [tukaj](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC bo objavil vse odgovore, ki niso označeni kot zaupni. Organizacije za takšno akcijo lahko analizira tudi pripombe, poslane BEREC na tej spletni strani, če niso označene kot zaupne. En mesec po uradnem posvetovanju, bomo izbrisali vse komentarje.
+We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments.
 
-Zbiramo ne-osebne informacije na tej spletni strani, s [Piwik](https://piwik.org/), zasebnosti prijaznim softverjem za spletno analitiko.
+We collect non-personalized information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-Če se [naročite na e-novice](#subscribe-to-newsletter){: data-scroll="true"} bo vaš e-poštni naslov shranjen v poštni seznam in zbirki podatkov.
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailinglist and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you signup to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}

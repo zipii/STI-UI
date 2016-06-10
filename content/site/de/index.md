@@ -133,7 +133,7 @@ Was wir immer brauchen können, ist Hilfe mit Übersetzungen. Wenn du also eine 
 
 ### Datenschutz-Bestimmungen
 
-Wir speichern Ihre Kommentare zu der BEREC Konsultation in einem E-Mail-Postfach, welches in Österreich gehostet wird, bis wir die E-Mails mit Ihren Kommentaren der offiziellen BEREC Konsultation übermitteln. [Hier] (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) können Sie die Datenschutz-Bestimmungen von BEREC für Konsultationen finden. BEREC wird alle Antworten veröffentlichen, die nicht als vertraulich markiert sind. Die Organisationen, die hinter dieser Kampagne stehen sind am Ende dieser Website aufgelistet. Einen Monat nachdem die offizielle Konsultationsphase beendet ist, werden wir alle Kommentare löschen.
+Wir speichern Ihre Kommentare zu der BEREC Konsultation in einem E-Mail-Postfach, welches in Österreich gehostet wird, bis wir die E-Mails mit Ihren Kommentaren der offiziellen BEREC Konsultation übermitteln. [Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) können Sie die Datenschutz-Bestimmungen von BEREC für Konsultationen finden. BEREC wird alle Antworten veröffentlichen, die nicht als vertraulich markiert sind. Die Organisationen, die hinter dieser Kampagne stehen sind am Ende dieser Website aufgelistet. Einen Monat nachdem die offizielle Konsultationsphase beendet ist, werden wir alle Kommentare löschen.
 
 Wir sammeln nicht-personalisierte Informationen auf dieser Website mit [Piwik](https://piwik.org/), einer datenschutzfreundlichen Web-Analytics-Software.
 
