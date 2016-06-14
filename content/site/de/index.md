@@ -132,11 +132,11 @@ Was wir immer brauchen können, ist Hilfe mit Übersetzungen. Wenn du also eine 
 
 ### Datenschutz-Bestimmungen
 
-Wir speichern Ihre Kommentare zu der BEREC-Konsultation in einem E-Mail-Postfach, das in Österreich gehostet wird, bis wir die E-Mails mit Ihren Kommentaren der offiziellen BEREC-Konsultation übermitteln. [Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) können Sie die Datenschutz-Bestimmungen von BEREC für Konsultationen finden. BEREC wird alle Antworten veröffentlichen, die nicht als vertraulich markiert sind. Die Organisationen, die hinter dieser Kampagne stehen, sind am Ende dieser Website aufgelistet. Einen Monat nach Ende der offiziellen Konsultationsphase werden wir alle Kommentare löschen.
+We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
 
-Wir sammeln nicht-personalisierte Informationen auf dieser Website mit [Piwik](https://piwik.org/), einer datenschutzfreundlichen Web-Analytics-Software.
+We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-Wenn Sie den [Newsletter abonnieren](#subscribe-to-newsletter){: data-scroll="true"}, wird ihre E-Mail-Adresse in einer Mailingliste und Datenbank gespeichert werden, die von [European Digital Rights (EDRi)](https://edri.org/about/) gehostet und verwaltet wird. EDRi ist die einzige Organisation, die das Recht hat, Ihnen Nachrichten zu senden, wenn Sie den Newsletter abonnieren. Sie können sich jederzeit von diesem Newsletter abmelden und werden keine weiteren Nachrichten mehr empfangen.
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
