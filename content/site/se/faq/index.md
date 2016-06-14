@@ -174,16 +174,16 @@ Därför kan vi konstatera att trafikhantering baserad på trafikslag
 -       är inte lika proportionella som oberoende åtgärder, som inte innebär lika mycket ingrepp och därför är bättre för användarnas valfrihet
 
 
-   ## Vad är syftet med kampanjen SaveTheInternet.eu när det gäller trafikhantering?
+## Vad är syftet med kampanjen SaveTheInternet.eu när det gäller trafikhantering?
 
-[Förordningen] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) innehåller en klar hierarkisk struktur i tre steg när det gäller trafikhantering. Denna hierarki måste nu fastslås i klara och bindande regler [se artikel 3(3) stycke 1 - 3] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Internetoperatörerna ska alltid först försöka lösa problem i sina nätverk med applikationsoberoende åtgärder, dvs. med åtgärder som inte är kopplade till specifika egenskaper hos innehåll, applikationer, tjänster eller enheter. Inte förrän alla applikationsoberoende åtgärderna är uttömda och problemet fortfarande kvarstår har internetoperatörer rätt att tillgripa åtgärder baserade på trafikslag.
+[Förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) innehåller en klar hierarkisk struktur i tre steg när det gäller trafikhantering. Denna hierarki måste nu fastslås i klara och bindande regler [se artikel 3(3) stycke 1 - 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Internetoperatörerna ska alltid först försöka lösa problem i sina nätverk med applikationsoberoende åtgärder, dvs. med åtgärder som inte är kopplade till specifika egenskaper hos innehåll, applikationer, tjänster eller enheter. Inte förrän alla applikationsoberoende åtgärderna är uttömda och problemet fortfarande kvarstår har internetoperatörer rätt att tillgripa åtgärder baserade på trafikslag.
 
 Trafikhantering behövs för att få bukt med överbelastningar och säkerställa integriteten och säkerheten i nätverket. Trafikhantering ska emellertid, liksom övervakning, endast genomföras med de minst inkräktande tillgängliga åtgärderna och endast för ett specifikt ändamål och för en begränsade tid, om det verkligen är nödvändigt för att uppnå ett legitimt mål.
 
 
 ## När får en operatör tillämpa  trafikstyrning i sitt nätverk? {#when-can-a-provider-start-managing-its-network}
 
-Enligt [förordningen] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kan internetoperatörer tillämpa trafikhantering i sina nätverk antingen för lindra effekterna av en tillfällig överbelastning eller för att förhindra en nära förestående överbelastning av nätet. Det andra alternativet bör tydliggöras av regleringsmyndigheterna för att undvika situationer där trafikhantering ständigt tillämpas i nätverken, även om det inte föreligger något verkligt behov.
+Enligt [förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kan internetoperatörer tillämpa trafikhantering i sina nätverk antingen för lindra effekterna av en tillfällig överbelastning eller för att förhindra en nära förestående överbelastning av nätet. Det andra alternativet bör tydliggöras av regleringsmyndigheterna för att undvika situationer där trafikhantering ständigt tillämpas i nätverken, även om det inte föreligger något verkligt behov.
 
 Vi föreslår att det andra alternativet endast får användas när det föreligger andra indikatorer utöver den datamängd som flödar genom en viss nod (t.ex. antalet abonnenter som är anslutna till en nätverkscell).  Det måste alltid föreligga ett aktuellt och konkret behov av trafikhantering.
 
@@ -203,7 +203,7 @@ Nollmätning är en kommersiell metod som tillämpas för att inte mäta datavol
 
 Med den här affärsmodellen kan din internetoperatör kontrollera vilka tjänster som du utnyttjar eller kommer att utnyttja. För den som konkurrerar med en operatör som tillämpar nollmätning på sina applikationer eller tjänster (för det mesta nyetablerade företag samt små- och medelstora företag) medför detta stora nackdelar eftersom det kostar extra att kunna använda applikationen eller tjänsten obehindrat.
 
-Nollmätning är verkligen berättigat när det handlar om små begränsningar i datatrafiken (alltså små begränsningar i ned- och uppladdningsshastigheten). Vissa Internetoperatör vill att du ska använda deras egna webbtjänster eller deras partnertjänster. Om internetoperatörerna inte behöver debitera dig för dessa utvalda tjänster har de goda skäl att även fortsättningen använda sig av dessa begränsningar i dataflödet för att kunna utnyttja sina konkurrensfördelar. Utan nollmätning skulle dessa företag kunna erbjuda dig en större datamängd, som du själv då skulle kunna bestämma över. Det finns väldokumenterade fall i Nederländerna] (http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) och Slovenien] (http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) om hur mobiloperatörerna har fördubblat sina hastighetsgränser tack vare stränga lagar om nätneutralitet som förbjuder nollmätning.
+Nollmätning är verkligen berättigat när det handlar om små begränsningar i datatrafiken (alltså små begränsningar i ned- och uppladdningsshastigheten). Vissa Internetoperatör vill att du ska använda deras egna webbtjänster eller deras partnertjänster. Om internetoperatörerna inte behöver debitera dig för dessa utvalda tjänster har de goda skäl att även fortsättningen använda sig av dessa begränsningar i dataflödet för att kunna utnyttja sina konkurrensfördelar. Utan nollmätning skulle dessa företag kunna erbjuda dig en större datamängd, som du själv då skulle kunna bestämma över. Det finns väldokumenterade fall i Nederländerna](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) och Slovenien](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) om hur mobiloperatörerna har fördubblat sina hastighetsgränser tack vare stränga lagar om nätneutralitet som förbjuder nollmätning.
 
 
 ## Får jag verkligen något gratis när jag använder ett abonnemang med nollmätning?
@@ -220,7 +220,7 @@ Istället för att bara sälja internetåtkomst börjar internetoperatörerna bl
 
 ## Vad är syftet med kampanjen SaveTheInternet.eu  när det gäller nollmätning?
 
-Nollmätning bryter helt klart mot bestämmelserna om nätneutralitet och måste därför förbjudas.  Den här metoden är konkurrensvidrig och kränker dig i din frihet att använda och ta emot applikationer, tjänster och innehåll som du vill ha, samtidigt som det kränker applikations- och innehållsleverantörernas frihet att kunna presentera sina erbjudanden i alla nätverk utan begränsningar (såsom krävs i artikel 3(1) i [EU-förordningen] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). EU-förordningen förbjuder också internet- och innehållsleverantörerna att erbjuda tjänster som begränsar dina rättigheter som slutanvändare eller som innehållsleverantör [(jfr artikel 3(2) i förordningen)]
+Nollmätning bryter helt klart mot bestämmelserna om nätneutralitet och måste därför förbjudas.  Den här metoden är konkurrensvidrig och kränker dig i din frihet att använda och ta emot applikationer, tjänster och innehåll som du vill ha, samtidigt som det kränker applikations- och innehållsleverantörernas frihet att kunna presentera sina erbjudanden i alla nätverk utan begränsningar (såsom krävs i artikel 3(1) i [EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). EU-förordningen förbjuder också internet- och innehållsleverantörerna att erbjuda tjänster som begränsar dina rättigheter som slutanvändare eller som innehållsleverantör [(jfr artikel 3(2) i förordningen)]
 
 Om volymgränserna överstiges och vissa tjänster som omfattas av nollmätning fortfarande erbjuds på grund av att resten av nätet är blockerat eller har saktats ned är detta ett klart brott mot andra bestämmelser i förordningen om säker nätneutralitet.
 
@@ -231,12 +231,12 @@ Om volymgränserna överstiges och vissa tjänster som omfattas av nollmätning 
 ## Vilken nytta kan vi förvänta oss av de nya bestämmelserna om nätneutralitet?
 
 
-Det finns många fördelar med [EU-förordningen om nätneutralitet] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). En av fördelarna när det gäller öppenhet och insyn är kravet på internetoperatörer att de i avtalen måste ange den minsta, genomsnittliga och högsta bandbredden för alla internetanslutningar istället för att bara ange ett teoretiskt maximum. BEREC, en sammanslutning av generaldirektörerna för Europas regleringsmyndigheter inom telekom, kommer att klarlägga hur dessa värden ska beräknas och vad som ska hända om en anslutning delas av flera användare.
+Det finns många fördelar med [EU-förordningen om nätneutralitet](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). En av fördelarna när det gäller öppenhet och insyn är kravet på internetoperatörer att de i avtalen måste ange den minsta, genomsnittliga och högsta bandbredden för alla internetanslutningar istället för att bara ange ett teoretiskt maximum. BEREC, en sammanslutning av generaldirektörerna för Europas regleringsmyndigheter inom telekom, kommer att klarlägga hur dessa värden ska beräknas och vad som ska hända om en anslutning delas av flera användare.
 
 
 ## Vilken typ av öppenhet och insyn kan vi förvänta oss av de nya bestämmelserna?
 
-[Förordningen] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kräver att internetoperatörer ska lämna information om alla trafikhanteringsåtgärder som påverkar en användares internetåtkomst. Regleringsmyndigheterna vill nu ha synpunkter på vad detta ska betyda i praktiken.
+[Förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kräver att internetoperatörer ska lämna information om alla trafikhanteringsåtgärder som påverkar en användares internetåtkomst. Regleringsmyndigheterna vill nu ha synpunkter på vad detta ska betyda i praktiken.
 
 
 
@@ -245,25 +245,25 @@ Det finns många fördelar med [EU-förordningen om nätneutralitet] (http://eur
 ## Hur hanteras nätneutraliteten i andra delar av världen?
 
 
--        [USA] (http://www.savetheinternet.com/sti-home)
--        [Indien] (http://www.savetheinternet.in/)
+-        [USA](http://www.savetheinternet.com/sti-home)
+-        [Indien](http://www.savetheinternet.in/)
 
 
-## ## Hur kan jag hjälpa till? {#how-can-i-help-you}
+## Hur kan jag hjälpa till? {#how-can-i-help-you}
 
 You can help SaveTheInternet.eu in many ways:
 
 <i class="fa fa-long-arrow-right"></i>        Du kan hjälpa till med att sprida budskapet. Berätta för vänner och bekanta om kampanjen, berätta för dem om nätneutralitet och tala om varför det är så viktigt att agera nu. Bara när många personer gör sin stämma hörd kommer vi att kunna skydda våra interneträttigheter och vår frihet på nätet.
 
-<i class="fa fa-long-arrow-right"></i>        Översätt gärna den här sidan till ditt språk. Det kan du göra här [Save The Internet on Github] (https://github.com/netzfreiheit/STI-UI)
+<i class="fa fa-long-arrow-right"></i>        Översätt gärna den här sidan till ditt språk. Det kan du göra här [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Anslut dig till oss! Om du tillhör en organisation och skulle vilja vara med i SaveTheInternet.eu, är du välkommen att mejla till [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)
+<i class="fa fa-long-arrow-right"></i>        Anslut dig till oss! Om du tillhör en organisation och skulle vilja vara med i SaveTheInternet.eu, är du välkommen att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 <i class="fa fa-long-arrow-right"></i>        Du kan också hjälpa till genom att rapportera brott mot nätneutralitet till [Respect My Net]  (https://respectmynet.eu/)
 
 <i class="fa fa-long-arrow-right"></i>        Du kan också skänka pengar. Klicka [ här ] om du vill skänka pengar till organisationerna som står bakom SaveTheInternet
 ]
 
-Har du fler kreativa idéer? Tala då om det för oss genom att mejla till [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)
+Har du fler kreativa idéer? Tala då om det för oss genom att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 {{ END FAQ }}
