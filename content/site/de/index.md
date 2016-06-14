@@ -41,7 +41,7 @@ Spezialdienste drohen zu bezahlten Überholspuren für finanzstarke Unternehmen 
 
 ### Verkehrsmanagement
 
-Das Internet ist heute so bunt und vielfälltig, weil es alle Daten gleich behandelt. Dieses *best effort* Prinzip soll mit den neuen Regeln komplett abgeschafft werden.
+Das Internet ist heute so bunt und vielfältig, weil es alle Daten gleich behandelt. Dieses *best effort*-Prinzip soll mit den neuen Regeln komplett abgeschafft werden. Internetanbieter könnten einzelne Online-Dienste eigenmächtig herunterdrosseln.
 
 [In den FAQs weiterlesen](faq/#what-is-traffic-management)
 
@@ -51,7 +51,7 @@ Das Internet ist heute so bunt und vielfälltig, weil es alle Daten gleich behan
 
 ### Zero-Rating
 
-Es sieht so aus als wäre es gratis, aber in Wirklichkeit verlierst Du Deine Wahlfreiheit. Beim Zero-Rating wird Dein Internetanbieter zum Türsteher, der mitentscheiden will, welche Dienste Du im Internet nutzt. Das alles gibt ihm einen Grund, Dein monatliches Datenvolumen künstlich niedrig zu halten. 
+Es sieht aus wie ein Gratis-Angebot, aber in Wirklichkeit verlierst du deine Wahlfreiheit. Beim Zero-Rating wird dein Internetanbieter zum Türsteher, der mitentscheiden will, welche Dienste du im Internet nutzt. Das alles gibt ihm einen Grund, dein monatliches Datenvolumen künstlich niedrig zu halten. 
 
 [In den FAQs weiterlesen](faq/#what-is-zero-rating)
 
@@ -65,7 +65,7 @@ Es sieht so aus als wäre es gratis, aber in Wirklichkeit verlierst Du Deine Wah
 
 # Das freie Internet ist in Gefahr! 
 
-Deine Meinung ist wichtig! Hilf die Freiheit des Internets in Europa zu erhalten, indem Du dich hier an der Konsultation zu den neuen Regeln zur Netzneutralität beteiligst. Jeder Kommentar ist wichtig und es kostet Dich nur 2 Minuten Deiner Zeit um Deiner Stimme gehör zu verschaffen. Beantworte diese wenigen Fragen und erstelle damit einen offiziellen Kommentar an die europäischen Telekom-Regulierungsbehörden (BEREC).
+Deine Meinung ist wichtig! Hilf die Freiheit des Internets in Europa zu erhalten, indem du dich hier an der Konsultation zu den neuen Regeln zur Netzneutralität beteiligst. Jeder Kommentar ist wichtig und es kostet Dich nur 2 Minuten deiner Zeit, deiner Stimme Gehör zu verschaffen. Beantworte diese wenigen Fragen und erstelle damit einen offiziellen Kommentar an das Gremium der Telekom-Regulierungsbehörden in der EU (BEREC).
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -99,11 +99,11 @@ Im Oktober 2015 hat die EU ein [Gesetz](http://eur-lex.europa.eu/legal-content/D
 
 
 {{ BEGIN HOME BEREC-1 }}
-Das Gremium Europäischer Regulierungsbehörden für elektronische Kommunikation (kurz: BEREC) muss bis Ende August 2016 Leitlinien beschließen, um die Unklare EU Verordnung zu präzisieren. Diese Leitlinien entscheiden über die Zukunft der Netzneutralität in Europa.
+Das Gremium Europäischer Regulierungsbehörden für elektronische Kommunikation (kurz: BEREC) muss bis Ende August 2016 Leitlinien beschließen, um die unklare EU-Verordnung zu präzisieren. Diese Leitlinien entscheiden über die Zukunft der Netzneutralität in Europa.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-[Am 6. Juni 2016 hat BEREC seinen Entwurf für die neuen Leitlinien vorgestellt](https://netzpolitik.org/2016/eu-leitlinien-zur-netzneutralitaet-the-good-the-bad-and-the-ugly/){: target="_blank" } und eine öffentliche Konsultation bis zum 18. Juli gestartet. BEREC hat danach bis zum am 30. August 2016 Zeit seine endgültigen Regeln zu veröffentlichen. Für Bürgerinnen und Bürger bleiben also __nur wenige Wochen,__ um auf die Konsultation zu reagieren. BEREC wird dann __nur etwas mehr als einen Monat__ Zeit haben, um die Kommentare (potentiell tausende) zu bearbeiten, ihre Entwürfe anzupassen und dann die administrativen Schritte für eine formelle Zustimmung zu eventuellen Änderungen durchzuführen.
+[Am 6. Juni 2016 hat BEREC seinen Entwurf für die neuen Leitlinien vorgestellt](https://netzpolitik.org/2016/eu-leitlinien-zur-netzneutralitaet-the-good-the-bad-and-the-ugly/){: target="_blank" } und eine öffentliche Konsultation bis zum 18. Juli gestartet. BEREC hat danach bis zum am 30. August 2016 Zeit, seine endgültigen Regeln zu veröffentlichen. Für Bürgerinnen und Bürger bleiben also __nur wenige Wochen,__ um auf die Konsultation zu reagieren. BEREC wird dann __nur etwas mehr als einen Monat__ Zeit haben, um die Kommentare (potentiell Tausende) zu bearbeiten, ihre Entwürfe anzupassen und dann die administrativen Schritte für eine formelle Zustimmung zu eventuellen Änderungen durchzuführen.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
@@ -111,9 +111,9 @@ Das Gremium Europäischer Regulierungsbehörden für elektronische Kommunikation
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __Jetzt ist entscheidender Moment___: In den USA und in Indien haben in der Konsultation Millionen Menschen ihre Meinung geäußert. Deshalb müssen wir weiter Druck ausüben und uns für Netzneutralität einsetzen, indem unseer Meinung gehör verschaffen und die Regulatoren von der Bedeutung eines freien und offenen Internets überzeugen
+### __Jetzt ist ein entscheidender Moment__: In den USA und in Indien haben in der Konsultation Millionen Menschen ihre Meinung geäußert. Deshalb müssen wir weiter Druck ausüben und uns für Netzneutralität einsetzen. Wenn wir unserer Meinung Gehör verschaffen, können wir die Regulatoren von der Bedeutung eines freien und offenen Internets überzeugen.
 
-Die Regulatoren brauchen die richtigen Werkzeuge, um die Netzneutralität absichern zu können. Die Bürgerrechts- und Verbraucherschutzorganisationen hinter dieser Kampagne glauben, dass BEREC nur mit den Argumenten aus der Bevölkerung zu einer Einhaltung der Netzneutralität zu bewegen sein wird. Deshalb kannst du auf diesser Webseite einfach und schnell einen wertvollen Beitrag in der Konsultation von BEREC leisten. 
+Die Regulatoren brauchen die richtigen Werkzeuge, um die Netzneutralität absichern zu können. Die Bürgerrechts- und Verbraucherschutzorganisationen hinter dieser Kampagne glauben, dass BEREC nur mit den Argumenten aus der Bevölkerung zu einer Einhaltung der Netzneutralität zu bewegen sein wird. Deshalb kannst du auf dieser Website einfach und schnell einen wertvollen Beitrag zur Konsultation von BEREC leisten.
 
 {{ END HOME BEREC-4 }}
 
@@ -132,11 +132,11 @@ Was wir immer brauchen können, ist Hilfe mit Übersetzungen. Wenn du also eine 
 
 ### Datenschutz-Bestimmungen
 
-Wir speichern Ihre Kommentare zu der BEREC Konsultation in einem E-Mail-Postfach, welches in Österreich gehostet wird, bis wir die E-Mails mit Ihren Kommentaren der offiziellen BEREC Konsultation übermitteln. [Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) können Sie die Datenschutz-Bestimmungen von BEREC für Konsultationen finden. BEREC wird alle Antworten veröffentlichen, die nicht als vertraulich markiert sind. Die Organisationen, die hinter dieser Kampagne stehen sind am Ende dieser Website aufgelistet. Einen Monat nachdem die offizielle Konsultationsphase beendet ist, werden wir alle Kommentare löschen.
+Wir speichern Ihre Kommentare zu der BEREC-Konsultation in einem E-Mail-Postfach, das in Österreich gehostet wird, bis wir die E-Mails mit Ihren Kommentaren der offiziellen BEREC-Konsultation übermitteln. [Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) können Sie die Datenschutz-Bestimmungen von BEREC für Konsultationen finden. BEREC wird alle Antworten veröffentlichen, die nicht als vertraulich markiert sind. Die Organisationen, die hinter dieser Kampagne stehen, sind am Ende dieser Website aufgelistet. Einen Monat nach Ende der offiziellen Konsultationsphase werden wir alle Kommentare löschen.
 
 Wir sammeln nicht-personalisierte Informationen auf dieser Website mit [Piwik](https://piwik.org/), einer datenschutzfreundlichen Web-Analytics-Software.
 
-Wenn Sie den [Newsletter abonnieren](#subscribe-to-newsletter){: data-scroll="true"}, wird ihre E-Mail-Adresse in einer Mailingliste und Datenbank gespeichert werden, die von European Digital Rights gehostet und verwaltet wird. Sie ist die einzige Organisation, die das Recht hat, ihnen Nachrichten zu senden, wenn Sie den Newsletter abonnieren. Sie können sich jederzeit von diesem Newsletter abmelden und werden keine weiteren Nachrichten mehr empfangen.
+Wenn Sie den [Newsletter abonnieren](#subscribe-to-newsletter){: data-scroll="true"}, wird ihre E-Mail-Adresse in einer Mailingliste und Datenbank gespeichert werden, die von [European Digital Rights (EDRi)](https://edri.org/about/) gehostet und verwaltet wird. EDRi ist die einzige Organisation, die das Recht hat, Ihnen Nachrichten zu senden, wenn Sie den Newsletter abonnieren. Sie können sich jederzeit von diesem Newsletter abmelden und werden keine weiteren Nachrichten mehr empfangen.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
