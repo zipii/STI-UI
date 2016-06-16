@@ -132,13 +132,11 @@ Wat we altijd nodig hebben, is hulp met vertalen. Dus als u een taal spreekt die
 
 ### Privacybeleid
 
-Uw commentaren op de BEREC-raadpleging bewaren wij in het Postvak IN van een in Oostenrijk gehost e-mailadres, totdat wij de e-mails met uw commentaren naar de officiële BEREC-raadpleging doorsturen. Het privacybeleid van BEREC voor raadplegingen is [hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) te vinden.
-BEREC publiceert alle reacties die niet als vertrouwelijk zijn gemarkeerd.
-De organisaties die bij deze campagne betrokken zijn, worden onderaan deze website genoemd. Eén maand na afloop van de officiële raadplegingsperiode zullen we alle commentaren verwijderen.
+We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
 
-Op deze website verzamelen we niet-persoonsgebonden informatie met [Piwik](https://piwik.org/), een privacyvriendelijk webanalyseprogramma.
+We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-Als u [zich abonneert op de nieuwsbrief](#subscribe-to-newsletter){: data-scroll="true"}, wordt uw e-mailadres toegevoegd aan een mailinglijst en een database die door European Digital Rights wordt bijgehouden en gehost. European Digital Rights is de enige organisatie die het recht heeft om u berichten te versturen als u zich op de nieuwsbrief abbonneert. U kunt uw abonnement op de nieuwsbrief op ieder moment opzeggen en zult daarna geen verdere berichten ontvangen.
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
