@@ -28,7 +28,7 @@ Prisijunk prie mūsų, padėk dabar!
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
-###Specializuotos paslaugos
+### Specializuotos paslaugos
 
 Specializuotos paslaugos grasina tapti mokamais finansiškai stiprių įmonių lenkimo keliais. Kiekvienas kitas tinklapis, kiekviena idėja ir kiekvienas startuolis būtų išstumti į „šliaužiančią“ juostą.
 
@@ -38,9 +38,9 @@ Specializuotos paslaugos grasina tapti mokamais finansiškai stiprių įmonių l
 
 {{ BEGIN HOME TRAFFIC-MANAGEMENT }}
 
-### Traffic Management
+### Duomenų srauto valdymas
 
-Jokios cenzūros atvirame internete: interneto  tiekėjai neturi tapti „šerifų pagalbininkais“ ir spręsti, kuris duomenų srautas yra svarbus ir kokias interneto paslaugas jie gali savo nuožiūra lėtinti.
+Jokios cenzūros atvirame internete: interneto tiekėjai neturi tapti „šerifų pagalbininkais“ ir spręsti, kuris duomenų srautas yra svarbus ir kokias interneto paslaugas jie gali savo nuožiūra lėtinti.
 
 [Daugiau rasite D.U.K. ](faq/#what-is-traffic-management)
 
@@ -48,11 +48,11 @@ Jokios cenzūros atvirame internete: interneto  tiekėjai neturi tapti „šerif
 
 {{ BEGIN HOME ZERO-RATING }}
 
-### Zero Rating
+### Nulinis reitingas
 
 Tai skamba maždaug taip, tarsi tu kažką gauni dykai, tačiau nulinis reitingas tavo tiekėją padaro durininku. Be to, jam tai suteikia pagrindą mažinti mėnesinę tavo duomenų apimtį.
 
-# Nulinis reitingas {#what-is-zero-rating}
+[Daugiau rasite D.U.K. ](#what-is-zero-rating)
 
 {{ END HOME ZERO-RATING }}
 
@@ -102,7 +102,7 @@ Europos elektroninių ryšių reguliuotojų institucijos (BEREC) komisija prival
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-2016 metų birželio mėnesį BEREC ketina paskelbti savo projektus ir surengti viešas konsultacijas. Tačiau BEREC procedūrinės taisyklės lemia tai, kad plačioji visuomenė tik __nuo birželio 6 dienos iki liepos 18 dienos__ galės pateikti atsakymus. ES reglamente numatyta, kad BEREC savo galutines direktyvas privalo paskelbti 2016 metų rugpjūčio 30 dieną. Taigi piliečiams lieka __tik keletas savaičių,__ norint reaguoti į konsultacijas. BEREC tuomet turės __ tik šiek tiek daugiau nei vieną mėnesį __ laiko apdoroti (galimai tūkstančius ) komentarų, priderinti savo projektus ir tuomet imtis administracinių veiksmų formaliam pritarimui galimiems pakeitimams.
+2016 metų birželio mėnesį BEREC ketina paskelbti savo projektus ir surengti viešas konsultacijas. Tačiau BEREC procedūrinės taisyklės lemia tai, kad plačioji visuomenė tik __nuo birželio 6 dienos iki liepos 18 dienos__ galės pateikti atsakymus. ES reglamente numatyta, kad BEREC savo galutines direktyvas privalo paskelbti 2016 metų rugpjūčio 30 dieną. Taigi piliečiams lieka __tik keletas savaičių__, norint reaguoti į konsultacijas. BEREC tuomet turės __tik šiek tiek daugiau nei vieną mėnesį__ laiko apdoroti (galimai tūkstančius ) komentarų, priderinti savo projektus ir tuomet imtis administracinių veiksmų formaliam pritarimui galimiems pakeitimams.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
@@ -118,7 +118,7 @@ Neseniai BEREC surengė asmeninius susitikimus su interesų grupėms. Klausimus,
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [reikalingi jūsų įrašai](#siųsk laišką) {: data-scroll="true"} prieš priimant jiems sprendimą dėl tinklo neutralumo ateities Europoje.
+## BEREC [reikalingi jūsų įrašai](#siųsk laišką){: data-scroll="true"} prieš priimant jiems sprendimą dėl tinklo neutralumo ateities Europoje.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
@@ -126,17 +126,17 @@ Neseniai BEREC surengė asmeninius susitikimus su interesų grupėms. Klausimus,
 
 __Parašyk mums šiuo adresu [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Gal turi šio tinklapio patobulinimo idėją? Puiku, mums reikia tavęs. Visas šio tinklapio šaltinio kodas pateiktas [GitHub ](https://github.com/Netzfreiheit/STI-UI), jis gali būti išskleistas, patobulintas ir grąžintas mums atgal.
+Gal turi šio tinklapio patobulinimo idėją? Puiku, mums reikia tavęs. Visas šio tinklapio šaltinio kodas pateiktas [GitHub](https://github.com/Netzfreiheit/STI-UI), jis gali būti išskleistas, patobulintas ir grąžintas mums atgal.
 
 Ko mums visada reikia: pagalbos darant vertimus. Taigi jei moki kokią nors kalbą, kurios mes čia nenurodėme, tuomet parašyk mums.
 
 ### Duomenų apsaugos direktyva
 
-Mes išsaugosime tavo komentarus konsultacijoms su BEREC gautųjų laiškų dėžutėje Austrijoje patalpintoje el.pašto paskyroje, iki išsiunčiant šį laišką su Jūsų komentarais oficialioms BEREC konsultacijoms. BEREC duomenų apsaugos direktyvas rasi [čia](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC paskelbs visus komentarus, kurie nepažymėti kaip konfidencialūs. Organizacijos, remiančios šią kampaniją, galbūt taip pat analizuoja komentarus, kurie per šį tinklapį siunčiami BEREC ir nepažymėti kaip konfidencialūs. Praėjus mėnesiui po oficialių konsultacijų ištrinsime visus komentarus.
+We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
 
-Šiame tinklapyje mes renkame su asmens privačiu gyvenimu nesusijusią informaciją naudodami tam palankią privatumo nepažeidžiančią tinklapio analizės programinę įrangą [Piwik](https://piwik.org/).
+We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-Jei tu [prenumeruoji naujienlaiškį](#subscribe-to-newsletter){: data-scroll="true"}, mes tavo el. pašto adresą išsaugome adresatų sąraše ir duomenų bazėje.
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}

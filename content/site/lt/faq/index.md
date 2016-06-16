@@ -10,43 +10,44 @@
 {{ BEGIN FAQ }}
 # Dažniausiai užduodami klausimai
 
-## Tinklo neutralumas
-
+## [Tinklo neutralumas](#net-neutrality){: data-scroll="true"}
 - [Ką reiškia tinklo neutralumas?](#what-is-net-neutrality){: data-scroll="true"}
 - [Kokią įtaką daro tinklo neutralumas man ir mano gyvenimui?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
 - [Kaip mes iki to priėjome? Kas atsitiko ES?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
 - [Kas dalyvauja debatuose Europoje ?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
 - [Kas remia SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-## Specializuotos paslaugos
+## [Specializuotos paslaugos](#specialised-services){: data-scroll="true"}
 - [Kas yra specializuotos paslaugos?](#what-are-specialised-services){: data-scroll="true"}
 - [Kokios paslaugos nėra specializuotos paslaugos?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
 - [Kokios yra specializuotųjų paslaugų taisyklės ES teisėje?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
 - [Ką reikia padaryti, norint sugriežtinti specializuotų paslaugų taisykles, ir kodėl tai yra svarbu?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Duomenų srauto valdymas
+## [Duomenų srauto valdymas](#traffic-management){: data-scroll="true"}
 - [Kas yra duomenų srauto valdymas?](#what-is-traffic-management){: data-scroll="true"}
 - [Kodėl mane turėtų dominti duomenų srauto valdymas?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
 - [Ar reikėtų interneto  tiekėjams neleisti valdyti savo tinklus?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
 - [Koks yra SaveTheInternet.eu tikslas dėl duomenų srauto valdymo?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
 - [Kokiomis aplinkybėmis interneto  tiekėjas gali valdyti savo tinklą?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
-## Nulinis reitingas
+## [Nulinis reitingas](#zero-rating){: data-scroll="true"}
 - [Ką reiškia nulinis reitingas?](#what-is-zero-rating){: data-scroll="true"}
 - [Kodėl nulinis reitingas yra problemiškas?](#why-is-zero-rating-a-problem){: data-scroll="true"}
 - [Ar aš iš tikrųjų gausiu ką nors už dyka, jei naudosiu nulinio reitingo tarifą ?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
 - [Kaip nulinis reitingas gali atsiliepti interneto paslaugų tiekėjams ir interneto įvairovei ?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
 - [Koks yra SaveTheInternet.eu tikslas dėl nulinio reitingo?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## Skaidrumas
+## [Skaidrumas](#transparency){: data-scroll="true"}
 - [Kokios naudos galime tikėtis iš naujųjų tinklo neutralumo taisyklių?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
 - [Kokio pobūdžio skaidrumo galima tikėtis iš taisyklių?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Kiti klausimai
+## [Kiti klausimai](#other){: data-scroll="true"}
 - [Kaip atrodo tinklo neutralumas kitose pasaulio šalyse?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
 - [Kaip aš galėčiau padėti?](#how-can-i-help-you){: data-scroll="true"}
 
-# Tinklo neutralumas
+
+
+# Tinklo neutralumas {#net-neutrality}
 
 ## Ką reiškia tinklo neutralumas? {#what-is-net-neutrality}
 
@@ -105,10 +106,10 @@ SaveTheInternet yra bendra 12 Europos NVO, kurios iškėlė užduotį apginti la
 Jei tu esi dalis organizacijos, kuri norėtų tapti šios kampanijos rėmėja, ir jei tu norėtum padėti skleisti šią kampaniją, tada prašytume su mumis susisiekti: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# Specializuotos paslaugos {#what-are-specialised-services}
+# Specializuotos paslaugos {#specialised-services}
 
 
-## Kas yra specializuotos paslaugos?
+## Kas yra specializuotos paslaugos? {#what-are-specialised-services}
 
 Specializuota paslauga yra bet kokia paslauga, kuri siūloma internetu, tačiau interneto  tiekėjas suteikia jai aukštesnę kokybę. [Reglamentas](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) numato, kad bet koks šio pobūdžio optimizavimas turi būti objektyviai būtinas paslaugai, kuria naudojamasi, – negalima tiesiog taip suteikti šiai paslaugai prioriteto. Be to, interneto tiekėjas privalo užtikrinti, kad tinkle apskritai būtų užtektinai pajėgumų, kad nebūtų daroma žala bendrai interneto prieigai - šį reikalavimą turi peržiūrėti nacionalinės reguliavimo institucijos. Trumpai tariant, „specializuota paslauga“ neturi tapti diskriminuojančia „lenkimo juosta“.
 
@@ -142,10 +143,10 @@ Naujas specializuotas paslaugas, prieš leidžiant jas pateikti rinkai, turi per
 Specializuotos paslaugos sukūrimas turi būti objektyviai būtinas paslaugos funkcionalumui ir netapti tik patogiu keliu įgauti pranašumų konkurentų atžvilgiu. Jei palyginama paslauga yra atvirame internete, tai nereikėtų leisti specializuotos paslaugos.
 
 
-# Duomenų srauto valdymas {#what-is-traffic-management}
+# Duomenų srauto valdymas {#traffic-management}
 
 
-## Kas yra duomenų srauto valdymas?
+## Kas yra duomenų srauto valdymas? {#what-is-traffic-management}
 
 Duomenų srauto valdymu interneto  tiekėjai gali reguliuoti savo tinkluose duomenų srautą. Tokiu būdu pasirinkti perdavimo procesai gali būti pagreitinti, o kiti sulėtinti. Pagal naująjį reglamentą šios priemonės tinkamos tik tada, jei jos skaidrios, proporcingos ir nediskriminuojančios. Duomenų srauto valdymas neturi būti tik laikina priemonė, taip pat neturi tapti nuolatine tinklo konfigūracijos dalimi. Be to, galioja bendra taisyklė, kad duomenų srauto valdymas turi būti vienodas visoms taikomosioms programoms, taip pat tik labai ribotam skaičiui situacijų duomenų srautas gali būti skirstomas kategorijomis ir šios gali būti traktuojamos nevienodai.
 
@@ -188,10 +189,10 @@ Remiantis [reglamentu](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:
 Mes manome, kad ši antra galimybė turėtų būti leistina tik tada, jei šalia duomenų kiekio tam tikrame tinklo mazge (pvz., klientų skaičius, kurie susieti tinklo elemente), yra kiti indikatoriai. Visuomet turi būti konkretus ir aktualus poreikis duomenų srauto valdymui.
 
 
-# Nulinis reitingas {#what-is-zero-rating}
+# Nulinis reitingas {#zero-rating}
 
 
-## Ką reiškia nulinis reitingas?
+## Ką reiškia nulinis reitingas? {#what-is-zero-rating}
 
 Nulinis reitingas yra verslo modelis, kai tam tikros taikomosios programos arba tam tikros paslaugos duomenys neįskaitomi į kliento mėnesinį duomenų limitą. Nulinis reitingas apdoroja įvairius duomenų ryšius įvairiais būdais, kad tam tikri ryšiai galėtų būti siūlomi už vieną kainą, o kiti – už kitą. Nors tai yra nukrypimas nuo „klasikinių“ tinklo neutralumo pažeidimų, praktikoje tai yra tas pats, kadangi interneto  tiekėjas tokiu būdu gali daryti įtaką, kokias taikomąsias programas ir paslaugas naudoti, o kokias – ne.
 
@@ -224,7 +225,7 @@ Jei viršijus apimties ribą nulinio reitingo pasiūlymai yra vis dar pasiekiami
 
 
 
-# Skaidrumas
+# Skaidrumas {#transparency}
 
 ## Kokios naudos galime tikėtis iš naujųjų tinklo neutralumo taisyklių? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 
@@ -237,7 +238,7 @@ Esama daug palankių pasekmių [Europos reglamentas dėl tinklo neutralumo](http
 
 
 
-# Kiti klausimai
+# Kiti klausimai {#other}
 
 ## Kaip atrodo tinklo neutralumas kitose pasaulio šalyse? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
@@ -256,13 +257,11 @@ Yra keletas galimybių padėti SaveTheInternet.eu:
 
 <i class="fa fa-long-arrow-right"></i>    Paskleisk šią žinią! Pakalbėk su savo draugais apie šią kampaniją, apie tinklo neutralumą, ir kodėl yra svarbu veikti dabar. Tik tada, kai pasigirs daugiau atskirų balsų, pavyks apginti interneto teises ir laisves.
 
-<i class="fa fa-long-arrow-right"></i>    Išversk šį tinklapį į savo kalbą! Savo darbą gali perduoti per [Save The Internet on Github]. (https://github.com/netzfreiheit/STI-UI)
+<i class="fa fa-long-arrow-right"></i>    Išversk šį tinklapį į savo kalbą! Savo darbą gali perduoti per [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI).
 
 <i class="fa fa-long-arrow-right"></i>    Prisijunk prie mūsų! Jei esi dalis kurios nors organizacijos ir norėtum prisijungti prie SaveTheInternet.eu, parašyk mums šiuo adresu [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 <i class="fa fa-long-arrow-right"></i>    Pranešk apie tinklo neutralumo pažeidimus [Respect My Net](https://respectmynet.eu/)
-
-<i class="fa fa-long-arrow-right"></i>    Paaukok mums pinigų! Jei norėtum pervesti auką organizacijoms, nurodytoms SaveTheInternet.eu bakstelk [čia].
 
 Ar dar turi kitų šaunių ir kūrybiškų idėjų? Keipkis į mus šiuo adresu [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
