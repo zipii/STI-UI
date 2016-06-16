@@ -1,271 +1,269 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](../#send-a-message)
-- [INFORMATION](../#info)
-- [FAQ](#)
+- [SIŲSTI ŽINUTĘ](../#send-a-message)
+- [INFORMACIJA](../#info)
+- [D.U.K.](#)
 {{ END NAVIGATION }}
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# FREQUENTLY ASKED QUESTIONS
+# Dažniausiai užduodami klausimai
 
-## Net Neutrality
+## Tinklo neutralumas
 
-- [What is net neutrality?](#what-is-net-neutrality){: data-scroll="true"}
-- [How does net neutrality influence me and my life?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
-- [How did we end up here? What happened in the EU?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
-- [Who is involved in the debate in Europe?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
-- [Who is behind SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
+- [Ką reiškia tinklo neutralumas?](#what-is-net-neutrality){: data-scroll="true"}
+- [Kokią įtaką daro tinklo neutralumas man ir mano gyvenimui?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
+- [Kaip mes iki to priėjome? Kas atsitiko ES?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
+- [Kas dalyvauja debatuose Europoje ?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
+- [Kas remia SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-## Specialised Services
-- [What are specialised services?](#what-are-specialised-services){: data-scroll="true"}
-- [What are examples of services that are not specialised services?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
-- [What safeguards are in EU law to deal with specialised services?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
-- [What is required to strengthen the safeguards on specialised services and why is this important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
+## Specializuotos paslaugos
+- [Kas yra specializuotos paslaugos?](#what-are-specialised-services){: data-scroll="true"}
+- [Kokios paslaugos nėra specializuotos paslaugos?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
+- [Kokios yra specializuotųjų paslaugų taisyklės ES teisėje?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
+- [Ką reikia padaryti, norint sugriežtinti specializuotų paslaugų taisykles, ir kodėl tai yra svarbu?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Traffic Management
-- [What is traffic management?](#what-is-traffic-management){: data-scroll="true"}
-- [Why should I care about traffic management?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
-- [Shouldn't internet providers be allowed to manage their networks?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
-- [What is the goal of SaveTheInternet.eu when it comes to traffic management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
-- [When can a provider start managing its network?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
+## Duomenų srauto valdymas
+- [Kas yra duomenų srauto valdymas?](#what-is-traffic-management){: data-scroll="true"}
+- [Kodėl mane turėtų dominti duomenų srauto valdymas?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
+- [Ar reikėtų interneto  tiekėjams neleisti valdyti savo tinklus?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
+- [Koks yra SaveTheInternet.eu tikslas dėl duomenų srauto valdymo?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
+- [Kokiomis aplinkybėmis interneto  tiekėjas gali valdyti savo tinklą?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
-## Zero Rating
-- [What is zero rating?](#what-is-zero-rating){: data-scroll="true"}
-- [Why is zero rating a problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
-- [Am I really getting something for free when I use a zero rating programme?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
-- [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
-- [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
+## Nulinis reitingas
+- [Ką reiškia nulinis reitingas?](#what-is-zero-rating){: data-scroll="true"}
+- [Kodėl nulinis reitingas yra problemiškas?](#why-is-zero-rating-a-problem){: data-scroll="true"}
+- [Ar aš iš tikrųjų gausiu ką nors už dyka, jei naudosiu nulinio reitingo tarifą ?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
+- [Kaip nulinis reitingas gali atsiliepti interneto paslaugų tiekėjams ir interneto įvairovei ?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
+- [Koks yra SaveTheInternet.eu tikslas dėl nulinio reitingo?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## TRANSPARENCY
-- [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
-- [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
+## Skaidrumas
+- [Kokios naudos galime tikėtis iš naujųjų tinklo neutralumo taisyklių?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
+- [Kokio pobūdžio skaidrumo galima tikėtis iš taisyklių?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Other
-- [How is net neutrality dealt with in other parts of the world?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
-- [How can I help you?](#how-can-i-help-you){: data-scroll="true"}
+## Kiti klausimai
+- [Kaip atrodo tinklo neutralumas kitose pasaulio šalyse?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
+- [Kaip aš galėčiau padėti?](#how-can-i-help-you){: data-scroll="true"}
 
+# Tinklo neutralumas
 
+## Ką reiškia tinklo neutralumas? {#what-is-net-neutrality}
 
-# Net Neutrality
+Tinklo neutralumas yra toks principas, kai interneto tiekėjai privalo vienodai gerai perduoti visus duomenis, nepriklausomai nuo jų kilmės, tikslo ar duomenų tipo. Tai reiškia, kad tinklo neutralumas draudžia interneto tiekėjams blokuoti turinį arba suteikti žemesnį prioritetą turiniui, taikomosioms programoms arba paslaugoms.
 
-## What is net neutrality? {#what-is-net-neutrality}
+Tinklo neutralumas užtikrina tavo laisvę gauti tinklo informaciją arba ją skleisti. Šis principas egzistuoja nuo pat interneto pradžios ir užtikrina tinklo atvirumą, inovacijas, konkurencingumą ir įvairovę.
 
-Net neutrality is the principle under which Internet access providers carry data without discrimination on the basis of origin, destination or type of data. This means that net neutrality prohibits telecoms operators from blocking or degrading content, applications or services.
 
-Net neutrality guarantees your freedom online to access and distribute the information you want.This founding principle ensures the openness, innovation, competition and diversity of the Internet.
+## Kokią įtaką daro tinklo neutralumas man ir mano gyvenimui? {#how-does-net-neutrality-influence-me-and-my-life}
 
+Jei nebūtų tinklo neutralumo, internetas atrodytų taip:
 
-## How does net neutrality influence me and my life? {#how-does-net-neutrality-influence-me-and-my-life}
+1.    Tu mokėtum daugiau už mažesnį interneto duomenų kiekį, ir tavo interneto tiekėjas taptų vartininku, kuris atsistotų tarp tavęs ir tavo pageidaujamų interneto paslaugų bei taikomųjų programų.
 
-Without net neutrality...
+2.    Nauji, patrauklūs tinklapiai ir išradimai nebūtų taip greitai ir lengvai pasiekiami kaip didieji, jau įsitvirtinę JAV tinklapiai – galbūt jie pakankamai ilgai neišgyventų, kad patys taptų populiarūs.
 
-1.        You would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
+3.    Ekonomika ir visų pirma startuoliai dėl to nukentėtų. Naudodamiesi tinklo neutralumu mes galime išrasti visas naujas paslaugas, neklausdami leidimo, nuo pat pradžių naudotis globalia, sąžininga infrastruktūra ir tokiu būdu iš to turėti naudos. Jei mes prarasime šią laisvę, tai mes kartu prarasime svarbiausias skaitmeninės ekonomikos milžiniškos sėkmės dalis, mūsų kaip vartotojų pasirinkimo laisvę ir mūsų kaip piliečių komunikavimo laisvę.
 
-2.        New cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
+4.    Internetas taptų lėtesnis. Tyrimai parodė: jei interneto tiekėjai gaus leidimą konkurencinius pranašumus parduoti tik keletui tinklapių, tai juos paskatins likusią interneto dalį padaryti lėtesnę visiems kitiems vartotojams. Net jei atsirastų tariamai pigesni tarifai, iš tiesų tai reikštų mažesnį pasirinkimą ir lėtesnius „tikro“ interneto atsisiuntimo limitus.
 
-3.        The economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
+[Apimčių ribų daroma žala vartotojams ir inovacijai (anglų kalba)](https://www.newamerica.org/oti/artificial-scarcity/)
 
-4.        The Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
+[Nulinio reitingo žala Nyderlandų vartotojams (anglų kalba)](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)
 
-[How data caps harm consumers and innovation](https://www.newamerica.org/oti/artificial-scarcity/)
+[Nulinis reitingas Slovenijoje](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
-[How zero-rating hurt Dutch consumers](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
 
-[Zero-rating in Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+## Kaip mes iki to priėjome? Kas atsitiko ES? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
+Šios kampanijos metu daugelis NVO jau nuo 2008 metų pasisakė už tinklo neutralumą. Debatų metu mes pastebėjome daugėjančius tinklo neutralumo principo pažeidimus internete. Kai JAV telekomunikacijų reguliuotojas FCC paskelbė internete savo pirmąsias direktyvas internetui, norėdamas apginti internetą per laidinį tinklą nuo kai kurių tinklo diskriminavimo formų, tai buvo didžiulė sėkmė. Vėliau[ kitos šalys įvedė įstatymus ir taisykles siekiant apginti tinklo neutralumą ](https://www.thisisnetneutrality.org/#map). Taip, pavyzdžiui, buvo Čilėje, Nyderlanduose, Slovėnijoje, Indijoje ir Kanadoje.
 
-## How did we end up here? What happened in the EU? {#how-did-we-end-up-here-what-happened-in-the-eu}
+Europos Sąjungoje tokie debatai vyko labai lėtai. Mes turėjome laukti iki 2013 metų rugsėjo 11 d., kol buvo pateiktas Europos tinklo neutralumo įstatymo projektas. Šį projektą pateikė Europos Komisija.
 
-Many of the NGOs behind this campaign have fought for net neutrality as early as 2008. As the debate unfolded, we saw more and more violations of the principle of net neutrality in the Internet. When the US telecoms regulator FCC released its first Internet order to protect the fixed-line Internet against some forms of network discrimination, this was a big success for net neutrality. Subsequently, [ other countries adopted legislation and regulatory decisions to safeguard net neutrality](https://www.thisisnetneutrality.org/#map). This is the case of, for example, Chile, the Netherlands, Slovenia, India and Canada. 
+2013 metų pasiūlyme buvo keletas probleminių landų, kurios interneto  tiekėjams sudarytų galimybes apeiti tinklo neutralumą. Pavyzdžiui, interneto tiekėjams nuostata apie „specializuotas paslaugas“ leistų siūlyti diskriminacinio pobūdžio specialią prieigą prie tinklo. Be to, šis pasiūlymas turėtų diskriminuojančius tinklo blokavimus tinklapiams, taikomosioms programoms ir įvairaus pobūdžio turiniui – tai grėsmė nuomonės laisvei ir teisinės valstybės principui.
 
-In the European Union the debate progressed very slowly. We had to wait until 11 September 2013 to have a proposal for having a European law on net neutrality. This proposal was made by the European Commission.
+Laimei, Europos Parlamente buvo įtemptai dirbama, kad šios spragos būtų pašalintos. Balandžio 3 dieną Parlamentas balsavo už aiškias ir privalomas tinklo neutralumo taisykles. Nors iš pradžių viskas atrodė niūrokai, Jūsų pastangos kartu su SaveTheInternet lėmė tai, kad Parlamentas priėmė tekstą, tvirtai apsaugantį tinklo neutralumą. Šį rezultatą sveikino milijonai žmonių visame pasaulyje.
 
-The 2013 proposal contained several problematic loopholes that would have allowed Internet providers to circumvent net neutrality. For instance, through a provision on "specialised services", ISPs  would have been allowed to offer discriminatory prioritised access. The proposal would also have allowed for discriminatory blocking of websites, applications, and content — a threat to the rule of law and freedom of expression.
+Po šio etapo pergalės ES valstybių narių vyriausybių atstovai susitiko Europos Sąjungos Taryboje ir pažanga artėjo labai iš lėto – tik po vienerių metų buvo suderinta bendra pozicija. Jie sutarė dėl naujo teksto, kuris grąžino keletą ankstesnių landų ir įvedė keletą naujų. Jei Tarybos tekstas būtų perimtas, tai jis būtų sukūręs mokamas lenkimo juostas, būtų leidęs ES kainų diskriminaciją ir suteikęs interneto tiekėjams įgalinimą nelegaliai ir savavališkai blokuoti tinkle legalų turinį.
 
-Fortunately, the European Parliament worked hard to close these loopholes and voted in favour of clear and binding rules for net neutrality on 3 April 3rd of 2014. Although things looked grim at first, your efforts with SaveTheInternet helped the Parliament adopt a text with strong net neutrality safeguards. This vote was applauded by millions of people around the world.
+Siekiant paspartinti derybas ir pakirsti ES parlamento poziciją, institucijos (Komisija, Taryba, Parlamentas) pradėjo neformalius pokalbius vadinamajame [„trilogo“-procese](https://edri.org/files/NN_process_infographics.pdf). Naktinio posėdžio metu apie antrą valandą paryčiais buvo pasiektas politinis kompromisas tarp šių trijų institucijų. Šiame tekste yra griežtos pagrindinės taisyklės, siekiant įdiegti Europoje tinklo neutralumą. Tačiau keletas nuostatų priimtame reglamente (kuris yra geresnis nei ankstesnis Komisijos siūlymas, tačiau blogesnis nei Parlamento iš pradžių priimta pozicija) yra neaiškios ir jomis galėtų būti piktnaudžiaujama. Dėl to galėtų atsirasti landų, kurios leistų diskriminaciją internete. Vykstant balsavimui dėl antrojo skaitymo Europos Parlamente buvo bandoma įnešti daugiau aiškumo darant pakeitimus. Tačiau kadangi tas pats reglamentas nagrinėja tarptinklinio ryšio mokesčių panaikinimą mobiliajame tinkle, be to, suderintas tekstas galėjo būti pakeistas tik absoliučia balsų dauguma, nė vienas pakeitimas nebuvo priimtas. Kitaip tariant, Europos Parlamentas nusprendė, kad dabar (nacionalinės) reguliavimo institucijos užduotis būsianti priimti sprendimą dėl įstatymo teksto neaiškumų aiškinimo.
 
-After this victory, the EU Member States gathered in the Council and progressed slowly, taking over a year to come up with a joint position. They agreed on a new text that re-introduced loopholes and created new ones. If adopted, the Council's text would have created paid fast-lanes; allowed price discrimination in the EU, and authorised illegal and arbitrary blocking of lawful content.
 
-In order to advance the talks and undermine the Parliament's position, the three institutions began "informal" negotiations within the so called ["trilogue" process](https://edri.org/files/NN_process_infographics.pdf). In a late night session around 2am, a political agreement was reached between the three institutions. This text contains strong principles to deliver net neutrality in Europe. However, certain provisions of the Regulation are not clear and could be abused (which was better than the Commission's initial proposal but worse than the Parliament's initial position). This may lead to loopholes that would allow discrimination on the Internet. Amendments in the 2nd reading vote in the European Parliament tried to bring clarity. However, the Regulation also deals with the elimination of the roaming charges, which, together with the fact that an absolute majority of all Parliamentarians was needed to change the agreed text, none of the amendments were adopted. In other words, the European Parliament decided that the regulators should be the ones deciding on the uncertainties of the text. 
+## Kas dalyvauja debatuose Europoje ? {#who-is-involved-in-the-debate-in-europe}
 
+Šiuo metu reguliavimo institucijos yra telekomunikacijų pramonės bendrovių vykdomos stiprios lobistinės veiklos taikinys, kadangi šios bendrovės norėtų išlaikyti ir plėsti savo diskriminuojančius verslo modelius, tai pasakytina ir apie įrangos gamintojus, kurie norėtų pardavinėti savo papildomą įrangą tinklo komponentams, kurie esant tokiems verslo modeliams atlieka būtiną duomenų srauto kontrolę.
 
-## Who is involved in the debate in Europe? {#who-is-involved-in-the-debate-in-europe}
+Tinklo neutralumo pusėje kaunasi visų pirma organizacijos, kurios pasisako už pilietinę visuomenę ir vartotojų teises, taip pat startuoliai, valstybinės radijo stotys, bibliotekos ir universitetai.
 
-Right now, the regulators are being heavily lobbied by the telecom industries that want to keep and expand their discriminatory business models; and equipment manufacturers, which want to sell more network equipment that carry out the surveillance of data traffic that makes this possible.
+Tačiau svarbiausias daugumos debatų faktorius siekiant tinklo neutralumo yra viešumas **arba, kitaip tariant, tu**. Jei diskusijoje dalyvaus pakankamai žmonių, mes galime sudaryti atsvarą tinklo neutralumo priešininkų lobistams, mes galime išsakyti rimtus argumentus ir laimėti.
 
-On the pro-net neutrality side, you have mostly civil society and consumer organisations as well as start-ups, public broadcasters, libraries and universities. 
 
-But the deciding factor in most net neutrality debates is the general public, **you, in other words**. If enough people engage in the debate, we can outnumber anti-net neutrality lobby, we can make the good arguments heard and win.
+## Kas remia SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
+SaveTheInternet yra bendra 12 Europos NVO, kurios iškėlė užduotį apginti laisves internete, kampanija. Kampanija buvo pradėta, siekiant suvesti žmones su sprendimus priimančiomis institucijomis rengiant Europos reglamentą dėl tinklo neutralumo. Visuomenei ši kampanija pristatyta 2012 metų gruodžio mėnesį 30c3 konferencijos metu. Nuo tada ji nuolat atnaujinama, siekiant stebėti įstatymų leidybos ir reguliavimo procesą.
 
-## Who is behind SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
+Jei tu esi dalis organizacijos, kuri norėtų tapti šios kampanijos rėmėja, ir jei tu norėtum padėti skleisti šią kampaniją, tada prašytume su mumis susisiekti: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-SaveTheInternet is the joint campaign of 12 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
 
-If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+# Specializuotos paslaugos {#what-are-specialised-services}
 
 
-# SPECIALISED SERVICES {#what-are-specialised-services}
+## Kas yra specializuotos paslaugos?
 
+Specializuota paslauga yra bet kokia paslauga, kuri siūloma internetu, tačiau interneto  tiekėjas suteikia jai aukštesnę kokybę. [Reglamentas](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) numato, kad bet koks šio pobūdžio optimizavimas turi būti objektyviai būtinas paslaugai, kuria naudojamasi, – negalima tiesiog taip suteikti šiai paslaugai prioriteto. Be to, interneto tiekėjas privalo užtikrinti, kad tinkle apskritai būtų užtektinai pajėgumų, kad nebūtų daroma žala bendrai interneto prieigai - šį reikalavimą turi peržiūrėti nacionalinės reguliavimo institucijos. Trumpai tariant, „specializuota paslauga“ neturi tapti diskriminuojančia „lenkimo juosta“.
 
-## What are specialised services?
+Tikros specializuotos paslaugos neturi nieko bendra su internetu. Tai paslaugos, kurios galbūt naudoja tą pačią technologiją ir kartais tokią pat fizinę architektūrą, tačiau jos nėra globalaus interneto dalis, kadangi joms reikalingas kokybės lygis, kurio negali pasiūlyti internetas.
 
-A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
 
-Real specialised services have nothing to do with the Internet. They are services that may use the same technology and sometimes even the same physical architecture, but they are not part of the global Internet because they require a level of quality which could not be offered by the Internet. 
+## Kokios paslaugos nėra specializuotos paslaugos? {#what-are-examples-of-services-that-are-not-specialised-services}
 
+Specializuotos paslaugos nėra tos paslaugos, kurios galėtų būti teikiamos internetu. Problema, kuriai reikia užkirsti kelią, yra ta, kad egzistuojančios interneto paslaugos dabar klasifikuojamos kaip specializuotos paslaugos. Pavyzdžiui, pakankamai lėšų turinčios firmos galėtų išsipirkti prioritetą savo paslaugoms ir įgyti nesąžiningą pranašumą visų konkurentų atžvilgiu. Tai sumažintų konkurenciją, inovacijas ir pasirinkimo laisvę.
 
-## What are examples of services that are not specialised services? {#what-are-examples-of-services-that-are-not-specialised-services}
 
-Specialised services are not services which could be provided on the Internet. The problem to be avoided is allowing existing online services to be reclassified as specialised services. Under such a scenario, a company with enough money could buy priority for their services, which would give them an unfair advantage ahead everyone else &#8211; reducing competition, innovation and choice.. 
+## Kokios yra specializuotųjų paslaugų taisyklės ES teisėje? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
+[Reglamente](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) yra penkios taisyklės, ribojančios specializuotų paslaugų plitimą:
 
-## What safeguards are in EU law to deal with specialised services? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
+1.    Specializuotų paslaugų negalima naudoti, siekiant apeiti duomenų srauto valdymo taisykles. Interneto  tiekėjai neturi teisės teikti prioritetą specializuotoms paslaugoms lyginant su panašiu turiniu, taikomosiomis programomis ar paslaugomis, pasiekiamais per interneto prieigos paslaugas;
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) establishes five safeguards for the provision of specialised services:
+2.    Specializuotų paslaugų optimizavimas turi būti privalomas reikalavimams, kurie keliami turiniui, paslaugoms arba taikomosioms programoms;
 
-1.        Specialised services cannot be used to circumvent provisions regarding traffic management measures. ISPs cannot give priority to specialised services over comparable content, applications or services available via Internet Access Services; 
+3.    Specializuotos paslaugos neturi būti naudojamos arba siūlomos kaip interneto prieigos paslaugų pakaitalas;
 
-2.        Specialised services have to be optimised to assure specific quality of service requirements of the content, application or service, which are necessary for key functionalities of the content, application or service in question; 
+4.    Specializuotos paslaugos gali būti siūlomos tik tada, jei tinkle yra užtektinai pajėgumų, norint jas papildomai siūlyti prie jau pateiktos interneto prieigos paslaugos;
 
-3.        Specialised services shall not be usable or offered as a replacement for Internet Access Services; 
+5.    Specializuotų paslaugų pasiūla neturi daryti žalos interneto prieigos paslaugų buvimui arba jų bendrai kokybei.
 
-4.        Specialised services can only be offered if sufficient network capacity is available to offer them in addition to any Internet Access Service provided; 
 
-5.        Specialised services cannot be provided in detriment of the availability or general quality of Internet Access Services. 
+## Ką reikia padaryti, norint sugriežtinti specializuotų paslaugų taisykles, ir kodėl tai yra svarbu? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
+Naujas specializuotas paslaugas, prieš leidžiant jas pateikti rinkai, turi peržiūrėti reguliavimo institucijos, ar laikomasi visų penkių pirmiau minėtų taisyklių. Jei tokia peržiūra vyksta tik reaguojant į skundus, kai kuriais atvejais tai galėtų užtrukti daug metų, kol diskriminuojantys pasiūlymai bus pripažinti kaip nelegalūs ir bus pašalinti. Tai įprastinė konkurencingumui priešiškų telekomunikacijos bendrovių strategija, kuri paremta lėtu teismų ir reguliavimo institucijų veikimu ir aukšta teismo išlaidų kartele, siekiant pašalinti inovatyvius konkurentus.
 
-## What is required to strengthen the safeguards on specialised services and why is this important? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
+Specializuotos paslaugos sukūrimas turi būti objektyviai būtinas paslaugos funkcionalumui ir netapti tik patogiu keliu įgauti pranašumų konkurentų atžvilgiu. Jei palyginama paslauga yra atvirame internete, tai nereikėtų leisti specializuotos paslaugos.
 
-New specialised services have to be tested against all five safeguards by the regulator before they can be introduced into the market. If they are only tested after somebody complains, it can sometimes take years before discriminatory products that are later found to be illegal are removed. It is a common strategy of anti-competitive telcoms operators to use the slowness and expense of courts and regulators to kill off innovative competitors. 
 
-The optimisation of a specialised service has to be objectively necessary for the functionality of the service and not just a convenient advantage over competitors. If a comparable service exists in the open Internet, then a specialised service should not be granted.
+# Duomenų srauto valdymas {#what-is-traffic-management}
 
 
-# Traffic Management {#what-is-traffic-management}
+## Kas yra duomenų srauto valdymas?
 
+Duomenų srauto valdymu interneto  tiekėjai gali reguliuoti savo tinkluose duomenų srautą. Tokiu būdu pasirinkti perdavimo procesai gali būti pagreitinti, o kiti sulėtinti. Pagal naująjį reglamentą šios priemonės tinkamos tik tada, jei jos skaidrios, proporcingos ir nediskriminuojančios. Duomenų srauto valdymas neturi būti tik laikina priemonė, taip pat neturi tapti nuolatine tinklo konfigūracijos dalimi. Be to, galioja bendra taisyklė, kad duomenų srauto valdymas turi būti vienodas visoms taikomosioms programoms, taip pat tik labai ribotam skaičiui situacijų duomenų srautas gali būti skirstomas kategorijomis ir šios gali būti traktuojamos nevienodai.
 
-## What is traffic management?
 
-Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
+## Kodėl mane turėtų dominti duomenų srauto valdymas? {#why-should-i-care-about-traffic-management}
 
+Duomenų srauto valdymas turi įtakos kasdieniam tavo interneto įspūdžiui. Jei tavo Netflix-Video kraunamas be galo, tavo telefoninis pokalbis internetu nutrūksta arba tavo interneto žaidimas nevyksta, tai to priežastis gali būti duomenų srauto valdymas, kurį atlieka tavo interneto  tiekėjas.
 
-## Why should I care about traffic management? {#why-should-i-care-about-traffic-management}
+Jei piktnaudžiaujama ES taisyklėmis, tai tavo pasirinktos interneto paslaugos gali būti taip apribotos, kad jos tampa nebetinkamos naudoti, tuo tarpu kitos konkuruojančios paslaugos, kurioms reklamą daro tavo interneto tiekėjas, galbūt vis dar veikia.
 
-Traffic management affects your everyday Internet experience. When your Netflix video is endlessly buffering, your Internet-Telephony call is breaking off or an online game is unplayable, traffic management by your Internet provider can be the cause. 
+Duomenų srauto valdymas niekada neturėtų kištis į tavo kaip galutinio vartotojo arba interneto paslaugų teikėjo laisvę. Interneto tiekėjo vaidmuo – taip administruoti tinklą visų paslaugų labui, kaip tik įmanoma, – o ne priiminėti sprendimus dėl turinio, paslaugų arba taikomųjų programų, kurias norėtum pasiekti internete, svarbos, vientisumo ir teisėtumo.
 
-If the EU rules are abused, the online services you want to use could be slowed down to the level that they become unusable while other competing services promoted by your own Internet provider could still work properly. 
 
-Traffic management should never interfere with your freedom as an end-user or online service provider. The role of an Internet provider is to manage the network for all services to the best of his its abilities, but not to make decisions about the importance, integrity and legality of the Internet content, services or applications you want to access. 
+## Ar reikėtų interneto  tiekėjams neleisti valdyti savo tinklus? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
+## Be abejo, interneto  tiekėjams reikėtų leisti valdyti savo tinklus. Tačiau tai turi vykti taip, kad nebūtų daroma skirtumo, kokį turinį, taikomąsias programas ar paslaugas internete naudoji tu ar kiti. [Tai įmanoma](https://tools.ietf.org/html/rfc6057) ir remiama pasitelkus [išsamias analizes](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
 
-## Shouldn't internet providers be allowed to manage their networks? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
+Alternatyva yra tokia: interneto  tiekėjai klasifikuoja duomenų paketus pagal savo pačių sukurtus kriterijus. To pasekmė – kai kurios taikomosios programos sulėtėja, o kai kurios pagreitėja. Tai gali būti grindžiama techniniais paslaugos reikalavimais (pavyzdžiui, jautrumas arba svyravimai perdavimo laiku ) arba dėl funkcionalumo, kurį siūlo tarnyba savo vartotojams (telefonija, video arba muzikos srautai, žaidimai ir kt.). Šis antrasis požiūris vadinamas klasėmis paremta duomenų srauto vadyba. Bet kadangi užkoduotų duomenų negalima klasifikuoti, viena iš šio požiūrio rizikų yra tai, kad užkoduoti duomenys automatiškai nukreipiami į „šliaužiančią juostą“ (jei ji nėra iš stambaus paslaugų teikėjo, kurio atveju galima atspėti perduodamų duomenų tipą). Jei tokiu būdu sukuriamos paskatos prieš kodavimą, tai, be abejo, yra blogai duomenų apsaugai, ir jei užkoduoti duomenys iš smulkių paslaugų teikėjų yra specialiai lėtinami, tai toks veikimas pažeidžia konkurenciją.
 
-Of course internet providers should be allowed to manage their networks. However, this needs to be done in a way that makes no distinction on the basis of the content, application and services being used by you or other internet users. [This is feasible](https://tools.ietf.org/html/rfc6057) and supported by [detailed analysis](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
+Todėl mes galime teigti, kad klasėmis paremtas duomenų srauto valdymas
 
-The alternative is for the Internet provider to classify data packages based on criteria that it establishes, leading to some applications being slowed down and others speeded up. This can be on the basis of technical requiements of the service (time sensitivity, jitter sensitivity) or the functionality the service offers to the user (telephony, video-streaming, music-streaming, gaming, etc.). This second approach is called class-based traffic management. As encrypted data traffic cannot be classified, one of the risks of this approach is that such data is automatically put in a "slow lane" (unless it come from a big provider, where the type of data can be guessed). Disincentivising encryption is clearly bad for privacy, while slowing down encrypted data from small providers is anti-competitive.
+-    yra ne toks skaidrus kaip priemonės, kurios nepriklauso nuo naudotų taikomųjų programų, nes vartotojai nesužino, kad specialusis jų turinys ir jų naudoti duomenys yra klasifikuojami;
 
-We can therefore say that class-based traffic management measures are: 
+-    labiau diskriminuoja nei nuo taikomųjų programų nepriklausančios priemonės, kadangi yra klaidingo taikomųjų programų klasifikavimo rizika, kadangi vyksta užkoduotų duomenų srauto diskriminacija ir kadangi egzistuoja konkurenciją pažeidžiančių praktikų galimybė;
 
--        Less transparent than application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified;
+-    yra mažiau proporcingas nei nuo taikomųjų programų nepriklausančios priemonės, nes šios visada reiškia mažesnius įsikišimus ir yra geresnės vartotojų pasirinkimo laisvei.
 
--        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
 
--        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice;
+## Koks yra SaveTheInternet.eu tikslas dėl duomenų srauto valdymo? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
+[Reglamente](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) yra aiški, trijų dalių hierarchija, susijusi su duomenų srauto valdymu: Ši turi būti nustatyta aiškiomis, privalomomis taisyklėmis ([žr. 3 str.(3) 1 – 3 punktai](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1)). Interneto  tiekėjai privalo visuomet iš pradžių bandyti savo tinklo problemą spręsti priemonėmis, nepriklausančiomis nuo taikomųjų programų, t.y. priemonėmis, kurios nepriklauso nuo specifinių turinio, taikomųjų programų, paslaugų ar įrangos savybių. Tik tada, kai visos nuo taikomųjų programų nepriklausomos priemonės yra išsemtos, ir jos nepadėjo išspręsti problemų, interneto  tiekėjai gali imtis klasėmis paremtų priemonių.
 
-## What is the goal of SaveTheInternet.eu when it comes to traffic management? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
+Duomenų srauto valdymas yra būtinas, siekiant pašalinti tinklo perkrovą ir užtikrinti tinklo  integralumą ir saugumą. Tačiau duomenų srauto valdymui (taip pat kaip ir kontrolei) iš turimų priemonių būtina pasirinkti tik tas, kuriose mažiausia kišimosi, ir jos turėtų būti naudojamos tik vienam specifiniam tikslui ir tik ribotam laikui, ir tik tada, jei tai iš tiesų yra būtina, siekiant legitimaus tikslo.
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
 
-Traffic management is necessary to resolve congestion and ensure the integrity and security of the network. But, like surveillance, traffic management should only use the least intrusive measures available, only for a specific purpose and a for limited time when it is genuinely necessary to achieve a legitimate goal.
+## Kokiomis aplinkybėmis interneto  tiekėjas gali valdyti savo tinklą? {#when-can-a-provider-start-managing-its-network}
 
+Remiantis [reglamentu](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) interneto  tiekėjai gali įvesti duomenų srauto valdymą, jei iš tiesų yra faktinė tinklo perkrova arba jie norėtų sušvelninti būsimą tinklo perkrovą. Reguliavimo institucijos turėtų aiškiau apibrėžti antrąją sąlygą, siekiant išvengti, kad tinkluose nuolat būtų taikomas duomenų srauto valdymas, net jei tam nėra tikro poreikio.
 
-## When can a provider start managing its network? {#when-can-a-provider-start-managing-its-network}
+Mes manome, kad ši antra galimybė turėtų būti leistina tik tada, jei šalia duomenų kiekio tam tikrame tinklo mazge (pvz., klientų skaičius, kurie susieti tinklo elemente), yra kiti indikatoriai. Visuomet turi būti konkretus ir aktualus poreikis duomenų srauto valdymui.
 
-According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), Internet providers can either start to manage their network in an actual case of congestion or in cases where they are seeking to mitigate congestion that is about to materialise. This second option should be clarified by the regulators to avoid a slippery slope situation where the network is "managed" all the time, even when there is no actual need for it.
 
-We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
+# Nulinis reitingas {#what-is-zero-rating}
 
 
-# ZERO RATING {#what-is-zero-rating}
+## Ką reiškia nulinis reitingas?
 
+Nulinis reitingas yra verslo modelis, kai tam tikros taikomosios programos arba tam tikros paslaugos duomenys neįskaitomi į kliento mėnesinį duomenų limitą. Nulinis reitingas apdoroja įvairius duomenų ryšius įvairiais būdais, kad tam tikri ryšiai galėtų būti siūlomi už vieną kainą, o kiti – už kitą. Nors tai yra nukrypimas nuo „klasikinių“ tinklo neutralumo pažeidimų, praktikoje tai yra tas pats, kadangi interneto  tiekėjas tokiu būdu gali daryti įtaką, kokias taikomąsias programas ir paslaugas naudoti, o kokias – ne.
 
-## What is zero rating?
 
-Zero rating is a commercial practice, for which data downloaded from certain applications or services is not counted towards a subscriber's monthly download limit. Zero rating treats different traffic in different ways, in order for some to be offered at one price and some to be offered at a different price. Although technically different from classic net neutrality violations, it is identical, practically speaking, as it allows the Internet access provider to influence what applications and services are used and which are not.
+## Kodėl nulinis reitingas yra problemiškas? {#why-is-zero-rating-a-problem}
 
+Šiame verslo modelyje tavo interneto  tiekėjas gali kontroliuoti, kokias paslaugas tu naudoji ar naudosi ateityje. Kiekvienas konkurentas, susiduriantis su taikomosios programos ar paslaugos nuliniu reitingu, patiria didelį konkurencinį nuostolį, kadangi reikia papildomai mokėti, jei nori nekliudomai naudoti taikomąją programą ar paslaugą. Šią žalą ypač patiria startuoliai ir mažos bei vidutinės įmonės.
 
-## Why is zero rating a problem? {#why-is-zero-rating-a-problem}
+Nulinis reitingas yra svarbus pateisinimas mažoms viršutinėms apimties riboms (limitai išsiųsti arba atsisiųsti). Interneto  tiekėjai norėtų suteikti tau paskatų, kad tu naudotum jų arba jų partnerių interneto paslaugas. Jei interneto  tiekėjai turi teisę neįtraukti šių pasirinktų paslaugų į savo apimties ribų apskaičiavimus, jie turi geresnį pasiteisinimą ir toliau šiuos limitus nustatyti veikiau žemesnius, kad jie kainos požiūriu išlaikytų tvirtas pozicijas konkurentų atžvilgiu. Nesant nulinio reitingo šios įmonės galėtų pasiūlyti tau didesnius duomenų kiekius, kad tu galėtum laisvai pasirinkti, kaip juos naudosi. Yra gerai dokumentais paremtų pavyzdžių [Nyderlanduose](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) ir [Slovėnijoje](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html), kur dėl griežtesnių tinklo neutralumo įstatymų, draudžiančių nulinį reitingą, mobilaus ryšio teikėjai padvigubino savo apimčių ribas.
 
-With this practice, your Internet provider can exercise control over the services that you use or will use. Every competitor to a zero-rated application or service (mainly start-ups and SMEs) is at a great disadvantage because you have to pay extra to be able to use the application or service unhindered.
 
-Zero rating is a major reason for low data caps (data caps are data upload or download limits). Internet providers want you to use their own online services or their partner services. If providers are allowed to exempt these selected services from your data cap, they have a reason to keep this cap intact and relatively low so their competitive advantage stays strong. Without zero rating, these companies could be offering you more data volume that you can use and you would be able to freely decide how to use it.  There are well documented cases [in the Netherlands](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) and in [Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) where, thanks to strong net neutrality laws prohibiting zero rating, mobile operators doubled the data caps of their users.
+## Ar aš iš tikrųjų gausiu ką nors už dyka, jei naudosiu nulinio reitingo tarifą ? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
+Iš pirmo žvilgsnio iš tiesų gali atrodyti, tarsi tu kažką gauni nemokamai. Tačiau šis įspūdis apgaulingas: faktiškai apribojama tavo pasirinkimo laisvė internete ir tavo interneto  tiekėjas tampa vartininku. Kaip pavyzdį galima paminėti „free-Basics“ pasiūlymą iš feisbuko: Kodėl feisbukas turėtų nuspręsti, kokias paslaugas ir taikomąsias programas tu gali naudoti? Kokia yra ekonominė feisbuko paskata siūlyti tokius dalykus? Ar tai iš tiesų nemokama? Atsakymas yra NE, o nulinis reitingas turės padarinių tavo saugumui, tavo duomenų apsaugai ir konkurencingumo situacijai rinkoje.
 
-## Am I really getting something for free when I use a zero rating programme? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
-At first sight, it looks as if you’d get something for free. Contrary to appearances, your freedom of choice in the Internet is restricted and your Internet provider establishes itself as a gatekeeper. In the case of Facebook's Free Basics programme, for example, why should Facebook decide which services and apps you can use? What is the economic incentive for Facebook to offer this? Is this really for free? The answer is no. Nothing is for free. Zero rating has implications for your security, privacy and for a competitive market.
+## Kaip nulinis reitingas gali atsiliepti interneto paslaugų tiekėjams ir interneto įvairovei ? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
+Nulinių reitingų susitarimai Europoje beveik visada sudaromi su didelėmis interneto firmomis kaip Facebook arba Spotify. Tai dažnai būna abipusės ekskliuzyvinės sutartys, t.y. turinio teikėjas prisiriša prie vienintelio interneto  tiekėjo atitinkamoje šalyje ir atvirkščiai.
 
-## How can zero rating affect providers of online services and the diversity of the Internet ecosystem? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
+Nulinis reitingas yra blogai kliento pasirinkimo laisvei, nes jis yra katastrofiškas interneto ekonomikai. Jis padeda tik didelėms įmonėms sutvirtinti savo rinkos poziciją ir pašalinti konkurentus. Mes tai jau stebime muzikos srautų rinkoje, kur vartotojų pasirinkimo laisvė dėl tokių ekskliuzyvinių nulinio reitingo pasiūlymų yra gerokai sumažėjusi.
 
-Zero rating agreements in Europe are almost always with big Internet companies like Facebook and Spotify. These deals are often mutually exclusive, which means that the content provider is binding itself to one operator in a country and vice-versa. 
+Užuot paprasčiausiai pardavę interneto prieigą, interneto  tiekėjai norėtų vis daugiau tiesiogiai parduoti tau internetu turinį, taikomąsias programas ir paslaugas, kurias siūlo jie patys arba jų partneriai. Įsiterpdami kaip tarpininkai, interneto  tiekėjai mėgina užsidirbti dvigubai. Iš pradžių tu sumoki už savo interneto prieigą. Po to turinį, paslaugas ir taikomąsias programas siūlančios firmos sumoka, kad gautų prieigą prie interneto  tiekėjo klientų duomenų bazės, taip pat ir prie tavęs.
 
-Zero rating is bad for user choice because it is devastating for the online economy. It only helps big companies to cement their market position and kill off their competition. We already see this in the music streaming market, for example, where the freedom of choice for consumers has been greatly reduced by such exclusive zero rating offers.
+## Koks yra SaveTheInternet.eu tikslas dėl nulinio reitingo? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
-Instead of simply selling Internet access, Internet providers increasingly want to sell you directly online content, applications and services provided either by them or their partners. By inserting themselves as middle-men, Internet providers  want to get paid twice. First, you pay them for your Internet connection. Second, content, services and apps providers pay them for getting access to their customer base, which includes you. 
+Nulinis reitingas yra akivaizdus tinklo neutralumo taisyklių laužymas ir todėl turi būti uždraustas. Ši praktika prieštarauja konkurencijai ir pažeidžia tavo laisvę pasiekti taikomąsias programas, paslaugas ir turinį, kurio tu pageidauji, taip pat pažeidžia turinio ir taikomųjų programų teikėjų laisvę teikti savo pasiūlymus visuose tinkluose be apribojimų (kaip to reikalauja [ES reglamento 3(1) str.](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) . ES reglamentas draudžia interneto ir turinio teikėjams siūlyti tokias paslaugas, kurios riboja tavo kaip galutinio vartotojo ar turinio teikėjo teises [plg. reglamento 3(2) str. )](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
-## What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
+Jei viršijus apimties ribą nulinio reitingo pasiūlymai yra vis dar pasiekiami, o likusi interneto dalis blokuojama arba apribojama, tai yra aiškus kitų reglamento nuostatų, užtikrinančių tinklo neutralumą, pažeidimas.
 
-Zero rating is a clear violation of the net neutrality rules and therefore needs to be prohibited. This practice is anti-competitive and violates your freedom to use and access the applications, services and content you want and the freedom of content and application providers to make their offer in all networks without restriction (as required by Article 3(1) of the [EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). The EU Regulation also bans Internet and content providers from offering services that limit your rights as an end-user or as a content provider [(cf. Article 3(2) of the Regulation)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
-If data caps are exceeded and certain zero rated services are still accessible while the rest of the Internet is blocked or throttled, this is a clear violation of other provisions of the Regulation delivering net neutrality. 
 
+# Skaidrumas
 
+## Kokios naudos galime tikėtis iš naujųjų tinklo neutralumo taisyklių? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 
-# TRANSPARENCY
+Esama daug palankių pasekmių [Europos reglamentas dėl tinklo neutralumo](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). Skaidrumo srityje pranašumas yra tai, kad interneto  tiekėjai privalo savo sutartyse nurodyti, koks yra minimalus, vidutinis ir maksimalus kiekvienos interneto prieigos diapazonas, o ne vien tik teorinį maksimumą. Europos elektroninių ryšių reguliuotojų institucijos (BEREC) komisija turės išaiškinti, kaip reikia apskaičiuoti šias vertes ir ką daryti, jei jungtį dalijasi keletas vartotojų.
 
-## What benefits can we expect with the new net neutrality rules? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
--       
-There are many benefits that we have under the [EU Regulation on net neutrality](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). In terms of transparency, one of them is the requirement for Internet providers to state in their contracts what the minimum, average and maximum bandwidth of any Internet access connection is, instead of just the theoretical maximum. The Committee of the European telecom regulators (BEREC) will have to clarify how these values are calculated and what should happen if a connection is shared between more than one user.
 
+## Kokio pobūdžio skaidrumo galima tikėtis iš taisyklių? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
 
-## What type of transparency can be expected with the new rules? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
+[Reglamentas](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) įpareigoja interneto  tiekėjus atskleisti visas duomenų srauto valdymo priemones. Dabar reguliavimo institucijoms reikia nurodymų, ką tai turėtų reikšti praktikoje.
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) requires Internet providers to provide information about all traffic management measures that affect a user's Internet access. Regulators are now seeking for input on what this means in practice.
 
 
+# Kiti klausimai
 
-# OTHER
+## Kaip atrodo tinklo neutralumas kitose pasaulio šalyse? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
-## How is net neutrality dealt with in other parts of the world? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
+Griežtos tinklo neutralumo taisyklės taikomos JAV, Kanadoje ir Čilėje. Itin aktualus yra Indijos pavyzdys, kur neseniai įvestos griežtos nulinio reitingo taisyklės. Daugiau informacijos apie padėtį kitose pasaulio šalys galima rasti [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map).
 
-There are strong net neutrality rules in the USA, Canada, and Chile. The most recent example is India, which has recently adopted strong rules on zero-rating. For more detailed approach visit [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map) 
+Kitose šalyse taip pat vyksta „SaveTheInternet“ kampanijos. Keletas pavyzdžių:
 
-Other countries are running a SaveTheInternet campaign.
+-    [JAV](http://www.savetheinternet.com/sti-home)
 
-These are some examples:
+-    [Indija](http://www.savetheinternet.com/sti-home)
 
--        [USA](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+## Kaip aš galėčiau padėti? {#how-can-i-help-you}
 
+Yra keletas galimybių padėti SaveTheInternet.eu:
 
-## How can I help you? {#how-can-i-help-you}
+<i class="fa fa-long-arrow-right"></i>    Paskleisk šią žinią! Pakalbėk su savo draugais apie šią kampaniją, apie tinklo neutralumą, ir kodėl yra svarbu veikti dabar. Tik tada, kai pasigirs daugiau atskirų balsų, pavyks apginti interneto teises ir laisves.
 
-You can help SaveTheInternet.eu in many ways:
+<i class="fa fa-long-arrow-right"></i>    Išversk šį tinklapį į savo kalbą! Savo darbą gali perduoti per [Save The Internet on Github]. (https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Spread the word! Tell your friends this campaign, about net neutrality and about why it is important to act now. Only when many individuals voices speak out,  will we be able to protect our online rights and freedoms.
+<i class="fa fa-long-arrow-right"></i>    Prisijunk prie mūsų! Jei esi dalis kurios nors organizacijos ir norėtum prisijungti prie SaveTheInternet.eu, parašyk mums šiuo adresu [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Translate the website into your language! You can do that via [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI) 
+<i class="fa fa-long-arrow-right"></i>    Pranešk apie tinklo neutralumo pažeidimus [Respect My Net](https://respectmynet.eu/)
 
-<i class="fa fa-long-arrow-right"></i>        Join us! If you are part of an organisation and would like to join SaveTheInternet.eu, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+<i class="fa fa-long-arrow-right"></i>    Paaukok mums pinigų! Jei norėtum pervesti auką organizacijoms, nurodytoms SaveTheInternet.eu bakstelk [čia].
 
-<i class="fa fa-long-arrow-right"></i>        Report violations of net neutrality through [Respect My Net](https://respectmynet.eu/)
-
-Do you have any other cool and creative ideas? Please, reach out to us via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+Ar dar turi kitų šaunių ir kūrybiškų idėjų? Keipkis į mus šiuo adresu [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 {{ END FAQ }}

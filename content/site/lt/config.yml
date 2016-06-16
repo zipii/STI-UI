@@ -1,18 +1,14 @@
-language: "en"
+language: "lt"
 questionnaire_language: "en"
-title: SAVE THE INTERNET IN EUROPE
-action: Join us and take action! Send a message to your regulator
+title: IŠGELBĖK INTERNETĄ EUROPOJE
+action: Prisijunk ir veik dabar! Nusiųsk žinutę savo nacionalinei reguliavimo institucijai
 keywords:
-  - net neutrality
-  - connected conntinent
-  - digital single market
-  - dsm
-  - neelie kroes
-  - Netzneutralität
-  - drosselkom
-  - specialised services
-  - echtesnetz
-  - BEREC
-  - Internetneutralität
-  - Plattformneutralität
-  - Neutralitätsdebatte
+  - Tinklo neutralumas
+  - Atviras internetas
+  - Specializuotos paslaugos
+  - Duomenų srauto valdymas
+  - Mokamos lenkimo juostos
+  - Nulinis reitingas
+  - Europa
+  - Bendroji telekomunikacijų bendrovių rinka
+  - Tinklo neutralumas

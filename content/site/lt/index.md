@@ -1,41 +1,38 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
-- [INFORMATION](#info){: data-scroll="true" }
-- [FAQ](faq)
-
+- [SIŲSTI ŽINUTĘ](#send-a-message){: data-scroll="true" }
+- [INFORMACIJA](#info){: data-scroll="true" }
+- [D.U.K.](faq)
 {{ END NAVIGATION }}
 
-# Save the Internet
+# Gelbėkit internetą
 
 {: .title-subtext}
-European Regulators are about to decide whether to give big telecoms corporations the power
-to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
-to protect our freedoms and rights online. We have until __July__ to help Europe protect the open Internet.
+Europos reguliavimo institucijos artimiausiu metu nuspręs, ar reikėtų suteikti didžiosioms telekomunikacijų bendrovėms teisę daryti įtaką dėl to, ką mes galime (ir ko negalime) daryti internete. Europai skubiai reikalingos aiškios tinklo neutralumo taisyklės, norint išsaugoti mūsų laisvę ir teises internete. Iki liepos mėnesio mes turime laiko padėti Europai apginti laisvą internetą.
 <br><br>
-Join the movement, take action now!
+Prisijunk prie mūsų, padėk dabar!
 
 {{ BEGIN COUNTER }}
 
-| X | PEOPLE HAVE <br> SENT MESSAGES | Y | DAYS <br> LEFT |
+| X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO | Y | DIENOS <br> |
 
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
+[imtis priemonių](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-## What needs to be fixed:
+## Kas mums gresia:
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
-### Specialised Services
+###Specializuotos paslaugos
 
-Specialised Services risk becoming the paid fast-lane for big Internet companies that push every other website, idea and start-up into the slowlane.
+Specializuotos paslaugos grasina tapti mokamais finansiškai stiprių įmonių lenkimo keliais. Kiekvienas kitas tinklapis, kiekviena idėja ir kiekvienas startuolis būtų išstumti į „šliaužiančią“ juostą.
 
-[READ MORE](faq/#what-are-specialised-services)
+[Daugiau rasite D.U.K. ](faq/#what-are-specialised-services)
 
 {{ END HOME SPECIALISED-SERVICES }}
 
@@ -43,9 +40,9 @@ Specialised Services risk becoming the paid fast-lane for big Internet companies
 
 ### Traffic Management
 
-Don't let your Internet provider decide what traffic is important and which online services it slows down, at its own discretion.
+Jokios cenzūros atvirame internete: interneto  tiekėjai neturi tapti „šerifų pagalbininkais“ ir spręsti, kuris duomenų srautas yra svarbus ir kokias interneto paslaugas jie gali savo nuožiūra lėtinti.
 
-[READ MORE](faq/#what-is-traffic-management)
+[Daugiau rasite D.U.K. ](faq/#what-is-traffic-management)
 
 {{ END HOME TRAFFIC-MANAGEMENT }}
 
@@ -53,9 +50,9 @@ Don't let your Internet provider decide what traffic is important and which onli
 
 ### Zero Rating
 
-It sounds like you get something for free, but it makes your mobile operator become a gatekeeper and gives it a reason for lower monthly data caps.
+Tai skamba maždaug taip, tarsi tu kažką gauni dykai, tačiau nulinis reitingas tavo tiekėją padaro durininku. Be to, jam tai suteikia pagrindą mažinti mėnesinę tavo duomenų apimtį.
 
-[READ MORE](faq/#what-is-zero-rating)
+# Nulinis reitingas {#what-is-zero-rating}
 
 {{ END HOME ZERO-RATING }}
 
@@ -65,9 +62,9 @@ It sounds like you get something for free, but it makes your mobile operator bec
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Tell your national regulators and <br> BEREC to protect net neutrality
+# Paragink savo nacionalinę reguliavimo instituciją ir <br> BEREC užtikrinti tinklo neutralumą.
 
-Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecoms Regulators (BEREC) when the official consultation starts in June 2016.
+Išdėstyk reguliavimo institucijoms savo nuomonę dėl naujų tinklo neutralumo taisyklių. Pasinaudok šio puslapio apačioje pateiktu anketos įrankiu. Jei tu atsakysi į bet kokį skaičių klausimų pirmuose trijuose menių languose, tai įrankis paskutiniame lange generuos tau el. laišką. Šį el. laišką mes įteiksime ES elektroninių ryšių reguliuotojų institucijai (BEREC), kai 2016 m. birželio mėnesį prasidės oficialios konsultacijos.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -78,11 +75,11 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-## Spread the word!
+## Perduok informaciją ir kitiems!
 
-[Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Feisbuke](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=What%0Aif%0Athey%0Amade%0AEurope%27s%0Ainternet%0Aso%0Aslow%2C%0Aevery%0Atweet%0Aloaded%0Aslowly%0Alike%0Athis%3F%0ADon%27t%20let%20them%3A%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2F)
+[Tviteryje](https://twitter.com/intent/tweet?text=Help%20save%20the%20internet.%20Tell%20your%20regulator%20to%20safeguard%20net%20neutrality.%20http%3A%2F%2Fwww.savetheinternet.eu%2F%20%23SaveTheInternet)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -94,60 +91,60 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## Europos Sąjunga 2015 metais priėmė reglamentą dėl tinklo neutralumo.
 
-[The EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contains good principles to ensure that you can connect to any other point on the net without discrimination. However, some parts of the regulation could be abused to undermine net neutrality. The legislators decided to leave the responsibility for claryifing the uncertainties of the text to the telecoms regulators.
+[ES reglamentas](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } pateikia gerų pagrindinių principų, užtikrinančių, kad internetu galima susisiekti su bet kuria interneto vieta nepatiriant diskriminacijos. Deja, kai kuriomis reglamento vietomis galima piktnaudžiauti, siekiant pašalinti tinklo neutralumą. Įstatymo leidėjai nutarė atvirų teksto klausimų aiškinimą pavesti elektroninių ryšių reguliuotojams.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-The Body of European Regulators of Electronic Communications (BEREC) has to prepare implementation guidelines to interpret the ambiguities of the law by the end of August 2016. These guidelines will determine whether Europe will enjoy net neutrality or not.
+Europos elektroninių ryšių reguliuotojų institucijos (BEREC) komisija privalo iki 2016 metų rugpjūčio pabaigos parengti įgyvendinimo direktyvas, siekiant patikslinti reglamento neaiškumus. Šios direktyvos bus svarbiausios tolesniam tinklo neutralumui Europoje.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-In June 2016, BEREC plans to publish its draft guidelines and launch a public consultation. However, BEREC's procedural rules say that the public only has __from June 6th to July 18th__ to respond and the Regulation says that BEREC needs to publish its final guidelines on 30 August 2016. That means that citizens will only have __a few weeks__ to respond to the consultation and BEREC will only have __a little bit over a month__ to process the (potentially thousands of) comments, draft updates to its guidelines and then go through the administrative processes to formally agree to any changes that it makes to the draft.
+2016 metų birželio mėnesį BEREC ketina paskelbti savo projektus ir surengti viešas konsultacijas. Tačiau BEREC procedūrinės taisyklės lemia tai, kad plačioji visuomenė tik __nuo birželio 6 dienos iki liepos 18 dienos__ galės pateikti atsakymus. ES reglamente numatyta, kad BEREC savo galutines direktyvas privalo paskelbti 2016 metų rugpjūčio 30 dieną. Taigi piliečiams lieka __tik keletas savaičių,__ norint reaguoti į konsultacijas. BEREC tuomet turės __ tik šiek tiek daugiau nei vieną mėnesį __ laiko apdoroti (galimai tūkstančius ) komentarų, priderinti savo projektus ir tuomet imtis administracinių veiksmų formaliam pritarimui galimiems pakeitimams.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
-## EU Net Neutrality Roadmap
+## ES tinklo neutralumo tvarkaraštis
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.__
+### __Tai lemiamas momentas: tai žingsnis, kurį žengus JAV ir Indijoje buvo pasiekta didžiulių laimėjimų. Todėl mes privalome toliau daryti spaudimą ir kovoti už tinklo neutralumą, įtikindami savo reguliuotojus, kad laisvas ir atviras internetas yra didžiulė vertybė.__
 
-Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
+Reguliuotojams būtini tinkami įrankiai, kad jie galėtų skubinti tinklo neutralumą. Mes, atstovaujantys Save The Internet, manome, kad BEREC neturės pakankamai laiko apdoroti galimai dešimtis tūkstančių atsiliepimų ir tinkami į juos atsižvelgti (JAV elektroninių ryšių reguliuotojų institucija konsultuodamasi su visuomene gavo 3,7 milijono atsakymų !). Mes siūlome metodą, kuriuo pasinaudoję visi žmonės nesunkiai galės prasmingai prisidėti prie direktyvų. Taip mes galėsime vėl atkurti pusiausvyrą.
 
-Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in those meetings into plain English and added few others when we felt this was necessary.
+Neseniai BEREC surengė asmeninius susitikimus su interesų grupėms. Klausimus, kuriuos uždavė BEREC interesų grupių atstovams ([žr. čia (anglų k. )](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) ir [čia (anglų k.)](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) mes apibendrinome suprantama kalba ir pridėjome šiek tiek klausimų, kur mums tai atrodė būtina.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [needs your input](#send-a-message){: data-scroll="true"} before they decide on the future of net neutrality in Europe.
+## BEREC [reikalingi jūsų įrašai](#siųsk laišką) {: data-scroll="true"} prieš priimant jiems sprendimą dėl tinklo neutralumo ateities Europoje.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
-### Contact Us
+### Kontaktas
 
-__Feel free to contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__Parašyk mums šiuo adresu [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-You have an idea to improve this website? That's great, we need you! The full source code of this website is available on [GitHub](https://github.com/Netzfreiheit/STI-UI) and can be forked, improved, remixed and pushed back to us.
+Gal turi šio tinklapio patobulinimo idėją? Puiku, mums reikia tavęs. Visas šio tinklapio šaltinio kodas pateiktas [GitHub ](https://github.com/Netzfreiheit/STI-UI), jis gali būti išskleistas, patobulintas ir grąžintas mums atgal.
 
-One thing we always need is help with translations, so if you speak a language that we haven't covered here so far, please get in contact with us.
+Ko mums visada reikia: pagalbos darant vertimus. Taigi jei moki kokią nors kalbą, kurios mes čia nenurodėme, tuomet parašyk mums.
 
-### Privacy Policy
+### Duomenų apsaugos direktyva
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
+Mes išsaugosime tavo komentarus konsultacijoms su BEREC gautųjų laiškų dėžutėje Austrijoje patalpintoje el.pašto paskyroje, iki išsiunčiant šį laišką su Jūsų komentarais oficialioms BEREC konsultacijoms. BEREC duomenų apsaugos direktyvas rasi [čia](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC paskelbs visus komentarus, kurie nepažymėti kaip konfidencialūs. Organizacijos, remiančios šią kampaniją, galbūt taip pat analizuoja komentarus, kurie per šį tinklapį siunčiami BEREC ir nepažymėti kaip konfidencialūs. Praėjus mėnesiui po oficialių konsultacijų ištrinsime visus komentarus.
 
-We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+Šiame tinklapyje mes renkame su asmens privačiu gyvenimu nesusijusią informaciją naudodami tam palankią privatumo nepažeidžiančią tinklapio analizės programinę įrangą [Piwik](https://piwik.org/).
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
+Jei tu [prenumeruoji naujienlaiškį](#subscribe-to-newsletter){: data-scroll="true"}, mes tavo el. pašto adresą išsaugome adresatų sąraše ir duomenų bazėje.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
-We are concerned citizens from NGOs around Europe that care about civil liberties in the digital realm.
+Mes, žmonės ir nevyriausybinės organizacijos iš visos Europos, kuriems rūpi piliečių laisvės skaitmeninėje sferoje.
 {{ LOGOS SUPPORTED-BY }}
 {{ END HOME SUPPORTED-BY }}
 
 {{ BEGIN HOME MADE-BY }}
-With friendly support from
+Su draugiška parama
 {{ LOGOS MADE-BY }}
 {{ END HOME MADE-BY }}
