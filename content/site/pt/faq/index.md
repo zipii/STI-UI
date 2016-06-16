@@ -10,45 +10,44 @@
 {{ BEGIN FAQ }}
 # Perguntas frequentes
 
-## Neutralidade da rede
-
+## [Neutralidade da rede](#net-neutrality){: data-scroll="true"}
 - [O que é a neutralidade da rede?](#o-que-e-a-neutralidade-da-rede){: data-scroll="true"}
 - [Como é que a neutralidade da rede afecta a minha vida diária?](#como-e-que-a-neutralidade-da-rede-afecta-a-minha-vida-diaria){: data-scroll="true"}
 - [Como é que chegamos aqui? O que aconteceu na EU?](#como-e-que-chegamos-aqui){: data-scroll="true"}
 - [Quem na Europa está envolvido no debate?](#quem-na-europa-esta-envolvido-no-debate){: data-scroll="true"}
 - [Quem está por trás de SaveTheInternet.eu?](#quem-esta-por-tras-de-savetheinterneteu){: data-scroll="true"}
 
-## Serviços Especializados
+## [Serviços Especializados](#specialised-services){: data-scroll="true"}
 - [O que são serviços especializados?](#o-que-sao-servicos-especializados){: data-scroll="true"}
 - [Exemplos de serviços não especializados](#exemplo-de-servicos-nao-especializados){: data-scroll="true"}
 - [Que salvaguardas há na legislação europeia referentes a serviços especializados?](#que-salvaguardas-ha-na-legislacao-europeia-referentes-a-servicos-especializados){: data-scroll="true"}
 - [O que é necessário para fortalecer as salvaguardas referentes a serviços especializados e porque é importante?](#o-que-e-necessario-para-fortalecer-as-salvaguardas-referentes-a-servicos-especializados){: data-scroll="true"}
 
-## Gestão de Tráfego
+## [Gestão de Tráfego](#traffic-management){: data-scroll="true"}
 - [O que é gestão de tráfego?](#o-que-e-gestao-de-trafego){: data-scroll="true"}
 - [Por que me devo preocupar com a gestão do tráfego?](#por-que-me-devo-preocupar-com-a-gestao-de-trafego){: data-scroll="true"}
 - [Não deveriam os fornecedores de Internet poder gerir as suas próprias redes?](#nao-deveriam-os-fornecedores-de-internet-poder-gerir-as-suas-proprias-redes){: data-scroll="true"}
 - [Qual o objectivo da campanha SaveTheInternet.eu em relação à gestão de tráfego?](#qual-o-objectivo-da-campanha-savetheinterneteu-em-relacao-a-gestao-de-trafego){: data-scroll="true"}
 - [Quando pode um fornecedor começar a gerir a sua rede?](#quando-pode-um-fornecedor-comecar-a-gerir-a-sua-rede){: data-scroll="true"}
 
-## "Zero Rating"
+## ["Zero Rating"](#zero-rating){: data-scroll="true"}
 - [O que é "zero rating"?](#o-que-e-zero-rating){: data-scroll="true"}
 - [Porque é "zero rating" um problema?](#porque-e-zero-rating-um-problema){: data-scroll="true"}
 - [Recebo realmente algo gratuito quando uso um programa "zero rating"?](#recebo-realmente-algo-gratuito-quando-uso-um-programa-zero-rating){: data-scroll="true"}
 - [Como pode o "zero rating" afectar os fornecedores de serviços online e a diversidade do ecossistema da Internet?](#como-pode-o-zero-rating-afectar-os-fornecedores-de-servicos-online-e-a-diversidade-do-ecossistema-da-internet){: data-scroll="true"}
 - [Qual o objectivo da campanha SaveTheInternet.eu em relação ao "zero rating"?](#qual-o-objectivo-da-campanha-savetheinterneteu-em-relacao-ao-zero-rating){: data-scroll="true"}
 
-## Transparência
+## [Transparência](#transparency){: data-scroll="true"}
 - [Que benefícios se esperam da nova regulamentação da neutralidade da rede?](#que-beneficios-se-esperam-da-nova-regulamentacao-da-neutralidade-da-rede){: data-scroll="true"}
 - [Que transparência se espera com a nova regulamentação da neutralidade da rede?](#que-transparencia-se-espera-com-a-nova-regulamentacao-da-neutralidade-da-rede){: data-scroll="true"}
 
-## Outros
+## [Outros](#other){: data-scroll="true"}
 - [Como se gere a neutralidade da rede noutras partes do mundo?](#como-se-gere-a-neutralidade-da-rede-noutras-partes-do-mundo){: data-scroll="true"}
 - [Como posso ajudar?](#como-posso-ajudar){: data-scroll="true"}
 
 
 
-# Neutralidade da Rede
+# Neutralidade da Rede {#net-neutrality}
 
 ## O que é a neutralidade da rede? {#o-que-e-a-neutralidade-da-rede}
 
@@ -107,7 +106,7 @@ SaveTheInternet é uma campanha conjunta de 12 organizações europeias que trab
 Se fazes parte de uma organização e queres apoiar a campanha ou ajudar-nos na sua difusão, por favor contacta-nos através do email [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# Serviços Especializados
+# Serviços Especializados {#specialised-services}
 
 
 ## O que são serviços especializados? {#o-que-sao-servicos-especializados}
@@ -144,7 +143,7 @@ Os reguladores devem confirmar que qualquer novo serviço especializado cumpre e
 A optimização de um serviço especializado deve ser objectivamente necessária à funcionalidade do serviço e não uma mera vantagem competitiva face aos seus competidores. Se um serviço comparável existe na Internet aberta, a classificação como serviço especializado não deve ser concedida.
 
 
-# Gestão de Tráfego
+# Gestão de Tráfego {#traffic-management}
 
 
 ## O que é gestão de tráfego? {#o-que-e-gestao-de-trafego}
@@ -190,7 +189,7 @@ De acordo com a [Regulamentação](http://eur-lex.europa.eu/legal-content/PT/TXT
 Argumentamos que esta segunda opção apenas deve ser permitida em casos onde haja outros indicadores além do volume de tráfego num dado nó da rede (como o número de subscritores conectados a uma célula da rede). Tem de haver sempre uma necessidade concreta e palpável para a gestão do tráfego. 
 
 
-# "Zero Rating"
+# "Zero Rating" {#zero-rating}
 
 
 ## O que é "zero rating"? {#o-que-e-zero-rating}
@@ -226,7 +225,7 @@ Se algum conteúdo oferecido como "zero rate" continua acessível quando se ultr
 
 
 
-# Transparência
+# Transparência {#transparency}
 
 ## Que benefícios se esperam da nova regulamentação da neutralidade da rede? {#que-beneficios-se-esperam-da-nova-regulamentacao-da-neutralidade-da-rede}
 -       
@@ -239,7 +238,7 @@ O [Regulamento](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2
 
 
 
-# Outros
+# Outros {#other}
 
 ## Como se gere a neutralidade da rede noutras partes do mundo? {#como-se-gere-a-neutralidade-da-rede-noutras-partes-do-mundo}
 
@@ -265,8 +264,6 @@ Podes ajudar a SaveTheInternet.eu de muitas maneiras:
 <i class="fa fa-long-arrow-right"></i>        Junta-te a nós! Se fazes parte de uma organização e pretendes unir-te a  SaveTheInternet.eu, por favor contacta-nos em [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 <i class="fa fa-long-arrow-right"></i>        Denuncia violações à neutralidade da rede em [Respect My Net](https://respectmynet.eu/)
-
-<i class="fa fa-long-arrow-right"></i>        Se quiseres fazer uma doação às organizações promotoras da campanha SaveTheInternet, clica [ aqui ] 
 
 Tens alguma ideia interessante ou criativa? Por favor contacta-nos [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
