@@ -134,11 +134,11 @@ Någonting vi som alltid är i behov av är hjälp med översättningar. Så om 
 
 ### Integritetspolicy
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
+Vi förvarar era kommentarer till BEREC-konsultationen i vårat mailkonto i Österrike fram tills dess att vi vidarebefordrar dem till den officiella BEREC-konsultationen. Vår integritetspolicy för BEREC-konsultationen kan ni hitta [här](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). BEREC kommer publicera alla de svar som inte är markerade som konfidentiella. Organisationerna bakom den här kampanjen finns listade längst ned på den här hemsidan. En månad efter att den officiella konsultationsperioden har avslutats, kommer samtliga kommentarer att raderas.
 
-We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+Vi samlar icke-personlig information på denna hemsida via [Piwik](https://piwik.org/), ett integritetsvänligt verktyg för web-analys.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
+Ifall du [prenumererar på nyhetsbrevet](#subscribe-to-newsletter){: data-scroll="true"} kommer din email-adress att förvaras i en mailing-lista och databas som administreras och tillhandahålls av European Digital Rights. Dem är också de enda som organisationen som har rätt att skicka dig meddelanden ifall du prenumererar på nyhetesbrevet. Du kan när som helst avsluta din prenumeration från nyhetsbrevet och kommer då inte få några fler meddelanden.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
