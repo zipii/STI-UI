@@ -8,7 +8,7 @@
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# FREQUENTLY ASKED QUESTIONS
+# Frequently Asked Questions
 
 ## [Nätneutralitet](#net-neutrality){: data-scroll="true"}
 - [Vad menas med nätneutralitet?](#what-is-net-neutrality){: data-scroll="true"}
@@ -128,7 +128,7 @@ Tjänster som kan erbjudas på nätet är inga specialiserade tjänster. Man kan
 
 5.        Specialiserade tjänster får inte tillhandahållas på bekostnad av tillgängligheten på internetaccesstjänsterna eller den allmänna kvaliteten hos dessa tjänster.
 
-## Vad krävs för att stärka skyddet när det gäller specialiserade tjänster och varför är detta så viktigt?{#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
+## Vad krävs för att stärka skyddet när det gäller specialiserade tjänster och varför är detta så viktigt? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
 New specialised services have to be tested against all five safeguards by the regulator before they can be introduced into the market. If they are only tested after somebody complains, it can sometimes take years before discriminatory products that are later found to be illegal are removed. It is a common strategy of anti-competitive telcoms operators to use the slowness and expense of courts and regulators to kill off innovative competitors.
 
@@ -186,13 +186,13 @@ Nollmätning är en kommersiell metod som tillämpas för att inte mäta datavol
 
 Med den här affärsmodellen kan din internetoperatör kontrollera vilka tjänster som du utnyttjar eller kommer att utnyttja. För den som konkurrerar med en operatör som tillämpar nollmätning på sina applikationer eller tjänster (för det mesta nyetablerade företag samt små- och medelstora företag) medför detta stora nackdelar eftersom det kostar extra att kunna använda applikationen eller tjänsten obehindrat.
 
-Nollmätning är verkligen berättigat när det handlar om små begränsningar i datatrafiken (alltså små begränsningar i ned- och uppladdningsshastigheten). Vissa Internetoperatör vill att du ska använda deras egna webbtjänster eller deras partnertjänster. Om internetoperatörerna inte behöver debitera dig för dessa utvalda tjänster har de goda skäl att även fortsättningen använda sig av dessa begränsningar i dataflödet för att kunna utnyttja sina konkurrensfördelar. Utan nollmätning skulle dessa företag kunna erbjuda dig en större datamängd, som du själv då skulle kunna bestämma över. Det finns väldokumenterade fall i Nederländerna](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) och Slovenien](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) om hur mobiloperatörerna har fördubblat sina hastighetsgränser tack vare stränga lagar om nätneutralitet som förbjuder nollmätning.
+Nollmätning är verkligen berättigat när det handlar om små begränsningar i datatrafiken (alltså små begränsningar i ned- och uppladdningsshastigheten). Vissa Internetoperatör vill att du ska använda deras egna webbtjänster eller deras partnertjänster. Om internetoperatörerna inte behöver debitera dig för dessa utvalda tjänster har de goda skäl att även fortsättningen använda sig av dessa begränsningar i dataflödet för att kunna utnyttja sina konkurrensfördelar. Utan nollmätning skulle dessa företag kunna erbjuda dig en större datamängd, som du själv då skulle kunna bestämma över. Det finns väldokumenterade fall i [Nederländerna](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) och [Slovenien](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) om hur mobiloperatörerna har fördubblat sina hastighetsgränser tack vare stränga lagar om nätneutralitet som förbjuder nollmätning.
 
 ## Får jag verkligen något gratis när jag använder ett abonnemang med nollmätning? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
 Vid första ögonkastet ser det ut som om du får något gratis. Men skenet bedrar. Det är faktiskt så att din valfrihet på nätet är begränsad samtidigt som din internetoperatör agerar grindvakt. Låt oss ta Free Basic-tjänsterna på Facebook som exempel. Varför skulle Facebook bestämma vilka tjänster och appar du kan använda? Vad skulle det ekonomiska motivet för Facebook vara att erbjuda detta? Är detta verkligen gratis? Svaret är nej. Ingenting är gratis och nollmätning inverkar på din säkerhet, dataskyddet och påverkar konkurrensen på marknaden.
 
-## Hur kan nollmätning påverka operatörer med webbtjänster och mångfalden på nätet?{#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
+## Hur kan nollmätning påverka operatörer med webbtjänster och mångfalden på nätet? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
 Överenskommelser om nollmätning i Europa är något som nästan alltid sluts med stora internetföretag som till exempel Facebook och Spotify och är ofta ömsesidigt uteslutande, dvs. innehållsoperatören binder upp sig till en internetoperatör i ett land och vice-versa.
 
@@ -202,7 +202,7 @@ Istället för att bara sälja internetåtkomst börjar internetoperatörerna bl
 
 ## Vad är syftet med kampanjen SaveTheInternet.eu  när det gäller nollmätning? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
-Nollmätning bryter helt klart mot bestämmelserna om nätneutralitet och måste därför förbjudas.  Den här metoden är konkurrensvidrig och kränker dig i din frihet att använda och ta emot applikationer, tjänster och innehåll som du vill ha, samtidigt som det kränker applikations- och innehållsleverantörernas frihet att kunna presentera sina erbjudanden i alla nätverk utan begränsningar (såsom krävs i artikel 3(1) i [EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). EU-förordningen förbjuder också internet- och innehållsleverantörerna att erbjuda tjänster som begränsar dina rättigheter som slutanvändare eller som innehållsleverantör [(jfr artikel 3(2) i förordningen)]
+Nollmätning bryter helt klart mot bestämmelserna om nätneutralitet och måste därför förbjudas.  Den här metoden är konkurrensvidrig och kränker dig i din frihet att använda och ta emot applikationer, tjänster och innehåll som du vill ha, samtidigt som det kränker applikations- och innehållsleverantörernas frihet att kunna presentera sina erbjudanden i alla nätverk utan begränsningar (såsom krävs i artikel 3(1) i [EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)). EU-förordningen förbjuder också internet- och innehållsleverantörerna att erbjuda tjänster som begränsar dina rättigheter som slutanvändare eller som innehållsleverantör ([jfr artikel 3(2) i förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)).
 
 Om volymgränserna överstiges och vissa tjänster som omfattas av nollmätning fortfarande erbjuds på grund av att resten av nätet är blockerat eller har saktats ned är detta ett klart brott mot andra bestämmelser i förordningen om säker nätneutralitet.
 
@@ -223,6 +223,7 @@ Det finns många fördelar med [EU-förordningen om nätneutralitet](http://eur-
 ## Hur hanteras nätneutraliteten i andra delar av världen? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
 -        [USA](http://www.savetheinternet.com/sti-home)
+
 -        [Indien](http://www.savetheinternet.in/)
 
 ## Hur kan jag hjälpa till? {#how-can-i-help-you}
@@ -235,7 +236,7 @@ You can help SaveTheInternet.eu in many ways:
 
 <i class="fa fa-long-arrow-right"></i>        Anslut dig till oss! Om du tillhör en organisation och skulle vilja vara med i SaveTheInternet.eu, är du välkommen att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Du kan också hjälpa till genom att rapportera brott mot nätneutralitet till [Respect My Net]  (https://respectmynet.eu/)
+<i class="fa fa-long-arrow-right"></i>        Du kan också hjälpa till genom att rapportera brott mot nätneutralitet till [Respect My Net](https://respectmynet.eu/)
 
 Har du fler kreativa idéer? Tala då om det för oss genom att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
