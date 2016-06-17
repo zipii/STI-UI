@@ -222,13 +222,20 @@ Det finns många fördelar med [EU-förordningen om nätneutralitet](http://eur-
 
 ## Hur hanteras nätneutraliteten i andra delar av världen? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
--        [USA](http://www.savetheinternet.com/sti-home)
+USA, Kanada och Chile  har stränga bestämmelser om nätneutralitet. Ett mycket aktuellt exempel är Indien, som nyligen införde stränga regler om nollmätning. Vill du veta mer kan du besöka sidan [Detta är nätneutralitet] (https://www.thisisnetneutrality.org/#map)
 
--        [Indien](http://www.savetheinternet.in/)
+Det finns också SaveTheInternet-kampanjer i andra länder.
 
-## Hur kan jag hjälpa till? {#how-can-i-help-you}
+Här är några exempel:
 
-You can help SaveTheInternet.eu in many ways:
+-        [USA] (http://www.savetheinternet.com/sti-home)
+
+-        [Indien] (http://www.savetheinternet.in/)
+
+
+## ## Hur kan jag hjälpa till? {#how-can-i-help-you}
+
+Du kan hjälpa SaveTheInternet.eu på manga sätt:
 
 <i class="fa fa-long-arrow-right"></i>        Du kan hjälpa till med att sprida budskapet. Berätta för vänner och bekanta om kampanjen, berätta för dem om nätneutralitet och tala om varför det är så viktigt att agera nu. Bara när många personer gör sin stämma hörd kommer vi att kunna skydda våra interneträttigheter och vår frihet på nätet.
 
