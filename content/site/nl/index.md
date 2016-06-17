@@ -132,11 +132,12 @@ Wat we altijd nodig hebben, is hulp met vertalen. Dus als u een taal spreekt die
 
 ### Privacybeleid
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
+Wij bewaren uw commentaar voor de BEREC-consultatie in de inbox van een in Oostenrijk gehost emailadres totdat wij de emails met uw commentaar naar de officiële BEREC-consultatie sturen.
+[Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) vindt u het privacybeleid van BEREC voor consultaties. Voor technische redenen hebben Arbeitskreis Vorratsdaten Östterreich en Bits of Freedom toegang tot het naar BEREC verstuurde commentaar en de emailadressen via deze website, en zullen zij deze gegevens verwerken en opslaan.  BEREC zal alle commentaren publiceren die niet als vertrouwelijk zijn aangegeven. De organisaties achter deze campagne worden onderaan deze website opgesomd. Eén maand na het einde van de officiële consultatieperiode zullen wij alle commentaren en daaraan verwante emailadressen verwijderen.
 
-We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+Op deze website verzamelen wij gegevens niet zijnde persoonsgegevens met [Piwik](htts://piwik.org/), een privacyvriendelijk web analytics programma.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
+Mocht u zich op onze nieuwsbrief [abonneren](#subscribe-to-newsletter){: data-scroll="true"}, dan zal uw emailadres worden opgeslagen in een mailinglijst en een database welke door European Digital Rights wordt beheerd en gehost. Zij zijn de enige organisatie die het recht heeft om uw berichten te sturen als u zich voor de nieuwsletter abonneert. U kunt uw abonnement te allen tijde opzeggen en zult dan geen verdere berichten ontvangen.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
