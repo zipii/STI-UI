@@ -1,82 +1,82 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](../#send-a-message)
-- [INFORMATION](../#info)
-- [FAQ](#)
+- [NOSŪTĪT ZIŅU](../#send-a-message)
+- [INFORMĀCIJA](../#info)
+- [BUJ](#)
 {{ END NAVIGATION }}
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# FREQUENTLY ASKED QUESTIONS
+# BIEŽI UZDOTIE JAUTĀJUMI
 
-## Net Neutrality
+## Interneta Neitralitāte
 
-- [What is net neutrality?](#what-is-net-neutrality){: data-scroll="true"}
-- [How does net neutrality influence me and my life?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
-- [How did we end up here? What happened in the EU?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
-- [Who is involved in the debate in Europe?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
-- [Who is behind SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
+- [Kas ir interneta neitralitāte?](#what-is-net-neutrality){: data-scroll="true"}
+- [Kā interneta neitralitāte ietekmē mani un manu dzīvi?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
+- [Kā mēs nonācām līdz šim? Kas notika ES?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
+- [Kas ir iesaistīts pārunās Eiropā?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
+- [Kas ir saistīts ar SaveTheInternet.eu?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-## Specialised Services
-- [What are specialised services?](#what-are-specialised-services){: data-scroll="true"}
-- [What are examples of services that are not specialised services?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
-- [What safeguards are in EU law to deal with specialised services?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
-- [What is required to strengthen the safeguards on specialised services and why is this important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
+## Specializētie servisi
+- [ Kas ir specializētie servisi?](#what-are-specialised-services){: data-scroll="true"}
+- [ Kādi servisi nav specializēti servisi?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
+- [ Kādi drosības pasākumi ir ES tiesību aktos, lai tiktu galā ar specializētiem servisiem?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
+- [ Kas ir nepieciešams, lai nostiprinātu drošības pasākumus, kādēļ tas ir svarīgi?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Traffic Management
-- [What is traffic management?](#what-is-traffic-management){: data-scroll="true"}
-- [Why should I care about traffic management?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
-- [Shouldn't internet providers be allowed to manage their networks?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
-- [What is the goal of SaveTheInternet.eu when it comes to traffic management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
-- [When can a provider start managing its network?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
+## Datu plūsmas pārvaldība
+- [Kas ir Datu plūsmas vadība?](#what-is-traffic-management){: data-scroll="true"}
+- [Kādēļ man vajadzētu uztraukties par datu plūsmas pārvaldību?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
+- [Vai interneta piegādātājiem nevajadzētu būt tiesībām pŗvaldīt savus tīklus?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
+- [Kāds ir SaveTheInternet.eu mērķis saistībā ar interneta pārvaldību?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
+- [Kad piegādātājs var sākt parvāldīt savu tīklu?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
-## Zero Rating
-- [What is zero rating?](#what-is-zero-rating){: data-scroll="true"}
-- [Why is zero rating a problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
-- [Am I really getting something for free when I use a zero rating programme?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
-- [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
-- [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
+## Nulles Likme
+- [Kas ir nulles likme?](#what-is-zero-rating){: data-scroll="true"}
+- [Kādēļ Nulles likme ir problēma?](#why-is-zero-rating-a-problem){: data-scroll="true"}
+- [Vai es tiešām iegūstu kaut ko par brīvu, kad izmantoju nulles likmes programmu?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
+- [Kā nulles likme ietekmēs interneta pakalpojumu piegādātājus un interneta ekosistēmas daudzveidību?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
+- [Kāds ir SaveTheInternet.eu kampaņas mērķis saistībā ar nulles likmi?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## TRANSPARENCY
-- [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
-- [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
+## CAURREDZAMĪBA
+- [Kādas priekšrocības var gaidīt ar jaunajiem interneta neitralitātes noteikumiem?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
+- [ Kāda caurredzamība var tikt sagaidīta ar jaunajiem noteikumiem?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Other
-- [How is net neutrality dealt with in other parts of the world?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
-- [How can I help you?](#how-can-i-help-you){: data-scroll="true"}
-
-
-
-# Net Neutrality
-
-## What is net neutrality? {#what-is-net-neutrality}
-
-Net neutrality is the principle under which Internet access providers carry data without discrimination on the basis of origin, destination or type of data. This means that net neutrality prohibits telecoms operators from blocking or degrading content, applications or services.
-
-Net neutrality guarantees your freedom online to access and distribute the information you want.This founding principle ensures the openness, innovation, competition and diversity of the Internet.
+## Citi
+- [ Kā  interneta neitralitāti risina citās pasaules vietās?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
+- [Kā es varu palīdzēt?](#how-can-i-help-you){: data-scroll="true"}
 
 
-## How does net neutrality influence me and my life? {#how-does-net-neutrality-influence-me-and-my-life}
 
-Without net neutrality...
+# Interneta neitralitāte
 
-1.        You would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
+## Kas ir interneta neitralitāte? {#what-is-net-neutrality}
 
-2.        New cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
+Interneta neitralitāte ir princips, kad interneta piekļuves nodrošinātājs parnēša datus bez selektivitātes, neatkarīgi no datu izcelsmes vietas, gala mērķa vai tipa. Tas nozīmē, ka interneta neitralitāte liedz telekomunikāciju operatoram bloķēt, degradēt saturu, lietotnes vai pakalpojumus.
 
-3.        The economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
-
-4.        The Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
-
-[How data caps harm consumers and innovation](https://www.newamerica.org/oti/artificial-scarcity/)
-
-[How zero-rating hurt Dutch consumers](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
-
-[Zero-rating in Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+Internet neitralitāte nordošina tev internetā brīvi piekļūt un sadalīt tavu vēlamo informāciju. Šis pamata princips nodrošina interneta atklatību, inovāciju, konkurenci un dazādību.
 
 
-## How did we end up here? What happened in the EU? {#how-did-we-end-up-here-what-happened-in-the-eu}
+## Kā interneta neitralitāte ietekmē mani un manu dzīvi? {#how-does-net-neutrality-influence-me-and-my-life}
+
+Bez interneta neitralitātes...
+
+1.        Tu maksātu vairāk par mazāk interneta, un tavs interneta piegādātājs kontroētu informācijas plūsmu starp tevi un tiešsaistes pakalpojumiem un lietotnēm kuras tev patīk.
+
+2.         Jaunas, interesantas mājaslapas un inovācijas nebūtu tik ātras un pieejamas kā lielas ASV mājaslapas. Tās varētu jau pazust pirms kļūst populāras.
+
+3.        Ekonomika un jaunuzņēmumi ciestu. Ar interneta neitralitāti jebkurš var izgudrot jaunu pakalpojumu neprasot nekādas atļaujas, un gūstot labumus no globālas, neitrālas infrastruktūras jau no paša sākuma. Ja mēs zaudējam šo brīvību, mēs zaudējam digitālās ekonomikas panākumus un iespēju izvēlēties kā patērētājiem un komunicēt kā pilsoņiem.
+
+4.        Internets būtu lēnāks. Pētujumi norāda, ka ja interneta piegādātājiem būtu iespēja pārdot konkurences priekšrocību dažām mājaslapām, tad viņiem būtu motīvs padarīt internetu lēnāku pārējiem. Pat ja liekas ka tu iegūsti kaut ko lētāk, īstenībā  tev ir mazāka izvēle un mazāks lejupielādes limits, lai izmantotu īsto internetu.
+
+[Kā datu ierobežojumi kaitē patērētājiem un inovācijai](https://www.newamerica.org/oti/artificial-scarcity/)
+
+[ Kā Nulles likme kaitē Holandes patērētajiem](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+
+[Nulles likme Slovēnijā](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+
+
+## Kā mēs nonācām līdz šim? Kas notika ES? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
 Many of the NGOs behind this campaign have fought for net neutrality as early as 2008. As the debate unfolded, we saw more and more violations of the principle of net neutrality in the Internet. When the US telecoms regulator FCC released its first Internet order to protect the fixed-line Internet against some forms of network discrimination, this was a big success for net neutrality. Subsequently, [ other countries adopted legislation and regulatory decisions to safeguard net neutrality](https://www.thisisnetneutrality.org/#map). This is the case of, for example, Chile, the Netherlands, Slovenia, India and Canada. 
 
